@@ -1,0 +1,324 @@
+EVFF0.95
+
+fps=60
+
+maxkey=175
+
+layernum=4
+
+layer:Back
+{
+    display=1
+    group=0
+    type=1
+    texcnt=0
+
+    anikeynum=0
+
+}
+
+layer:a01
+{
+    display=1
+    group=0
+    type=0
+    texcnt=16
+    texname=a01.bmp
+    texname=a02.bmp
+    texname=a03.bmp
+    texname=a04.bmp
+    texname=a05.bmp
+    texname=a06.bmp
+    texname=a07.bmp
+    texname=a08.bmp
+    texname=a09.bmp
+    texname=a10.bmp
+    texname=a11.bmp
+    texname=a12.bmp
+    texname=a13.bmp
+    texname=a14.bmp
+    texname=a15.bmp
+    texname=a16.bmp
+
+    anikeynum=3
+
+    {
+        frame=0
+        aniframe=0
+        anitype=2
+        delay=3.0000
+        pos=320.0000,220.0000
+        uv=0.0000,0.0000
+        uvs=1.0000,1.0000
+        uv2=0.0000,0.0000
+        uvs2=1.0000,1.0000
+        scale=128.0000,128.0000
+        angle=0.0000,0.0000,0.0000
+        color=255.0,255.0,255.0,0.0, 5,7
+        mtpreset=0
+        points=-64.0000,-64.0000  64.0000,-64.0000  64.0000,64.0000  -64.0000,64.0000
+        rpoints=-64.0000,-64.0000  64.0000,-64.0000  64.0000,64.0000  -64.0000,64.0000
+        bezier=0.0000,0.0000  0.0000,0.0000
+        afbias=0.0000
+        posbias=0.0000
+        ptbias=0.0000
+        angbias=0.0000
+        uvbias=0.0000
+        uvsbias=0.0000
+        uvbias2=0.0000
+        uvsbias2=0.0000
+    }
+    {
+        frame=94
+        aniframe=15
+        anitype=2
+        delay=3.0000
+        pos=320.0000,220.0000
+        uv=0.0000,0.0000
+        uvs=1.0000,1.0000
+        uv2=0.0000,0.0000
+        uvs2=1.0000,1.0000
+        scale=128.0000,128.0000
+        angle=0.0000,0.0000,0.0000
+        color=255.0,255.0,255.0,192.0, 5,7
+        mtpreset=0
+        points=-64.0000,-64.0000  64.0000,-64.0000  64.0000,64.0000  -64.0000,64.0000
+        rpoints=-64.0000,-64.0000  64.0000,-64.0000  64.0000,64.0000  -64.0000,64.0000
+        bezier=0.0000,0.0000  0.0000,0.0000
+        afbias=0.0000
+        posbias=0.0000
+        ptbias=0.0000
+        angbias=0.0000
+        uvbias=0.0000
+        uvsbias=0.0000
+        uvbias2=0.0000
+        uvsbias2=0.0000
+    }
+    {
+        frame=50
+        aniframe=15
+        anitype=2
+        delay=3.0000
+        pos=320.0000,220.0000
+        uv=0.0000,0.0000
+        uvs=1.0000,1.0000
+        uv2=0.0000,0.0000
+        uvs2=1.0000,1.0000
+        scale=128.0000,128.0000
+        angle=0.0000,0.0000,0.0000
+        color=255.0,255.0,255.0,192.0, 5,7
+        mtpreset=0
+        points=-64.0000,-64.0000  64.0000,-64.0000  64.0000,64.0000  -64.0000,64.0000
+        rpoints=-64.0000,-64.0000  64.0000,-64.0000  64.0000,64.0000  -64.0000,64.0000
+        bezier=0.0000,0.0000  0.0000,0.0000
+        afbias=0.0000
+        posbias=0.0000
+        ptbias=0.0000
+        angbias=0.0000
+        uvbias=0.0000
+        uvsbias=0.0000
+        uvbias2=0.0000
+        uvsbias2=0.0000
+    }
+}
+
+layer:b00
+{
+    display=1
+    group=0
+    type=0
+    texcnt=21
+    texname=b00.bmp
+    texname=b20.bmp
+    texname=b19.bmp
+    texname=b18.bmp
+    texname=b17.bmp
+    texname=b16.bmp
+    texname=b15.bmp
+    texname=b14.bmp
+    texname=b13.bmp
+    texname=b12.bmp
+    texname=b11.bmp
+    texname=b10.bmp
+    texname=b09.bmp
+    texname=b08.bmp
+    texname=b07.bmp
+    texname=b06.bmp
+    texname=b05.bmp
+    texname=b04.bmp
+    texname=b03.bmp
+    texname=b02.bmp
+    texname=b01.bmp
+
+    anikeynum=2
+
+    {
+        frame=95
+        aniframe=0
+        anitype=2
+        delay=3.0000
+        pos=320.0000,220.0000
+        uv=0.0000,0.0000
+        uvs=1.0000,1.0000
+        uv2=0.0000,0.0000
+        uvs2=1.0000,1.0000
+        scale=128.0000,128.0000
+        angle=0.0000,0.0000,0.0000
+        color=255.0,255.0,255.0,192.0, 5,7
+        mtpreset=0
+        points=-64.0000,-64.0000  64.0000,-64.0000  64.0000,64.0000  -64.0000,64.0000
+        rpoints=-64.0000,-64.0000  64.0000,-64.0000  64.0000,64.0000  -64.0000,64.0000
+        bezier=0.0000,0.0000  0.0000,0.0000
+        afbias=0.0000
+        posbias=0.0000
+        ptbias=0.0000
+        angbias=0.0000
+        uvbias=0.0000
+        uvsbias=0.0000
+        uvbias2=0.0000
+        uvsbias2=0.0000
+    }
+    {
+        frame=175
+        aniframe=0
+        anitype=0
+        delay=0.0000
+        pos=320.0000,220.0000
+        uv=0.0000,0.0000
+        uvs=1.0000,1.0000
+        uv2=0.0000,0.0000
+        uvs2=1.0000,1.0000
+        scale=128.0000,128.0000
+        angle=0.0000,0.0000,0.0000
+        color=255.0,255.0,255.0,0.0, 5,7
+        mtpreset=0
+        points=-64.0000,-64.0000  64.0000,-64.0000  64.0000,64.0000  -64.0000,64.0000
+        rpoints=-64.0000,-64.0000  64.0000,-64.0000  64.0000,64.0000  -64.0000,64.0000
+        bezier=0.0000,0.0000  0.0000,0.0000
+        afbias=0.0000
+        posbias=0.0000
+        ptbias=0.0000
+        angbias=0.0000
+        uvbias=0.0000
+        uvsbias=0.0000
+        uvbias2=0.0000
+        uvsbias2=0.0000
+    }
+}
+
+layer:tul
+{
+    display=1
+    group=0
+    type=0
+    texcnt=1
+    texname=tul0003.bmp
+
+    anikeynum=4
+
+    {
+        frame=50
+        aniframe=0
+        anitype=0
+        delay=0.0000
+        pos=320.0000,170.0000
+        uv=0.0000,0.0000
+        uvs=1.0000,1.0000
+        uv2=0.0000,0.0000
+        uvs2=1.0000,1.0000
+        scale=32.0000,32.0000
+        angle=0.0000,0.0000,213.3333
+        color=255.0,255.0,255.0,255.0, 5,7
+        mtpreset=0
+        points=-16.0000,-16.0000  16.0000,-16.0000  16.0000,16.0000  -16.0000,16.0000
+        rpoints=11.2606,-19.6265  19.6265,11.2606  -11.2606,19.6265  -19.6265,-11.2606
+        bezier=0.0000,0.0000  0.0000,0.0000
+        afbias=0.0000
+        posbias=0.0000
+        ptbias=0.0000
+        angbias=0.0000
+        uvbias=0.0000
+        uvsbias=0.0000
+        uvbias2=0.0000
+        uvsbias2=0.0000
+    }
+    {
+        frame=95
+        aniframe=0
+        anitype=0
+        delay=0.0000
+        pos=320.0000,220.0000
+        uv=0.0000,0.0000
+        uvs=1.0000,1.0000
+        uv2=0.0000,0.0000
+        uvs2=1.0000,1.0000
+        scale=32.0000,32.0000
+        angle=0.0000,0.0000,0.0000
+        color=255.0,255.0,255.0,255.0, 5,7
+        mtpreset=0
+        points=16.0000,-16.0000  -16.0000,-16.0000  -16.0000,16.0000  16.0000,16.0000
+        rpoints=16.0000,-16.0000  -16.0000,-16.0000  -16.0000,16.0000  16.0000,16.0000
+        bezier=0.0000,0.0000  0.0000,0.0000
+        afbias=0.0000
+        posbias=0.0000
+        ptbias=0.0000
+        angbias=0.0000
+        uvbias=0.0000
+        uvsbias=0.0000
+        uvbias2=0.0000
+        uvsbias2=0.0000
+    }
+    {
+        frame=70
+        aniframe=0
+        anitype=0
+        delay=0.0000
+        pos=308.0000,195.0000
+        uv=0.0000,0.0000
+        uvs=1.0000,1.0000
+        uv2=0.0000,0.0000
+        uvs2=1.0000,1.0000
+        scale=32.0000,32.0000
+        angle=0.0000,0.0000,170.6667
+        color=255.0,255.0,255.0,255.0, 5,7
+        mtpreset=0
+        points=16.0000,-16.0000  -16.0000,-16.0000  -16.0000,16.0000  16.0000,16.0000
+        rpoints=21.8832,5.7554  5.7554,-21.8832  -21.8832,-5.7554  -5.7554,21.8832
+        bezier=0.0000,0.0000  0.0000,0.0000
+        afbias=0.0000
+        posbias=0.0000
+        ptbias=0.0000
+        angbias=0.0000
+        uvbias=0.0000
+        uvsbias=0.0000
+        uvbias2=0.0000
+        uvsbias2=0.0000
+    }
+    {
+        frame=150
+        aniframe=0
+        anitype=0
+        delay=0.0000
+        pos=320.0000,220.0000
+        uv=0.0000,0.0000
+        uvs=1.0000,1.0000
+        uv2=0.0000,0.0000
+        uvs2=1.0000,1.0000
+        scale=32.0000,32.0000
+        angle=0.0000,0.0000,0.0000
+        color=255.0,255.0,255.0,0.0, 5,7
+        mtpreset=0
+        points=16.0000,-16.0000  -16.0000,-16.0000  -16.0000,16.0000  16.0000,16.0000
+        rpoints=16.0000,-16.0000  -16.0000,-16.0000  -16.0000,16.0000  16.0000,16.0000
+        bezier=0.0000,0.0000  0.0000,0.0000
+        afbias=0.0000
+        posbias=0.0000
+        ptbias=0.0000
+        angbias=0.0000
+        uvbias=0.0000
+        uvsbias=0.0000
+        uvbias2=0.0000
+        uvsbias2=0.0000
+    }
+}
+

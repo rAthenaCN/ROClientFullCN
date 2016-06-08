@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="gbk3212" ?>
+<clientinfo>
+
+        <servicetype>china</servicetype>
+        <servertype>primary</servertype>
+        <extendedslot>2</extendedslot>
+
+        <connection>
+                <display>^ff0000单机测试^000000 [ rAthenaCN ] 简体中文</display>
+                <desc></desc>
+                <balloon></balloon>
+                <address>127.0.0.1</address>
+                <port>6900</port>
+                <version>54</version>
+                <langtype>3</langtype>
+                <registrationweb>http://127.0.0.1/</registrationweb>
+                <yellow>
+                        <admin>2000000</admin>
+                </yellow>
+                <loading>
+                        <image>loading00.jpg</image>
+                        <image>loading01.jpg</image>
+                        <image>loading02.jpg</image>
+                        <image>loading03.jpg</image>
+                        <image>loading04.jpg</image>
+                        <image>loading05.jpg</image>
+                        <image>loading06.jpg</image>
+                        <image>loading07.jpg</image>
+                        <image>loading08.jpg</image>
+                </loading>
+        </connection>
+
+</clientinfo>
