@@ -11,7 +11,7 @@
                 <balloon></balloon>
                 <address>127.0.0.1</address>
                 <port>6900</port>
-                <version>54</version>
+                <version>55</version>
                 <langtype>3</langtype>
                 <registrationweb>http://127.0.0.1/</registrationweb>
                 <yellow>
