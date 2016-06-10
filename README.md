@@ -4,7 +4,7 @@ rAthenaCN 相匹配的 ROClientFullCN（完整客户端）
 常用链接
 ---------
 * rAthenaCN 主页 [中文]
-	* https://www.rAthenaCN.com/
+	* http://www.rAthenaCN.com/
 	
 * rAthenaCN 模拟器源码 [中文] GIT 代码库
 	* https://github.com/rAthenaCN/rAthenaCN.git
