@@ -4,18 +4,27 @@
         <servicetype>china</servicetype>
         <servertype>primary</servertype>
         <extendedslot>2</extendedslot>
-
-        <connection>
-                <display>^ff0000单机测试^000000 [ rAthenaCN ] 简体中文</display>
+		
+		<connection>
+                <display>^ff0000联机测试^000000 [ rAthenaCN ] 简体中文 [电信]</display>
                 <desc></desc>
                 <balloon></balloon>
-                <address>127.0.0.1</address>
+                <address>218.92.225.159</address>
                 <port>6900</port>
                 <version>55</version>
                 <langtype>3</langtype>
                 <registrationweb>http://127.0.0.1/</registrationweb>
                 <yellow>
                         <admin>2000000</admin>
+						<admin>2000001</admin>
+						<admin>2000002</admin>
+						<admin>2000003</admin>
+						<admin>2000004</admin>
+						<admin>2000005</admin>
+						<admin>2000006</admin>
+						<admin>2000007</admin>
+						<admin>2000008</admin>
+						<admin>2000009</admin>
                 </yellow>
                 <loading>
                         <image>loading00.jpg</image>
@@ -29,5 +38,115 @@
                         <image>loading08.jpg</image>
                 </loading>
         </connection>
-
+		
+		<connection>
+                <display>         [ rAthenaCN ] 简体中文 [联通]</display>
+                <desc></desc>
+                <balloon></balloon>
+                <address>153.37.74.183</address>
+                <port>6900</port>
+                <version>55</version>
+                <langtype>3</langtype>
+                <registrationweb>http://127.0.0.1/</registrationweb>
+                <yellow>
+                        <admin>2000000</admin>
+						<admin>2000001</admin>
+						<admin>2000002</admin>
+						<admin>2000003</admin>
+						<admin>2000004</admin>
+						<admin>2000005</admin>
+						<admin>2000006</admin>
+						<admin>2000007</admin>
+						<admin>2000008</admin>
+						<admin>2000009</admin>
+                </yellow>
+                <loading>
+                        <image>loading00.jpg</image>
+                        <image>loading01.jpg</image>
+                        <image>loading02.jpg</image>
+                        <image>loading03.jpg</image>
+                        <image>loading04.jpg</image>
+                        <image>loading05.jpg</image>
+                        <image>loading06.jpg</image>
+                        <image>loading07.jpg</image>
+                        <image>loading08.jpg</image>
+                </loading>
+        </connection>
+		
+		<connection>
+               
+        </connection>
+		
+		<connection>
+                <display>^CCCCCC单机测试 [ rAthenaCN ] 简体中文 [内部]^000000</display>
+                <desc></desc>
+                <balloon></balloon>
+                <address>127.0.0.1</address>
+                <port>6900</port>
+                <version>55</version>
+                <langtype>3</langtype>
+                <registrationweb>http://127.0.0.1/</registrationweb>
+                <yellow>
+                        <admin>2000000</admin>
+						<admin>2000001</admin>
+						<admin>2000002</admin>
+						<admin>2000003</admin>
+						<admin>2000004</admin>
+						<admin>2000005</admin>
+						<admin>2000006</admin>
+						<admin>2000007</admin>
+						<admin>2000008</admin>
+						<admin>2000009</admin>
+                </yellow>
+                <loading>
+                        <image>loading00.jpg</image>
+                        <image>loading01.jpg</image>
+                        <image>loading02.jpg</image>
+                        <image>loading03.jpg</image>
+                        <image>loading04.jpg</image>
+                        <image>loading05.jpg</image>
+                        <image>loading06.jpg</image>
+                        <image>loading07.jpg</image>
+                        <image>loading08.jpg</image>
+                </loading>
+        </connection>
+		
+		<connection>
+               
+        </connection>
+		
+		<connection>
+                <display>^0000ff账号注册方式: [下拉到底] ↓^000000</display>
+        </connection>
+		<connection>
+                <display>   </display>
+        </connection>
+		<connection>
+                <display>账号输入画面时, 账号后面加 _M 或 _F</display>
+        </connection>
+		<connection>
+                <display>_M 表示男性, _F 表示女性</display>
+        </connection>
+		<connection>
+                <display>比如账号为 12345, 密码为 54321</display>
+        </connection>
+		<connection>
+                <display>那么第一次在登入框输入 12345_M</display>
+        </connection>
+		<connection>
+                <display>密码输入 54321, 就可以直接进游戏了</display>
+        </connection>
+		<connection>
+                <display>   </display>
+        </connection>
+		<connection>
+                <display>第二次进入时, 我们要取消后面的 _M 或 _F</display>
+        </connection>
+		<connection>
+                <display>不然会提示你此账号不存在喔~</display>
+        </connection>
+		<connection>
+                <display>   </display>
+        </connection>
+		
 </clientinfo>
