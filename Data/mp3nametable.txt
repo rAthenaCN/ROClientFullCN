@@ -1,4 +1,4 @@
-//-최종갱신 오전 10:45 2016-03-08 본서버
+//-최종갱신 오전 11:01 2017-02-21 본서버
 //맵이름.rsw#bgm\\음악번호#
 
 //--- 통상판 마을음악
@@ -32,6 +32,45 @@ hu_in01.rsw#bgm\\93.mp3#
 //prt_church.rsw#bgm\\56.mp3#
 //evt_xmas.rsw#bgm\\58.mp3#
 //evt_mobroom.rsw#bgm\\18.mp3#
+
+// 일루전 거북섬 (구양궁)
+tur_d03_i.rsw#bgm\\65.mp3#
+tur_d04_i.rsw#bgm\\65.mp3#
+
+//수상한 난파선
+1@begi.rsw#bgm\\12.mp3#
+
+//수상한 난파선
+1@tre.rsw#bgm\\52.mp3#
+
+// 일루전 얼던 (프로즌)
+ice_d03_i.rsw#bgm\\96.mp3#
+
+// 일루전 게펜 (뱀파이어)
+gef_d01_i.rsw#bgm\\51.mp3#
+
+//일루전 페이욘 (문라이트)
+pay_d03_i.rsw#bgm\\47.mp3#
+
+//치킨모드 호러 장난감 공장
+1@xm_d2.rsw#bgm\\997.mp3#
+
+// 치킨모드 고성
+1@gl_k2.rsw#bgm\\44.mp3#
+2@gl_k2.rsw#bgm\\44.mp3#
+
+// 로컬라이징 락릿지
+har_in01.rsw#bgm\\171.mp3#
+harboro1.rsw#bgm\\171.mp3#
+harboro2.rsw#bgm\\171.mp3#
+rockmi1.rsw#bgm\\172.mp3#
+rockmi2.rsw#bgm\\172.mp3#
+rockrdg1.rsw#bgm\\172.mp3#
+rockrdg2.rsw#bgm\\172.mp3#
+
+// 요일메모리얼
+1@md_gef.rsw#bgm\\50.mp3#
+1@md_pay.rsw#bgm\\20.mp3#
 
 // ep16.2
 1@slw.rsw#bgm\\124.mp3#
@@ -102,6 +141,7 @@ un_myst.rsw#bgm\\121.mp3#
 
 // 생체던전 신규 전사자의 무덤
 lhz_dun_n.rsw#bgm\\124.mp3#
+lhz_d_n2.rsw#bgm\\124.mp3#
 
 // 영웅의흔적 3
 1@air1.rsw#bgm\\87.mp3#
