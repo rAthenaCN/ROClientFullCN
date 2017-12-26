@@ -41,6 +41,8 @@ V_SP				=	9		-- SP (호문클루스와 주인에게만 적용)
 V_MAXHP				=   10		-- 최대 HP (호문클루스와 주인에게만 적용)
 V_MAXSP				=   11		-- 최대 SP (호문클루스와 주인에게만 적용)
 V_MERTYPE		  =		12    -- 용병 종류	
+V_POSITION_APPLY_SKILLATTACKRANGE = 13	-- SkillAttackange를 적용한 위치
+V_SKILLATTACKRANGE_LEVEL = 14	-- 레벨 별 SkillAttackange
 ---------------------------------	
 
 
@@ -67,11 +69,6 @@ LIF_H2			= 13
 AMISTR_H2		= 14
 FILIR_H2		= 15
 VANILMIRTH_H2	= 16
-EIRA			= 48
-BEYERI			= 49
-SERA			= 50
-DIETER			= 51
-ELEANOR			= 52
 
 --------------------------------------------
 

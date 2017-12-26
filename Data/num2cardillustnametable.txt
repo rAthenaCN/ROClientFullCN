@@ -806,3 +806,44 @@
 27117#sorry#
 27118#sorry#
 27119#sorry#
+
+//16.2Episode
+27147#Human_Kimera_Card#
+27148#Matter_Kimera_Card#
+27149#Heart_Hunter_Card#
+27150#Venom_Kimera_Card#
+27151#Evil_Card#
+27152#Cutie_Card#
+
+//2017년 7월 악몽의 지터벅
+27106#각성한페르카드#
+27107#연주하는페르카드#
+27108#노래하는페르카드#
+27109#지터벅카드#
+
+//2017년 9월 모스코비아
+27157#Wood_Goblin_Card#
+27158#Les_Card#
+27159#Uzhas_Card#
+27160#Vavayaga_Card#
+27161#Mavka_Card#
+27162#Gopinich_Card#
+
+//영웅의흔적Part1
+27163#Faceworm_Card#
+27164#Faceworm_Q_Card#
+27165#Faceworm_D_Card#
+27166#Faceworm_Egg_Card#
+27167#Faceworm_L_Card#
+27168#Irene_Elder_Card#
+27169#Payon_Soldier_Card#
+
+//11월 사냥대회 이벤트
+27196#S_Nihil_Card#
+27197#S_Agnes_Card#
+27198#S_Jurgen_Card#
+27199#S_Spica_Card#
+27200#Nihil_Card#
+27201#Agnes_Card#
+27202#Jurgen_Card#
+27203#Spica_Card#

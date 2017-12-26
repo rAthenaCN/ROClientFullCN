@@ -1,468 +1,468 @@
 EP_141Quest_List = {
 					{
-						name =[[EP 14.1 Mora Village]],
+						name = [[EP 14.1 모라 마을]],
 						imagefile = [[ep_test_sample.bmp]],
 						list = {
 									{
-										name  =	[[Lope and Euridi]],
+										name  =	[[로페와 유리디]],
 										list = {
 												{
-													name =[[Lope and Euridi - Survivors of the forest fog.]],
+													name =[[로페와 유리디 - 안개숲의 생존자.]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 1109,
 												},
 												{
-													name =[[Lope and Euridi - Victims of the fog.]],
+													name =[[로페와 유리디 - 모두가 피해자.]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 1110,
 												},
 												{
-													name =[[Lope and Euridi - The forest fog.]],
+													name =[[로페와 유리디 - 안개숲으로.]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 1111,
 												},
 												{
-													name =[[Lope and Euridi - Labyrinth.]],
+													name =[[로페와 유리디 - 어디든 미궁.]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 1112,
 												},
 												{
-													name =[[Lope and Euridi - Promise torn.]],
+													name =[[로페와 유리디 - 조각난 약속.]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 1113,
 												},
 												{
-													name =[[Lope and Euridi - The cost of sacrificing.]],
+													name =[[로페와 유리디 - 희생의 대가.]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 1114,
 												},
 												{
-													name =[[Lope and Euridi - Song of the Abyss.]],
+													name =[[로페와 유리디 - 심연의 노래.]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 1115,
 												},
 												{
-													name =[[Lope and Euridi - Song of the Dead.]],
+													name =[[로페와 유리디 - 망자의 노래.]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 1116,
 												},
 												{
-													name =[[Lope and Euridi - Promise of eternity, Ring of broken.]],
+													name =[[로페와 유리디 - 영원의 약속, 결별의 반지.]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 1117,
 												},
 												{
-													name =[[Knights of the Neighborhood - Curiosity for the clue.]],
+													name =[[동네기사단 - 단서가 궁금해.]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 1118,
 												},
 											}
 									},
 									{
-										name =[[Mora village Sauna research]],
+										name  =	[[모라마을 목욕탕 연구]],
 										list = {
 												{
-													name =[[Bring me Research Tools]],
+													name =[[연구도구를 가져다 줘]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 5016,
 												},
 												{
-													name =[[Unidentified creature]],
+													name =[[미확인 생명체]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 5029,
 												},
 												{
-													name =[[Researcher's Revenge]],
+													name =[[연구원의 복수]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 5017,
 												},
 												{
-													name =[[Researcher's Revenge]],
+													name =[[연구원의 복수]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 5018,
 												},
 												{
-													name =[[Bath Research Sampling]],
+													name =[[목욕탕 연구 표본 채취]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 5019,
 												},
 												{
-													name =[[Scanning the Sample]],
+													name =[[표본 검사중]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 5020,
 												},
 												{
-													name =[[Samples Collected]],
+													name =[[표본 수집]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 5021,
 												},
 												{
-													name =[[Samples Collected]],
+													name =[[표본 수집]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 5022,
 												},
 												{
-													name =[[Specimen during the test]],
+													name =[[표본 검사 중]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 5023,
 												},
 												{
-													name =[[Eastern basin survey]],
+													name =[[동쪽 웅덩이 조사]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 5024,
 												},
 												{
-													name =[[Western basin survey]],
+													name =[[서쪽 웅덩이 조사]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 5025,
 												},
 												{
-													name =[[Southern basin survey]],
+													name =[[남쪽 웅덩이 조사]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 5026,
 												},
 												{
-													name =[[Northern basin survey]],
+													name =[[북쪽 웅덩이 조사]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 5027,
 												},
 												{
-													name =[[Specimen during the test]],
+													name =[[표본 검사 중]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 5028,
 												},
 											}
 									},
 									{
-										name =[[Theore's Report]],
+										name  =	[[테오레의 보고서]],
 										list = {
 												{
-													name =[[Theore's Report]],
+													name =[[테오레의 보고서]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 11182,
 												},
 												{
-													name =[[Theore's favor]],
+													name =[[테오레의 부탁]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 11183,
 												},
 												{
-													name =[[Laphine on the run]],
+													name =[[도망간 라피네]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 11184,
 												},
 												{
-													name =[[A small pouch]],
+													name =[[작은 주머니]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 11185,
 												},
 												{
-													name =[[A small pouch]],
+													name =[[작은 주머니]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 11186,
 												},
 												{
-													name =[[A small pouch]],
+													name =[[작은 주머니]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 11187,
 												},
 												{
-													name =[[A small pouch]],
+													name =[[작은 주머니]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 11188,
 												},
 												{
-													name =[[Bifrost]],
+													name =[[비프로스트]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 11189,
 												},
 												{
-													name =[[Bifrost]],
+													name =[[비프로스트]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 11190,
 												},
 												{
-													name =[[A small pouch]],
+													name =[[작은 주머니]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 11194,
 												},
 												{
-													name =[[Bifrost]],
+													name =[[비프로스트]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 11195,
 												},
 												{
-													name =[[Bifrost]],
+													name =[[비프로스트]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 11196,
 												},
 												{
-													name =[[A small pouch]],
+													name =[[작은 주머니]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 11200,
 												},
 												{
-													name =[[Bifrost]],
+													name =[[비프로스트]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 11201,
 												},
 												{
-													name =[[Bifrost]],
+													name =[[비프로스트]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 11202,
 												},
 												{
-													name =[[Cracks in Bifrost]],
+													name =[[비프로스트의 균열]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 11191,
 												},
 												{
-													name =[[Cracks in Bifrost]],
+													name =[[비프로스트의 균열]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 11197,
 												},
 												{
-													name =[[Cracks in Bifrost]],
+													name =[[비프로스트의 균열]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 11203,
 												},
 												{
-													name =[[To the Mora Village...]],
+													name =[[모라 마을로...]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 11192,
 												},
 												{
-													name =[[To the Mora Village...]],
+													name =[[모라 마을로...]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 11198,
 												},
 												{
-													name =[[To the Mora Village...]],
+													name =[[모라 마을로...]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 11204,
 												},
 												{
-													name =[[Fast Delivery]],
+													name =[[신속배달 요네스]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 11206,
 												},
 												{
-													name =[[Kusmi's Friend]],
+													name =[[쿠스미의 친구]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 11193,
 												},
 												{
-													name =[[Theodore's Friend]],
+													name =[[테오도의 친구]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 11199,
 												},
 												{
-													name =[[Pauchon's Friend]],
+													name =[[포숑의 친구]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 11205,
 												},
 												{
-													name =[[A very heavy burden]],
+													name =[[아주 무거운 짐]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 11207,
 												},
 												{
-													name =[[Daphrer]],
+													name =[[다프네르]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 11208,
 												},
 											}
 									},
 									{
-										name =[[The wandering Guardian]],
+										name  =	[[방황하는 수호자]],
 										list = {
 												{
-													name =[[Explore the Foggy Forest]],
+													name =[[안개숲 탐험]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 7211,
 												},
 												{
-													name =[[What Loki looking for]],
+													name =[[로키가 찾는 것]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 7212,
 												},
 												{
-													name =[[The wandering Guardian]],
+													name =[[방황하는 수호자]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 7213,
 												},
 											}
 									},
 									{
-										name =[[The new days of Cheshire]],
+										name  =	[[체셔의 새로운 일]],
 										list = {
 												{
-													name =[[The new days of Cheshire]],
+													name =[[새로운 체셔의 일]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 7206,
 												},
 												{
-													name =[[Cheshire's box]],
+													name =[[체셔가 말한 그 상자]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 7207,
 												},
 												{
-													name =[[And tomorrow, too, please?]],
+													name =[[내일도 와줄래?]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 7208,
 												},
 												{
-													name =[[Daily delivery]],
+													name =[[매일 매일 배달]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 7210,
 												},
 												{
-													name =[[Wow, seriously.]],
+													name =[[어이가 없어, 정말.]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 7209,
 												},
 											}
 									},
 									{
-										name =[[5 Hunting daily quests]],
+										name  =	[[사냥 일일퀘 5종]],
 										list = {
 												{
-													name =[[Fruit-Carrying Insects]],
+													name =[[과일을 짊어진 벌레]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 12225,
 												},
 												{
-													name =[[Flowery Hunters]],
+													name =[[꽃을 닮은 사냥꾼]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 12226,
 												},
 												{
-													name =[[Small but Ferocious...]],
+													name =[[작지만 사나운..]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 12227,
 												},
 												{
-													name =[[An Unknown Grudge]],
+													name =[[알 수 없는 원한]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 12228,
 												},
 												{
-													name =[[Blondie Ann]],
+													name =[[금발머리 앤]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 12229,
 												},
 											}
 									},
 									{
-										name =[[5 collecting daily quests]],
+										name  =	[[수집 일일퀘 5종]],
 										list = {
 												{
-													name =[[Material for the Preservative]],
+													name =[[방부제의 재료]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 12231,
 												},
 												{
-													name =[[A Symbol of Resistance]],
+													name =[[저항의 상징]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 12232,
 												},
 												{
-													name =[[Material for First Aid Kits]],
+													name =[[응급세트의 재료]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 12233,
 												},
 												{
-													name =[[Symbols of Courage]],
+													name =[[용맹의 상징]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 12234,
 												},
 												{
-													name =[[Good for Stamina...]],
+													name =[[기력에 참 좋은...]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 12235,
 												},
 											}
 									},
 									{
-										name =[[5 Collecting daily quests 2]],
+										name  =	[[수집 일일퀘 5종 2]],
 										list = {
 												{
-													name =[[The Latest Trend in Talismans]],
+													name =[[부적의 최신유행]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 12236,
 												},
 												{
-													name =[[Keep Your Valuables Safe]],
+													name =[[귀한것은 안전하게]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 12237,
 												},
 												{
-													name =[[Material for Shin Guards]],
+													name =[[무릎 보호대의 재료]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 12238,
 												},
 												{
-													name =[[Poison for Poison...]],
+													name =[[독은 독으로...]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 12239,
 												},
 												{
-													name =[[Don't Slip and Fall]],
+													name =[[미끄러지면 안돼]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 12240,
 												},
 											}
 									},
 									{
-										name =[[10 collecting remains]],
+										name  =	[[유해수습 10종]],
 										list = {
 												{
-													name =[[Information on missing person Tazar]],
+													name =[[실종자 타자르에 관한 정보]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 12243,
 												},
 												{
-													name =[[Information on missing person Nigel]],
+													name =[[실종자 나이자에 관한 정보]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 12244,
 												},
 												{
-													name =[[Information on missing person Messil]],
+													name =[[실종자 메실에 관한 정보]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 12245,
 												},
 												{
-													name =[[Information on missing person Noirit]],
+													name =[[실종자 느와르잇에 관한 정보]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 12246,
 												},
 												{
-													name =[[Information on missing person Pajama Sin]],
+													name =[[실종자 파자마 신에 관한 정보]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 12247,
 												},
 												{
-													name =[[Information on missing person Mendel]],
+													name =[[실종자 멘델에 관한 정보]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 12248,
 												},
 												{
-													name =[[Information on the missing person Milebit]],
+													name =[[실종자 마일비트에 관한 정보]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 12249,
 												},
 												{
-													name =[[Information on the missing person Kunmoon]],
+													name =[[실종자 쿤문에 관한 정보]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 12250,
 												},
 												{
-													name =[[Information on the missing person Chaihokin]],
+													name =[[실종자 차이호킨에 관한 정보]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 12251,
 												},
 												{
-													name =[[Information on missing person Tual]],
+													name =[[실종자 투알에 관한 정보]],
 													scrfilename = [[epsoid141Quest]],
 													questID = 12252,
 												},

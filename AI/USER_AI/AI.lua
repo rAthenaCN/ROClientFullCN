@@ -1,6 +1,6 @@
 
-require "AI/USER_AI/Const"
-require "AI/USER_AI/Util"						
+require "AI\\Const"
+require "AI\\Util"					
 
 -----------------------------
 -- state
@@ -21,7 +21,6 @@ FOLLOW_CMD_ST				= 12
 ----------------------------
 
 
-
 ------------------------------------------
 -- global variable
 ------------------------------------------
@@ -34,20 +33,8 @@ MyPatrolY			= 0		-- 정찰 목적지 y
 ResCmdList			= List.new()	-- 예약 명령어 리스트 
 MyID				= 0		-- 호문클루스 id
 MySkill				= 0		-- 호문클루스의 스킬
-MySkillLevel			= 0		-- 호문클루스의 스킬 레벨
+MySkillLevel		= 0		-- 호문클루스의 스킬 레벨
 ------------------------------------------
-
-
-
-MyMob = "힐 윈드"
-MyBestSkill = 46
-MyBestSkillLevel = 5
-MySP = 12
-MyHP = 1600
-MyMap = "payon.gat"
-
-
-
 
 
 ------------- command process  ---------------------
@@ -79,7 +66,6 @@ end
 
 
 
-
 function	OnSTOP_CMD ()
 
 	TraceAI ("OnSTOP_CMD")
@@ -97,7 +83,6 @@ end
 
 
 
-
 function	OnATTACK_OBJECT_CMD (id)
 
 	TraceAI ("OnATTACK_OBJECT_CMD")
@@ -107,7 +92,6 @@ function	OnATTACK_OBJECT_CMD (id)
 	MyState = CHASE_ST
 
 end
-
 
 
 
@@ -141,7 +125,6 @@ end
 
 
 
-
 function	OnHOLD_CMD ()
 
 	TraceAI ("OnHOLD_CMD")
@@ -152,7 +135,6 @@ function	OnHOLD_CMD ()
 	MyState = HOLD_CMD_ST
 
 end
-
 
 
 
@@ -169,7 +151,6 @@ end
 
 
 
-
 function	OnSKILL_AREA_CMD (level,skill,x,y)
 
 	TraceAI ("OnSKILL_AREA_CMD")
@@ -182,7 +163,6 @@ function	OnSKILL_AREA_CMD (level,skill,x,y)
 	MyState = SKILL_AREA_CMD_ST
 	
 end
-
 
 
 
@@ -204,7 +184,6 @@ function	OnFOLLOW_CMD ()
 	end
 
 end
-
 
 
 
@@ -261,14 +240,7 @@ function	OnIDLE_ST ()
 		MyState = CHASE_ST
 		MyEnemy = object
 		TraceAI ("IDLE_ST -> CHASE_ST : MYOWNER_ATTACKED_IN")
-		return 		
-	end
-
-	object = GetMyItem (MyID)
-	if (object ~= 0) then							-- ATTACKED_IN
-		ItemPickUp ( object )
-		MyState = CHASE_ST
-		return
+		return 
 	end
 
 	object = GetMyEnemy (MyID)
@@ -277,22 +249,16 @@ function	OnIDLE_ST ()
 		MyEnemy = object
 		TraceAI ("IDLE_ST -> CHASE_ST : ATTACKED_IN")
 		return
-	else
-		MoveToMap ("") 
-		MyState = IDLE_ST
-		MyEnemy = 0
-		return	
 	end
 
 	local distance = GetDistanceFromOwner(MyID)
 	if ( distance > 3 or distance == -1) then		-- MYOWNER_OUTSIGNT_IN
 		MyState = FOLLOW_ST
 		TraceAI ("IDLE_ST -> FOLLOW_ST")
-		return;
+		return
 	end
 
 end
-
 
 
 
@@ -303,15 +269,14 @@ function	OnFOLLOW_ST ()
 	if (GetDistanceFromOwner(MyID) <= 3) then		--  DESTINATION_ARRIVED_IN 
 		MyState = IDLE_ST
 		TraceAI ("FOLLOW_ST -> IDLW_ST")
-		return;
+		return
 	elseif (GetV(V_MOTION,MyID) == MOTION_STAND) then
 		MoveToOwner (MyID)
 		TraceAI ("FOLLOW_ST -> FOLLOW_ST")
-		return;
+		return
 	end
 
 end
-
 
 
 
@@ -332,18 +297,15 @@ function	OnCHASE_ST ()
 		return
 	end
 
-	local x, y = GetV (V_POSITION,MyEnemy)
+	local x, y = GetV (V_POSITION_APPLY_SKILLATTACKRANGE, MyEnemy, MySkill, MySkillLevel)
 	if (MyDestX ~= x or MyDestY ~= y) then			-- DESTCHANGED_IN
-		MyDestX, MyDestY = GetV (V_POSITION,MyEnemy);
+		MyDestX, MyDestY = GetV (V_POSITION_APPLY_SKILLATTACKRANGE, MyEnemy, MySkill, MySkillLevel)
 		Move (MyID,MyDestX,MyDestY)
 		TraceAI ("CHASE_ST -> CHASE_ST : DESTCHANGED_IN")
 		return
-	else
-		MoveToMap ("") 
-		return	
 	end
-end
 
+end
 
 
 
@@ -365,28 +327,19 @@ function	OnATTACK_ST ()
 		
 	if (false == IsInAttackSight(MyID,MyEnemy)) then  -- ENEMY_OUTATTACKSIGHT_IN
 		MyState = CHASE_ST
-		MyDestX, MyDestY = GetV (V_POSITION,MyEnemy);
+		MyDestX, MyDestY = GetV(V_POSITION_APPLY_SKILLATTACKRANGE, MyEnemy, MySkill, MySkillLevel)
 		Move (MyID,MyDestX,MyDestY)
 		TraceAI ("ATTACK_ST -> CHASE_ST  : ENEMY_OUTATTACKSIGHT_IN")
 		return
 	end
 	
-	local hp = GetV (V_HP,MyID)
-	if ( hp < MyHP ) then 
-		MoveToMap ( MyMap )
-		return 
-	end
-
-	local sp = GetV (V_SP,MyID)
-	if ( MyBestSkill ~= 0 and sp > MySP ) then
-		SkillObject (MyID,MyBestSkillLevel,MyBestSkill,MyEnemy)
-		return 
-	end
-
 	if (MySkill == 0) then
 		Attack (MyID,MyEnemy)
 	else
-		SkillObject (MyID,MySkillLevel,MySkill,MyEnemy)
+		if (1 == SkillObject(MyID,MySkillLevel,MySkill,MyEnemy)) then
+			MyEnemy = 0
+		end
+		
 		MySkill = 0
 	end
 	TraceAI ("ATTACK_ST -> ATTACK_ST  : ENERGY_RECHARGED_IN")
@@ -394,7 +347,6 @@ function	OnATTACK_ST ()
 
 
 end
-
 
 
 
@@ -410,7 +362,6 @@ end
 
 
 
-
 function OnSTOP_CMD_ST ()
 
 
@@ -418,13 +369,10 @@ end
 
 
 
-
 function OnATTACK_OBJECT_CMD_ST ()
 
 	
-
 end
-
 
 
 
@@ -452,7 +400,6 @@ end
 
 
 
-
 function OnPATROL_CMD_ST ()
 
 	TraceAI ("OnPATROL_CMD_ST")
@@ -476,12 +423,9 @@ function OnPATROL_CMD_ST ()
 		MyPatrolX = x
 		MyPatrolY = y
 		Move (MyID,MyDestX,MyDestY)
-		return 
 	end
 
-	Move (MyID,x+1,y+1)
 end
-
 
 
 
@@ -492,9 +436,9 @@ function OnHOLD_CMD_ST ()
 	if (MyEnemy ~= 0) then
 		local d = GetDistance(MyEnemy,MyID)
 		if (d ~= -1 and d <= GetV(V_ATTACKRANGE,MyID)) then
-			Attack (MyID,MyEnemy)
+				Attack (MyID,MyEnemy)
 		else
-			MyEnemy = 0;
+			MyEnemy = 0
 		end
 		return
 	end
@@ -514,7 +458,6 @@ end
 
 
 
-
 function OnSKILL_OBJECT_CMD_ST ()
 	
 end
@@ -527,17 +470,13 @@ function OnSKILL_AREA_CMD_ST ()
 	TraceAI ("OnSKILL_AREA_CMD_ST")
 
 	local x , y = GetV (V_POSITION,MyID)
-	if (GetDistance(x,y,MyDestX,MyDestY) <= GetV(V_SKILLATTACKRANGE,MyID,MySkill)) then	-- DESTARRIVED_IN
+	if (GetDistance(x,y,MyDestX,MyDestY) <= GetV(V_SKILLATTACKRANGE_LEVEL, MyID, MySkill, MySkillLevel)) then	-- DESTARRIVED_IN
 		SkillGround (MyID,MySkillLevel,MySkill,MyDestX,MyDestY)
 		MyState = IDLE_ST
 		MySkill = 0
 	end
 
 end
-
-
-
-
 
 
 
@@ -609,30 +548,9 @@ function	GetOwnerEnemy (myid)
 			min_dis = dis
 		end
 	end
-
+	
 	return result
 end
-
-
-
-
-function	GetMyItem (myid)
-	local result = 0
-	local items = GetItems ()
-
-	local min_dis = 100
-	local dis
-	for i,v in ipairs(items) do
-		dis = GetDistance2 (myid,v)
-		if (dis < min_dis) then
-			result = v
-			min_dis = dis
-		end
-	end
-
-	return result
-end
-
 
 
 
@@ -645,14 +563,9 @@ function	GetMyEnemy (myid)
 	elseif (type == FILIR or type == FILIR_H or type == VANILMIRTH or type == VANILMIRTH_H or type == FILIR2 or type == FILIR_H2 or type == VANILMIRTH2 or type == VANILMIRTH_H2) then
 		result = GetMyEnemyB (myid)
 	end
-
-	if ( IsMyMonster ( result, MyMob ) ~= 1 ) then
-		result = 0
-	end
-
 	return result
-
 end
+
 
 
 
@@ -727,17 +640,12 @@ end
 
 
 
-
-
-
-
-
-
 function AI(myid)
 
 	MyID = myid
 	local msg	= GetMsg (myid)			-- command
 	local rmsg	= GetResMsg (myid)		-- reserved command
+
 	
 	if msg[1] == NONE_CMD then
 		if rmsg[1] ~= NONE_CMD then

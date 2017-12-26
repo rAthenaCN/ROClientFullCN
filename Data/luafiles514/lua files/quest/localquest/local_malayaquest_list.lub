@@ -1,624 +1,624 @@
 LOCAL_MalayaQuest_List = {
 					{
-						name = [[Malaya Quests]],
+						name = [[Æ÷Æ®¸»¶ó¾ß]],
 						imagefile = [[ep_test_sample.bmp]],
 						list = {
 									{
-										name  =	[[Cautious Village]],
+										name  =	[[°æ°èÇÏ´Â ¸¶À»]],
 										list = {
 												{
-													name =[[Cautious Village]],
+													name =[[°æ°èÇÏ´Â ¸¶À»]],
 													scrfilename = [[malayaQuest]],
 													questID = 7350,
 												},
 												{
-													name =[[Why They Want Buttons]],
+													name =[[±×µéÀÌ ´ÜÃß¸¦ ¿øÇÏ´Â ÀÌÀ¯]],
 													scrfilename = [[malayaQuest]],
 													questID = 7358,
 												},
 												{
-													name =[[Better than My Old Button]],
+													name =[[³» ³°Àº ´ÜÃßº¸´Ù ÁÁÀº °Í]],
 													scrfilename = [[malayaQuest]],
 													questID = 7351,
 												},
 												{
-													name =[[Deliver Holy Item to Sailor]],
+													name =[[¼±¿ø¿¡°Ô ¼º¹° Àü´Þ]],
 													scrfilename = [[malayaQuest]],
 													questID = 7359,
 												},
 												{
-													name =[[Deliver Holy Item to Old Man]],
+													name =[[³ëÀÎ¿¡°Ô ¼º¹° Àü´Þ]],
 													scrfilename = [[malayaQuest]],
 													questID = 7360,
 												},
 												{
-													name =[[Deliver Holy Item to Young Man]],
+													name =[[Ã»³â¿¡°Ô ¼º¹° Àü´Þ]],
 													scrfilename = [[malayaQuest]],
 													questID = 7361,
 												},
 												{
-													name =[[Deliver Holy Item to Merchant]],
+													name =[[»óÀÎ¿¡°Ô ¼º¹° Àü´Þ]],
 													scrfilename = [[malayaQuest]],
 													questID = 7362,
 												},
 												{
-													name =[[Deliver Holy Item to Little Kid]],
+													name =[[²¿¸¶¿¡°Ô ¼º¹° Àü´Þ]],
 													scrfilename = [[malayaQuest]],
 													questID = 7363,
 												},
 												{
-													name =[[Deliver Holy Item to Middle-aged Man]],
+													name =[[Áß³â¿¡°Ô ¼º¹° Àü´Þ]],
 													scrfilename = [[malayaQuest]],
 													questID = 7364,
 												},
 												{
-													name =[[Better than My Old Button-2]],
+													name =[[³» ³°Àº ´ÜÃßº¸´Ù ÁÁÀº °Í-2]],
 													scrfilename = [[malayaQuest]],
 													questID = 7365,
 												},
 											}
 									},
 									{
-										name  =	[[Traditional Spiritual Protection and Impudent Girl]],
+										name  =	[[ÀüÅë ¼öÈ£¹°°ú ¾â¹Ì¿î ¼Ò³à]],
 										list = {
 												{
-													name =[[Traditional Spiritual Protection and Impudent Girl-1]],
+													name =[[ÀüÅë ¼öÈ£¹°°ú ¾â¹Ì¿î ¼Ò³à-1]],
 													scrfilename = [[malayaQuest]],
 													questID = 7366,
 												},
 												{
-													name =[[Traditional Spiritual Protection and Impudent Girl-2]],
+													name =[[ÀüÅë ¼öÈ£¹°°ú ¾â¹Ì¿î ¼Ò³à-2]],
 													scrfilename = [[malayaQuest]],
 													questID = 7367,
 												},
 												{
-													name =[[Love and Spiritual Protection for All]],
+													name =[[»ç¶û°ú ¼öÈ£¹°Àº ¸ðµÎ¿¡°Ô]],
 													scrfilename = [[malayaQuest]],
 													questID = 7374,
 												},
 												{
-													name =[[Deliver Spiritual Protection-PedroÎ]],
+													name =[[¼öÈ£¹°À» Àü´ÞÇÏ¶ó-Æäµå·Î]],
 													scrfilename = [[malayaQuest]],
 													questID = 7368,
 												},
 												{
-													name =[[Deliver Spiritual Protection-Nardo]],
+													name =[[¼öÈ£¹°À» Àü´ÞÇÏ¶ó-³Ê¸£µµ]],
 													scrfilename = [[malayaQuest]],
 													questID = 7369,
 												},
 												{
-													name =[[Deliver Spiritual Protection-Pandoi]],
+													name =[[¼öÈ£¹°À» Àü´ÞÇÏ¶ó-ÆÇµµÀÌ]],
 													scrfilename = [[malayaQuest]],
 													questID = 7370,
 												},
 												{
-													name =[[Deliver Spiritual Protection-Woeon]],
+													name =[[¼öÈ£¹°À» Àü´ÞÇÏ¶ó-¿ö¾ð]],
 													scrfilename = [[malayaQuest]],
 													questID = 7371,
 												},
 												{
-													name =[[Deliver Spiritual Protection-Talah]],
+													name =[[¼öÈ£¹°À» Àü´ÞÇÏ¶ó-Å»¶ó]],
 													scrfilename = [[malayaQuest]],
 													questID = 7372,
 												},
 												{
-													name =[[Deliver Spiritual Protection-Romel]],
+													name =[[¼öÈ£¹°À» Àü´ÞÇÏ¶ó-·Î¸á]],
 													scrfilename = [[malayaQuest]],
 													questID = 7373,
 												},
 												{
-													name =[[Love and Spiritual Protection Continues]],
+													name =[[»ç¶û°ú ¼öÈ£¹°Àº ³»ÀÏµµ]],
 													scrfilename = [[malayaQuest]],
 													questID = 7375,
 												},
 											}
 									},
 									{
-										name  =	[[To Smith a Traditional Spiritual Protection]],
+										name  =	[[ÀüÅë ¼öÈ£¹° Á¦ÀÛÀ» À§ÇØ]],
 										list = {
 												{
-													name =[[To Smith a Traditional Spiritual Protection]],
+													name =[[ÀüÅë ¼öÈ£¹° Á¦ÀÛÀ» À§ÇØ]],
 													scrfilename = [[malayaQuest]],
 													questID = 7380,
 												},
 												{
-													name =[[High Demand on Spiritual Protection Material]],
+													name =[[¼öÈ£¹°ÀÇ Àç·á´Â ¾ðÁ¦³ª ÇÊ¿äÇØ]],
 													scrfilename = [[malayaQuest]],
 													questID = 7381,
 												},
 											}
 									},
 									{
-										name  =	[[Caldron-Regular Trades]],
+										name  =	[[¹«¼è¼Ü-Á¤±â±³¿ª]],
 										list = {
 												{
-													name =[[Old Man and Cast-Iron Caldron-1]],
+													name =[[³ëÀÎ°ú ¹«¼è¼Ü-1]],
 													scrfilename = [[malayaQuest]],
 													questID = 7376,
 												},
 												{
-													name =[[Old Man and Cast-Iron Caldron-2]],
+													name =[[³ëÀÎ°ú ¹«¼è¼Ü-2]],
 													scrfilename = [[malayaQuest]],
 													questID = 7377,
 												},
 												{
-													name =[[Old Man and Cast-Iron Caldron-Regular Trades]],
+													name =[[³ëÀÎ°ú ¹«¼è¼Ü-Á¤±â±³¿ª]],
 													scrfilename = [[malayaQuest]],
 													questID = 7378,
 												},
 											}
 									},
 									{
-										name  =	[[Get Rid of Jejeling]],
+										name  =	[[Á¦Á¦¸µ ÅðÄ¡]],
 										list = {
 												{
-													name =[[Get Rid of Jejeling]],
+													name =[[Á¦Á¦¸µ ÅðÄ¡ ÀÛÀü]],
 													scrfilename = [[malayaQuest]],
 													questID = 7404,
 												},
 												{
-													name =[[Get Rid of Jejeling - Same Time Tomorrow]],
+													name =[[Á¦Á¦¸µ ÅðÄ¡ -³»ÀÏ ÀÌ½Ã°£¿¡]],
 													scrfilename = [[malayaQuest]],
 													questID = 7405,
 												},
 											}
 									},
 									{
-										name  =	[[Jejeling and Jejellopy]],
+										name  =	[[Á¦Á¦¸µ°ú Á¦Á©·ÎÇÇ]],
 										list = {
 												{
-													name =[[Jejeling and Jejellopy]],
+													name =[[Á¦Á¦¸µ°ú Á¦Á©·ÎÇÇ]],
 													scrfilename = [[malayaQuest]],
 													questID = 7391,
 												},
 												{
-													name =[[Collect Jejellopy Regularly]],
+													name =[[Á¦Á©·ÎÇÇ Á¤±â¼öÁý]],
 													scrfilename = [[malayaQuest]],
 													questID = 7392,
 												},
 											}
 									},
 									{
-										name  =	[[Shiny Silver Blade]],
+										name  =	[[¹ÝÂ¦¹ÝÂ¦ ½Ç¹ö ºí·¹ÀÌµå]],
 										list = {
 												{
-													name =[[Shiny Silver Blade]],
+													name =[[¹ÝÂ¦ ¹ÝÂ¦ ½Ç¹öºí·¹ÀÌµå]],
 													scrfilename = [[malayaQuest]],
 													questID = 7393,
 												},
 												{
-													name =[[Shiny Tomorrow]],
+													name =[[³»ÀÏµµ ¹ÝÂ¦¹ÝÂ¦]],
 													scrfilename = [[malayaQuest]],
 													questID = 7394,
 												},
 											}
 									},
 									{
-										name  =	[[Maries's Child]],
+										name  =	[[¸¶¸®½ºÀÇ ¾ÆÀÌ]],
 										list = {
 												{
-													name =[[Maries's Child]],
+													name =[[¸¶¸®½ºÀÇ ¾ÆÀÌ]],
 													scrfilename = [[malayaQuest]],
 													questID = 7388,
 												},
 												{
-													name =[[Give the Shirt to Maries's Child]],
+													name =[[¸¶¸®½ºÀÇ ¾ÆÀÌ¿¡°Ô ¿ÊÀ»]],
 													scrfilename = [[malayaQuest]],
 													questID = 7389,
 												},
 												{
-													name =[[Worried about Maries's Child]],
+													name =[[¸¶¸®½ºÀÇ ¾ÆÀÌ°¡ °ÆÁ¤µÈ´Ù]],
 													scrfilename = [[malayaQuest]],
 													questID = 7390,
 												},
 											}
 									},
 									{
-										name  =	[[Purified Bones]],
+										name  =	[[µ¿ÀÇ ºÎÅ¹]],
 										list = {
 												{
-													name =[[Agree to Collecting Bones!]],
+													name =[[µ¿ÀÇ ºÎÅ¹-»À´Ù±Í¸¦ ¸ð¾ÆÁà!]],
 													scrfilename = [[malayaQuest]],
 													questID = 7406,
 												},
 												{
-													name =[[Purified Bone]],
+													name =[[Á¤Á¦µÈ »À´Ù±Í]],
 													scrfilename = [[malayaQuest]],
 													questID = 7407,
 												},
 												{
-													name =[[Agree to Come Back Tomorrow?]],
+													name =[[µ¿ÀÇ ºÎÅ¹ - ³»ÀÏ ¶Ç ¿ÍÁÙ·¡?]],
 													scrfilename = [[malayaQuest]],
 													questID = 7408,
 												},
 											}
 									},
-
+									
 									{
-										name  =	[[Ghost on Perry Ship]],
+										name  =	[[Æä¸®È£ÀÇ ¿µÈ¥]],
 										list = {
 												{
-													name =[[Ghost on the Perry Ship]],
+													name =[[Æä¸®È£ÀÇ ±Í½Å¼Òµ¿]],
 													scrfilename = [[malayaQuest]],
 													questID = 7395,
 												},
 												{
-													name =[[Angry Soul on Perry Ship]],
+													name =[[Æä¸®È£ÀÇ È­³»´Â ¿µÈ¥]],
 													scrfilename = [[malayaQuest]],
 													questID = 7396,
 												},
 												{
-													name =[[Mumbaki Phong's Advice]],
+													name =[[¹³¹ÙÅ° ÆþÀÇ Á¶¾ð]],
 													scrfilename = [[malayaQuest]],
 													questID = 7397,
 												},
 												{
-													name =[[Offering Bouquet Recommended by Mumbaki]],
+													name =[[¹³¹ÙÅ° ÃßÃµ ÇåÈ­]],
 													scrfilename = [[malayaQuest]],
 													questID = 7398,
 												},
 												{
-													name =[[Soul Diwata's Story]],
+													name =[[¼Ò³à µð¿ÍÅ¸ÀÇ ÀÌ¾ß±â]],
 													scrfilename = [[malayaQuest]],
 													questID = 7399,
 												},
 												{
-													name =[[All Aboard for Perry Sailing]],
+													name =[[Æä¸®¿îÇ× ¾ÆÁ÷Àº ±¦Âú¾Æ]],
 													scrfilename = [[malayaQuest]],
 													questID = 7401,
 												},
 											}
 									},
 									{
-										name  =	[[Stabilized Perry]],
+										name  =	[[Æä¸® ¾ÈÁ¤È­]],
 										list = {
 												{
-													name =[[Bouquet for Diwata]],
+													name =[[µð¿ÍÅ¸¸¦ À§ÇÑ ²É´Ù¹ß]],
 													scrfilename = [[malayaQuest]],
 													questID = 7402,
 												},
 												{
-													name =[[Stabilized Perry]],
+													name =[[¾ÈÁ¤È­ µÈ Æä¸®]],
 													scrfilename = [[malayaQuest]],
 													questID = 7403,
 												},
 												{
-													name =[[All Aboard for Perry Sailing]],
+													name =[[Æä¸®¿îÇ× ¾ÆÁ÷Àº ±¦Âú¾Æ]],
 													scrfilename = [[malayaQuest]],
 													questID = 7401,
 												},
 											}
 									},
 									{
-										name  =	[[Can't Look Into His Eyes]],
+										name  =	[[±× ³à¼®°ú ´« ¸¶ÁÖÄ¥ ¼ö ¾ø´Ù.]],
 										list = {
 												{
-													name =[[Cannot Meet Eyes with Him!]],
+													name =[[±× ³à¼®°ú ´« ¸¶ÁÖÄ¥ ¼ö ¾ø´Ù!]],
 													scrfilename = [[malayaQuest]],
 													questID = 7409,
 												},
 												{
-													name =[[Teach Another Lesson Tomorrow!]],
+													name =[[³»ÀÏ ¶Ç È¥³»´Ù¿À!]],
 													scrfilename = [[malayaQuest]],
 													questID = 7410,
 												},
 											}
 									},
 									{
-										name  =	[[Rumor, Time and Legend]],
+										name  =	[[¹ÙÄÚ³ª¿Í È£¼ö ÀÔÀå]],
 										list = {
 												{
-													name =[[Rumor, Time and Legend]],
+													name =[[¼Ò¹®°ú ¼¼¿ù°ú Àü¼³]],
 													scrfilename = [[malayaQuest]],
 													questID = 1174,
 												},
 												{
-													name =[[Rumor, Time and Legend]],
+													name =[[¼Ò¹®°ú ¼¼¿ù°ú Àü¼³]],
 													scrfilename = [[malayaQuest]],
 													questID = 1175,
 												},
 												{
-													name =[[Rumor, Time and Legend]],
+													name =[[¼Ò¹®°ú ¼¼¿ù°ú Àü¼³]],
 													scrfilename = [[malayaQuest]],
 													questID = 1176,
 												},
 												{
-													name =[[Rumor, Time and Legend]],
+													name =[[¼Ò¹®°ú ¼¼¿ù°ú Àü¼³]],
 													scrfilename = [[malayaQuest]],
 													questID = 1177,
 												},
 												{
-													name =[[Rumor, Time and Legend]],
+													name =[[¼Ò¹®°ú ¼¼¿ù°ú Àü¼³]],
 													scrfilename = [[malayaQuest]],
 													questID = 1178,
 												},
 												{
-													name =[[Rumor, Time and Legend]],
+													name =[[¼Ò¹®°ú ¼¼¿ù°ú Àü¼³]],
 													scrfilename = [[malayaQuest]],
 													questID = 1179,
 												},
 												{
-													name =[[Get Rid of Bakonawa]],
+													name =[[¹öÄÚ³Ê¿ö¸¦ ¹°¸®ÃÄ¶ó!]],
 													scrfilename = [[malayaQuest]],
 													questID = 1180,
 												},
 												{
-													name =[[Get Rid of Bakonawa]],
+													name =[[¹öÄÚ³Ê¿ö¸¦ ¹°¸®ÃÄ¶ó!]],
 													scrfilename = [[malayaQuest]],
 													questID = 1181,
 												},
 												{
-													name =[[Get Rid of Bakonawa]],
+													name =[[¹öÄÚ³Ê¿ö¸¦ ¹°¸®ÃÄ¶ó!]],
 													scrfilename = [[malayaQuest]],
 													questID = 1182,
 												},
 												{
-													name =[[Get Rid of Bakonawa]],
+													name =[[¹öÄÚ³Ê¿ö¸¦ ¹°¸®ÃÄ¶ó!]],
 													scrfilename = [[malayaQuest]],
 													questID = 1183,
 												},
 												{
-													name =[[Get Rid of Bakonawa]],
+													name =[[¹öÄÚ³Ê¿ö¸¦ ¹°¸®ÃÄ¶ó!]],
 													scrfilename = [[malayaQuest]],
 													questID = 1184,
 												},
 												{
-													name =[[Get Rid of Bakonawa]],
+													name =[[¹öÄÚ³Ê¿ö¸¦ ¹°¸®ÃÄ¶ó!]],
 													scrfilename = [[malayaQuest]],
 													questID = 1185,
 												},
 												{
-													name =[[Get Rid of Bakonawa]],
+													name =[[¹öÄÚ³Ê¿ö¸¦ ¹°¸®ÃÄ¶ó!]],
 													scrfilename = [[malayaQuest]],
 													questID = 1186,
 												},
 												{
-													name =[[Get Rid of Bakonawa]],
+													name =[[¹öÄÚ³Ê¿ö¸¦ ¹°¸®ÃÄ¶ó!]],
 													scrfilename = [[malayaQuest]],
 													questID = 1187,
 												},
 												{
-													name =[[Get Rid of Bakonawa]],
+													name =[[¹öÄÚ³Ê¿ö¸¦ ¹°¸®ÃÄ¶ó!]],
 													scrfilename = [[malayaQuest]],
 													questID = 1188,
 												},
 												{
-													name =[[Get Rid of Bakonawa]],
+													name =[[¹öÄÚ³Ê¿ö¸¦ ¹°¸®ÃÄ¶ó!]],
 													scrfilename = [[malayaQuest]],
 													questID = 1189,
 												},
 												{
-													name =[[Get Rid of Bakonawa]],
+													name =[[¹öÄÚ³Ê¿ö¸¦ ¹°¸®ÃÄ¶ó!]],
 													scrfilename = [[malayaQuest]],
 													questID = 1190,
 												},
 												{
-													name =[[Get Rid of Bakonawa]],
+													name =[[¹öÄÚ³Ê¿ö¸¦ ¹°¸®ÃÄ¶ó!]],
 													scrfilename = [[malayaQuest]],
 													questID = 1191,
 												},
 												{
-													name =[[Get Rid of Bakonawa]],
+													name =[[¹öÄÚ³Ê¿ö¸¦ ¹°¸®ÃÄ¶ó!]],
 													scrfilename = [[malayaQuest]],
 													questID = 1192,
 												},
 												{
-													name =[[Get Rid of Bakonawa]],
+													name =[[¹öÄÚ³Ê¿ö¸¦ ¹°¸®ÃÄ¶ó!]],
 													scrfilename = [[malayaQuest]],
 													questID = 1193,
 												},
 												{
-													name =[[Look out the window, Cheers for Raccoon Hurray team!]],
+													name =[[¹öÄÚ³Ê¿ö¸¦ ¹°¸®ÃÄ¶ó!]],
 													scrfilename = [[malayaQuest]],
 													questID = 1193,
 												},
 											}
 									},
 									{
-										name  =	[[Nurse at Port Malaya]],
+										name  =	[[Æ÷Æ®¸»¶ó¾ßÀÇ °£È£»ç]],
 										list = {
 												{
-													name =[[Nurse at Port Malaya]],
+													name =[[Æ÷Æ®¸»¶ó¾ßÀÇ °£È£»ç]],
 													scrfilename = [[malayaQuest]],
 													questID = 11284,
 												},
 												{
-													name =[[Nurse at Port Malaya]],
+													name =[[Æ÷Æ®¸»¶ó¾ßÀÇ °£È£»ç]],
 													scrfilename = [[malayaQuest]],
 													questID = 11285,
 												},
 												{
-													name =[[Nurse at Port Malaya]],
+													name =[[Æ÷Æ®¸»¶ó¾ßÀÇ °£È£»ç]],
 													scrfilename = [[malayaQuest]],
 													questID = 11286,
 												},
 												{
-													name =[[Nurse at Port Malaya]],
+													name =[[Æ÷Æ®¸»¶ó¾ßÀÇ °£È£»ç]],
 													scrfilename = [[malayaQuest]],
 													questID = 11287,
 												},
 												{
-													name =[[Nurse at Port Malaya]],
+													name =[[Æ÷Æ®¸»¶ó¾ßÀÇ °£È£»ç]],
 													scrfilename = [[malayaQuest]],
 													questID = 11288,
 												},
 												{
-													name =[[Nurse at Port Malaya]],
+													name =[[Æ÷Æ®¸»¶ó¾ßÀÇ °£È£»ç]],
 													scrfilename = [[malayaQuest]],
 													questID = 11289,
 												},
 												{
-													name =[[Nurse at Port Malaya]],
+													name =[[Æ÷Æ®¸»¶ó¾ßÀÇ °£È£»ç]],
 													scrfilename = [[malayaQuest]],
 													questID = 11290,
 												},
 												{
-													name =[[Nurse at Port Malaya]],
+													name =[[Æ÷Æ®¸»¶ó¾ßÀÇ °£È£»ç]],
 													scrfilename = [[malayaQuest]],
 													questID = 11291,
 												},
 												{
-													name =[[Nurse at Port Malaya]],
+													name =[[Æ÷Æ®¸»¶ó¾ßÀÇ °£È£»ç]],
 													scrfilename = [[malayaQuest]],
 													questID = 11292,
 												},
 												{
-													name =[[Nurse at Port Malaya]],
+													name =[[Æ÷Æ®¸»¶ó¾ßÀÇ °£È£»ç]],
 													scrfilename = [[malayaQuest]],
 													questID = 11293,
 												},
 												{
-													name =[[Nurse at Port Malaya]],
+													name =[[Æ÷Æ®¸»¶ó¾ßÀÇ °£È£»ç]],
 													scrfilename = [[malayaQuest]],
 													questID = 11294,
 												},
 												{
-													name =[[Nurse at Port Malaya]],
+													name =[[Æ÷Æ®¸»¶ó¾ßÀÇ °£È£»ç]],
 													scrfilename = [[malayaQuest]],
 													questID = 11295,
 												},
 												{
-													name =[[Nurse at Port Malaya]],
+													name =[[Æ÷Æ®¸»¶ó¾ßÀÇ °£È£»ç]],
 													scrfilename = [[malayaQuest]],
 													questID = 11296,
 												},
 												{
-													name =[[Nurse at Port Malaya]],
+													name =[[Æ÷Æ®¸»¶ó¾ßÀÇ °£È£»ç]],
 													scrfilename = [[malayaQuest]],
 													questID = 11297,
 												},
 												{
-													name =[[Nurse at Port Malaya]],
+													name =[[Æ÷Æ®¸»¶ó¾ßÀÇ °£È£»ç]],
 													scrfilename = [[malayaQuest]],
 													questID = 11298,
 												},
 												{
-													name =[[Nurse at Port Malaya]],
+													name =[[Æ÷Æ®¸»¶ó¾ßÀÇ °£È£»ç]],
 													scrfilename = [[malayaQuest]],
 													questID = 11299,
 												},
 												{
-													name =[[Nurse at Port Malaya]],
+													name =[[Æ÷Æ®¸»¶ó¾ßÀÇ °£È£»ç]],
 													scrfilename = [[malayaQuest]],
 													questID = 11300,
 												},
 												{
-													name =[[Nurse at Port Malaya]],
+													name =[[Æ÷Æ®¸»¶ó¾ßÀÇ °£È£»ç]],
 													scrfilename = [[malayaQuest]],
 													questID = 11301,
 												},
 												{
-													name =[[Nurse at Port Malaya]],
+													name =[[Æ÷Æ®¸»¶ó¾ßÀÇ °£È£»ç]],
 													scrfilename = [[malayaQuest]],
 													questID = 11302,
 												},
 												{
-													name =[[Nurse at Port Malaya]],
+													name =[[Æ÷Æ®¸»¶ó¾ßÀÇ °£È£»ç]],
 													scrfilename = [[malayaQuest]],
 													questID = 11303,
 												},
 												{
-													name =[[Nurse at Port Malaya]],
+													name =[[Æ÷Æ®¸»¶ó¾ßÀÇ °£È£»ç]],
 													scrfilename = [[malayaQuest]],
 													questID = 11304,
 												},
 												{
-													name =[[Nurse at Port Malaya]],
+													name =[[Æ÷Æ®¸»¶ó¾ßÀÇ °£È£»ç]],
 													scrfilename = [[malayaQuest]],
 													questID = 11305,
 												},
 												{
-													name =[[Nurse at Port Malaya]],
+													name =[[Æ÷Æ®¸»¶ó¾ßÀÇ °£È£»ç]],
 													scrfilename = [[malayaQuest]],
 													questID = 11306,
 												},
 												{
-													name =[[A very heavy burden]],
+													name =[[¾ÆÁÖ ¹«°Å¿î Áü]],
 													scrfilename = [[malayaQuest]],
 													questID = 11207,
 												},
 												{
-													name =[[Nurse at Port Malaya]],
+													name =[[Æ÷Æ®¸»¶ó¾ßÀÇ °£È£»ç]],
 													scrfilename = [[malayaQuest]],
 													questID = 11308,
 												},
 												{
-													name =[[Nurse at Port Malaya]],
+													name =[[Æ÷Æ®¸»¶ó¾ßÀÇ °£È£»ç]],
 													scrfilename = [[malayaQuest]],
 													questID = 11309,
 												},
 											}
 									},
 									{
-										name  =	[[Get Rid of Bangungot]],
+										name  =	[[º¡¿õ°÷À» ÅðÄ¡ÇÏ¶ó.]],
 										list = {
 												{
-													name =[[Get Rid of Bangungot from Hospital 2F']],
+													name =[[º´¿ø 2Ãþ, º¡¿õ°÷À» ÅðÄ¡ÇÏ¶ó]],
 													scrfilename = [[malayaQuest]],
 													questID = 9222,
 												},
 												{
-													name =[[Will there be Peace at the Hospital...?]],
+													name =[[º´¿ø¿¡´Â ÆòÈ­°¡ Ã£¾Æ¿ÔÀ»±î..?]],
 													scrfilename = [[malayaQuest]],
 													questID = 9223,
 												},
 												{
-													name =[[Explore Hospital 2F']],
+													name =[[º´¿ø 2Ãþ Å½»ç]],
 													scrfilename = [[malayaQuest]],
 													questID = 9224,
 												},
 											}
 									},
 									{
-										name  =	[[Secret in the Woods]],
+										name  =	[[½£¼ÓÀÇ ºñ¹Ð]],
 										list = {
 												{
-													name =[[Secret in the Woods]],
+													name =[[½£ ¼ÓÀÇ ºñ¹Ð]],
 													scrfilename = [[malayaQuest]],
 													questID = 2271,
 												},
 												{
-													name =[[Secret in the Woods]],
+													name =[[½£ ¼ÓÀÇ ºñ¹Ð]],
 													scrfilename = [[malayaQuest]],
 													questID = 2272,
 												},
 												{
-													name =[[Secret in the Woods]],
+													name =[[½£ ¼ÓÀÇ ºñ¹Ð]],
 													scrfilename = [[malayaQuest]],
 													questID = 2273,
 												},
 												{
-													name =[[Secret in the Woods]],
+													name =[[½£ ¼ÓÀÇ ºñ¹Ð]],
 													scrfilename = [[malayaQuest]],
 													questID = 2274,
 												},
 												{
-													name =[[Secret in the Woods]],
+													name =[[½£ ¼ÓÀÇ ºñ¹Ð]],
 													scrfilename = [[malayaQuest]],
 													questID = 2275,
 												},
 												{
-													name =[[Secret in the Woods]],
+													name =[[½£ ¼ÓÀÇ ºñ¹Ð]],
 													scrfilename = [[malayaQuest]],
 													questID = 2276,
 												},
 												{
-													name =[[Secret in the Woods]],
+													name =[[½£ ¼ÓÀÇ ºñ¹Ð]],
 													scrfilename = [[malayaQuest]],
 													questID = 2277,
 												},
 												{
-													name =[[Secret in the Woods]],
+													name =[[½£ ¼ÓÀÇ ºñ¹Ð]],
 													scrfilename = [[malayaQuest]],
 													questID = 2278,
 												},
 												{
-													name =[[Secret in the Woods]],
+													name =[[½£ ¼ÓÀÇ ºñ¹Ð]],
 													scrfilename = [[malayaQuest]],
 													questID = 2279,
 												},
 												{
-													name =[[Secret in the Woods]],
+													name =[[½£ ¼ÓÀÇ ºñ¹Ð]],
 													scrfilename = [[malayaQuest]],
 													questID = 2280,
 												},

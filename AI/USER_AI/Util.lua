@@ -1,5 +1,5 @@
 
-require "AI/USER_AI/Const"
+require "AI\\Const"
 
 --------------------------------------------
 -- List utility
@@ -13,7 +13,7 @@ end
 function List.pushleft (list, value)
 	local first = list.first-1
 	list.first  = first
-	list[first] = value;
+	list[first] = value
 end
 
 function List.pushright (list, value)
@@ -143,31 +143,12 @@ function	IsInAttackSight (id1,id2)
 	if (MySkill == 0) then
 		a     = GetV (V_ATTACKRANGE,id1)
 	else
-		a     = GetV (V_SKILLATTACKRANGE,id1,MySkill)
+		a     = GetV (V_SKILLATTACKRANGE_LEVEL, id1, MySkill, MySkillLevel)
 	end
 
 	if a >= d then
-		return true;
+		return true
 	else
-		return false;
+		return false
 	end
 end
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

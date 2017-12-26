@@ -1,6 +1,18 @@
+//2017 라자냐 국수축제
+1@drdo.gnd#1@drdo.gnd#
+1@drdo.gat#1@drdo.gat#
+1@drdo.rsw#1@drdo.rsw#
+유저인터페이스\map\1@drdo.bmp#유저인터페이스\map\1@drdo.bmp#
+
 //일루전 오브 구양궁 미니맵
 유저인터페이스\map\tur_d03_i.bmp#유저인터페이스\map\tur_dun03.bmp#
 유저인터페이스\map\tur_d04_i.bmp#유저인터페이스\map\tur_dun04.bmp#
+
+//2017 팝콘 페스타
+1@crd.gnd#1@crd.gnd#
+1@crd.gat#1@crd.gat#
+1@crd.rsw#1@crd.rsw#
+유저인터페이스\map\1@crd.bmp#유저인터페이스\map\1@crd.bmp#
 
 //2017 초보자 던전
 1@begi.gnd#1@begi.gnd#

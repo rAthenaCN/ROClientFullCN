@@ -1,6 +1,6 @@
 
-require "AI/USER_AI/Const"
-require "AI/USER_AI/Util"					
+require "AI\\Const"
+require "AI\\Util"			
 
 -----------------------------
 -- state
@@ -21,7 +21,6 @@ FOLLOW_CMD_ST				= 12
 ----------------------------
 
 
-
 ------------------------------------------
 -- global variable
 ------------------------------------------
@@ -34,26 +33,9 @@ MyPatrolY			= 0		-- 정찰 목적지 y
 ResCmdList			= List.new()	-- 예약 명령어 리스트 
 MyID				= 0		-- 용병 id
 MySkill				= 0		-- 용병의 스킬
-MySkillLevel			= 0		-- 용병의 스킬 레벨
+MySkillLevel		= 0		-- 용병의 스킬 레벨
 ------------------------------------------
 
-
-
-
-
-MySP = 8
-MyBestSkill = 8201
-MyBestSkillLevel = 5
-
-
-function	CanHitEnemy ()
-	local owner = GetV (V_OWNER,MyID)
-	local target = GetV (V_TARGET,MyEnemy)
-	if (target ~= MyID and target ~= owner and target ~= 0) then
-		MyEnemy = 0
-		return
-	end
-end
 
 ------------- command process  ---------------------
 
@@ -84,7 +66,6 @@ end
 
 
 
-
 function	OnSTOP_CMD ()
 
 	TraceAI ("OnSTOP_CMD")
@@ -102,7 +83,6 @@ end
 
 
 
-
 function	OnATTACK_OBJECT_CMD (id)
 
 	TraceAI ("OnATTACK_OBJECT_CMD")
@@ -112,7 +92,6 @@ function	OnATTACK_OBJECT_CMD (id)
 	MyState = CHASE_ST
 
 end
-
 
 
 
@@ -146,7 +125,6 @@ end
 
 
 
-
 function	OnHOLD_CMD ()
 
 	TraceAI ("OnHOLD_CMD")
@@ -157,7 +135,6 @@ function	OnHOLD_CMD ()
 	MyState = HOLD_CMD_ST
 
 end
-
 
 
 
@@ -174,7 +151,6 @@ end
 
 
 
-
 function	OnSKILL_AREA_CMD (level,skill,x,y)
 
 	TraceAI ("OnSKILL_AREA_CMD")
@@ -187,7 +163,6 @@ function	OnSKILL_AREA_CMD (level,skill,x,y)
 	MyState = SKILL_AREA_CMD_ST
 	
 end
-
 
 
 
@@ -213,8 +188,6 @@ end
 
 
 function	ProcessCommand (msg)
-
-	CanHitEnemy () 
 
 	if		(msg[1] == MOVE_CMD) then
 		OnMOVE_CMD (msg[2],msg[3])
@@ -282,11 +255,10 @@ function	OnIDLE_ST ()
 	if ( distance > 3 or distance == -1) then		-- MYOWNER_OUTSIGNT_IN
 		MyState = FOLLOW_ST
 		TraceAI ("IDLE_ST -> FOLLOW_ST")
-		return;
+		return
 	end
 
 end
-
 
 
 
@@ -297,15 +269,14 @@ function	OnFOLLOW_ST ()
 	if (GetDistanceFromOwner(MyID) <= 3) then		--  DESTINATION_ARRIVED_IN 
 		MyState = IDLE_ST
 		TraceAI ("FOLLOW_ST -> IDLW_ST")
-		return;
+		return
 	elseif (GetV(V_MOTION,MyID) == MOTION_STAND) then
 		MoveToOwner (MyID)
 		TraceAI ("FOLLOW_ST -> FOLLOW_ST")
-		return;
+		return
 	end
 
 end
-
 
 
 
@@ -326,16 +297,15 @@ function	OnCHASE_ST ()
 		return
 	end
 
-	local x, y = GetV (V_POSITION,MyEnemy)
+	local x, y = GetV (V_POSITION_APPLY_SKILLATTACKRANGE, MyEnemy, MySkill, MySkillLevel)
 	if (MyDestX ~= x or MyDestY ~= y) then			-- DESTCHANGED_IN
-		MyDestX, MyDestY = GetV (V_POSITION,MyEnemy);
+		MyDestX, MyDestY = GetV (V_POSITION_APPLY_SKILLATTACKRANGE, MyEnemy, MySkill, MySkillLevel)
 		Move (MyID,MyDestX,MyDestY)
 		TraceAI ("CHASE_ST -> CHASE_ST : DESTCHANGED_IN")
 		return
 	end
 
 end
-
 
 
 
@@ -354,31 +324,22 @@ function	OnATTACK_ST ()
 		TraceAI ("ATTACK_ST -> IDLE_ST")
 		return
 	end
-	
-	CanHitEnemy ()
-
+		
 	if (false == IsInAttackSight(MyID,MyEnemy)) then  -- ENEMY_OUTATTACKSIGHT_IN
 		MyState = CHASE_ST
-		MyDestX, MyDestY = GetV (V_POSITION,MyEnemy);
+		MyDestX, MyDestY = GetV(V_POSITION_APPLY_SKILLATTACKRANGE, MyEnemy, MySkill, MySkillLevel)
 		Move (MyID,MyDestX,MyDestY)
 		TraceAI ("ATTACK_ST -> CHASE_ST  : ENEMY_OUTATTACKSIGHT_IN")
 		return
-	end			
-
-	local sp = GetV (V_SP,MyID)
-	if ( MyBestSkill ~= 0 and sp > MySP ) then
-		if (1 == SkillObject(MyID,MyBestSkillLevel,MyBestSkill,MyEnemy)) then
-			MyEnemy = 0
-			return 
-		end
 	end
-
+	
 	if (MySkill == 0) then
 		Attack (MyID,MyEnemy)
 	else
 		if (1 == SkillObject(MyID,MySkillLevel,MySkill,MyEnemy)) then
 			MyEnemy = 0
 		end
+		
 		MySkill = 0
 	end
 	TraceAI ("ATTACK_ST -> ATTACK_ST  : ENERGY_RECHARGED_IN")
@@ -386,7 +347,6 @@ function	OnATTACK_ST ()
 
 
 end
-
 
 
 
@@ -402,7 +362,6 @@ end
 
 
 
-
 function OnSTOP_CMD_ST ()
 
 
@@ -410,13 +369,10 @@ end
 
 
 
-
 function OnATTACK_OBJECT_CMD_ST ()
 
 	
-
 end
-
 
 
 
@@ -441,7 +397,6 @@ function OnATTACK_AREA_CMD_ST ()
 	end
 
 end
-
 
 
 
@@ -474,7 +429,6 @@ end
 
 
 
-
 function OnHOLD_CMD_ST ()
 
 	TraceAI ("OnHOLD_CMD_ST")
@@ -484,7 +438,7 @@ function OnHOLD_CMD_ST ()
 		if (d ~= -1 and d <= GetV(V_ATTACKRANGE,MyID)) then
 				Attack (MyID,MyEnemy)
 		else
-			MyEnemy = 0;
+			MyEnemy = 0
 		end
 		return
 	end
@@ -504,7 +458,6 @@ end
 
 
 
-
 function OnSKILL_OBJECT_CMD_ST ()
 	
 end
@@ -517,17 +470,13 @@ function OnSKILL_AREA_CMD_ST ()
 	TraceAI ("OnSKILL_AREA_CMD_ST")
 
 	local x , y = GetV (V_POSITION,MyID)
-	if (GetDistance(x,y,MyDestX,MyDestY) <= GetV(V_SKILLATTACKRANGE,MyID,MySkill)) then	-- DESTARRIVED_IN
+	if (GetDistance(x,y,MyDestX,MyDestY) <= GetV(V_SKILLATTACKRANGE_LEVEL, MyID, MySkill, MySkillLevel)) then	-- DESTARRIVED_IN
 		SkillGround (MyID,MySkillLevel,MySkill,MyDestX,MyDestY)
 		MyState = IDLE_ST
 		MySkill = 0
 	end
 
 end
-
-
-
-
 
 
 
@@ -562,11 +511,6 @@ function OnFOLLOW_CMD_ST ()
 	end
 	
 end
-
-
-
-
-
 
 
 
@@ -610,20 +554,15 @@ end
 
 
 
-
 function	GetMyEnemy (myid)
 	local result = 0
-
 	local type = GetV (V_MERTYPE,myid)
+	
 	if (type >= ARCHER01 and type <= SWORDMAN10) then
-		result = GetMyEnemyB (myid) 
+		result = GetMyEnemyA (myid)
 	else
 		result = GetMyEnemyB (myid)
 	end
-
---	if ( result >= 1078 and result <= 1085 ) then
---		result = 0
---	end	
 
 	return result
 end
@@ -644,7 +583,7 @@ function	GetMyEnemyA (myid)
 	for i,v in ipairs(actors) do
 		if (v ~= owner and v ~= myid) then
 			target = GetV (V_TARGET,v)
-			if (target == myid) then	
+			if (target == myid) then
 				enemys[index] = v
 				index = index+1
 			end
@@ -668,7 +607,6 @@ end
 
 
 
-
 -------------------------------------------
 --  선공형 GetMyEnemy
 -------------------------------------------
@@ -681,12 +619,9 @@ function	GetMyEnemyB (myid)
 	local type
 	for i,v in ipairs(actors) do
 		if (v ~= owner and v ~= myid) then
-			target = GetV (V_TARGET,v)
-			if (target == myid or target == owner or target == 0) then
-				if (1 == IsMonster(v))	then	
-					enemys[index] = v
-					index = index+1
-				end
+			if (1 == IsMonster(v))	then
+				enemys[index] = v
+				index = index+1
 			end
 		end
 	end
@@ -703,9 +638,6 @@ function	GetMyEnemyB (myid)
 
 	return result
 end
-
-
-
 
 
 
@@ -726,6 +658,7 @@ function AI(myid)
 		List.clear (ResCmdList)	-- 새로운 명령이 입력되면 예약 명령들은 삭제한다.  
 		ProcessCommand (msg)	-- 명령어 처리 
 	end
+
 		
 	-- 상태 처리 
  	if (MyState == IDLE_ST) then

@@ -1,10 +1,19 @@
-//weather#
-//prontera.rsw#
-//sakura#
-//weather#
-//pay_arche.rsw#
-//sakura#
 weather#
 comodo.rsw#
 pokjuk#
+weather#
+prontera.rsw#
+snow#
+weather#
+alberta.rsw#
+snow#
+weather#
+geffen.rsw#
+snow#
+weather#
+izlude.rsw#
+snow#
+weather#
+hugel.rsw#
+snow#
 //file end

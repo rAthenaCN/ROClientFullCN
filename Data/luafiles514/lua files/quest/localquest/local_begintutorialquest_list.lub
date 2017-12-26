@@ -1,18 +1,18 @@
 LOCAL_BeginTuTorialQuest_list = {
 					{
-						name = [[Beginner Tutorial]],
+						name = [[초보자튜토리얼]],
 						imagefile = [[ep_test_sample.bmp]],
 						list = {
 									{
-										name  =	[[Ragnarok, the Start of Journey]],
+										name  =	[[라그나로크 시작의 길]],
 										list = {
 												{
-													name =[[First step towards a new world]],
+													name =[[세상을 위한 첫걸음]],
 													scrfilename = [[BeginTutorialQuest]],
 													questID = 7472,
 												},
 												{
-													name =[[The most delicious on earth]],
+													name =[[세상에서 제일맛있는..]],
 													scrfilename = [[BeginTutorialQuest]],
 													questID = 11339,
 												},
