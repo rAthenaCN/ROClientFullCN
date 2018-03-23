@@ -1,1054 +1,3320 @@
-//-- ÃÖÁ¾°»½Å º»¼­¹ö 2018-03-19
+ama_dice_a.rsw#‚¨³Œ‘o˜Z#
+//----------------------------------------------------------
+dewata.rsw#ƒfƒƒ^#
+dew_in01.rsw#ƒfƒƒ^ º“à#
+dew_fild01.rsw#ƒfƒƒ^ƒtƒB[ƒ‹ƒh 01#
+dew_dun01.rsw#ƒNƒ‰ƒJƒg‰ÎR#
+dew_dun02.rsw#ƒCƒXƒ^ƒi“´ŒA#
+//----------------------------------------------------------
+hal10_jp01.rsw#ƒwƒ‹ƒwƒCƒ€Šw‰€#
+hal10_jp02.rsw#Î’YÌŒ@Š#
+//----------------------------------------------------------
+jp_ss_ev08.rsw#r–ì#
+//----------------------------------------------------------
+nyd_dun_jp.rsw#ƒCƒOƒhƒ‰ƒVƒ‹’†S•”#
+//----------------------------------------------------------
+dic_dun01.rsw#ƒJƒ~ƒ_ƒ‹ƒgƒ“ƒlƒ‹#
+dic_dun02.rsw#ƒXƒJƒ‰ƒoƒz[ƒ‹#
+dic_dun03.rsw#ƒXƒJƒ‰ƒoƒK[ƒfƒ“#
+dic_fild01.rsw#ƒJƒ~ƒ_ƒ‹R˜[ 01#
+dic_fild02.rsw#ƒJƒ~ƒ_ƒ‹R˜[ 02#
+dic_in01.rsw#ƒGƒ‹ƒfƒBƒJƒXƒeƒBƒX º“à#
+dicastes01.rsw#ƒTƒtƒ@‘°‚Ìñ“s ƒGƒ‹ƒfƒBƒJƒXƒeƒBƒX#
+dicastes02.rsw#ƒuƒ‹[ƒƒ”ƒ@ƒ‹ƒg#
+//----------------------------------------------------------
+jp_ss_ev01.rsw#ğê ƒfƒCƒuƒŒƒCƒN#
+jp_ss_ev02.rsw#–À‚¢‚ÌX#
+jp_ss_ev03.rsw#–À‚¢‚ÌX#
+jp_ss_ev04.rsw#X#
+jp_ss_ev05.rsw#`‚Ì“ssƒAƒ‹ƒxƒ‹ƒ^ º“à#
+jp_ss_ev06.rsw#ƒfƒŠƒeƒŠƒI‚ÌƒAƒWƒg#
+jp_ss_ev07.rsw#ƒfƒŠƒeƒŠƒI‚ÌƒAƒWƒg#
+//----------------------------------------------------------
+s_atelier.rsw#‰e‚ÌH–[#
+//----------------------------------------------------------
+ama_st1_a.rsw#ƒXƒe[ƒW1#
+ama_st1_b.rsw#ƒXƒe[ƒW1#
+ama_st1_c.rsw#ƒXƒe[ƒW1#
+ama_st1_d.rsw#ƒXƒe[ƒW1#
+ama_st2_a.rsw#ƒXƒe[ƒW3#
+ama_st2_b.rsw#ƒXƒe[ƒW3#
+ama_st2_c.rsw#ƒXƒe[ƒW3#
+ama_st2_d.rsw#ƒXƒe[ƒW3#
+ama_st3_a.rsw#ƒXƒe[ƒW2#
+ama_st3_b.rsw#ƒXƒe[ƒW2#
+ama_st3_c.rsw#ƒXƒe[ƒW2#
+ama_st3_d.rsw#ƒXƒe[ƒW2#
+ama_st4.rsw#ƒXƒe[ƒW4#
+ama_ev_fld.rsw#‚í‚©‚ç‚È‚¢Š#
+//----------------------------------------------------------
+brasilis.rsw#ƒuƒ‰ƒWƒŠƒX#
+bra_in01.rsw#ƒuƒ‰ƒWƒŠƒX º“à#
+bra_fild01.rsw#ƒuƒ‰ƒWƒŠƒXƒtƒB[ƒ‹ƒh 01#
+bra_dun01.rsw#‘ê‚Ì’†‚Ì“´ŒA 01#
+bra_dun02.rsw#‘ê‚Ì’†‚Ì“´ŒA 02#
+//----------------------------------------------------------
+jp_ev_in02.rsw#ƒ`ƒ‡ƒRƒŒ[ƒgHê#
+jp_rabo1.rsw#‚¨‰Ùq‹³º#
+//----------------------------------------------------------
+star1.rsw#—\‘I[A]1#
+palace1.rsw#—\‘I[B]1#
+castle1.rsw#ŒˆŸ[C]1#
+casino1.rsw#ŒˆŸ[D]1#
+sky1.rsw#ŒˆŸ[E]1#
+//----------------------------------------------------------
+ama_in_jp.rsw#Š±x_‚ÌĞ#
+//----------------------------------------------------------
+gate_5.rsw#’Ê˜H5#
+gate_6.rsw#’Ê˜H6#
+dimension_1.rsw#¸—ì‚ÌâK“ü‚èŒû#
+dimension_2.rsw#ˆÙŸŒ³2#
+dimension_3.rsw#ˆÙŸŒ³3#
+dimension_4.rsw#ˆÙŸŒ³4#
+dimension_5.rsw#ˆÙŸŒ³5#
+dimension_6.rsw#ˆÙŸŒ³6#
+//----------------------------------------------------------
+1@nyd.rsw#ƒj[ƒYƒwƒbƒO‚Ì‘ƒ#
+2@nyd.rsw#ƒj[ƒYƒwƒbƒO‚Ì‘ƒ#
+nyd_dun01.rsw#ƒCƒOƒhƒ‰ƒVƒ‹’†S•” 01#
+nyd_dun02.rsw#ƒCƒOƒhƒ‰ƒVƒ‹’†S•” 02#
+manuk.rsw#zR‚ÌŠX ƒ}ƒkƒN#
+man_fild02.rsw#ƒ}ƒkƒNƒtƒB[ƒ‹ƒh 02#
+man_in01.rsw#ƒ}ƒkƒN “à•”#
+splendide.rsw#‘OüŠî’n ƒXƒvƒŒƒ“ƒfƒBƒbƒh#
+spl_fild01.rsw#ƒXƒvƒŒƒ“ƒfƒBƒbƒhƒtƒB[ƒ‹ƒh 01#
+spl_in01.rsw#ƒXƒvƒŒƒ“ƒfƒBƒbƒh “à•”01#
+spl_in02.rsw#ƒXƒvƒŒƒ“ƒfƒBƒbƒh “à•”02#
+//----------------------------------------------------------
+jp_s_dun01.rsw#–Y‚ê‹‚ç‚ê‚½êŠ01i•Ê‚ê‚Ì“¹j#
+jp_s_dun02.rsw#•ó‚Ì–°‚é’¾–v‘D01#
+jp_s_dun03.rsw#•ó‚Ì–°‚é’¾–v‘D02#
+jp_s_dun04.rsw#–Y‚ê‹‚ç‚ê‚½êŠ04iŒÇ“Æ‚Ì“‡j#
+jp_s_dun05.rsw#–Y‚ê‹‚ç‚ê‚½êŠ05i–»ˆÃ‚Ì“´ŒA1j#
+jp_s_dun06.rsw#–Y‚ê‹‚ç‚ê‚½êŠ06i–»ˆÃ‚Ì“´ŒA2j#
+jp_s_dun07.rsw#–Y‚ê‹‚ç‚ê‚½êŠ07i–»ˆÃ‚Ì“´ŒA3j#
+jp_s_dun08.rsw#–Y‚ê‹‚ç‚ê‚½êŠ08i‚à‚¤ˆê‚Â‚ÌŠC’ê“´ŒA1j#
+jp_s_dun09.rsw#–Y‚ê‹‚ç‚ê‚½êŠ09i‚à‚¤ˆê‚Â‚ÌŠC’ê“´ŒA2j#
+jp_s_dun10.rsw#–Y‚ê‹‚ç‚ê‚½êŠ10iŠJ‚©‚¸‚Ì_“aj#
+jp_s_dun11.rsw#–Y‚ê‹‚ç‚ê‚½êŠ11i–\‹s‚Ì‹·ŠÔj#
+//----------------------------------------------------------
+//jp_rabo1.rsw#—Î‰»Œ¤‹†ŠA#
+//jp_rabo2.rsw#—Î‰»Œ¤‹†ŠB#
+//jp_rabo3.rsw#ƒg[ƒlƒbƒg‚Ì‰Æ#
+//jp_rabo4.rsw#—Î‰»Œ¤‹†ŠD#
+//jp_rabo5.rsw#—Î‰»Œ¤‹†ŠE#
+//jp_farm1.rsw#—Î‰»”¨A#
+//jp_farm2.rsw#—Î‰»”¨B#
+//jp_farm3.rsw#—Î‰»”¨C#
+//jp_farm4.rsw#—Î‰»”¨D#
+//jp_farm5.rsw#—Î‰»”¨E#
+//jp_garden1.rsw#—Î‰»‰€A#
+//jp_garden2.rsw#—Î‰»‰€B#
+//jp_garden3.rsw#—Î‰»‰€C#
+//jp_garden4.rsw#—Î‰»‰€D#
+//jp_garden5.rsw#—Î‰»‰€E#
+//jp_factory1.rsw#—Î‰»¸»ŠA#
+//jp_factory2.rsw#—Î‰»¸»ŠB#
+//jp_factory3.rsw#—Î‰»¸»ŠC#
+//jp_factory4.rsw#—Î‰»¸»ŠD#
+//jp_factory5.rsw#—Î‰»¸»ŠE#
+//----------------------------------------------------------
+ac_hr_1.rsw#“Á•Ê‹³º#
+ac_wh_1.rsw#’n‰º‘qŒÉ1#
+ac_wh_2.rsw#’n‰º‘qŒÉ2#
+ac_wh_3.rsw#’n‰º‘qŒÉ3#
+//----------------------------------------------------------
+bat_c01.rsw#ƒNƒŠ[ƒK[ƒtƒHƒ“ƒ~ƒbƒhƒKƒ‹ƒh#
+bat_c02.rsw#ƒNƒŠ[ƒK[ƒtƒHƒ“ƒ~ƒbƒhƒKƒ‹ƒh#
+bat_c03.rsw#ƒNƒŠ[ƒK[ƒtƒHƒ“ƒ~ƒbƒhƒKƒ‹ƒh#
+mid_camp.rsw#ƒ~ƒbƒhƒKƒ‹ƒh˜A‡ŒR’““Ô’n#
+mid_campin.rsw#ƒ~ƒbƒhƒKƒ‹ƒh˜A‡ŒR’““Ô’n“à•”#
+man_fild01.rsw#ƒ}ƒkƒNƒtƒB[ƒ‹ƒh 01#
+man_fild03.rsw#ƒ}ƒkƒNƒtƒB[ƒ‹ƒh 03#
+spl_fild02.rsw#ƒXƒvƒŒƒ“ƒfƒBƒbƒhƒtƒB[ƒ‹ƒh 02#
+spl_fild03.rsw#ƒXƒvƒŒƒ“ƒfƒBƒbƒhƒtƒB[ƒ‹ƒh 03#
+moc_fild22b.rsw#‹ó‚Ì—ô‚¯–Ú#
+que_dan01.rsw#ƒtƒBƒQƒ‹ƒtƒB[ƒ‹ƒh#
+que_dan02.rsw#ƒWƒ…ƒm[‚ÌÌ‚Ä‚ç‚ê‚½‰Æ“à•”#
+1@orcs.rsw#ƒI[ƒN’n‰º“´ŒA 01i‰ß‹j#
+2@orcs.rsw#ƒI[ƒN’n‰º“´ŒA 02i‰ß‹j#
+//----------------------------------------------------------
+//jp_n_room.rsw#“ä‚Ì‹óŠÔiƒƒr[j#
+//jp_n_f01.rsw#‰Î‚Ì–‚‹« 01#
+//jp_n_f02.rsw#‰Î‚Ì–‚‹« 02#
+//jp_n_f03.rsw#‰Î‚Ì–‚‹« 03#
+//jp_n_wa01.rsw#…‚Ì–‚‹« 01#
+//jp_n_wa02.rsw#…‚Ì–‚‹« 02#
+//jp_n_wa03.rsw#…‚Ì–‚‹« 03#
+//jp_n_wi01.rsw#•—‚Ì–‚‹« 01#
+//jp_n_wi02.rsw#•—‚Ì–‚‹« 02#
+//jp_n_wi03.rsw#•—‚Ì–‚‹« 03#
+//jp_n_g01.rsw#’n‚Ì–‚‹« 01#
+//jp_n_g02.rsw#’n‚Ì–‚‹« 02#
+//jp_n_g03.rsw#’n‚Ì–‚‹« 03#
+//jp_n_n01.rsw#•s€‚Ì–‚‹« 01#
+//jp_n_n02.rsw#•s€‚Ì–‚‹« 02#
+//jp_n_n03.rsw#•s€‚Ì–‚‹« 03#
+//jp_n_top.rsw#–‚‹«ÅãŠK#
+//NEW-NET---------------------------------------------------
+jp_n_room.rsw#“ä‚ÌŒP—ûŠiƒƒr[j#
+jp_n_n01.rsw#‰‹‰ŒP—ûŠ 01#
+jp_n_n02.rsw#‰‹‰ŒP—ûŠ 02#
+jp_n_n03.rsw#‰‹‰ŒP—ûŠ 03#
+jp_n_g01.rsw#’†‹‰ŒP—ûŠ 01#
+jp_n_g02.rsw#’†‹‰ŒP—ûŠ 02#
+jp_n_g03.rsw#’†‹‰ŒP—ûŠ 03#
+jp_n_wi01.rsw#ã‹‰ŒP—ûŠ 01#
+jp_n_wi02.rsw#ã‹‰ŒP—ûŠ 02#
+jp_n_wi03.rsw#ã‹‰ŒP—ûŠ 03#
+jp_n_wa01.rsw#ÅIŒP—ûŠ 01#
+jp_n_wa02.rsw#ÅIŒP—ûŠ 02#
+jp_n_wa03.rsw#ÅIŒP—ûŠ 03#
+jp_n_top.rsw#ŒP—ûŠÅãŠK#
+//----RJC------------------------------------------------------
+//rjc_main_n.rsw#ƒCƒYƒ‹[ƒhu—\‘Iv#
+//rjc_main_f.rsw#ƒCƒYƒ‹[ƒhuŒˆŸv#
+//rjc_pro.rsw#ƒvƒƒ“ƒeƒ‰u—ûKv#
+//rjc_gef.rsw#ƒQƒtƒFƒ“u—ûKv#
+//rjc_alb.rsw#ƒAƒ‹ƒxƒ‹ƒ^u—ûKv#
+//rjc_moc.rsw#ƒ‚ƒƒNu—ûKv#
+//rjc_check_n.rsw#‘Ò‹@ºu—\‘Iv#
+//rjc_check_f.rsw#‘Ò‹@ºuŒˆŸv#
+//rjc_pk1_n.rsw#ƒXƒLƒ‹’²®1u—\‘Iv#
+//rjc_pk2_n.rsw#ƒXƒLƒ‹’²®2u—\‘Iv#
+//rjc_pk1_f.rsw#ƒXƒLƒ‹’²®1uŒˆŸv#
+//rjc_pk2_f.rsw#ƒXƒLƒ‹’²®2uŒˆŸv#
+//rjc_pk1_p.rsw#ƒXƒLƒ‹’²®1u—ûKv#
+//rjc_pk2_p.rsw#ƒXƒLƒ‹’²®2u—ûKv#
+//rjc_1a_n.rsw#—\‘I‰ïê1uƒ}ƒbƒvAv#
+//rjc_1b_n.rsw#—\‘I‰ïê1uƒ}ƒbƒvBv#
+//rjc_1c_n.rsw#—\‘I‰ïê1uƒ}ƒbƒvCv#
+//rjc_1d_n.rsw#—\‘I‰ïê1uƒ}ƒbƒvDv#
+//rjc_2a_n.rsw#—\‘I‰ïê2uƒ}ƒbƒvAv#
+//rjc_2b_n.rsw#—\‘I‰ïê2uƒ}ƒbƒvBv#
+//rjc_2c_n.rsw#—\‘I‰ïê2uƒ}ƒbƒvCv#
+//rjc_2d_n.rsw#—\‘I‰ïê2uƒ}ƒbƒvDv#
+//rjc_3a_n.rsw#—\‘I‰ïê3uƒ}ƒbƒvAv#
+//rjc_3b_n.rsw#—\‘I‰ïê3uƒ}ƒbƒvBv#
+//rjc_3c_n.rsw#—\‘I‰ïê3uƒ}ƒbƒvCv#
+//rjc_3d_n.rsw#—\‘I‰ïê3uƒ}ƒbƒvDv#
+//rjc_4a_n.rsw#—\‘I‰ïê4uƒ}ƒbƒvAv#
+//rjc_4b_n.rsw#—\‘I‰ïê4uƒ}ƒbƒvBv#
+//rjc_4c_n.rsw#—\‘I‰ïê4uƒ}ƒbƒvCv#
+//rjc_4d_n.rsw#—\‘I‰ïê4uƒ}ƒbƒvDv#
+//rjc_1a_f.rsw#ŒˆŸ‰ïê1uƒ}ƒbƒvAv#
+//rjc_1b_f.rsw#ŒˆŸ‰ïê1uƒ}ƒbƒvBv#
+//rjc_1c_f.rsw#ŒˆŸ‰ïê1uƒ}ƒbƒvCv#
+//rjc_1d_f.rsw#ŒˆŸ‰ïê1uƒ}ƒbƒvDv#
+//rjc_2a_f.rsw#ŒˆŸ‰ïê2uƒ}ƒbƒvAv#
+//rjc_2b_f.rsw#ŒˆŸ‰ïê2uƒ}ƒbƒvBv#
+//rjc_2c_f.rsw#ŒˆŸ‰ïê2uƒ}ƒbƒvCv#
+//rjc_2d_f.rsw#ŒˆŸ‰ïê2uƒ}ƒbƒvDv#
+//rjc_3a_f.rsw#ŒˆŸ‰ïê3uƒ}ƒbƒvAv#
+//rjc_3b_f.rsw#ŒˆŸ‰ïê3uƒ}ƒbƒvBv#
+//rjc_3c_f.rsw#ŒˆŸ‰ïê3uƒ}ƒbƒvCv#
+//rjc_3d_f.rsw#ŒˆŸ‰ïê3uƒ}ƒbƒvDv#
+//rjc_4a_f.rsw#ŒˆŸ‰ïê4uƒ}ƒbƒvAv#
+//rjc_4b_f.rsw#ŒˆŸ‰ïê4uƒ}ƒbƒvBv#
+//rjc_4c_f.rsw#ŒˆŸ‰ïê4uƒ}ƒbƒvCv#
+//rjc_4d_f.rsw#ŒˆŸ‰ïê4uƒ}ƒbƒvDv#
+//rjc_1a_p_p.rsw#ƒvƒƒ“ƒeƒ‰—ûK‰ïê1uƒ}ƒbƒvAv#
+//rjc_1b_p_p.rsw#ƒvƒƒ“ƒeƒ‰—ûK‰ïê1uƒ}ƒbƒvBv#
+//rjc_1c_p_p.rsw#ƒvƒƒ“ƒeƒ‰—ûK‰ïê1uƒ}ƒbƒvCv#
+//rjc_1d_p_p.rsw#ƒvƒƒ“ƒeƒ‰—ûK‰ïê1uƒ}ƒbƒvDv#
+//rjc_2a_p_p.rsw#ƒvƒƒ“ƒeƒ‰—ûK‰ïê2uƒ}ƒbƒvAv#
+//rjc_2b_p_p.rsw#ƒvƒƒ“ƒeƒ‰—ûK‰ïê2uƒ}ƒbƒvBv#
+//rjc_2c_p_p.rsw#ƒvƒƒ“ƒeƒ‰—ûK‰ïê2uƒ}ƒbƒvCv#
+//rjc_2d_p_p.rsw#ƒvƒƒ“ƒeƒ‰—ûK‰ïê2uƒ}ƒbƒvDv#
+//rjc_3a_p_p.rsw#ƒvƒƒ“ƒeƒ‰—ûK‰ïê3uƒ}ƒbƒvAv#
+//rjc_3b_p_p.rsw#ƒvƒƒ“ƒeƒ‰—ûK‰ïê3uƒ}ƒbƒvBv#
+//rjc_3c_p_p.rsw#ƒvƒƒ“ƒeƒ‰—ûK‰ïê3uƒ}ƒbƒvCv#
+//rjc_3d_p_p.rsw#ƒvƒƒ“ƒeƒ‰—ûK‰ïê3uƒ}ƒbƒvDv#
+//rjc_4a_p_p.rsw#ƒvƒƒ“ƒeƒ‰—ûK‰ïê4uƒ}ƒbƒvAv#
+//rjc_4b_p_p.rsw#ƒvƒƒ“ƒeƒ‰—ûK‰ïê4uƒ}ƒbƒvBv#
+//rjc_4c_p_p.rsw#ƒvƒƒ“ƒeƒ‰—ûK‰ïê4uƒ}ƒbƒvCv#
+//rjc_4d_p_p.rsw#ƒvƒƒ“ƒeƒ‰—ûK‰ïê4uƒ}ƒbƒvDv#
+//rjc_1a_g_p.rsw#ƒQƒtƒFƒ“—ûK‰ïê1uƒ}ƒbƒvAv#
+//rjc_1b_g_p.rsw#ƒQƒtƒFƒ“—ûK‰ïê1uƒ}ƒbƒvBv#
+//rjc_1c_g_p.rsw#ƒQƒtƒFƒ“—ûK‰ïê1uƒ}ƒbƒvCv#
+//rjc_1d_g_p.rsw#ƒQƒtƒFƒ“—ûK‰ïê1uƒ}ƒbƒvDv#
+//rjc_2a_g_p.rsw#ƒQƒtƒFƒ“—ûK‰ïê2uƒ}ƒbƒvAv#
+//rjc_2b_g_p.rsw#ƒQƒtƒFƒ“—ûK‰ïê2uƒ}ƒbƒvBv#
+//rjc_2c_g_p.rsw#ƒQƒtƒFƒ“—ûK‰ïê2uƒ}ƒbƒvCv#
+//rjc_2d_g_p.rsw#ƒQƒtƒFƒ“—ûK‰ïê2uƒ}ƒbƒvDv#
+//rjc_3a_g_p.rsw#ƒQƒtƒFƒ“—ûK‰ïê3uƒ}ƒbƒvAv#
+//rjc_3b_g_p.rsw#ƒQƒtƒFƒ“—ûK‰ïê3uƒ}ƒbƒvBv#
+//rjc_3c_g_p.rsw#ƒQƒtƒFƒ“—ûK‰ïê3uƒ}ƒbƒvCv#
+//rjc_3d_g_p.rsw#ƒQƒtƒFƒ“—ûK‰ïê3uƒ}ƒbƒvDv#
+//rjc_4a_g_p.rsw#ƒQƒtƒFƒ“—ûK‰ïê4uƒ}ƒbƒvAv#
+//rjc_4b_g_p.rsw#ƒQƒtƒFƒ“—ûK‰ïê4uƒ}ƒbƒvBv#
+//rjc_4c_g_p.rsw#ƒQƒtƒFƒ“—ûK‰ïê4uƒ}ƒbƒvCv#
+//rjc_4d_g_p.rsw#ƒQƒtƒFƒ“—ûK‰ïê4uƒ}ƒbƒvDv#
+//rjc_1a_a_p.rsw#ƒAƒ‹ƒxƒ‹ƒ^—ûK‰ïê1uƒ}ƒbƒvAv#
+//rjc_1b_a_p.rsw#ƒAƒ‹ƒxƒ‹ƒ^—ûK‰ïê1uƒ}ƒbƒvBv#
+//rjc_1c_a_p.rsw#ƒAƒ‹ƒxƒ‹ƒ^—ûK‰ïê1uƒ}ƒbƒvCv#
+//rjc_1d_a_p.rsw#ƒAƒ‹ƒxƒ‹ƒ^—ûK‰ïê1uƒ}ƒbƒvDv#
+//rjc_2a_a_p.rsw#ƒAƒ‹ƒxƒ‹ƒ^—ûK‰ïê2uƒ}ƒbƒvAv#
+//rjc_2b_a_p.rsw#ƒAƒ‹ƒxƒ‹ƒ^—ûK‰ïê2uƒ}ƒbƒvBv#
+//rjc_2c_a_p.rsw#ƒAƒ‹ƒxƒ‹ƒ^—ûK‰ïê2uƒ}ƒbƒvCv#
+//rjc_2d_a_p.rsw#ƒAƒ‹ƒxƒ‹ƒ^—ûK‰ïê2uƒ}ƒbƒvDv#
+//rjc_3a_a_p.rsw#ƒAƒ‹ƒxƒ‹ƒ^—ûK‰ïê3uƒ}ƒbƒvAv#
+//rjc_3b_a_p.rsw#ƒAƒ‹ƒxƒ‹ƒ^—ûK‰ïê3uƒ}ƒbƒvBv#
+//rjc_3c_a_p.rsw#ƒAƒ‹ƒxƒ‹ƒ^—ûK‰ïê3uƒ}ƒbƒvCv#
+//rjc_3d_a_p.rsw#ƒAƒ‹ƒxƒ‹ƒ^—ûK‰ïê3uƒ}ƒbƒvDv#
+//rjc_4a_a_p.rsw#ƒAƒ‹ƒxƒ‹ƒ^—ûK‰ïê4uƒ}ƒbƒvAv#
+//rjc_4b_a_p.rsw#ƒAƒ‹ƒxƒ‹ƒ^—ûK‰ïê4uƒ}ƒbƒvBv#
+//rjc_4c_a_p.rsw#ƒAƒ‹ƒxƒ‹ƒ^—ûK‰ïê4uƒ}ƒbƒvCv#
+//rjc_4d_a_p.rsw#ƒAƒ‹ƒxƒ‹ƒ^—ûK‰ïê4uƒ}ƒbƒvDv#
+//rjc_1a_m_p.rsw#ƒ‚ƒƒN—ûK‰ïê1uƒ}ƒbƒvAv#
+//rjc_1b_m_p.rsw#ƒ‚ƒƒN—ûK‰ïê1uƒ}ƒbƒvBv#
+//rjc_1c_m_p.rsw#ƒ‚ƒƒN—ûK‰ïê1uƒ}ƒbƒvCv#
+//rjc_1d_m_p.rsw#ƒ‚ƒƒN—ûK‰ïê1uƒ}ƒbƒvDv#
+//rjc_2a_m_p.rsw#ƒ‚ƒƒN—ûK‰ïê2uƒ}ƒbƒvAv#
+//rjc_2b_m_p.rsw#ƒ‚ƒƒN—ûK‰ïê2uƒ}ƒbƒvBv#
+//rjc_2c_m_p.rsw#ƒ‚ƒƒN—ûK‰ïê2uƒ}ƒbƒvCv#
+//rjc_2d_m_p.rsw#ƒ‚ƒƒN—ûK‰ïê2uƒ}ƒbƒvDv#
+//rjc_3a_m_p.rsw#ƒ‚ƒƒN—ûK‰ïê3uƒ}ƒbƒvAv#
+//rjc_3b_m_p.rsw#ƒ‚ƒƒN—ûK‰ïê3uƒ}ƒbƒvBv#
+//rjc_3c_m_p.rsw#ƒ‚ƒƒN—ûK‰ïê3uƒ}ƒbƒvCv#
+//rjc_3d_m_p.rsw#ƒ‚ƒƒN—ûK‰ïê3uƒ}ƒbƒvDv#
+//rjc_4a_m_p.rsw#ƒ‚ƒƒN—ûK‰ïê4uƒ}ƒbƒvAv#
+//rjc_4b_m_p.rsw#ƒ‚ƒƒN—ûK‰ïê4uƒ}ƒbƒvBv#
+//rjc_4c_m_p.rsw#ƒ‚ƒƒN—ûK‰ïê4uƒ}ƒbƒvCv#
+//rjc_4d_m_p.rsw#ƒ‚ƒƒN—ûK‰ïê4uƒ}ƒbƒvDv#
+//rjc_gm_room.rsw#’²¸—pƒ}ƒbƒv#
+//rjc_new_1-1.rsw#’²¸—pƒ}ƒbƒv#
+//rjc_new_2-1.rsw#’²¸—pƒ}ƒbƒv#
+//rjc_new_3-1.rsw#’²¸—pƒ}ƒbƒv#
+//rjc_new_4-1.rsw#’²¸—pƒ}ƒbƒv#
+//rjc_new_5-1.rsw#’²¸—pƒ}ƒbƒv#
+//----------------------------------------------------------
+1@cata.rsw#••ˆó‚³‚ê‚½_“ai•æ’nj#
+2@cata.rsw#••ˆó‚³‚ê‚½_“ai‘å••ˆóÕ’dj#
+//----------------------------------------------------------
+e_tower.rsw#ƒ~ƒXƒeƒB[ƒAƒCƒ‰ƒ“ƒh#
+1@tower.rsw#ƒGƒ“ƒhƒŒƒXƒ^ƒ[ 1‘wi1`25Fj#
+2@tower.rsw#ƒGƒ“ƒhƒŒƒXƒ^ƒ[ 2‘wi26`50Fj#
+3@tower.rsw#ƒGƒ“ƒhƒŒƒXƒ^ƒ[ 3‘wi51`75Fj#
+4@tower.rsw#ƒGƒ“ƒhƒŒƒXƒ^ƒ[ 4‘wi76`99Fj#
+5@tower.rsw#ƒGƒ“ƒhƒŒƒXƒ^ƒ[ 5‘wi100Fj#
+6@tower.rsw#ƒGƒ“ƒhƒŒƒXƒ^ƒ[ ”e‰¤‚ÌŠÔ#
+//----------------------------------------------------------
+schg_que01.rsw#ƒ‚ƒAƒXƒg[ƒ“‚Ì‘Œ´#
+schg_dun01.rsw#ƒMƒ‹ƒhƒ_ƒ“ƒWƒ‡ƒ“ ƒVƒ…ƒoƒ‹ƒcƒoƒ‹ƒh#
+arug_que01.rsw#ƒ‚ƒAƒXƒg[ƒ“‚Ì‘Œ´#
+arug_dun01.rsw#ƒMƒ‹ƒhƒ_ƒ“ƒWƒ‡ƒ“ ƒAƒ‹ƒiƒxƒ‹ƒc#
+//----------------------------------------------------------
+jpe_prt_in.rsw#ñ“sƒvƒƒ“ƒeƒ‰ º“à#
+//----------------------------------------------------------
+que_qsch01.rsw#‹•‘œ‚ÌƒI[ƒRƒ‹ƒjƒ‹#
+que_qsch02.rsw#‹•‘œ‚ÌƒI[ƒRƒ‹ƒjƒ‹#
+que_qsch03.rsw#‹•‘œ‚ÌƒI[ƒRƒ‹ƒjƒ‹#
+que_qsch04.rsw#‹•‘œ‚ÌƒI[ƒRƒ‹ƒjƒ‹#
+que_qsch05.rsw#‹•‘œ‚ÌƒI[ƒRƒ‹ƒjƒ‹#
+que_qaru01.rsw#‹•‘œ‚ÌƒI[ƒRƒ‹ƒjƒ‹#
+que_qaru02.rsw#‹•‘œ‚ÌƒI[ƒRƒ‹ƒjƒ‹#
+que_qaru03.rsw#‹•‘œ‚ÌƒI[ƒRƒ‹ƒjƒ‹#
+que_qaru04.rsw#‹•‘œ‚ÌƒI[ƒRƒ‹ƒjƒ‹#
+que_qaru05.rsw#‹•‘œ‚ÌƒI[ƒRƒ‹ƒjƒ‹#
+arug_cas01.rsw#ƒ”ƒ@ƒ‹ƒtƒŒƒCƒ„ Ô1#
+arug_cas02.rsw#ƒ”ƒ@ƒ‹ƒtƒŒƒCƒ„ Ô2#
+arug_cas03.rsw#ƒ”ƒ@ƒ‹ƒtƒŒƒCƒ„ Ô3#
+arug_cas04.rsw#ƒ”ƒ@ƒ‹ƒtƒŒƒCƒ„ Ô4#
+arug_cas05.rsw#ƒ”ƒ@ƒ‹ƒtƒŒƒCƒ„ Ô5#
+aru_gld.rsw#ƒ”ƒ@ƒ‹ƒtƒŒƒCƒ„#
+schg_cas01.rsw#ƒjƒ_ƒ”ƒFƒŠ[ƒ‹ Ô1#
+schg_cas02.rsw#ƒjƒ_ƒ”ƒFƒŠ[ƒ‹ Ô2#
+schg_cas03.rsw#ƒjƒ_ƒ”ƒFƒŠ[ƒ‹ Ô3#
+schg_cas04.rsw#ƒjƒ_ƒ”ƒFƒŠ[ƒ‹ Ô4#
+schg_cas05.rsw#ƒjƒ_ƒ”ƒFƒŠ[ƒ‹ Ô5#
+sch_gld.rsw#ƒjƒ_ƒ”ƒFƒŠ[ƒ‹#
+//----------------------------------------------------------
+in_rogue2.rsw#ƒ[ƒOƒMƒ‹ƒh#
+//----------------------------------------------------------
+cave.rsw#“´ŒA‚Ì‘º#
+moc_fild20.rsw#ŸŒ³‚Ì‹·ŠÔ 01#
+moc_fild21.rsw#ŸŒ³‚Ì‹·ŠÔ 02#
+moc_fild22.rsw#ŸŒ³‚Ì‹·ŠÔ 03#
+//----------------------------------------------------------
+moscovia.rsw#ƒ‚ƒXƒRƒrƒA#
+mosk_in.rsw#ƒ‚ƒXƒRƒrƒA “à•”#
+mosk_ship.rsw#‘D#
+mosk_fild01.rsw#ƒNƒWƒ‰“‡#
+mosk_fild02.rsw#ƒ‚ƒXƒRƒrƒAƒtƒB[ƒ‹ƒh#
+mosk_dun01.rsw#X#
+mosk_dun02.rsw#[‚¢X#
+mosk_dun03.rsw#‰œ[‚¢X#
+//----------------------------------------------------------
+ac_en_hall.rsw#ƒGƒ“ƒgƒ‰ƒ“ƒXƒz[ƒ‹#
+ac_cl_hall.rsw#‹³º“ƒz[ƒ‹#
+ac_cl_room.rsw#‹³º“A#
+ac_cl_area.rsw#‹³º“B#
+ac_library.rsw#}‘º#
+ac_prac_01.rsw#ÀKºiŠCŠİj#
+ac_prac_02.rsw#ÀKºi“‡j#
+ac_prac_03.rsw#ÀKºi‚Œ´j#
+ac_prac_04.rsw#ÀKºi’Yzj#
+ac_prac_05.rsw#ÀKºi»”™j#
+ac_spec_01.rsw#“Á•ÊºiŒÎj#
+ac_spec_02.rsw#“Á•Êºi”pšĞj#
+ac_spec_03.rsw#“Á•Êºi’n‰º“¹j#
+//----------------------------------------------------------
+nameless_i.rsw#–¼‚à‚È‚«“‡ ’©#
+nameless_n.rsw#–¼‚à‚È‚«“‡ –é#
+nameless_in.rsw#–¼‚à‚È‚«“‡ “à•”#
+abbey01.rsw#C“¹‰@ 01#
+abbey02.rsw#C“¹‰@ 02#
+abbey03.rsw#C“¹‰@ 03#
+que_temsky.rsw#‹³c·–±ºi‹ó’†’ë‰€j#
+z_agit.rsw#Z’c‚ÌƒAƒWƒg#
+//----------------------------------------------------------
+jp_dan01.rsw#’n‰º‘å‹ó“´01i”ª³˜Hj#
+jp_dan02.rsw#’n‰º‘å‹ó“´02ilƒc•”‰®j#
+jp_dan03.rsw#’n‰º‘å‹ó“´03i‰QŠª‚«‚Ì˜Hj#
+jp_dan04.rsw#Œˆíê#
+jp_dan05.rsw#’n‰º‘å‹ó“´05ilŠp‹ó“´1j#
+jp_dan06.rsw#’n‰º‘å‹ó“´06i–Ô‚Ì–Ú‚Ì˜H1j#
+jp_dan07.rsw#’n‰º‘å‹ó“´07ilŠp‹ó“´2j#
+jp_dan08.rsw#ƒAƒWƒgƒ_ƒ“ƒWƒ‡ƒ“#
+jp_dan09.rsw#’n‰º‘å‹ó“´09iå‡‹C˜O‚Ìéj#
+jp_dan10.rsw#’n‰º‘å‹ó“´10iŒ¶˜f‚ÌXj#
+jp_dan11.rsw#’n‰º‘å‹ó“´11iŒ´ß‚Ì‹ó“´j#
+jp_dan12.rsw#’n‰º‘å‹ó“´12iÅ‚à[‚«‹ó“´j#
 
-// ÀÏ·çÀü Å×µğº£¾î ³ª»ç¸®¾È Á¦±¹
-ein_d02_i.rsw#³ª»ç¸®¾È Á¦±¹#
+//----------------------------------------------------------
+jp_stage_a.rsw#ƒXƒe[ƒW#
+jp_castle.rsw#ƒnƒƒEƒB[ƒ“‚Ìé#
+jp_ruins.rsw#”pšĞ‚Ì»•l#
+jp_magic.rsw#–‚–@g‚¢‚Ì‰Æ#
+jp_stage_b.rsw#ƒXƒe[ƒW#
+jp_dress_a.rsw#Šy‰®#
+jp_dress_b.rsw#Šy‰®#
 
-//-- È¯¿µÀÇ È¸¶û
-vis_h01.rsw#È¯¿µÀÇ È¸¶û 1Ãş#
-vis_h02.rsw#È¯¿µÀÇ È¸¶û 2Ãş#
-vis_h03.rsw#È¯¿µÀÇ È¸¶û 3Ãş#
-vis_h04.rsw#È¯¿µÀÇ È¸¶û 4Ãş#
+anothership.rsw#‚à‚¤‚Ğ‚Æ‚Â‚Ì’¾–v‘D#
 
-//°í¼º »ó±Ş ¸Ş¸ğ¸®¾ó´øÀü
-2@gl_kh.rsw#¿¾±â»ç´Ü2Ãş#
-1@gl_kh.rsw#¿¾±â»ç´Ü1Ãş#
+//SpeedStar’Ç‰Á
 
-// 11¿ù »ç³É´ëÈ¸
-hu_fild03.rsw#»ç³ÉÅÍ#
-prt_evt_in.rsw#»ç³ÉÅÍÀÇ ¿ÀµÎ¸·#
+pvp_2vs2b.rsw#ƒCƒxƒ“ƒgƒz[ƒ‹#
+pvp_2vs2c.rsw#ƒCƒxƒ“ƒgƒz[ƒ‹#
 
-// ²Ş°ú ±×¸²ÀÚ (ÁöÅÍ¹÷ °³Æí)
-1@jtb.rsw#²Ş°ú ±×¸²ÀÚ#
+//RWC2007’Ç‰Á
 
-// XÁÖ³â
-x_prt.rsw#Â÷¿ø³Ê¸ÓÀÇ ÇÁ·ĞÅ×¶ó#
-x_lhz.rsw#Â÷¿ø³Ê¸ÓÀÇ ¸®È÷Å¸¸£Á¨#
-x_ra.rsw#Â÷¿ø³Ê¸ÓÀÇ ¶óÇï#
+//2007rwc_r.rsw#RWC ‘Ò‹@º#
+//2007rwc_01.rsw#RWC#
+//2007rwc_02.rsw#RWC#
+//2007rwc_03.rsw#RWC#
+//2007rwc_04.rsw#RWC#
+//2007rwc_05.rsw#RWC#
+//2007rwc_06.rsw#RWC#
+//2007rwc_07.rsw#RWC#
+//2007rwc_08.rsw#RWC#
 
-// 7¿ù ±¹¼ö ÃàÁ¦
-lasa_sea.rsw#³ÄÀÏ±¼#
-1@drdo.rsw#Àü¼³ÀÇ µµ¶óµµ#
+//---------------Episode 11.2 Veins--------------------------
+veins.rsw#‹¬’J“ssƒxƒCƒ“ƒX#
+ve_in.rsw#ƒxƒCƒ“ƒX º“à#
+ve_in02.rsw#ƒxƒCƒ“ƒX º“à#
+ve_fild01.rsw#ƒxƒCƒ“ƒXƒtƒB[ƒ‹ƒh 01#
+ve_fild02.rsw#ƒxƒCƒ“ƒXƒtƒB[ƒ‹ƒh 02#
+ve_fild03.rsw#ƒxƒCƒ“ƒXƒtƒB[ƒ‹ƒh 03#
+ve_fild04.rsw#ƒxƒCƒ“ƒXƒtƒB[ƒ‹ƒh 04#
+ve_fild05.rsw#ƒxƒCƒ“ƒXƒtƒB[ƒ‹ƒh 05#
+ve_fild06.rsw#ƒxƒCƒ“ƒXƒtƒB[ƒ‹ƒh 06#
+ve_fild07.rsw#ƒxƒCƒ“ƒXƒtƒB[ƒ‹ƒh 07#
+thor_camp.rsw#ƒg[ƒ‹‰ÎR•ºâ‹Šî’n#
+que_thor.rsw#ƒg[ƒ‹‰ÎRƒ_ƒ“ƒWƒ‡ƒ“#
+thor_v01.rsw#ƒg[ƒ‹‰ÎRƒ_ƒ“ƒWƒ‡ƒ“ 01#
+thor_v02.rsw#ƒg[ƒ‹‰ÎRƒ_ƒ“ƒWƒ‡ƒ“ 02#
+thor_v03.rsw#ƒg[ƒ‹‰ÎRƒ_ƒ“ƒWƒ‡ƒ“ 03#
 
-//´ÑÀÚ °Ç½½ ÀüÁ÷¼Ò
-que_ng.rsw#¾Ë ¼ö ¾ø´Â °÷#
+//---------------------Episode 11.1 Aruna felts_city of rachel--------------------------
+//06guild_r.rsw#ƒMƒ‹ƒh‘ÎR‹£‹Zê ‘Ò‡º#
+//06guild_01.rsw#ƒMƒ‹ƒh‘ÎR‹£‹Zê 01#
+//06guild_02.rsw#ƒMƒ‹ƒh‘ÎR‹£‹Zê 02#
+//06guild_03.rsw#ƒMƒ‹ƒh‘ÎR‹£‹Zê 03#
+//06guild_04.rsw#ƒMƒ‹ƒh‘ÎR‹£‹Zê 04#
+//06guild_05.rsw#ƒMƒ‹ƒh‘ÎR‹£‹Zê 05#
+//06guild_06.rsw#ƒMƒ‹ƒh‘ÎR‹£‹Zê 06#
+//06guild_07.rsw#ƒMƒ‹ƒh‘ÎR‹£‹Zê 07#
+//06guild_08.rsw#ƒMƒ‹ƒh‘ÎR‹£‹Zê 08#
+rachel.rsw#ƒAƒ‹ƒiƒxƒ‹ƒc‹³‘ñ“s ƒ‰ƒwƒ‹#
+ra_in01.rsw#ƒ‰ƒwƒ‹ º“à01#
+ra_temple.rsw#ƒtƒŒƒCƒ„‘å_“aiƒZƒXƒ‹ƒ€ƒjƒ‹j#
+ra_temin.rsw#ƒtƒŒƒCƒ„‘å_“a º“à#
+que_rachel.rsw#ƒtƒŒƒCƒ„‘å_“a º“à#
+ra_temsky.rsw#‹³c·–±ºi‹ó’†’ë‰€j#
+ra_fild01.rsw#ƒ‰ƒwƒ‹ƒtƒB[ƒ‹ƒh 01iƒAƒEƒhƒ€ƒ‰‘Œ´j#
+ra_fild02.rsw#ƒ‰ƒwƒ‹ƒtƒB[ƒ‹ƒh 02iƒIƒY‹·’Jj#
+ra_fild03.rsw#ƒ‰ƒwƒ‹ƒtƒB[ƒ‹ƒh 03iƒCƒ_•½Œ´j#
+ra_fild04.rsw#ƒ‰ƒwƒ‹ƒtƒB[ƒ‹ƒh 04iƒAƒEƒhƒ€ƒ‰‘Œ´j#
+ra_fild05.rsw#ƒ‰ƒwƒ‹ƒtƒB[ƒ‹ƒh 05iƒAƒEƒhƒ€ƒ‰‘Œ´j#
+ra_fild06.rsw#ƒ‰ƒwƒ‹ƒtƒB[ƒ‹ƒh 06iƒ|ƒ‹ƒgƒ‹ƒij#
+ra_fild07.rsw#ƒ‰ƒwƒ‹ƒtƒB[ƒ‹ƒh 07iƒIƒY‹·’Jj#
+ra_fild08.rsw#ƒ‰ƒwƒ‹ƒtƒB[ƒ‹ƒh 08iƒCƒ_•½Œ´j#
+ra_fild09.rsw#ƒ‰ƒwƒ‹ƒtƒB[ƒ‹ƒh 09iƒAƒEƒhƒ€ƒ‰‘Œ´j#
+ra_fild10.rsw#ƒ‰ƒwƒ‹ƒtƒB[ƒ‹ƒh 10iƒIƒY‹·’Jj#
+ra_fild12.rsw#ƒ‰ƒwƒ‹ƒtƒB[ƒ‹ƒh 12iƒCƒ_•½Œ´j#
+ra_fild13.rsw#ƒ‰ƒwƒ‹ƒtƒB[ƒ‹ƒh 13i—Ü‚ÌŠCŠİj#
+ra_san01.rsw#ƒtƒŒƒCƒ„‘å_“a¹ˆæ 01#
+ra_san02.rsw#ƒtƒŒƒCƒ„‘å_“a¹ˆæ 02#
+ra_san03.rsw#ƒtƒŒƒCƒ„‘å_“a¹ˆæ 03#
+ra_san04.rsw#ƒtƒŒƒCƒ„‘å_“a¹ˆæ 04#
+ra_san05.rsw#ƒtƒŒƒCƒ„‘å_“a¹ˆæ 05#
+ice_dun01.rsw#•X‚Ì“´ŒA 01#
+ice_dun02.rsw#•X‚Ì“´ŒA 02#
+ice_dun03.rsw#•X‚Ì“´ŒA 03#
+ice_dun04.rsw#•X‚Ì“´ŒA 04#
 
-//È­»ê¼¶ ÄÚ·Îµµ
-1@crd.rsw#È­»ê¼¶ ÄÚ·Îµµ#
+//RJC2007’Ç‰Á
+guild_vs2pa.rsw#ƒvƒƒ“ƒeƒ‰ Aƒ‹[ƒ€#
+guild_vs2pb.rsw#ƒvƒƒ“ƒeƒ‰ Bƒ‹[ƒ€#
+guild_vs2pc.rsw#ƒvƒƒ“ƒeƒ‰ Cƒ‹[ƒ€#
+guild_vs2ia.rsw#ƒCƒYƒ‹[ƒh Aƒ‹[ƒ€#
+guild_vs2ib.rsw#ƒCƒYƒ‹[ƒh Bƒ‹[ƒ€#
+guild_vs2ic.rsw#ƒCƒYƒ‹[ƒh Cƒ‹[ƒ€#
+guild_vs2ga.rsw#ƒQƒtƒFƒ“ Aƒ‹[ƒ€#
+guild_vs2gb.rsw#ƒQƒtƒFƒ“ Bƒ‹[ƒ€#
+guild_vs2gc.rsw#ƒQƒtƒFƒ“ Cƒ‹[ƒ€#
+guild_vs2ma.rsw#ƒ‚ƒƒN Aƒ‹[ƒ€#
+guild_vs2mb.rsw#ƒ‚ƒƒN Bƒ‹[ƒ€#
+guild_vs2mc.rsw#ƒ‚ƒƒN Cƒ‹[ƒ€#
+//rwc01.rsw#RJCŒˆŸ‰ïê#
 
-// ÀÏ·çÀü °ÅºÏ¼¶ (±¸¾ç±Ã)
-tur_d03_i.rsw#¾µ¾µÇÑ ¾ç°ÅÃÌ#
-tur_d04_i.rsw#½º»êÇÑ ±¸¾ç±Ã#
+//ƒtƒBƒQƒ‹Ver.
+auction_01.rsw#‹£”„‰ïê 01#
+auction_02.rsw#‹£”„‰ïê 02#
+ein_fild01.rsw#ƒAƒCƒ“ƒuƒƒbƒNƒtƒB[ƒ‹ƒh 01#
+ein_fild02.rsw#ƒAƒCƒ“ƒuƒƒbƒNƒtƒB[ƒ‹ƒh 02#
+ein_fild05.rsw#ƒAƒCƒ“ƒuƒƒbƒNƒtƒB[ƒ‹ƒh 05#
+hu_fild02.rsw#ƒtƒBƒQƒ‹ƒtƒB[ƒ‹ƒh 02#
+hu_fild03.rsw#ƒtƒBƒQƒ‹ƒtƒB[ƒ‹ƒh 03#
+hu_fild06.rsw#ƒtƒBƒQƒ‹ƒtƒB[ƒ‹ƒh 06#
+hu_in01.rsw#ƒtƒBƒQƒ‹ º“à01#
+hugel.rsw#“c‰€“ssƒtƒBƒQƒ‹#
+kh_dun01.rsw#‹@ŠBlŒ`Hê B1F#
+kh_dun02.rsw#‹@ŠBlŒ`Hê B2F#
+kh_kiehl01.rsw#ƒLƒGƒ‹‚Ì•”‰® 01#
+kh_kiehl02.rsw#ƒLƒGƒ‹‚Ì•”‰® 02#
+kh_mansion.rsw#ƒLƒ‹EƒnƒCƒ‹“@#
+kh_rossi.rsw#ƒƒVƒ~ƒGƒ‹“@#
+kh_school.rsw#ƒLƒ‹EƒnƒCƒ‹Šw‰@“à#
+kh_vila.rsw#ƒLƒ‹EƒnƒCƒ‹‚Ì•Ê‘‘“à#
+odin_tem01.rsw#ƒI[ƒfƒBƒ“_“a 01#
+odin_tem02.rsw#ƒI[ƒfƒBƒ“_“a 02#
+odin_tem03.rsw#ƒI[ƒfƒBƒ“_“a 03#
+p_track01.rsw#ƒ‚ƒ“ƒXƒ^[ƒŒ[ƒX‰ïê 01#
+p_track02.rsw#ƒ‚ƒ“ƒXƒ^[ƒŒ[ƒX‰ïê 02#
+que_bingo.rsw#ƒrƒ“ƒSƒQ[ƒ€‰ïê#
+que_hugel.rsw#ƒI[ƒfƒBƒ“_“a’n‰º#
+yuno_fild10.rsw#ƒWƒ…ƒm[ƒtƒB[ƒ‹ƒh 10#
 
-//Æ÷¸µ¸¶À»
-1@begi.rsw#Æ÷¸µ ¸¶À»#
+//ƒm[ƒOƒnƒ‹ƒgVer.
+abyss_01.rsw#ƒAƒrƒXƒŒƒCƒN’n‰º“´ŒA 01#
+abyss_02.rsw#ƒAƒrƒXƒŒƒCƒN’n‰º“´ŒA 02#
+abyss_03.rsw#ƒAƒrƒXƒŒƒCƒN’n‰º“´ŒA 03#
+airplane.rsw#”òs‘DiƒVƒ…ƒoƒ‹ƒcƒoƒ‹ƒh‘“àüj#
+airplane_01.rsw#”òs‘DiƒVƒ…ƒoƒ‹ƒcƒoƒ‹ƒh‘ŠOüj#
+airport.rsw#‹ó`#
+alb_ship.rsw#ƒAƒ‹ƒxƒ‹ƒ^‘D”•‚Ì’†#
+alb2trea.rsw#’¾–v‘D‚Ì•t‹ß‚Ì“‡#
+alberta.rsw#`‚Ì“ssƒAƒ‹ƒxƒ‹ƒ^#
+alberta_in.rsw#`‚Ì“ssƒAƒ‹ƒxƒ‹ƒ^ º“à#
+alde_alche.rsw#˜B‹àptƒMƒ‹ƒh#
+alde_dun01.rsw#ƒAƒ‹ƒfƒoƒ‰ƒ“Œv“ƒ’n‰º 1F#
+alde_dun02.rsw#ƒAƒ‹ƒfƒoƒ‰ƒ“Œv“ƒ’n‰º 2F#
+alde_dun03.rsw#ƒAƒ‹ƒfƒoƒ‰ƒ“Œv“ƒ’n‰º 3F#
+alde_dun04.rsw#ƒAƒ‹ƒfƒoƒ‰ƒ“Œv“ƒ’n‰º 4F#
+alde_gld.rsw#ƒAƒ‹ƒfƒoƒ‰ƒ“‰q¯“ssƒ‹ƒC[ƒi#
+aldeba_in.rsw#‘‹«“ssƒAƒ‹ƒfƒoƒ‰ƒ“ º“à#
+aldebaran.rsw#‘‹«“ssƒAƒ‹ƒfƒoƒ‰ƒ“#
+aldeg_cas01.rsw#ƒ‹ƒC[ƒi Ô1#
+aldeg_cas02.rsw#ƒ‹ƒC[ƒi Ô2#
+aldeg_cas03.rsw#ƒ‹ƒC[ƒi Ô3#
+aldeg_cas04.rsw#ƒ‹ƒC[ƒi Ô4#
+aldeg_cas05.rsw#ƒ‹ƒC[ƒi Ô5#
+ama_dun01.rsw#ƒAƒ}ƒcƒ_ƒ“ƒWƒ‡ƒ“ 01iô‚Ì–À‹{j#
+ama_dun02.rsw#ƒAƒ}ƒcƒ_ƒ“ƒWƒ‡ƒ“ 02i’n‰ºíêÕj#
+ama_dun03.rsw#ƒAƒ}ƒcƒ_ƒ“ƒWƒ‡ƒ“ 03iƒAƒ}ƒc’n‰º_Ğj#
+ama_fild01.rsw#ƒAƒ}ƒcƒtƒB[ƒ‹ƒh 01#
+ama_in01.rsw#ƒAƒ}ƒc º“à01#
+ama_in02.rsw#ƒAƒ}ƒc º“à02i“ŒŒÎé ò…Štj#
+ama_test.rsw#ƒ‚ƒ‚ƒ^ƒ‘ÌŒ±ŠÙ#
+amatsu.rsw#ò…‚Ì‘ƒAƒ}ƒc#
+anthell01.rsw#‹a’n–ƒ_ƒ“ƒWƒ‡ƒ“ B1F#
+anthell02.rsw#‹a’n–ƒ_ƒ“ƒWƒ‡ƒ“ B2F#
+arena_room.rsw#ƒAƒŠ[ƒi‘Ò‹@º#
+ayo_dun01.rsw#ƒAƒ†ƒ^ƒ„ƒ_ƒ“ƒWƒ‡ƒ“ 01iŒÃ‘ãˆâÕ–À‹{j#
+ayo_dun02.rsw#ƒAƒ†ƒ^ƒ„ƒ_ƒ“ƒWƒ‡ƒ“ 02iŒÃ‘ãˆâÕ“à•”j#
+ayo_fild01.rsw#ƒAƒ†ƒ^ƒ„ƒtƒB[ƒ‹ƒh 01#
+ayo_fild02.rsw#ƒAƒ†ƒ^ƒ„ƒtƒB[ƒ‹ƒh 02#
+ayo_in01.rsw#ƒAƒ†ƒ^ƒ„ º“à01#
+ayo_in02.rsw#ƒAƒ†ƒ^ƒ„ º“à02#
+ayothaya.rsw#ƒAƒ†ƒ^ƒ„#
+beach_dun.rsw#ƒRƒ‚ƒhƒ_ƒ“ƒWƒ‡ƒ“ 01i¼“´ŒAƒJƒ‹j#
+beach_dun2.rsw#ƒRƒ‚ƒhƒ_ƒ“ƒWƒ‡ƒ“ 02i–k“´ŒAƒ‹ƒƒ“ƒ_j#
+beach_dun3.rsw#ƒRƒ‚ƒhƒ_ƒ“ƒWƒ‡ƒ“ 03i“Œ“´ŒAƒ}ƒIj#
+c_tower1.rsw#ƒAƒ‹ƒfƒoƒ‰ƒ“Œv“ƒ’nã 1F#
+c_tower2.rsw#ƒAƒ‹ƒfƒoƒ‰ƒ“Œv“ƒ’nã 2F#
+c_tower3.rsw#ƒAƒ‹ƒfƒoƒ‰ƒ“Œv“ƒ’nã 3F#
+c_tower4.rsw#ƒAƒ‹ƒfƒoƒ‰ƒ“Œv“ƒ’nã 4F#
+cmd_fild01.rsw#ƒRƒ‚ƒhƒtƒB[ƒ‹ƒh 01iƒpƒvƒ`ƒJXj#
+cmd_fild02.rsw#ƒRƒ‚ƒhƒtƒB[ƒ‹ƒh 02iƒRƒRƒ‚ƒr[ƒ`j#
+cmd_fild03.rsw#ƒRƒ‚ƒhƒtƒB[ƒ‹ƒh 03iƒWƒiƒCÀj#
+cmd_fild04.rsw#ƒRƒ‚ƒhƒtƒB[ƒ‹ƒh 04iƒRƒRƒ‚ƒr[ƒ`j#
+cmd_fild05.rsw#ƒRƒ‚ƒhƒtƒB[ƒ‹ƒh 05iƒpƒvƒ`ƒJX‹«j#
+cmd_fild06.rsw#ƒRƒ‚ƒhƒtƒB[ƒ‹ƒh 06iƒTƒ“ƒ_ƒ‹ƒ}ƒ“—vÇ¼j#
+cmd_fild07.rsw#ƒRƒ‚ƒhƒtƒB[ƒ‹ƒh 07iƒtƒ@ƒƒX“•‘ä“‡j#
+cmd_fild08.rsw#ƒRƒ‚ƒhƒtƒB[ƒ‹ƒh 08iƒTƒ“ƒ_ƒ‹ƒ}ƒ“—vÇ“Œj#
+cmd_fild09.rsw#ƒRƒ‚ƒhƒtƒB[ƒ‹ƒh 09iƒTƒ“ƒ_ƒ‹ƒ}ƒ“—vÇ“ìj#
+cmd_in01.rsw#ƒRƒ‚ƒh º“à01#
+cmd_in02.rsw#ƒRƒ‚ƒh º“à02#
+comodo.rsw#Œ¶‘z‚Ì“‡ƒRƒ‚ƒh#
+ein_dun01.rsw#zRƒ_ƒ“ƒWƒ‡ƒ“ 01#
+ein_dun02.rsw#zRƒ_ƒ“ƒWƒ‡ƒ“ 02#
+ein_fild03.rsw#ƒAƒCƒ“ƒuƒƒbƒNƒtƒB[ƒ‹ƒh 03#
+ein_fild04.rsw#ƒAƒCƒ“ƒuƒƒbƒNƒtƒB[ƒ‹ƒh 04#
+ein_fild06.rsw#ƒAƒCƒ“ƒuƒƒbƒNƒtƒB[ƒ‹ƒh 06#
+ein_fild07.rsw#ƒAƒCƒ“ƒuƒƒbƒNƒtƒB[ƒ‹ƒh 07#
+ein_fild08.rsw#ƒAƒCƒ“ƒuƒƒbƒNƒtƒB[ƒ‹ƒh 08#
+ein_fild09.rsw#ƒAƒCƒ“ƒuƒƒbƒNƒtƒB[ƒ‹ƒh 09#
+ein_fild10.rsw#ƒAƒCƒ“ƒuƒƒbƒNƒtƒB[ƒ‹ƒh 10#
+ein_in01.rsw#ƒAƒCƒ“ƒuƒƒbƒN º“à01#
+einbech.rsw#Ìz‚Ì‘ºƒAƒCƒ“ƒxƒt#
+einbroch.rsw#|“S‚Ì“ssƒAƒCƒ“ƒuƒƒbƒN#
+force_1-1.rsw#ƒ^ƒCƒ€ƒAƒ^ƒbƒNƒ‚[ƒh 1-1#
+force_1-2.rsw#ƒ^ƒCƒ€ƒAƒ^ƒbƒNƒ‚[ƒh 1-2#
+force_1-3.rsw#ƒ^ƒCƒ€ƒAƒ^ƒbƒNƒ‚[ƒh 1-3#
+force_2-1.rsw#ƒ^ƒCƒ€ƒAƒ^ƒbƒNƒ‚[ƒh 2-1#
+force_2-2.rsw#ƒ^ƒCƒ€ƒAƒ^ƒbƒNƒ‚[ƒh 2-2#
+force_2-3.rsw#ƒ^ƒCƒ€ƒAƒ^ƒbƒNƒ‚[ƒh 2-3#
+force_3-1.rsw#ƒ^ƒCƒ€ƒAƒ^ƒbƒNƒ‚[ƒh 3-1#
+force_3-2.rsw#ƒ^ƒCƒ€ƒAƒ^ƒbƒNƒ‚[ƒh 3-2#
+force_3-3.rsw#ƒ^ƒCƒ€ƒAƒ^ƒbƒNƒ‚[ƒh 3-3#
+force_4-1.rsw#ƒ^ƒCƒ€ƒAƒ^ƒbƒNƒ‚[ƒh 4-1#
+force_5-1.rsw#ƒ^ƒCƒ€ƒAƒ^ƒbƒNƒ‚[ƒh 5-1#
+gef_dun00.rsw#ƒQƒtƒFƒ“’n‰ºƒ_ƒ“ƒWƒ‡ƒ“ B1F#
+gef_dun01.rsw#ƒQƒtƒFƒ“’n‰ºƒ_ƒ“ƒWƒ‡ƒ“ B2F#
+gef_dun02.rsw#ƒQƒtƒFƒ“’n‰ºƒ_ƒ“ƒWƒ‡ƒ“ B3F#
+gef_dun03.rsw#ƒQƒtƒFƒ“’n‰ºƒ_ƒ“ƒWƒ‡ƒ“ B4F#
+gef_fild00.rsw#ƒQƒtƒFƒ“ƒtƒB[ƒ‹ƒh 00#
+gef_fild01.rsw#ƒQƒtƒFƒ“ƒtƒB[ƒ‹ƒh 01#
+gef_fild02.rsw#ƒQƒtƒFƒ“ƒtƒB[ƒ‹ƒh 02#
+gef_fild03.rsw#ƒQƒtƒFƒ“ƒtƒB[ƒ‹ƒh 03#
+gef_fild04.rsw#ƒQƒtƒFƒ“ƒtƒB[ƒ‹ƒh 04#
+gef_fild05.rsw#ƒQƒtƒFƒ“ƒtƒB[ƒ‹ƒh 05#
+gef_fild06.rsw#ƒQƒtƒFƒ“ƒtƒB[ƒ‹ƒh 06#
+gef_fild07.rsw#ƒQƒtƒFƒ“ƒtƒB[ƒ‹ƒh 07#
+gef_fild08.rsw#ƒQƒtƒFƒ“ƒtƒB[ƒ‹ƒh 08#
+gef_fild09.rsw#ƒQƒtƒFƒ“ƒtƒB[ƒ‹ƒh 09#
+gef_fild10.rsw#ƒQƒtƒFƒ“ƒtƒB[ƒ‹ƒh 10#
+gef_fild11.rsw#ƒQƒtƒFƒ“ƒtƒB[ƒ‹ƒh 11#
+gef_fild12.rsw#ƒQƒtƒFƒ“ƒtƒB[ƒ‹ƒh 12iƒR[ƒh‚ÌXj#
+gef_fild13.rsw#ƒQƒtƒFƒ“ƒtƒB[ƒ‹ƒh 13iƒuƒŠƒgƒjƒAj#
+gef_fild14.rsw#ƒQƒtƒFƒ“ƒtƒB[ƒ‹ƒh 14iƒI[ƒN¼‚Ì‘ºj#
+gef_tower.rsw#ƒQƒtƒFƒ“’†‰›“ƒ#
+gefenia01.rsw#ƒQƒtƒFƒjƒA 01#
+gefenia02.rsw#ƒQƒtƒFƒjƒA 02#
+gefenia03.rsw#ƒQƒtƒFƒjƒA 03#
+gefenia04.rsw#ƒQƒtƒFƒjƒA 04#
+geffen.rsw#–‚–@‚Ì“ssƒQƒtƒFƒ“#
+geffen_in.rsw#–‚–@‚Ì“ssƒQƒtƒFƒ“ º“à#
+gefg_cas01.rsw#ƒuƒŠƒgƒjƒA Ô1#
+gefg_cas02.rsw#ƒuƒŠƒgƒjƒA Ô2#
+gefg_cas03.rsw#ƒuƒŠƒgƒjƒA Ô3#
+gefg_cas04.rsw#ƒuƒŠƒgƒjƒA Ô4#
+gefg_cas05.rsw#ƒuƒŠƒgƒjƒA Ô5#
+gl_cas01.rsw#ƒOƒ‰ƒXƒgƒwƒCƒ€ ŒÃé1F#
+gl_cas02.rsw#ƒOƒ‰ƒXƒgƒwƒCƒ€ ŒÃé2F#
+gl_church.rsw#ƒOƒ‰ƒXƒgƒwƒCƒ€ C“¹‰@#
+gl_chyard.rsw#ƒOƒ‰ƒXƒgƒwƒCƒ€ ƒJƒ^ƒRƒ“ƒx#
+gl_dun01.rsw#ƒOƒ‰ƒXƒgƒwƒCƒ€ Å‰º‘w’n‰º“´ŒA01#
+gl_dun02.rsw#ƒOƒ‰ƒXƒgƒwƒCƒ€ Å‰º‘w’n‰º“´ŒA02#
+gl_in01.rsw#ƒOƒ‰ƒXƒgƒwƒCƒ€ º“à01#
+gl_knt01.rsw#ƒOƒ‰ƒXƒgƒwƒCƒ€ ‹Rm’c“à01#
+gl_knt02.rsw#ƒOƒ‰ƒXƒgƒwƒCƒ€ ‹Rm’c“à02#
+gl_prison.rsw#ƒOƒ‰ƒXƒgƒwƒCƒ€ ’n‰ºŠÄ–00#
+gl_prison1.rsw#ƒOƒ‰ƒXƒgƒwƒCƒ€ ’n‰ºŠÄ–01#
+gl_sew01.rsw#ƒOƒ‰ƒXƒgƒwƒCƒ€’n‰º…˜H 01#
+gl_sew02.rsw#ƒOƒ‰ƒXƒgƒwƒCƒ€’n‰º…˜H 02#
+gl_sew03.rsw#ƒOƒ‰ƒXƒgƒwƒCƒ€’n‰º…˜H 03#
+gl_sew04.rsw#ƒOƒ‰ƒXƒgƒwƒCƒ€’n‰º…˜H 04#
+gl_step.rsw#ƒOƒ‰ƒXƒgƒwƒCƒ€ ŠK’iƒ_ƒ“ƒWƒ‡ƒ“#
+glast_01.rsw#ƒOƒ‰ƒXƒgƒwƒCƒ€ ŒÃé#
+gld_dun01.rsw#ƒMƒ‹ƒhƒ_ƒ“ƒWƒ‡ƒ“ ƒtƒFƒCƒˆƒ“#
+gld_dun02.rsw#ƒMƒ‹ƒhƒ_ƒ“ƒWƒ‡ƒ“ ƒAƒ‹ƒfƒoƒ‰ƒ“#
+gld_dun03.rsw#ƒMƒ‹ƒhƒ_ƒ“ƒWƒ‡ƒ“ ƒvƒƒ“ƒeƒ‰#
+gld_dun04.rsw#ƒMƒ‹ƒhƒ_ƒ“ƒWƒ‡ƒ“ ƒQƒtƒFƒ“#
+gon_dun01.rsw#ƒRƒ“ƒƒ“ƒ_ƒ“ƒWƒ‡ƒ“ 01i¼‰¤•ê_“aj#
+gon_dun02.rsw#ƒRƒ“ƒƒ“ƒ_ƒ“ƒWƒ‡ƒ“ 02i_å‚ÌŒé”Õj#
+gon_dun03.rsw#ƒRƒ“ƒƒ“ƒ_ƒ“ƒWƒ‡ƒ“ 03i•—Ë“Œ¹j#
+gon_fild01.rsw#ƒRƒ“ƒƒ“ƒtƒB[ƒ‹ƒh 01#
+gon_in.rsw#ƒRƒ“ƒƒ“ “à•”#
+gon_test.rsw#Ši“¬ê#
+gonryun.rsw#_å‚Ì“‡ƒRƒ“ƒƒ“#
+guild_room.rsw#ƒMƒ‹ƒhƒRƒƒVƒAƒ€ Tº#
+guild_vs1.rsw#ƒMƒ‹ƒhƒRƒƒVƒAƒ€ 1#
+guild_vs2.rsw#ƒMƒ‹ƒhƒRƒƒVƒAƒ€ 2#
+guild_vs2-2.rsw#ƒMƒ‹ƒhƒRƒƒVƒAƒ€ 2-2#
+guild_vs3.rsw#ƒMƒ‹ƒhƒRƒƒVƒAƒ€ 3#
+guild_vs4.rsw#ƒMƒ‹ƒhƒRƒƒVƒAƒ€ 4#
+guild_vs5.rsw#•sv‹c‚È‹óŠÔ‘O#
+himinn.rsw#ƒ”ƒ@ƒ‹ƒLƒŠ[_“aiƒqƒ~ƒ“j#
+hu_fild01.rsw#ƒtƒBƒQƒ‹ƒtƒB[ƒ‹ƒh 01iƒ^ƒiƒgƒXƒ^ƒ[j#
+hu_fild04.rsw#ƒtƒBƒQƒ‹ƒtƒB[ƒ‹ƒh 04#
+hu_fild05.rsw#ƒtƒBƒQƒ‹ƒtƒB[ƒ‹ƒh 05iƒAƒrƒXƒŒƒCƒNj#
+hu_fild07.rsw#ƒtƒBƒQƒ‹ƒtƒB[ƒ‹ƒh 07#
+hunter_1-1.rsw#ƒnƒ“ƒ^[“]EŠ 1-1#
+hunter_2-1.rsw#ƒnƒ“ƒ^[“]EŠ 2-1#
+hunter_3-1.rsw#ƒnƒ“ƒ^[“]EŠ 3-1#
+in_hunter.rsw#’²¸—pƒ}ƒbƒv2#
+in_moc_16.rsw#ƒAƒTƒVƒ“ƒMƒ‹ƒh#
+in_orcs01.rsw#ƒI[ƒN‘º‚Ìº“à#
+in_rogue.rsw#ƒ[ƒOƒMƒ‹ƒh#
+in_sphinx1.rsw#ƒXƒtƒBƒ“ƒNƒXƒ_ƒ“ƒWƒ‡ƒ“ B1F#
+in_sphinx2.rsw#ƒXƒtƒBƒ“ƒNƒXƒ_ƒ“ƒWƒ‡ƒ“ B2F#
+in_sphinx3.rsw#ƒXƒtƒBƒ“ƒNƒXƒ_ƒ“ƒWƒ‡ƒ“ B3F#
+in_sphinx4.rsw#ƒXƒtƒBƒ“ƒNƒXƒ_ƒ“ƒWƒ‡ƒ“ B4F#
+in_sphinx5.rsw#ƒXƒtƒBƒ“ƒNƒXƒ_ƒ“ƒWƒ‡ƒ“ B5F#
+iz_dun00.rsw#ƒCƒYƒ‹[ƒhŠC’ê“´ŒA 1‘w#
+iz_dun01.rsw#ƒCƒYƒ‹[ƒhŠC’ê“´ŒA 2‘w#
+iz_dun02.rsw#ƒCƒYƒ‹[ƒhŠC’ê“´ŒA 3‘w#
+iz_dun03.rsw#ƒCƒYƒ‹[ƒhŠC’ê“´ŒA 4‘w#
+iz_dun04.rsw#ƒCƒYƒ‹[ƒhŠC’ê_“a#
+iz_dun05.rsw#ƒCƒYƒ‹[ƒhŠC’ê“ss#
+izlu2dun.rsw#ƒoƒCƒ‰ƒ““‡#
+izlude.rsw#‰q¯“ssƒCƒYƒ‹[ƒh#
+izlude_in.rsw#‰q¯“ssƒCƒYƒ‹[ƒh º“à#
+jawaii.rsw#í‰Ä‚Ì“‡ ƒWƒƒƒƒC#
+jawaii_in.rsw#ƒWƒƒƒƒC º“à#
+job_cru.rsw#ƒNƒ‹ƒZƒCƒ_[“]EŒ±ê#
+job_duncer.rsw#ƒRƒ‚ƒh¬Œ€ê#
+job_hunte.rsw#ƒnƒ“ƒ^[“]EŒ±ê#
+job_knt.rsw#ƒiƒCƒg“]EŒ±ê#
+job_monk.rsw#¹ƒJƒsƒg[ƒŠƒiC“¹‰@#
+job_prist.rsw#ƒvƒŠ[ƒXƒg“]EŒ±ê#
+job_sage.rsw#ƒZ[ƒW“]EŒ±ê#
+job_soul.rsw#‚ ‚È‚½‚ÌS#
+job_star.rsw#‘¾—z‚ÆŒ‚Æ¯#
+job_thief1.rsw#ƒVƒu‚ÌƒLƒmƒR”_ê#
+job_wiz.rsw#ƒEƒBƒU[ƒh“]EŒ±ê#
+jupe_area1.rsw#ƒWƒ…ƒsƒƒX•ÛˆÀ‹æˆæ 1#
+jupe_area2.rsw#ƒWƒ…ƒsƒƒX•ÛˆÀ‹æˆæ 2#
+jupe_cave.rsw#ƒWƒ…ƒsƒƒX“´ŒA“üŒû#
+jupe_core.rsw#ƒWƒ…ƒsƒƒX’†S•”#
+jupe_ele.rsw#ƒWƒ…ƒsƒƒXƒGƒŒƒx[ƒ^[#
+jupe_ele_r.rsw#ƒWƒ…ƒsƒƒXƒGƒŒƒx[ƒ^[º#
+jupe_gate.rsw#ƒWƒ…ƒsƒƒX•ÛˆÀ‹æˆæ#
+juperos_01.rsw#ƒWƒ…ƒsƒƒX”pšĞ 01#
+juperos_02.rsw#ƒWƒ…ƒsƒƒX”pšĞ 02#
+knight_1-1.rsw#ƒiƒCƒg“]EŠ 1-1#
+knight_2-1.rsw#ƒiƒCƒg“]EŠ 2-1#
+knight_3-1.rsw#ƒiƒCƒg“]EŠ 3-1#
+lhz_airport.rsw#ƒŠƒqƒ^ƒ‹ƒ[ƒ“‹ó`#
+lhz_cube.rsw#ƒLƒ…[ƒuƒ‹[ƒ€#
+lhz_dun01.rsw#¶‘ÌHŠwŒ¤‹†Š 01#
+lhz_dun02.rsw#¶‘ÌHŠwŒ¤‹†Š 02#
+lhz_dun03.rsw#¶‘ÌHŠwŒ¤‹†Š 03#
+lhz_fild01.rsw#ƒŠƒqƒ^ƒ‹ƒ[ƒ“ƒtƒB[ƒ‹ƒh 01#
+lhz_fild02.rsw#ƒŠƒqƒ^ƒ‹ƒ[ƒ“ƒtƒB[ƒ‹ƒh 02(€_‚Ì‹¬’J)#
+lhz_fild03.rsw#ƒŠƒqƒ^ƒ‹ƒ[ƒ“ƒtƒB[ƒ‹ƒh 03#
+lhz_in01.rsw#ƒŒƒbƒPƒ“ƒxƒ‹–{Ğ#
+lhz_in02.rsw#ƒŠƒqƒ^ƒ‹ƒ[ƒ“ º“à02#
+lhz_in03.rsw#ƒŠƒqƒ^ƒ‹ƒ[ƒ“ º“à03#
+lhz_que01.rsw#ƒŠƒqƒ^ƒ‹ƒ[ƒ“ º“à#
+lighthalzen.rsw#Šé‹Æ“ssƒŠƒqƒ^ƒ‹ƒ[ƒ“#
+lou_dun01.rsw#—´”Véƒ_ƒ“ƒWƒ‡ƒ“ 01i‰¤—Ëj#
+lou_dun02.rsw#—´”Véƒ_ƒ“ƒWƒ‡ƒ“ 02i‰¤—Ë “à•”j#
+lou_dun03.rsw#—´”Véƒ_ƒ“ƒWƒ‡ƒ“ 03i”’—r‹{j#
+lou_fild01.rsw#—´”VéƒtƒB[ƒ‹ƒh 01#
+lou_in01.rsw#—´”Vé º“à01#
+lou_in02.rsw#—´”Vé º“à02#
+louyang.rsw#ŒÃ“s —´”Vé#
+mag_dun01.rsw#ƒm[ƒOƒ[ƒh 1‘w#
+mag_dun02.rsw#ƒm[ƒOƒ[ƒh 2‘w#
+mjo_dun01.rsw#ƒ~ƒ‡ƒ‹ƒj[ƒ‹”pz B1F#
+mjo_dun02.rsw#ƒ~ƒ‡ƒ‹ƒj[ƒ‹”pz B2F#
+mjo_dun03.rsw#ƒ~ƒ‡ƒ‹ƒj[ƒ‹”pz B3F#
+mjolnir_01.rsw#ƒ~ƒ‡ƒ‹ƒj[ƒ‹R–¬ 01#
+mjolnir_02.rsw#ƒ~ƒ‡ƒ‹ƒj[ƒ‹R–¬ 02#
+mjolnir_03.rsw#ƒ~ƒ‡ƒ‹ƒj[ƒ‹R–¬ 03#
+mjolnir_04.rsw#ƒ~ƒ‡ƒ‹ƒj[ƒ‹R–¬ 04#
+mjolnir_05.rsw#ƒ~ƒ‡ƒ‹ƒj[ƒ‹R–¬ 05#
+mjolnir_06.rsw#ƒ~ƒ‡ƒ‹ƒj[ƒ‹R–¬ 06#
+mjolnir_07.rsw#ƒ~ƒ‡ƒ‹ƒj[ƒ‹R–¬ 07#
+mjolnir_08.rsw#ƒ~ƒ‡ƒ‹ƒj[ƒ‹R–¬ 08#
+mjolnir_09.rsw#ƒ~ƒ‡ƒ‹ƒj[ƒ‹R–¬ 09#
+mjolnir_10.rsw#ƒ~ƒ‡ƒ‹ƒj[ƒ‹R–¬ 10#
+mjolnir_11.rsw#ƒ~ƒ‡ƒ‹ƒj[ƒ‹R–¬ 11#
+mjolnir_12.rsw#ƒ~ƒ‡ƒ‹ƒj[ƒ‹R–¬ 12#
+moc_castle.rsw#ƒ‚ƒƒNé“à#
+moc_fild01.rsw#ƒ\ƒOƒ‰ƒg»”™ 01#
+moc_fild02.rsw#ƒ\ƒOƒ‰ƒg»”™ 02#
+moc_fild03.rsw#ƒ\ƒOƒ‰ƒg»”™ 03#
+moc_fild04.rsw#ƒ\ƒOƒ‰ƒg»”™ 04#
+moc_fild05.rsw#ƒ\ƒOƒ‰ƒg»”™ 05#
+moc_fild06.rsw#ƒ\ƒOƒ‰ƒg»”™ 06#
+moc_fild07.rsw#ƒ\ƒOƒ‰ƒg»”™ 07#
+moc_fild08.rsw#ƒ\ƒOƒ‰ƒg»”™ 08#
+moc_fild09.rsw#ƒ\ƒOƒ‰ƒg»”™ 09#
+moc_fild10.rsw#ƒ\ƒOƒ‰ƒg»”™ 10#
+moc_fild11.rsw#ƒ\ƒOƒ‰ƒg»”™ 11#
+moc_fild12.rsw#ƒ\ƒOƒ‰ƒg»”™ 12#
+moc_fild13.rsw#ƒ\ƒOƒ‰ƒg»”™ 13#
+moc_fild14.rsw#ƒ\ƒOƒ‰ƒg»”™ 14#
+moc_fild15.rsw#ƒ\ƒOƒ‰ƒg»”™ 15#
+moc_fild16.rsw#ƒ\ƒOƒ‰ƒg»”™ 16#
+moc_fild17.rsw#ƒ\ƒOƒ‰ƒg»”™ 17#
+moc_fild18.rsw#ƒ\ƒOƒ‰ƒg»”™ 18#
+moc_fild19.rsw#ƒ\ƒOƒ‰ƒg»”™ 19#
+moc_pryd01.rsw#ƒsƒ‰ƒ~ƒbƒhƒ_ƒ“ƒWƒ‡ƒ“ 1F#
+moc_pryd02.rsw#ƒsƒ‰ƒ~ƒbƒhƒ_ƒ“ƒWƒ‡ƒ“ 2F#
+moc_pryd03.rsw#ƒsƒ‰ƒ~ƒbƒhƒ_ƒ“ƒWƒ‡ƒ“ 3F#
+moc_pryd04.rsw#ƒsƒ‰ƒ~ƒbƒhƒ_ƒ“ƒWƒ‡ƒ“ 4F#
+moc_pryd05.rsw#ƒsƒ‰ƒ~ƒbƒhƒ_ƒ“ƒWƒ‡ƒ“ B2F#
+moc_pryd06.rsw#ƒsƒ‰ƒ~ƒbƒhƒ_ƒ“ƒWƒ‡ƒ“ B3F#
+moc_prydb1.rsw#ƒV[ƒtƒMƒ‹ƒh#
+moc_ruins.rsw#ƒ‚ƒƒN - ƒsƒ‰ƒ~ƒbƒhü•Ó#
+monk_in.rsw#¹ƒJƒsƒg[ƒŠƒiC“¹‰@“à#
+monk_test.rsw#¹ƒJƒsƒg[ƒŠƒiC“¹‰@#
+morocc.rsw#»”™‚Ì“ssƒ‚ƒƒN#
+morocc_in.rsw#»”™‚Ì“ssƒ‚ƒƒN º“à#
+new_1-1.rsw#‰SÒC—ûê 1-1#
+new_1-2.rsw#‰SÒC—ûê 1-2#
+new_1-3.rsw#‰SÒC—ûê 1-3#
+new_1-4.rsw#‰SÒC—ûê 1-4#
+new_2-1.rsw#‰SÒC—ûê 2-1#
+new_2-2.rsw#‰SÒC—ûê 2-2#
+new_2-3.rsw#‰SÒC—ûê 2-3#
+new_2-4.rsw#‰SÒC—ûê 2-4#
+new_3-1.rsw#‰SÒC—ûê 3-1#
+new_3-2.rsw#‰SÒC—ûê 3-2#
+new_3-3.rsw#‰SÒC—ûê 3-3#
+new_3-4.rsw#‰SÒC—ûê 3-4#
+new_4-1.rsw#‰SÒC—ûê 4-1#
+new_4-2.rsw#‰SÒC—ûê 4-2#
+new_4-3.rsw#‰SÒC—ûê 4-3#
+new_4-4.rsw#‰SÒC—ûê 4-4#
+new_5-1.rsw#‰SÒC—ûê 5-1#
+new_5-2.rsw#‰SÒC—ûê 5-2#
+new_5-3.rsw#‰SÒC—ûê 5-3#
+new_5-4.rsw#‰SÒC—ûê 5-4#
+nif_fild01.rsw#ƒjƒuƒ‹ƒwƒCƒ€ƒtƒB[ƒ‹ƒh 01i”é‹«‚Ì‘ºj#
+nif_fild02.rsw#ƒjƒuƒ‹ƒwƒCƒ€ƒtƒB[ƒ‹ƒh 02iƒMƒ‡ƒ‹Œk’Jj#
+nif_in.rsw#ƒjƒuƒ‹ƒwƒCƒ€ º“à#
+niflheim.rsw#€Ò‚ÌŠXƒjƒuƒ‹ƒwƒCƒ€#
+orcsdun01.rsw#ƒI[ƒN’n‰º“´ŒA 01#
+orcsdun02.rsw#ƒI[ƒN’n‰º“´ŒA 02#
+ordeal_1-1.rsw#ƒoƒgƒ‹ƒIƒfƒB[ƒ‹ƒ‚[ƒh 1-1#
+ordeal_1-2.rsw#ƒoƒgƒ‹ƒIƒfƒB[ƒ‹ƒ‚[ƒh 1-2#
+ordeal_1-3.rsw#ƒoƒgƒ‹ƒIƒfƒB[ƒ‹ƒ‚[ƒh 1-3#
+ordeal_1-4.rsw#ƒoƒgƒ‹ƒIƒfƒB[ƒ‹ƒ‚[ƒh 1-4#
+ordeal_2-1.rsw#ƒoƒgƒ‹ƒIƒfƒB[ƒ‹ƒ‚[ƒh 2-1#
+ordeal_2-2.rsw#ƒoƒgƒ‹ƒIƒfƒB[ƒ‹ƒ‚[ƒh 2-2#
+ordeal_2-3.rsw#ƒoƒgƒ‹ƒIƒfƒB[ƒ‹ƒ‚[ƒh 2-3#
+ordeal_2-4.rsw#ƒoƒgƒ‹ƒIƒfƒB[ƒ‹ƒ‚[ƒh 2-4#
+ordeal_3-1.rsw#ƒoƒgƒ‹ƒIƒfƒB[ƒ‹ƒ‚[ƒh 3-1#
+ordeal_3-2.rsw#ƒoƒgƒ‹ƒIƒfƒB[ƒ‹ƒ‚[ƒh 3-2#
+ordeal_3-3.rsw#ƒoƒgƒ‹ƒIƒfƒB[ƒ‹ƒ‚[ƒh 3-3#
+ordeal_3-4.rsw#ƒoƒgƒ‹ƒIƒfƒB[ƒ‹ƒ‚[ƒh 3-4#
+pay_arche.rsw#ƒtƒFƒCƒˆƒ“‹|è‘º#
+pay_dun00.rsw#ƒtƒFƒCƒˆƒ“’n‰º“´ŒA B1F#
+pay_dun01.rsw#ƒtƒFƒCƒˆƒ“’n‰º“´ŒA B2F#
+pay_dun02.rsw#ƒtƒFƒCƒˆƒ“’n‰º“´ŒA B3F#
+pay_dun03.rsw#ƒtƒFƒCƒˆƒ“’n‰º“´ŒA B4Fi’n‰º›‰@j#
+pay_dun04.rsw#ƒtƒFƒCƒˆƒ“’n‰º“´ŒA B5Fi’n‰º›‰@j#
+pay_fild01.rsw#ƒtƒFƒCƒˆƒ“–À‚¢‚ÌX 01#
+pay_fild02.rsw#ƒtƒFƒCƒˆƒ“–À‚¢‚ÌX 02#
+pay_fild03.rsw#ƒtƒFƒCƒˆƒ“–À‚¢‚ÌX 03#
+pay_fild04.rsw#ƒtƒFƒCƒˆƒ“–À‚¢‚ÌX 04#
+pay_fild05.rsw#ƒtƒFƒCƒˆƒ“–À‚¢‚ÌX 05#
+pay_fild06.rsw#ƒtƒFƒCƒˆƒ“–À‚¢‚ÌX 06#
+pay_fild07.rsw#ƒtƒFƒCƒˆƒ“–À‚¢‚ÌX 07#
+pay_fild08.rsw#ƒtƒFƒCƒˆƒ“–À‚¢‚ÌX 08#
+pay_fild09.rsw#ƒtƒFƒCƒˆƒ“–À‚¢‚ÌX 09#
+pay_fild10.rsw#ƒtƒFƒCƒˆƒ“–À‚¢‚ÌX 10#
+pay_fild11.rsw#ƒtƒFƒCƒˆƒ“–À‚¢‚ÌX 11#
+pay_gld.rsw#ƒ`ƒ…ƒ“ƒŠƒ€ŒÎ#
+payg_cas01.rsw#ƒ`ƒ…ƒ“ƒŠƒ€ŒÎ Ô1#
+payg_cas02.rsw#ƒ`ƒ…ƒ“ƒŠƒ€ŒÎ Ô2#
+payg_cas03.rsw#ƒ`ƒ…ƒ“ƒŠƒ€ŒÎ Ô3#
+payg_cas04.rsw#ƒ`ƒ…ƒ“ƒŠƒ€ŒÎ Ô4#
+payg_cas05.rsw#ƒ`ƒ…ƒ“ƒŠƒ€ŒÎ Ô5#
+payon.rsw#RŠx‚Ì“ssƒtƒFƒCƒˆƒ“#
+payon_in01.rsw#RŠx‚Ì“ssƒtƒFƒCƒˆƒ“ º“à01#
+payon_in02.rsw#RŠx‚Ì“ssƒtƒFƒCƒˆƒ“ º“à02#
+payon_in03.rsw#RŠx‚Ì“ssƒtƒFƒCƒˆƒ“ º“à03#
+priest_1-1.rsw#ƒvƒŠ[ƒXƒg“]EŠ 1-1#
+priest_2-1.rsw#ƒvƒŠ[ƒXƒg“]EŠ 2-1#
+priest_3-1.rsw#ƒvƒŠ[ƒXƒg“]EŠ 3-1#
+prontera.rsw#ƒ‹[ƒ“ƒ~ƒbƒhƒKƒbƒc‰¤‘‚Ìñ“sƒvƒƒ“ƒeƒ‰#
+prt_are_in.rsw#ƒAƒŠ[ƒi‘Ò‹@º#
+prt_are01.rsw#ƒAƒŠ[ƒi#
+prt_arena01.rsw#ƒAƒŠ[ƒi#
+prt_castle.rsw#ƒvƒƒ“ƒeƒ‰é“à#
+prt_church.rsw#ƒvƒƒ“ƒeƒ‰¹“°“à#
+prt_fild00.rsw#ƒvƒƒ“ƒeƒ‰ƒtƒB[ƒ‹ƒh 00#
+prt_fild01.rsw#ƒvƒƒ“ƒeƒ‰ƒtƒB[ƒ‹ƒh 01#
+prt_fild02.rsw#ƒvƒƒ“ƒeƒ‰ƒtƒB[ƒ‹ƒh 02#
+prt_fild03.rsw#ƒvƒƒ“ƒeƒ‰ƒtƒB[ƒ‹ƒh 03#
+prt_fild04.rsw#ƒvƒƒ“ƒeƒ‰ƒtƒB[ƒ‹ƒh 04#
+prt_fild05.rsw#ƒvƒƒ“ƒeƒ‰ƒtƒB[ƒ‹ƒh 05#
+prt_fild06.rsw#ƒvƒƒ“ƒeƒ‰ƒtƒB[ƒ‹ƒh 06#
+prt_fild07.rsw#ƒvƒƒ“ƒeƒ‰ƒtƒB[ƒ‹ƒh 07#
+prt_fild08.rsw#ƒvƒƒ“ƒeƒ‰ƒtƒB[ƒ‹ƒh 08#
+prt_fild09.rsw#ƒvƒƒ“ƒeƒ‰ƒtƒB[ƒ‹ƒh 09#
+prt_fild10.rsw#ƒvƒƒ“ƒeƒ‰ƒtƒB[ƒ‹ƒh 10#
+prt_fild11.rsw#ƒvƒƒ“ƒeƒ‰ƒtƒB[ƒ‹ƒh 11#
+prt_gld.rsw#ƒ”ƒ@ƒ‹ƒLƒŠ[ƒŒƒ‹ƒ€#
+prt_in.rsw#ñ“sƒvƒƒ“ƒeƒ‰ º“à#
+prt_maze01.rsw#–À‹{‚ÌX 01#
+prt_maze02.rsw#–À‹{‚ÌX 02#
+prt_maze03.rsw#–À‹{‚ÌX 03#
+prt_monk.rsw#¹ƒJƒsƒg[ƒŠƒiC“¹‰@#
+prt_sewb1.rsw#ƒvƒƒ“ƒeƒ‰’n‰º…˜H B1F#
+prt_sewb2.rsw#ƒvƒƒ“ƒeƒ‰’n‰º…˜H B2F#
+prt_sewb3.rsw#ƒvƒƒ“ƒeƒ‰’n‰º…˜H B3F#
+prt_sewb4.rsw#ƒvƒƒ“ƒeƒ‰’n‰º…˜H B4F#
+prtg_cas01.rsw#ƒ”ƒ@ƒ‹ƒLƒŠ[ƒŒƒ‹ƒ€ Ô1#
+prtg_cas02.rsw#ƒ”ƒ@ƒ‹ƒLƒŠ[ƒŒƒ‹ƒ€ Ô2#
+prtg_cas03.rsw#ƒ”ƒ@ƒ‹ƒLƒŠ[ƒŒƒ‹ƒ€ Ô3#
+prtg_cas04.rsw#ƒ”ƒ@ƒ‹ƒLƒŠ[ƒŒƒ‹ƒ€ Ô4#
+prtg_cas05.rsw#ƒ”ƒ@ƒ‹ƒLƒŠ[ƒŒƒ‹ƒ€ Ô5#
+pvp_2vs2.rsw#PvP : ƒCƒxƒ“ƒgƒz[ƒ‹#
+pvp_c_room.rsw#PvP : T‚¦º#
+pvp_n_1-1.rsw#PvP : “ì–kí‘ˆ#
+pvp_n_1-2.rsw#PvP : ƒƒbƒNƒIƒ“#
+pvp_n_1-3.rsw#PvP : ƒtƒH[ƒ‹[ƒ€#
+pvp_n_1-4.rsw#PvP : ƒAƒ“ƒ_[ƒNƒƒX#
+pvp_n_1-5.rsw#PvP : ƒUƒiƒNƒ‹[ƒ€#
+pvp_n_2-1.rsw#PvP : “ì–kí‘ˆ#
+pvp_n_2-2.rsw#PvP : ƒƒbƒNƒIƒ“#
+pvp_n_2-3.rsw#PvP : ƒtƒH[ƒ‹[ƒ€#
+pvp_n_2-4.rsw#PvP : ƒAƒ“ƒ_[ƒNƒƒX#
+pvp_n_2-5.rsw#PvP : ƒUƒiƒNƒ‹[ƒ€#
+pvp_n_3-1.rsw#PvP : “ì–kí‘ˆ#
+pvp_n_3-2.rsw#PvP : ƒƒbƒNƒIƒ“#
+pvp_n_3-3.rsw#PvP : ƒtƒH[ƒ‹[ƒ€#
+pvp_n_3-4.rsw#PvP : ƒAƒ“ƒ_[ƒNƒƒX#
+pvp_n_3-5.rsw#PvP : ƒUƒiƒNƒ‹[ƒ€#
+pvp_n_4-1.rsw#PvP : “ì–kí‘ˆ#
+pvp_n_4-2.rsw#PvP : ƒƒbƒNƒIƒ“#
+pvp_n_4-3.rsw#PvP : ƒtƒH[ƒ‹[ƒ€#
+pvp_n_4-4.rsw#PvP : ƒAƒ“ƒ_[ƒNƒƒX#
+pvp_n_4-5.rsw#PvP : ƒUƒiƒNƒ‹[ƒ€#
+pvp_n_5-1.rsw#PvP : “ì–kí‘ˆ#
+pvp_n_5-2.rsw#PvP : ƒƒbƒNƒIƒ“#
+pvp_n_5-3.rsw#PvP : ƒtƒH[ƒ‹[ƒ€#
+pvp_n_5-4.rsw#PvP : ƒAƒ“ƒ_[ƒNƒƒX#
+pvp_n_5-5.rsw#PvP : ƒUƒiƒNƒ‹[ƒ€#
+pvp_n_6-1.rsw#PvP : “ì–kí‘ˆ#
+pvp_n_6-2.rsw#PvP : ƒƒbƒNƒIƒ“#
+pvp_n_6-3.rsw#PvP : ƒtƒH[ƒ‹[ƒ€#
+pvp_n_6-4.rsw#PvP : ƒAƒ“ƒ_[ƒNƒƒX#
+pvp_n_6-5.rsw#PvP : ƒUƒiƒNƒ‹[ƒ€#
+pvp_n_7-1.rsw#PvP : “ì–kí‘ˆ#
+pvp_n_7-2.rsw#PvP : ƒƒbƒNƒIƒ“#
+pvp_n_7-3.rsw#PvP : ƒtƒH[ƒ‹[ƒ€#
+pvp_n_7-4.rsw#PvP : ƒAƒ“ƒ_[ƒNƒƒX#
+pvp_n_7-5.rsw#PvP : ƒUƒiƒNƒ‹[ƒ€#
+pvp_n_8-1.rsw#PvP : “ì–kí‘ˆ#
+pvp_n_8-2.rsw#PvP : ƒƒbƒNƒIƒ“#
+pvp_n_8-3.rsw#PvP : ƒtƒH[ƒ‹[ƒ€#
+pvp_n_8-4.rsw#PvP : ƒAƒ“ƒ_[ƒNƒƒX#
+pvp_n_8-5.rsw#PvP : ƒUƒiƒNƒ‹[ƒ€#
+pvp_n_room.rsw#PvP : ƒiƒCƒgƒƒAƒ‚[ƒhT‚¦º#
+pvp_y_1-1.rsw#PvP : ƒvƒƒ“ƒeƒ‰#
+pvp_y_1-2.rsw#PvP : ƒCƒYƒ‹[ƒh#
+pvp_y_1-3.rsw#PvP : ƒtƒFƒCƒˆƒ“#
+pvp_y_1-4.rsw#PvP : ƒAƒ‹ƒxƒ‹ƒ^#
+pvp_y_1-5.rsw#PvP : ƒ‚ƒƒN#
+pvp_y_2-1.rsw#PvP : ƒvƒƒ“ƒeƒ‰#
+pvp_y_2-2.rsw#PvP : ƒCƒYƒ‹[ƒh#
+pvp_y_2-3.rsw#PvP : ƒtƒFƒCƒˆƒ“#
+pvp_y_2-4.rsw#PvP : ƒAƒ‹ƒxƒ‹ƒ^#
+pvp_y_2-5.rsw#PvP : ƒ‚ƒƒN#
+pvp_y_3-1.rsw#PvP : ƒvƒƒ“ƒeƒ‰#
+pvp_y_3-2.rsw#PvP : ƒCƒYƒ‹[ƒh#
+pvp_y_3-3.rsw#PvP : ƒtƒFƒCƒˆƒ“#
+pvp_y_3-4.rsw#PvP : ƒAƒ‹ƒxƒ‹ƒ^#
+pvp_y_3-5.rsw#PvP : ƒ‚ƒƒN#
+pvp_y_4-1.rsw#PvP : ƒvƒƒ“ƒeƒ‰#
+pvp_y_4-2.rsw#PvP : ƒCƒYƒ‹[ƒh#
+pvp_y_4-3.rsw#PvP : ƒtƒFƒCƒˆƒ“#
+pvp_y_4-4.rsw#PvP : ƒAƒ‹ƒxƒ‹ƒ^#
+pvp_y_4-5.rsw#PvP : ƒ‚ƒƒN#
+pvp_y_5-1.rsw#PvP : ƒvƒƒ“ƒeƒ‰#
+pvp_y_5-2.rsw#PvP : ƒCƒYƒ‹[ƒh#
+pvp_y_5-3.rsw#PvP : ƒtƒFƒCƒˆƒ“#
+pvp_y_5-4.rsw#PvP : ƒAƒ‹ƒxƒ‹ƒ^#
+pvp_y_5-5.rsw#PvP : ƒ‚ƒƒN#
+pvp_y_6-1.rsw#PvP : ƒvƒƒ“ƒeƒ‰#
+pvp_y_6-2.rsw#PvP : ƒCƒYƒ‹[ƒh#
+pvp_y_6-3.rsw#PvP : ƒtƒFƒCƒˆƒ“#
+pvp_y_6-4.rsw#PvP : ƒAƒ‹ƒxƒ‹ƒ^#
+pvp_y_6-5.rsw#PvP : ƒ‚ƒƒN#
+pvp_y_7-1.rsw#PvP : ƒvƒƒ“ƒeƒ‰#
+pvp_y_7-2.rsw#PvP : ƒCƒYƒ‹[ƒh#
+pvp_y_7-3.rsw#PvP : ƒtƒFƒCƒˆƒ“#
+pvp_y_7-4.rsw#PvP : ƒAƒ‹ƒxƒ‹ƒ^#
+pvp_y_7-5.rsw#PvP : ƒ‚ƒƒN#
+pvp_y_8-1.rsw#PvP : ƒvƒƒ“ƒeƒ‰#
+pvp_y_8-2.rsw#PvP : ƒCƒYƒ‹[ƒh#
+pvp_y_8-3.rsw#PvP : ƒtƒFƒCƒˆƒ“#
+pvp_y_8-4.rsw#PvP : ƒAƒ‹ƒxƒ‹ƒ^#
+pvp_y_8-5.rsw#PvP : ƒ‚ƒƒN#
+pvp_y_room.rsw#PvP : ƒˆ[ƒˆ[ƒ‚[ƒhT‚¦º#
+que_god01.rsw#—û‚Ìê 01#
+que_god02.rsw#—û‚Ìê 02#
+que_job01.rsw#”é–§‹ğ‰®#
+quiz_01.rsw#ƒNƒCƒY‰ïê 01#
+sec_in01.rsw#ŒŸØ—pƒ}ƒbƒv1#
+sec_in02.rsw#ŒŸØ—pƒ}ƒbƒv2#
+sec_pri.rsw#’²¸—pƒ}ƒbƒv#
+sword_1-1.rsw#Œ•m“]EŠ 1-1#
+sword_2-1.rsw#Œ•m“]EŠ 2-1#
+sword_3-1.rsw#Œ•m“]EŠ 3-1#
+tha_t01.rsw#ƒ^ƒiƒgƒXƒ^ƒ[‰º‘w•” 01#
+tha_t02.rsw#ƒ^ƒiƒgƒXƒ^ƒ[‰º‘w•” 02#
+tha_t03.rsw#ƒ^ƒiƒgƒXƒ^ƒ[‰º‘w•” 03#
+tha_t04.rsw#ƒ^ƒiƒgƒXƒ^ƒ[‰º‘w•” 04#
+tha_t05.rsw#ƒ^ƒiƒgƒXƒ^ƒ[ã‘w•” 05#
+tha_t06.rsw#ƒ^ƒiƒgƒXƒ^ƒ[ã‘w•” 06#
+tha_t07.rsw#ƒ^ƒiƒgƒXƒ^ƒ[ã‘w•” 07#
+tha_t08.rsw#ƒ^ƒiƒgƒXƒ^ƒ[ã‘w•” 08#
+tha_t09.rsw#ƒ^ƒiƒgƒXƒ^ƒ[ã‘w•” 09#
+tha_t10.rsw#ƒ^ƒiƒgƒXƒ^ƒ[ã‘w•” 10#
+tha_t11.rsw#ƒ^ƒiƒgƒXƒ^ƒ[ã‘w•” 11#
+tha_t12.rsw#ƒ^ƒiƒgƒXƒ^ƒ[ã‘w•” 12#
+thana_boss.rsw#ƒ^ƒiƒgƒXƒ^ƒ[Åã•”#
+tha_scene01.rsw#ƒ^ƒiƒgƒXƒ^ƒ[‘O#
+thana_step.rsw#ƒ^ƒiƒgƒXƒ^ƒ[ã‘w•”#
+treasure01.rsw#’¾–v‘D 1‘w#
+treasure02.rsw#’¾–v‘D 2‘w#
+tur_dun01.rsw#ƒ^[ƒgƒ‹ƒAƒCƒ‰ƒ“ƒh#
+tur_dun02.rsw#ƒ^[ƒgƒ‹ƒAƒCƒ‰ƒ“ƒhƒ_ƒ“ƒWƒ‡ƒ“ 01#
+tur_dun03.rsw#ƒ^[ƒgƒ‹ƒAƒCƒ‰ƒ“ƒhƒ_ƒ“ƒWƒ‡ƒ“ 02i—z‹‘ºj#
+tur_dun04.rsw#ƒ^[ƒgƒ‹ƒAƒCƒ‰ƒ“ƒhƒ_ƒ“ƒWƒ‡ƒ“ 03i‹v—z‹{j#
+tur_dun05.rsw#’n‰º¼’n‘Ñ 05#
+tur_dun06.rsw#’n‰º¼’n‘Ñ 06#
+turbo_e_16.rsw#ƒ^[ƒ{ƒgƒ‰ƒbƒN‹£‹Zê#
+turbo_e_4.rsw#ƒ^[ƒ{ƒgƒ‰ƒbƒN‹£‹Zê#
+turbo_e_8.rsw#ƒ^[ƒ{ƒgƒ‰ƒbƒN‹£‹Zê#
+turbo_n_1.rsw#ƒ^[ƒ{ƒgƒ‰ƒbƒN‹£‹Zê#
+turbo_n_16.rsw#ƒ^[ƒ{ƒgƒ‰ƒbƒN‹£‹Zê#
+turbo_n_4.rsw#ƒ^[ƒ{ƒgƒ‰ƒbƒN‹£‹Zê#
+turbo_n_8.rsw#ƒ^[ƒ{ƒgƒ‰ƒbƒN‹£‹Zê#
+turbo_room.rsw#ƒ^[ƒ{ƒgƒ‰ƒbƒNT‚¦º#
+um_dun01.rsw#ƒEƒ“ƒoƒ‰ƒ_ƒ“ƒWƒ‡ƒ“ 01i‘å÷‚Ì“¹j#
+um_dun02.rsw#ƒEƒ“ƒoƒ‰ƒ_ƒ“ƒWƒ‡ƒ“ 02i[‰œ‚Ì–§—Ñj#
+um_fild01.rsw#ƒEƒ“ƒoƒ‰ƒtƒB[ƒ‹ƒh 01iƒ‹ƒ‹ƒJXj#
+um_fild02.rsw#ƒEƒ“ƒoƒ‰ƒtƒB[ƒ‹ƒh 02iƒtƒ€ƒKXj#
+um_fild03.rsw#ƒEƒ“ƒoƒ‰ƒtƒB[ƒ‹ƒh 03iƒJƒ‰ƒ‰Àj#
+um_fild04.rsw#ƒEƒ“ƒoƒ‰ƒtƒB[ƒ‹ƒh 04iƒtƒ€ƒKƒWƒƒƒ“ƒOƒ‹j#
+um_in.rsw#ƒE[ƒ^ƒ“‘°‚Ì‘ºƒEƒ“ƒoƒ‰ º“à#
+umbala.rsw#ƒE[ƒ^ƒ“‘°‚Ì‘ºƒEƒ“ƒoƒ‰#
+valkyrie.rsw#ƒ”ƒ@ƒ‹ƒLƒŠ[_“a#
+wizard_1-1.rsw#ƒEƒBƒU[ƒh“]EŠ 1-1#
+wizard_2-1.rsw#ƒEƒBƒU[ƒh“]EŠ 2-1#
+wizard_3-1.rsw#ƒEƒBƒU[ƒh“]EŠ 3-1#
+xmas.rsw#á‚ÌŠXƒ‹ƒeƒBƒG#
+xmas_dun01.rsw#‚¨‚à‚¿‚áHêƒ_ƒ“ƒWƒ‡ƒ“ 01i‘qŒÉj#
+xmas_dun02.rsw#‚¨‚à‚¿‚áHêƒ_ƒ“ƒWƒ‡ƒ“ 02i•ª—ŞŠj#
+xmas_fild01.rsw#ƒ‹ƒeƒBƒGƒtƒB[ƒ‹ƒh 01#
+xmas_in.rsw#ƒ‹ƒeƒBƒG º“à#
+y_airport.rsw#ƒWƒ…ƒm[‹ó`#
+yggdrasil01.rsw#ƒtƒxƒ‹ƒQƒ‹ƒ~ƒ‹‚Ìò(ƒCƒOƒhƒ‰ƒVƒ‹‚ÌŠ²)#
+yuno.rsw#ƒVƒ…ƒoƒ‹ƒcƒoƒ‹ƒh‹¤˜a‘‚Ìñ“sƒWƒ…ƒm[#
+yuno_fild01.rsw#ƒWƒ…ƒm[ƒtƒB[ƒ‹ƒh 01i‘‹«ŒŸ–âŠj#
+yuno_fild02.rsw#ƒWƒ…ƒm[ƒtƒB[ƒ‹ƒh 02iƒLƒ‹EƒnƒCƒ‹‚Ì•Ê‘‘j#
+yuno_fild03.rsw#ƒWƒ…ƒm[ƒtƒB[ƒ‹ƒh 03iƒGƒ‹ƒƒXƒvƒŒ[ƒgj#
+yuno_fild04.rsw#ƒWƒ…ƒm[ƒtƒB[ƒ‹ƒh 04iƒGƒ‹ƒƒXƒvƒŒ[ƒgj#
+yuno_fild05.rsw#ƒWƒ…ƒm[ƒtƒB[ƒ‹ƒh 05iƒGƒ‹ƒƒXƒvƒŒ[ƒgj#
+yuno_fild06.rsw#ƒWƒ…ƒm[ƒtƒB[ƒ‹ƒh 06iƒGƒ‹ƒƒXƒvƒŒ[ƒgj#
+yuno_fild07.rsw#ƒWƒ…ƒm[ƒtƒB[ƒ‹ƒh 07iƒGƒ‹ƒƒX‹¬’Jj#
+yuno_fild08.rsw#ƒWƒ…ƒm[ƒtƒB[ƒ‹ƒh 08iƒLƒ‹EƒnƒCƒ‹Šw‰@j#
+yuno_fild09.rsw#ƒWƒ…ƒm[ƒtƒB[ƒ‹ƒh 09iƒVƒ…ƒoƒ‹ƒcƒoƒ‹ƒhŒx”õ‘à–ì‰c’nj#
+yuno_fild11.rsw#ƒWƒ…ƒm[ƒtƒB[ƒ‹ƒh 11#
+yuno_fild12.rsw#ƒWƒ…ƒm[ƒtƒB[ƒ‹ƒh 12i‘‹«ŒŸ–âŠj#
+yuno_in01.rsw#ƒWƒ…ƒm[ º“à01#
+yuno_in02.rsw#ƒWƒ…ƒm[ º“à02iƒZ[ƒWƒLƒƒƒbƒXƒ‹º“àj#
+yuno_in03.rsw#ƒWƒ…ƒm[ º“à03#
+yuno_in04.rsw#ƒWƒ…ƒm[ º“à04i‹¤˜a‘}‘ŠÙj#
+yuno_in05.rsw#ƒWƒ…ƒm[ º“à05iƒ†ƒ~ƒ‹‚ÌS‘Ÿ“®—Íºj#
+yuno_pre.rsw#ƒVƒ…ƒoƒ‹ƒcƒoƒ‹ƒh­•{’¡äq#
+//------------------------------------------------
+ama_st2a_a.rsw#ƒXƒe[ƒW2#
+ama_st2a_b.rsw#ƒXƒe[ƒW2#
+ama_st2a_c.rsw#ƒXƒe[ƒW2#
+ama_st2a_d.rsw#ƒXƒe[ƒW2#
+//----------------------------------------------------------
+jp_ev_s01.rsw#ãJ‚Ì•”‰®#
+jp_ev_s02.rsw#ƒp[ƒeƒB[x‰‡‰ïê#
+//----------------------------------------------------------
+jp_ev_cas01.rsw#ƒ‚ƒ“ƒXƒ^[ƒMƒ‹ƒh‚ÌÔ#
+jp_ev_cas02.rsw#ƒ‚ƒ“ƒXƒ^[ƒMƒ‹ƒh‚ÌÔ#
+jp_ev_cas03.rsw#ƒ‚ƒ“ƒXƒ^[ƒMƒ‹ƒh‚ÌÔ#
+jp_ev_cas04.rsw#ƒ‚ƒ“ƒXƒ^[ƒMƒ‹ƒh‚ÌÔ#
+jp_ev_cas05.rsw#ƒ‚ƒ“ƒXƒ^[ƒMƒ‹ƒh‚ÌÔ#
+jp_ev_cas06.rsw#ƒ‚ƒ“ƒXƒ^[ƒMƒ‹ƒh‚ÌÔ#
+jp_ev_cas11.rsw#ƒ‚ƒ“ƒXƒ^[ƒMƒ‹ƒh‚ÌÔ#
+jp_ev_cas12.rsw#ƒ‚ƒ“ƒXƒ^[ƒMƒ‹ƒh‚ÌÔ#
+jp_ev_cas13.rsw#ƒ‚ƒ“ƒXƒ^[ƒMƒ‹ƒh‚ÌÔ#
+jp_ev_cas14.rsw#ƒ‚ƒ“ƒXƒ^[ƒMƒ‹ƒh‚ÌÔ#
+jp_ev_cas15.rsw#ƒ‚ƒ“ƒXƒ^[ƒMƒ‹ƒh‚ÌÔ#
+jp_ev_cas16.rsw#ƒ‚ƒ“ƒXƒ^[ƒMƒ‹ƒh‚ÌÔ#
+jp_ev_cas21.rsw#ƒ‚ƒ“ƒXƒ^[ƒMƒ‹ƒh‚ÌÔ#
+jp_ev_cas22.rsw#ƒ‚ƒ“ƒXƒ^[ƒMƒ‹ƒh‚ÌÔ#
+jp_ev_cas23.rsw#ƒ‚ƒ“ƒXƒ^[ƒMƒ‹ƒh‚ÌÔ#
+jp_ev_cas24.rsw#ƒ‚ƒ“ƒXƒ^[ƒMƒ‹ƒh‚ÌÔ#
+jp_ev_cas25.rsw#ƒ‚ƒ“ƒXƒ^[ƒMƒ‹ƒh‚ÌÔ#
+jp_ev_cas26.rsw#ƒ‚ƒ“ƒXƒ^[ƒMƒ‹ƒh‚ÌÔ#
+jp_ev_bos01.rsw#ƒMƒ‹ƒhƒ}ƒXƒ^[‚Ì•”‰®#
+jp_ev_bos02.rsw#ƒMƒ‹ƒhƒ}ƒXƒ^[‚Ì•”‰®#
+jp_ev_bos03.rsw#ƒMƒ‹ƒhƒ}ƒXƒ^[‚Ì•”‰®#
+jp_ev_bos11.rsw#ƒMƒ‹ƒhƒ}ƒXƒ^[‚Ì•”‰®#
+jp_ev_bos12.rsw#ƒMƒ‹ƒhƒ}ƒXƒ^[‚Ì•”‰®#
+jp_ev_bos13.rsw#ƒMƒ‹ƒhƒ}ƒXƒ^[‚Ì•”‰®#
+jp_ev_bos21.rsw#ƒMƒ‹ƒhƒ}ƒXƒ^[‚Ì•”‰®#
+jp_ev_bos22.rsw#ƒMƒ‹ƒhƒ}ƒXƒ^[‚Ì•”‰®#
+jp_ev_bos23.rsw#ƒMƒ‹ƒhƒ}ƒXƒ^[‚Ì•”‰®#
+jp_ev_rob01.rsw#‹Rm’cW‡’n“_ ƒ\ƒ‹ƒWƒƒ[#
+jp_ev_rob02.rsw#‹Rm’cW‡’n“_ ƒ\ƒ‹ƒWƒƒ[#
+jp_ev_rob03.rsw#‹Rm’cW‡’n“_ ƒ\ƒ‹ƒWƒƒ[#
+jp_ev_rob11.rsw#‹Rm’cW‡’n“_ ƒiƒCƒg#
+jp_ev_rob12.rsw#‹Rm’cW‡’n“_ ƒiƒCƒg#
+jp_ev_rob13.rsw#‹Rm’cW‡’n“_ ƒiƒCƒg#
+jp_ev_rob21.rsw#‹Rm’cW‡’n“_ ƒWƒFƒlƒ‰ƒ‹#
+jp_ev_rob22.rsw#‹Rm’cW‡’n“_ ƒWƒFƒlƒ‰ƒ‹#
+jp_ev_rob23.rsw#‹Rm’cW‡’n“_ ƒWƒFƒlƒ‰ƒ‹#
+pvp_room.rsw#‘å‰‰Kê@ƒƒr[#
+pvp_sw_a01.rsw#3 vs 3 ‘Ò‹@º01#
+pvp_sw_a02.rsw#3 vs 3 ‘Ò‹@º02#
+a01_temple.rsw#A01_‡‰ïê[Temple]#
+a02_d_cross.rsw#A02_‡‰ïê[DarkCross]#
+a03_battle.rsw#A03_‡‰ïê[Battle]#
+a04_garden.rsw#A04_‡‰ïê[Garden]#
+a05_temple.rsw#A05_‡‰ïê[Temple]#
+a06_d_cross.rsw#A06_‡‰ïê[DarkCross]#
+a07_battle.rsw#A07_‡‰ïê[Battle]#
+a08_garden.rsw#A08_‡‰ïê[Garden]#
+a09_temple.rsw#A09_‡‰ïê[Temple]#
+a10_d_cross.rsw#A10_‡‰ïê[DarkCross]#
+a11_battle.rsw#A11_‡‰ïê[Battle]#
+a12_garden.rsw#A12_‡‰ïê[Garden]#
+a13_d_cross.rsw#A13_‡‰ïê[DarkCross]#
+a14_garden.rsw#A14_‡‰ïê[Garden]#
+pvp_ew_a01.rsw#•ñVó‚¯æ‚èº#
+jp_ev_alb2.rsw#`‚Ì“ssƒAƒ‹ƒxƒ‹ƒ^(–é–¾‚¯‘O)#
+jp_ev_alb.rsw#ƒTƒ‚ƒ“ƒp[ƒN#
+//----------------------------------------------------------
+bif_fild01.rsw#ƒrƒtƒƒXƒg “ì•”#
+bif_fild02.rsw#ƒrƒtƒƒXƒg –k•”#
+1@mist.rsw#–¶‚ÌX#
+mora.rsw#ƒŒƒVƒA‘°‚ÌŠX ƒ‚[ƒ‰#
+//----------------------------------------------------------
+1@ravi.rsw#ƒ‰ƒ”ƒB[ƒlR–¬01#
+2@ravi.rsw#ƒ‰ƒ”ƒB[ƒlR–¬02#
+//----------------------------------------------------------
+prt_gld01.rsw#ƒ”ƒ@ƒ‹ƒLƒŠ[ƒŒƒ‹ƒ€ Ô‘O1#
+prt_gld02.rsw#ƒ”ƒ@ƒ‹ƒLƒŠ[ƒŒƒ‹ƒ€ Ô‘O2#
+prt_gld03.rsw#ƒ”ƒ@ƒ‹ƒLƒŠ[ƒŒƒ‹ƒ€ Ô‘O3#
+prt_gld04.rsw#ƒ”ƒ@ƒ‹ƒLƒŠ[ƒŒƒ‹ƒ€ Ô‘O4#
+prt_gld05.rsw#ƒ”ƒ@ƒ‹ƒLƒŠ[ƒŒƒ‹ƒ€ Ô‘O5#
+gef_fild15.rsw#ƒuƒŠƒgƒjƒA Ô‘O1#
+gef_fild16.rsw#ƒuƒŠƒgƒjƒA Ô‘O2#
+gef_fild17.rsw#ƒuƒŠƒgƒjƒA Ô‘O3#
+gef_fild18.rsw#ƒuƒŠƒgƒjƒA Ô‘O4#
+gef_fild19.rsw#ƒuƒŠƒgƒjƒA Ô‘O5#
+alde_gld01.rsw#ƒ‹ƒC[ƒi Ô‘O1#
+alde_gld02.rsw#ƒ‹ƒC[ƒi Ô‘O2#
+alde_gld03.rsw#ƒ‹ƒC[ƒi Ô‘O3#
+alde_gld04.rsw#ƒ‹ƒC[ƒi Ô‘O4#
+alde_gld05.rsw#ƒ‹ƒC[ƒi Ô‘O5#
+pay_gld01.rsw#ƒ`ƒ…ƒ“ƒŠƒ€ŒÎ Ô‘O1#
+pay_gld02.rsw#ƒ`ƒ…ƒ“ƒŠƒ€ŒÎ Ô‘O2#
+pay_gld03.rsw#ƒ`ƒ…ƒ“ƒŠƒ€ŒÎ Ô‘O3#
+pay_gld04.rsw#ƒ`ƒ…ƒ“ƒŠƒ€ŒÎ Ô‘O4#
+pay_gld05.rsw#ƒ`ƒ…ƒ“ƒŠƒ€ŒÎ Ô‘O5#
+aru_gld01.rsw#ƒ”ƒ@ƒ‹ƒtƒŒƒCƒ„ Ô‘O1#
+aru_gld02.rsw#ƒ”ƒ@ƒ‹ƒtƒŒƒCƒ„ Ô‘O2#
+aru_gld03.rsw#ƒ”ƒ@ƒ‹ƒtƒŒƒCƒ„ Ô‘O3#
+aru_gld04.rsw#ƒ”ƒ@ƒ‹ƒtƒŒƒCƒ„ Ô‘O4#
+aru_gld05.rsw#ƒ”ƒ@ƒ‹ƒtƒŒƒCƒ„ Ô‘O5#
+sch_gld01.rsw#ƒjƒ_ƒ”ƒFƒŠ[ƒ‹ Ô‘O1#
+sch_gld02.rsw#ƒjƒ_ƒ”ƒFƒŠ[ƒ‹ Ô‘O2#
+sch_gld03.rsw#ƒjƒ_ƒ”ƒFƒŠ[ƒ‹ Ô‘O3#
+sch_gld04.rsw#ƒjƒ_ƒ”ƒFƒŠ[ƒ‹ Ô‘O4#
+sch_gld05.rsw#ƒjƒ_ƒ”ƒFƒŠ[ƒ‹ Ô‘O5#
+geffen01.rsw#ƒx[ƒXƒLƒƒƒ“ƒv#
+geffen02.rsw#ƒx[ƒXƒLƒƒƒ“ƒv#
+geffen03.rsw#ƒx[ƒXƒLƒƒƒ“ƒv#
+geffen04.rsw#ƒx[ƒXƒLƒƒƒ“ƒv#
+geffen05.rsw#ƒx[ƒXƒLƒƒƒ“ƒv#
+geffen06.rsw#ƒx[ƒXƒLƒƒƒ“ƒv#
+geffen07.rsw#ƒx[ƒXƒLƒƒƒ“ƒv#
+geffen08.rsw#ƒx[ƒXƒLƒƒƒ“ƒv#
+geffen09.rsw#ƒx[ƒXƒLƒƒƒ“ƒv#
+geffen10.rsw#ƒx[ƒXƒLƒƒƒ“ƒv#
+geffen11.rsw#ƒx[ƒXƒLƒƒƒ“ƒv#
+geffen12.rsw#ƒx[ƒXƒLƒƒƒ“ƒv#
+geffen13.rsw#ƒx[ƒXƒLƒƒƒ“ƒv#
+geffen14.rsw#ƒx[ƒXƒLƒƒƒ“ƒv#
+geffen15.rsw#ƒx[ƒXƒLƒƒƒ“ƒv#
+geffen16.rsw#ƒx[ƒXƒLƒƒƒ“ƒv#
+geffen17.rsw#ƒx[ƒXƒLƒƒƒ“ƒv#
+geffen18.rsw#ƒx[ƒXƒLƒƒƒ“ƒv#
+geffen19.rsw#ƒx[ƒXƒLƒƒƒ“ƒv#
+geffen20.rsw#ƒx[ƒXƒLƒƒƒ“ƒv#
+geffen21.rsw#ƒx[ƒXƒLƒƒƒ“ƒv#
+geffen22.rsw#ƒx[ƒXƒLƒƒƒ“ƒv#
+geffen23.rsw#ƒx[ƒXƒLƒƒƒ“ƒv#
+geffen24.rsw#ƒx[ƒXƒLƒƒƒ“ƒv#
+geffen25.rsw#ƒx[ƒXƒLƒƒƒ“ƒv#
+battle01.rsw#í“¬‰Â”\ƒGƒŠƒA#
+battle02.rsw#í“¬‰Â”\ƒGƒŠƒA#
+battle03.rsw#í“¬‰Â”\ƒGƒŠƒA#
+battle04.rsw#í“¬‰Â”\ƒGƒŠƒA#
+battle05.rsw#í“¬‰Â”\ƒGƒŠƒA#
+battle06.rsw#í“¬‰Â”\ƒGƒŠƒA#
+battle07.rsw#í“¬‰Â”\ƒGƒŠƒA#
+battle08.rsw#í“¬‰Â”\ƒGƒŠƒA#
+battle09.rsw#í“¬‰Â”\ƒGƒŠƒA#
+battle10.rsw#í“¬‰Â”\ƒGƒŠƒA#
+battle11.rsw#í“¬‰Â”\ƒGƒŠƒA#
+battle12.rsw#í“¬‰Â”\ƒGƒŠƒA#
+battle13.rsw#í“¬‰Â”\ƒGƒŠƒA#
+battle14.rsw#í“¬‰Â”\ƒGƒŠƒA#
+battle15.rsw#í“¬‰Â”\ƒGƒŠƒA#
+battle16.rsw#í“¬‰Â”\ƒGƒŠƒA#
+battle17.rsw#í“¬‰Â”\ƒGƒŠƒA#
+battle18.rsw#í“¬‰Â”\ƒGƒŠƒA#
+battle19.rsw#í“¬‰Â”\ƒGƒŠƒA#
+battle20.rsw#í“¬‰Â”\ƒGƒŠƒA#
+battle21.rsw#í“¬‰Â”\ƒGƒŠƒA#
+battle22.rsw#í“¬‰Â”\ƒGƒŠƒA#
+battle23.rsw#í“¬‰Â”\ƒGƒŠƒA#
+battle24.rsw#í“¬‰Â”\ƒGƒŠƒA#
+battle25.rsw#í“¬‰Â”\ƒGƒŠƒA#
+jp_ev_map34.rsw#“V‹ó’ë‰€[‚]#
+//----------------------------------------------------------
+prtj_cas01.rsw#ƒ‚ƒfƒ‹ƒ”ƒ@ƒ‹ƒLƒŠ[ƒŒƒ‹ƒ€^ƒOƒƒŠƒA Ô1#
+prtj_cas02.rsw#ƒ‚ƒfƒ‹ƒ”ƒ@ƒ‹ƒLƒŠ[ƒŒƒ‹ƒ€^ƒOƒƒŠƒA Ô2#
+prtj_cas03.rsw#ƒ‚ƒfƒ‹ƒ”ƒ@ƒ‹ƒLƒŠ[ƒŒƒ‹ƒ€^ƒOƒƒŠƒA Ô3#
+prtj_cas04.rsw#ƒ‚ƒfƒ‹ƒ”ƒ@ƒ‹ƒLƒŠ[ƒŒƒ‹ƒ€^ƒOƒƒŠƒA Ô4#
+prtj_cas05.rsw#ƒ‚ƒfƒ‹ƒ”ƒ@ƒ‹ƒLƒŠ[ƒŒƒ‹ƒ€^ƒOƒƒŠƒA Ô5#
+gefj_cas01.rsw#ƒ‚ƒfƒ‹ƒuƒŠƒgƒjƒA Ô1#
+gefj_cas02.rsw#ƒ‚ƒfƒ‹ƒuƒŠƒgƒjƒA Ô2#
+gefj_cas03.rsw#ƒ‚ƒfƒ‹ƒuƒŠƒgƒjƒA Ô3#
+gefj_cas04.rsw#ƒ‚ƒfƒ‹ƒuƒŠƒgƒjƒA Ô4#
+gefj_cas05.rsw#ƒ‚ƒfƒ‹ƒuƒŠƒgƒjƒA Ô5#
+payj_cas01.rsw#ƒ‚ƒfƒ‹ƒ`ƒ…ƒ“ƒŠƒ€ŒÎ Ô1#
+payj_cas02.rsw#ƒ‚ƒfƒ‹ƒ`ƒ…ƒ“ƒŠƒ€ŒÎ Ô2#
+payj_cas03.rsw#ƒ‚ƒfƒ‹ƒ`ƒ…ƒ“ƒŠƒ€ŒÎ Ô3#
+payj_cas04.rsw#ƒ‚ƒfƒ‹ƒ`ƒ…ƒ“ƒŠƒ€ŒÎ Ô4#
+payj_cas05.rsw#ƒ‚ƒfƒ‹ƒ`ƒ…ƒ“ƒŠƒ€ŒÎ Ô5#
+aldej_cas01.rsw#ƒ‚ƒfƒ‹ƒ‹ƒC[ƒi^ƒJƒvƒ‰ƒK[ƒfƒ“ Ô1#
+aldej_cas02.rsw#ƒ‚ƒfƒ‹ƒ‹ƒC[ƒi^ƒJƒvƒ‰ƒK[ƒfƒ“ Ô2#
+aldej_cas03.rsw#ƒ‚ƒfƒ‹ƒ‹ƒC[ƒi^ƒJƒvƒ‰ƒK[ƒfƒ“ Ô3#
+aldej_cas04.rsw#ƒ‚ƒfƒ‹ƒ‹ƒC[ƒi^ƒJƒvƒ‰ƒK[ƒfƒ“ Ô4#
+aldej_cas05.rsw#ƒ‚ƒfƒ‹ƒ‹ƒC[ƒi^ƒJƒvƒ‰ƒK[ƒfƒ“ Ô5#
+aruj_cas01.rsw#ƒ‚ƒfƒ‹ƒ”ƒ@ƒ‹ƒtƒŒƒCƒ„ Ô1#
+aruj_cas02.rsw#ƒ‚ƒfƒ‹ƒ”ƒ@ƒ‹ƒtƒŒƒCƒ„ Ô2#
+aruj_cas03.rsw#ƒ‚ƒfƒ‹ƒ”ƒ@ƒ‹ƒtƒŒƒCƒ„ Ô3#
+aruj_cas04.rsw#ƒ‚ƒfƒ‹ƒ”ƒ@ƒ‹ƒtƒŒƒCƒ„ Ô4#
+aruj_cas05.rsw#ƒ‚ƒfƒ‹ƒ”ƒ@ƒ‹ƒtƒŒƒCƒ„ Ô5#
+schj_cas01.rsw#ƒ‚ƒfƒ‹ƒjƒ_ƒ”ƒFƒŠ[ƒ‹ Ô1#
+schj_cas02.rsw#ƒ‚ƒfƒ‹ƒjƒ_ƒ”ƒFƒŠ[ƒ‹ Ô2#
+schj_cas03.rsw#ƒ‚ƒfƒ‹ƒjƒ_ƒ”ƒFƒŠ[ƒ‹ Ô3#
+schj_cas04.rsw#ƒ‚ƒfƒ‹ƒjƒ_ƒ”ƒFƒŠ[ƒ‹ Ô4#
+schj_cas05.rsw#ƒ‚ƒfƒ‹ƒjƒ_ƒ”ƒFƒŠ[ƒ‹ Ô5#
+//----------------------------------------------------------
+b_labo.rsw#ƒrƒ…[ƒg‹³ö‚ÌŒ¤‹†º#
+malangdo.rsw#ƒ}ƒ‰ƒ““‡#
+mal_in01.rsw#ƒ}ƒ‰ƒ““‡ º“à#
+mal_in02.rsw#ƒiƒr† ‘D“à#
+mal_dun01.rsw#¯–¾‚è‚ÌXŒèÊ#
+1@cash.rsw#–\ŒA‰¤‚Ì“´ŒA#
+//------------------------------------------------
+jp_ev_alb3.rsw#`‚Ì“ssƒAƒ‹ƒxƒ‹ƒ^(‰NO‚Â)#
+jp_ev_alb4.rsw#`‚Ì“ssƒAƒ‹ƒxƒ‹ƒ^(’©Ä‚¯)#
+//------------------------------------------------
+lhz_dun04.rsw#¶‘ÌHŠwŒ¤‹†Š 04#
+que_lhz.rsw#¶‘ÌHŠwŒ¤‹†Š#
+1@lhz.rsw#‹ÖŠõ‚ÌŒ¤‹†Š#
+//----------------------------------------------------------
+d_area01_a.rsw#ˆÙŠE X—Ñ#
+d_area01_b.rsw#ˆÙŠE X—Ñ#
+d_area01_c.rsw#ˆÙŠE X—Ñ#
+d_area02_a.rsw#ˆÙŠE X‹«#
+d_area02_b.rsw#ˆÙŠE X‹«#
+d_area02_c.rsw#ˆÙŠE X‹«#
+d_area03_a.rsw#ˆÙŠE Œk’J#
+d_area03_b.rsw#ˆÙŠE Œk’J#
+d_area03_c.rsw#ˆÙŠE Œk’J#
+d_area04_a.rsw#ˆÙŠE‚Ìr–ì#
+d_area04_b.rsw#ˆÙŠE‚Ìr–ì#
+d_area04_c.rsw#ˆÙŠE‚Ìr–ì#
+//----------------------------------------------------------
+summer_ca01.rsw#ƒLƒƒƒ“ƒvê#
+summer_ca02.rsw#•l•ÓA’n‹æ#
+summer_ca03.rsw#•l•ÓB’n‹æ#
+summer_ca04.rsw#•l•ÓC’n‹æ#
+summer_ca05.rsw#•l•ÓD’n‹æ#
+//----------------------------------------------------------
+malaya.rsw#ƒ|[ƒgƒ}ƒ‰ƒ„#
+ma_fild01.rsw#ƒoƒŠƒIEƒ}ƒqƒƒK#
+ma_fild02.rsw#ƒoƒŠƒIEƒtƒHƒŒƒXƒg#
+ma_scene01.rsw#ƒoƒRƒiƒŒÎ#
+ma_in01.rsw#º“à#
+ma_dun01.rsw#ƒrƒ‡ƒ“ƒEƒ“ƒS•a‰@1ŠK#
+1@ma_h.rsw#ˆÅ‚Ìƒrƒ‡ƒ“ƒEƒ“ƒS•a‰@2ŠK#
+1@ma_c.rsw#ƒuƒƒ„‚Ì‘ƒ#
+1@ma_b.rsw#ƒoƒRƒiƒ‚Ì±‚İˆ#
+ma_zif01.rsw#ƒWƒvƒj[ “à•”#
+ma_zif02.rsw#ƒWƒvƒj[ “à•”#
+ma_zif03.rsw#ƒWƒvƒj[ “à•”#
+ma_zif04.rsw#ƒWƒvƒj[ “à•”#
+ma_zif05.rsw#ƒWƒvƒj[ “à•”#
+ma_zif06.rsw#ƒWƒvƒj[ “à•”#
+ma_zif07.rsw#ƒWƒvƒj[ “à•”#
+ma_zif08.rsw#ƒWƒvƒj[ “à•”#
+ma_zif09.rsw#ƒWƒvƒj[ “à•”#
+ma_in01_jp.rsw#ƒoƒŠƒIEƒ}ƒqƒƒK º“à#
+ma_dun01_jp.rsw#ƒrƒ‡ƒ“ƒEƒ“ƒS•a‰@2ŠK#
+ma_c_jp.rsw#ƒuƒƒ„‚Ì“´ŒA#
+//----------------------------------------------------------
+gbt_map01.rsw#ƒ[ƒ‹ƒh‘ÎRí—DŸƒ}ƒbƒv01#
+gbt_map02.rsw#ƒ[ƒ‹ƒh‘ÎRí—DŸƒ}ƒbƒv02#
+gbt_map03.rsw#ƒ[ƒ‹ƒh‘ÎRí€—DŸƒ}ƒbƒv01#
+//------------------------------------------------
+moonfield01.rsw#Œ–Ê#
+moonfield02.rsw#Œ–Ê#
+moonfield03.rsw#Œ–Ê#
+moonfield04.rsw#— Œ–Ê#
+moonfield05.rsw#— Œ–Ê#
+moonfield06.rsw#— Œ–Ê#
+//------------------------------------------------
+hallow_01.rsw#ƒnƒƒEƒBƒ“ƒp[ƒeƒB[‰ïê#
+egg_hunt01.rsw#—‘ë‚è”_ê#
+egg_hunt02.rsw#—‘ë‚è”_ê#
+egg_hunt03.rsw#—‘ë‚è”_ê#
+egg_hunt04.rsw#—‘ë‚è”_ê#
+egg_hunt05.rsw#—‘ë‚è”_ê#
+//------------------------------------------------
+ad_island.rsw#ƒAƒhƒxƒ“ƒ`ƒƒ[ƒYƒ^ƒ[“Áİ‰ïê#
+1@adt.rsw#ƒAƒhƒxƒ“ƒ`ƒƒ[ƒYƒ^ƒ[’b˜B‚Ì“ƒ 1`25F#
+2@adt.rsw#ƒAƒhƒxƒ“ƒ`ƒƒ[ƒYƒ^ƒ[’b˜B‚Ì“ƒ 26`49F#
+3@adt.rsw#ƒAƒhƒxƒ“ƒ`ƒƒ[ƒYƒ^ƒ[’§í‚Ì“ƒ 1`25F#
+4@adt.rsw#ƒAƒhƒxƒ“ƒ`ƒƒ[ƒYƒ^ƒ[’§í‚Ì“ƒ 26`49F#
+5@adt.rsw#ƒAƒhƒxƒ“ƒ`ƒƒ[ƒYƒ^ƒ[’b˜B‚Ì“ƒ 50F#
+6@adt.rsw#ƒAƒhƒxƒ“ƒ`ƒƒ[ƒYƒ^ƒ[’b˜B‚Ì“ƒ ÅãŠK#
+7@adt.rsw#ƒAƒhƒxƒ“ƒ`ƒƒ[ƒYƒ^ƒ[’b˜B‚Ì“ƒ ’¸ã#
+//------------------------------------------------
+gbt_int_map.rsw#ƒCƒ“ƒ^ƒrƒ…[‰ïê#
+//------------------------------------------------
+//rwc_map01.rsw#RWC“Á•Ê•ñVƒ_ƒ“ƒWƒ‡ƒ“01#
+//rwc_map02.rsw#RWC“Á•Ê•ñVƒ_ƒ“ƒWƒ‡ƒ“02#
+//rwc_map03.rsw#RWC“Á•Ê•ñVƒ_ƒ“ƒWƒ‡ƒ“03#
+//rwc_map04.rsw#RWC“Á•Ê•ñVƒ_ƒ“ƒWƒ‡ƒ“04#
+//rwc_map05.rsw#RWC“Á•Ê•ñVƒ_ƒ“ƒWƒ‡ƒ“05#
+//rwc_map06.rsw#RWC“Á•Ê•ñVƒ_ƒ“ƒWƒ‡ƒ“06#
+//rwc_map07.rsw#RWC“Á•Ê•ñVƒ_ƒ“ƒWƒ‡ƒ“07#
+//rwc_map08.rsw#RWC“Á•Ê•ñVƒ_ƒ“ƒWƒ‡ƒ“08#
+//rwc_map09.rsw#RWC“Á•Ê•ñVƒ_ƒ“ƒWƒ‡ƒ“09#
+//rwc_map10.rsw#RWC“Á•Ê•ñVƒ_ƒ“ƒWƒ‡ƒ“10#
+//rwc_map11.rsw#RWC“Á•Ê•ñVƒ_ƒ“ƒWƒ‡ƒ“11#
+//rwc_map12.rsw#RWC“Á•Ê•ñVƒ_ƒ“ƒWƒ‡ƒ“12#
+//------------------------------------------------
+te_prt_gld.rsw#ƒOƒƒŠƒA#
+te_prtcas01.rsw#ƒQƒIƒ‹ƒO#
+te_prtcas02.rsw#ƒŠƒnƒ‹ƒg #
+te_prtcas03.rsw#ƒEƒBƒOƒi[#
+te_prtcas04.rsw#ƒnƒCƒlƒ“#
+te_prtcas05.rsw#ƒlƒŠƒEƒX#
+teg_dun01.rsw#ƒMƒ‹ƒhƒ_ƒ“ƒWƒ‡ƒ“ ƒOƒƒŠƒA#
+te_alde_gld.rsw#ƒJƒvƒ‰ƒK[ƒfƒ“#
+te_aldecas1.rsw#ƒOƒ‰ƒŠƒX#
+te_aldecas2.rsw#ƒfƒBƒtƒHƒ‹ƒe[#
+te_aldecas3.rsw#ƒ\ƒŠƒ“#
+te_aldecas4.rsw#ƒrƒjƒbƒg#
+te_aldecas5.rsw#‚v#
+teg_dun02.rsw#ƒMƒ‹ƒhƒ_ƒ“ƒWƒ‡ƒ“ ƒJƒvƒ‰ƒK[ƒfƒ“#
+//------------------------------------------------
+geffen101.rsw#ƒx[ƒXƒLƒƒƒ“ƒv VUéí—p#
+geffen102.rsw#ƒx[ƒXƒLƒƒƒ“ƒv VUéí—p#
+geffen103.rsw#ƒx[ƒXƒLƒƒƒ“ƒv VUéí—p#
+geffen104.rsw#ƒx[ƒXƒLƒƒƒ“ƒv VUéí—p#
+geffen105.rsw#ƒx[ƒXƒLƒƒƒ“ƒv VUéí—p#
+geffen106.rsw#ƒx[ƒXƒLƒƒƒ“ƒv VUéí—p#
+geffen107.rsw#ƒx[ƒXƒLƒƒƒ“ƒv VUéí—p#
+geffen108.rsw#ƒx[ƒXƒLƒƒƒ“ƒv VUéí—p#
+geffen109.rsw#ƒx[ƒXƒLƒƒƒ“ƒv VUéí—p#
+geffen110.rsw#ƒx[ƒXƒLƒƒƒ“ƒv VUéí—p#
+geffen111.rsw#ƒx[ƒXƒLƒƒƒ“ƒv VUéí—p#
+geffen112.rsw#ƒx[ƒXƒLƒƒƒ“ƒv VUéí—p#
+geffen113.rsw#ƒx[ƒXƒLƒƒƒ“ƒv VUéí—p#
+geffen114.rsw#ƒx[ƒXƒLƒƒƒ“ƒv VUéí—p#
+geffen115.rsw#ƒx[ƒXƒLƒƒƒ“ƒv VUéí—p#
+//------------------------------------------------
+battle101.rsw#í“¬‰Â”\ƒGƒŠƒA#
+battle102.rsw#í“¬‰Â”\ƒGƒŠƒA#
+battle103.rsw#í“¬‰Â”\ƒGƒŠƒA#
+battle104.rsw#í“¬‰Â”\ƒGƒŠƒA#
+battle105.rsw#í“¬‰Â”\ƒGƒŠƒA#
+battle106.rsw#í“¬‰Â”\ƒGƒŠƒA#
+battle107.rsw#í“¬‰Â”\ƒGƒŠƒA#
+battle108.rsw#í“¬‰Â”\ƒGƒŠƒA#
+battle109.rsw#í“¬‰Â”\ƒGƒŠƒA#
+battle110.rsw#í“¬‰Â”\ƒGƒŠƒA#
+battle111.rsw#í“¬‰Â”\ƒGƒŠƒA#
+battle112.rsw#í“¬‰Â”\ƒGƒŠƒA#
+battle113.rsw#í“¬‰Â”\ƒGƒŠƒA#
+battle114.rsw#í“¬‰Â”\ƒGƒŠƒA#
+battle115.rsw#í“¬‰Â”\ƒGƒŠƒA#
+//------------------------------------------------
+gl_cas02_.rsw#ˆ«–²‚ÌƒOƒ‰ƒXƒgƒwƒCƒ€ŒÃé2F#
+gl_chyard_.rsw#ˆ«–²‚ÌƒOƒ‰ƒXƒgƒwƒCƒ€ƒJƒ^ƒRƒ“ƒx#
+2@gl_k.rsw#ŒÃ‚Ì‹Rm’c02#
+1@gl_k.rsw#ŒÃ‚Ì‹Rm’c01#
+//------------------------------------------------
+masters01.rsw#‘Îí‰ïê#
+masters02.rsw#‘Îí‰ïê#
+masters_st.rsw#‘Ò‹@º#
+masters_st2.rsw#‘Ò‹@º#
+masters_ex.rsw#RBR‘ÌŒ±‰ïê#
+masters_w1.rsw#ƒGƒ“ƒgƒŠƒ‹[ƒ€#
+masters_w2.rsw#ƒGƒ“ƒgƒŠƒ‹[ƒ€#
+masters_w3.rsw#ƒGƒ“ƒgƒŠƒ‹[ƒ€#
+masters_e1.rsw#‡‰ïê#
+masters_e2.rsw#‡‰ïê#
+masters_e3.rsw#‡‰ïê#
+masters_e4.rsw#‡‰ïê#
+masters_sta.rsw#‘Ò‹@º#
+masters_stb.rsw#‘Ò‹@º#
+masters_stc.rsw#‘Ò‹@º#
+masters_re.rsw#‡‰ïêoŒû#
+mas_pra01.rsw#ŒP—ûº#
+mas_pra02.rsw#ŒP—ûº#
+masters_new.gat#RBR‘ÌŒ±‰ïê“üŒû#
+//------------------------------------------------
+magic_gate1.rsw#®_‚Ì‰ô˜L#
+magic_gate2.rsw#®_‚Ì‰ô˜L#
+magic_gate3.rsw#®_‚Ì‰ô˜L#
+magic_gate4.rsw#®_‚Ì‰ô˜L#
+magic_gate5.rsw#®_‚Ì‰ô˜L#
+1@mag.rsw#®_‚Ì‰ô˜L#
+//------------------------------------------------
+eclage.rsw#ƒ‰ƒtƒBƒl‘°‚Ìñ“s ƒGƒNƒ‰[ƒWƒ…#
+ecl_fild01.rsw#‰Ô‚ªç‚«n‚ß‚½‘å’n#
+ecl_in01.rsw#ƒGƒNƒ‰[ƒWƒ… “à•”#
+ecl_in02.rsw#ƒGƒNƒ‰[ƒWƒ… “à•”#
+ecl_in03.rsw#ƒGƒNƒ‰[ƒWƒ… “à•”#
+ecl_in04.rsw#ƒGƒNƒ‰[ƒWƒ… “à•”#
+1@ecl.rsw#ƒGƒNƒ‰[ƒWƒ… “à•”#
+ecl_tdun01.rsw#ƒrƒtƒƒXƒgƒ^ƒ[ 1ŠK#
+ecl_tdun02.rsw#ƒrƒtƒƒXƒgƒ^ƒ[ 2ŠK#
+ecl_tdun03.rsw#ƒrƒtƒƒXƒgƒ^ƒ[ 3ŠK#
+ecl_tdun04.rsw#ƒrƒtƒƒXƒgƒ^ƒ[ 4ŠK#
+ecl_hub01.rsw#ƒGƒNƒ‰[ƒWƒ…’Ê˜H#
+que_avan01.rsw#ƒGƒCƒ”ƒ@ƒ“ƒgŒ¤‹†º#
+//------------------------------------------------
+prt_fild08b.rsw#ƒvƒƒ“ƒeƒ‰ƒtƒB[ƒ‹ƒh 08(—[•é‚ê)#
+prt_fild08c.rsw#ƒvƒƒ“ƒeƒ‰ƒtƒB[ƒ‹ƒh 08(‰NO‚Â)#
+prt_fild08d.rsw#ƒvƒƒ“ƒeƒ‰ƒtƒB[ƒ‹ƒh 08(–é–¾‚¯‘O)#
+prt_fild08e.rsw#ƒvƒƒ“ƒeƒ‰ƒtƒB[ƒ‹ƒh 08(’©Ä‚¯)#
+//------------------------------------------------
+clone_brei1.rsw#ƒNƒ[ƒ“ƒXƒLƒ‹’²®º1#
+clone_brei2.rsw#ƒNƒ[ƒ“ƒXƒLƒ‹’²®º2#
+clone_brei3.rsw#ƒNƒ[ƒ“ƒXƒLƒ‹’²®º3#
+clone_brei4.rsw#ƒNƒ[ƒ“ƒXƒLƒ‹’²®º4#
+clone_brei5.rsw#ƒNƒ[ƒ“ƒXƒLƒ‹’²®º5#
+//------------------------------------------------
+time_01.rsw#ƒ^ƒCƒ€ƒAƒ^ƒbƒN01#
+time_02.rsw#ƒ^ƒCƒ€ƒAƒ^ƒbƒN02#
+time_03.rsw#ƒ^ƒCƒ€ƒAƒ^ƒbƒN03#
+time_04.rsw#ƒ^ƒCƒ€ƒAƒ^ƒbƒN04#
+time_res01.rsw#I—¹‘Ò‹@º01#
+time_res02.rsw#I—¹‘Ò‹@º02#
+time_res03.rsw#I—¹‘Ò‹@º03#
+time_res04.rsw#I—¹‘Ò‹@º04#
+time_wa.rsw#ƒ^ƒCƒ€ƒAƒ^ƒbƒN‘Ò‡º#
+ko_start1.rsw#‰e˜TEO‚Ì‰B‚ê—¢#
+ko_start2.rsw#‰e˜TEO‚Ì‰B‚ê—¢#
+ko_start3.rsw#‰e˜TEO‚Ì‰B‚ê—¢#
+ko_start4.rsw#‰e˜TEO‚Ì‰B‚ê—¢#
+ko_start5.rsw#‰e˜TEO‚Ì‰B‚ê—¢#
+amatsu_ko.rsw#ò…‚Ì‘ƒAƒ}ƒc#
+amatsu_k2.rsw#ò…‚Ì‘ƒAƒ}ƒc(–é)#
+//------------------------------------------------
+time_05.rsw#ƒ^ƒCƒ€ƒAƒ^ƒbƒN05#
+time_06.rsw#ƒ^ƒCƒ€ƒAƒ^ƒbƒN06#
+time_07.rsw#ƒ^ƒCƒ€ƒAƒ^ƒbƒN07#
+time_08.rsw#ƒ^ƒCƒ€ƒAƒ^ƒbƒN08#
+time_res05.rsw#I—¹‘Ò‹@º05#
+time_res06.rsw#I—¹‘Ò‹@º06#
+time_res07.rsw#I—¹‘Ò‹@º07#
+time_res08.rsw#I—¹‘Ò‹@º08#
+time_wa2.rsw#ƒ^ƒCƒ€ƒAƒ^ƒbƒN‘Ò‡º2#
+time_09.rsw#ƒ^ƒCƒ€ƒAƒ^ƒbƒN09#
+time_10.rsw#ƒ^ƒCƒ€ƒAƒ^ƒbƒN10#
+time_11.rsw#ƒ^ƒCƒ€ƒAƒ^ƒbƒN11#
+time_12.rsw#ƒ^ƒCƒ€ƒAƒ^ƒbƒN12#
+time_13.rsw#ƒ^ƒCƒ€ƒAƒ^ƒbƒN13#
+time_14.rsw#ƒ^ƒCƒ€ƒAƒ^ƒbƒN14#
+time_15.rsw#ƒ^ƒCƒ€ƒAƒ^ƒbƒN15#
+time_16.rsw#ƒ^ƒCƒ€ƒAƒ^ƒbƒN16#
+time_res09.rsw#I—¹‘Ò‹@º09#
+time_res10.rsw#I—¹‘Ò‹@º10#
+time_res11.rsw#I—¹‘Ò‹@º11#
+time_res12.rsw#I—¹‘Ò‹@º12#
+time_res13.rsw#I—¹‘Ò‹@º13#
+time_res14.rsw#I—¹‘Ò‹@º14#
+time_res15.rsw#I—¹‘Ò‹@º15#
+time_res16.rsw#I—¹‘Ò‹@º16#
+time_wa3.rsw#ƒ^ƒCƒ€ƒAƒ^ƒbƒN‘Ò‡º3#
+time_wa4.rsw#ƒ^ƒCƒ€ƒAƒ^ƒbƒN‘Ò‡º4#
+//------------------------------------------------
+jp_ev_map58.rsw#ƒLƒƒƒ“ƒvê#
+jp_ev_map59.rsw#ƒ{ƒ“ƒoƒXƒK[ƒfƒ“01#
+jp_ev_map60.rsw#ƒ{ƒ“ƒoƒXƒK[ƒfƒ“02#
+//------------------------------------------------
+monbt1_a0.rsw#“Ë“ü‘Ò‹@’n“_@ƒGƒŠƒAA1#
+monbt1_a1.rsw#‘æ1ìíƒGƒŠƒA#
+monbt1_a2.rsw#‘æ2ìíƒGƒŠƒA#
+monbt1_a3.rsw#‘æ3ìíƒGƒŠƒA#
+monbt1_a4.rsw#‘æ4ìíƒGƒŠƒA#
+monbt1_a5.rsw#‘æ5ìíƒGƒŠƒA#
+monbt1_a6.rsw#‘æ6ìíƒGƒŠƒA#
+monbt1_a7.rsw#‘æ7ìíƒGƒŠƒA#
+monbt1_a8.rsw#‘æ8ìíƒGƒŠƒA#
+monbt1_a9.rsw#‘æ9ìíƒGƒŠƒA#
+monbt1_b0.rsw#“Ë“ü‘Ò‹@’n“_@ƒGƒŠƒAB1#
+monbt1_b1.rsw#‘æ1ìíƒGƒŠƒA#
+monbt1_b2.rsw#‘æ2ìíƒGƒŠƒA#
+monbt1_b3.rsw#‘æ3ìíƒGƒŠƒA#
+monbt1_b4.rsw#‘æ4ìíƒGƒŠƒA#
+monbt1_b5.rsw#‘æ5ìíƒGƒŠƒA#
+monbt1_b6.rsw#‘æ6ìíƒGƒŠƒA#
+monbt1_b7.rsw#‘æ7ìíƒGƒŠƒA#
+monbt1_b8.rsw#‘æ8ìíƒGƒŠƒA#
+monbt1_b9.rsw#‘æ9ìíƒGƒŠƒA#
+monbt1_c0.rsw#“Ë“ü‘Ò‹@’n“_@ƒGƒŠƒAC1#
+monbt1_c1.rsw#‘æ1ìíƒGƒŠƒA#
+monbt1_c2.rsw#‘æ2ìíƒGƒŠƒA#
+monbt1_c3.rsw#‘æ3ìíƒGƒŠƒA#
+monbt1_c4.rsw#‘æ4ìíƒGƒŠƒA#
+monbt1_c5.rsw#‘æ5ìíƒGƒŠƒA#
+monbt1_c6.rsw#‘æ6ìíƒGƒŠƒA#
+monbt1_c7.rsw#‘æ7ìíƒGƒŠƒA#
+monbt1_c8.rsw#‘æ8ìíƒGƒŠƒA#
+monbt1_c9.rsw#‘æ9ìíƒGƒŠƒA#
+monbt1_d0.rsw#“Ë“ü‘Ò‹@’n“_@ƒGƒŠƒAD1#
+monbt1_d1.rsw#‘æ1ìíƒGƒŠƒA#
+monbt1_d2.rsw#‘æ2ìíƒGƒŠƒA#
+monbt1_d3.rsw#‘æ3ìíƒGƒŠƒA#
+monbt1_d4.rsw#‘æ4ìíƒGƒŠƒA#
+monbt1_d5.rsw#‘æ5ìíƒGƒŠƒA#
+monbt1_d6.rsw#‘æ6ìíƒGƒŠƒA#
+monbt1_d7.rsw#‘æ7ìíƒGƒŠƒA#
+monbt1_d8.rsw#‘æ8ìíƒGƒŠƒA#
+monbt1_d9.rsw#‘æ9ìíƒGƒŠƒA#
+monbt1_e0.rsw#“Ë‘Ò‹@’n“_@ƒGƒŠƒAE1#
+monbt1_e1.rsw#‘æ1ìíƒGƒŠƒA#
+monbt1_e2.rsw#‘æ2ìíƒGƒŠƒA#
+monbt1_e3.rsw#‘æ3ìíƒGƒŠƒA#
+monbt1_e4.rsw#‘æ4ìíƒGƒŠƒA#
+monbt1_e5.rsw#‘æ5ìíƒGƒŠƒA#
+monbt1_e6.rsw#‘æ6ìíƒGƒŠƒA#
+monbt1_e7.rsw#‘æ7ìíƒGƒŠƒA#
+monbt1_e8.rsw#‘æ8ìíƒGƒŠƒA#
+monbt1_e9.rsw#‘æ9ìíƒGƒŠƒA#
+monbt1_f0.rsw#“Ë“ü‘Ò‹@’n“_@ƒGƒŠƒAF1#
+monbt1_f1.rsw#‘æ1ìíƒGƒŠƒA#
+monbt1_f2.rsw#‘æ2ìíƒGƒŠƒA#
+monbt1_f3.rsw#‘æ3ìíƒGƒŠƒA#
+monbt1_f4.rsw#‘æ4ìíƒGƒŠƒA#
+monbt1_f5.rsw#‘æ5ìíƒGƒŠƒA#
+monbt1_f6.rsw#‘æ6ìíƒGƒŠƒA#
+monbt1_f7.rsw#‘æ7ìíƒGƒŠƒA#
+monbt1_f8.rsw#‘æ8ìíƒGƒŠƒA#
+monbt1_f9.rsw#‘æ9ìíƒGƒŠƒA#
+monbt1_g0.rsw#“Ë“ü‘Ò‹@’n“_@ƒGƒŠƒAG1#
+monbt1_g1.rsw#‘æ1ìíƒGƒŠƒA#
+monbt1_g2.rsw#‘æ2ìíƒGƒŠƒA#
+monbt1_g3.rsw#‘æ3ìíƒGƒŠƒA#
+monbt1_g4.rsw#‘æ4ìíƒGƒŠƒA#
+monbt1_g5.rsw#‘æ5ìíƒGƒŠƒA#
+monbt1_g6.rsw#‘æ6ìíƒGƒŠƒA#
+monbt1_g7.rsw#‘æ7ìíƒGƒŠƒA#
+monbt1_g8.rsw#‘æ8ìíƒGƒŠƒA#
+monbt1_g9.rsw#‘æ9ìíƒGƒŠƒA#
+monbt1_h0.rsw#“Ë“ü‘Ò‹@’n“_@ƒGƒŠƒAH1#
+monbt1_h1.rsw#‘æ1ìíƒGƒŠƒA#
+monbt1_h2.rsw#‘æ2ìíƒGƒŠƒA#
+monbt1_h3.rsw#‘æ3ìíƒGƒŠƒA#
+monbt1_h4.rsw#‘æ4ìíƒGƒŠƒA#
+monbt1_h5.rsw#‘æ5ìíƒGƒŠƒA#
+monbt1_h6.rsw#‘æ6ìíƒGƒŠƒA#
+monbt1_h7.rsw#‘æ7ìíƒGƒŠƒA#
+monbt1_h8.rsw#‘æ8ìíƒGƒŠƒA#
+monbt1_h9.rsw#‘æ9ìíƒGƒŠƒA#
+monbt1_i0.rsw#“Ë“ü‘Ò‹@’n“_@ƒGƒŠƒAI1#
+monbt1_i1.rsw#‘æ1ìíƒGƒŠƒA#
+monbt1_i2.rsw#‘æ2ìíƒGƒŠƒA#
+monbt1_i3.rsw#‘æ3ìíƒGƒŠƒA#
+monbt1_i4.rsw#‘æ4ìíƒGƒŠƒA#
+monbt1_i5.rsw#‘æ5ìíƒGƒŠƒA#
+monbt1_i6.rsw#‘æ6ìíƒGƒŠƒA#
+monbt1_i7.rsw#‘æ7ìíƒGƒŠƒA#
+monbt1_i8.rsw#‘æ8ìíƒGƒŠƒA#
+monbt1_i9.rsw#‘æ9ìíƒGƒŠƒA#
+monbt1_j0.rsw#“Ë“ü‘Ò‹@’n“_@ƒGƒŠƒAJ1#
+monbt1_j1.rsw#‘æ1ìíƒGƒŠƒA#
+monbt1_j2.rsw#‘æ2ìíƒGƒŠƒA#
+monbt1_j3.rsw#‘æ3ìíƒGƒŠƒA#
+monbt1_j4.rsw#‘æ4ìíƒGƒŠƒA#
+monbt1_j5.rsw#‘æ5ìíƒGƒŠƒA#
+monbt1_j6.rsw#‘æ6ìíƒGƒŠƒA#
+monbt1_j7.rsw#‘æ7ìíƒGƒŠƒA#
+monbt1_j8.rsw#‘æ8ìíƒGƒŠƒA#
+monbt1_j9.rsw#‘æ9ìíƒGƒŠƒA#
+monbt1_k0.rsw#“Ë“ü‘Ò‹@’n“_@ƒGƒŠƒAK1#
+monbt1_k1.rsw#‘æ1ìíƒGƒŠƒA#
+monbt1_k2.rsw#‘æ2ìíƒGƒŠƒA#
+monbt1_k3.rsw#‘æ3ìíƒGƒŠƒA#
+monbt1_k4.rsw#‘æ4ìíƒGƒŠƒA#
+monbt1_k5.rsw#‘æ5ìíƒGƒŠƒA#
+monbt1_k6.rsw#‘æ6ìíƒGƒŠƒA#
+monbt1_k7.rsw#‘æ7ìíƒGƒŠƒA#
+monbt1_k8.rsw#‘æ8ìíƒGƒŠƒA#
+monbt1_k9.rsw#‘æ9ìíƒGƒŠƒA#
+monbt1_l0.rsw#“Ë“ü‘Ò‹@’n“_@ƒGƒŠƒAL1#
+monbt1_l1.rsw#‘æ1ìíƒGƒŠƒA#
+monbt1_l2.rsw#‘æ2ìíƒGƒŠƒA#
+monbt1_l3.rsw#‘æ3ìíƒGƒŠƒA#
+monbt1_l4.rsw#‘æ4ìíƒGƒŠƒA#
+monbt1_l5.rsw#‘æ5ìíƒGƒŠƒA#
+monbt1_l6.rsw#‘æ6ìíƒGƒŠƒA#
+monbt1_l7.rsw#‘æ7ìíƒGƒŠƒA#
+monbt1_l8.rsw#‘æ8ìíƒGƒŠƒA#
+monbt1_l9.rsw#‘æ9ìíƒGƒŠƒA#
+monbt1_m0.rsw#“Ë“ü‘Ò‹@’n“_@ƒGƒŠƒAM1#
+monbt1_m1.rsw#‘æ1ìíƒGƒŠƒA#
+monbt1_m2.rsw#‘æ2ìíƒGƒŠƒA#
+monbt1_m3.rsw#‘æ3ìíƒGƒŠƒA#
+monbt1_m4.rsw#‘æ4ìíƒGƒŠƒA#
+monbt1_m5.rsw#‘æ5ìíƒGƒŠƒA#
+monbt1_m6.rsw#‘æ6ìíƒGƒŠƒA#
+monbt1_m7.rsw#‘æ7ìíƒGƒŠƒA#
+monbt1_m8.rsw#‘æ8ìíƒGƒŠƒA#
+monbt1_m9.rsw#‘æ9ìíƒGƒŠƒA#
+monbt1_n0.rsw#“Ë“ü‘Ò‹@’n“_@ƒGƒŠƒAN1#
+monbt1_n1.rsw#‘æ1ìíƒGƒŠƒA#
+monbt1_n2.rsw#‘æ2ìíƒGƒŠƒA#
+monbt1_n3.rsw#‘æ3ìíƒGƒŠƒA#
+monbt1_n4.rsw#‘æ4ìíƒGƒŠƒA#
+monbt1_n5.rsw#‘æ5ìíƒGƒŠƒA#
+monbt1_n6.rsw#‘æ6ìíƒGƒŠƒA#
+monbt1_n7.rsw#‘æ7ìíƒGƒŠƒA#
+monbt1_n8.rsw#‘æ8ìíƒGƒŠƒA#
+monbt1_n9.rsw#‘æ9ìíƒGƒŠƒA#
+monbt1_o0.rsw#“Ë“ü‘Ò‹@’n“_@ƒGƒŠƒAO1#
+monbt1_o1.rsw#‘æ1ìíƒGƒŠƒA#
+monbt1_o2.rsw#‘æ2ìíƒGƒŠƒA#
+monbt1_o3.rsw#‘æ3ìíƒGƒŠƒA#
+monbt1_o4.rsw#‘æ4ìíƒGƒŠƒA#
+monbt1_o5.rsw#‘æ5ìíƒGƒŠƒA#
+monbt1_o6.rsw#‘æ6ìíƒGƒŠƒA#
+monbt1_o7.rsw#‘æ7ìíƒGƒŠƒA#
+monbt1_o8.rsw#‘æ8ìíƒGƒŠƒA#
+monbt1_o9.rsw#‘æ9ìíƒGƒŠƒA#
+monbt1_p0.rsw#“Ë“ü‘Ò‹@’n“_@ƒGƒŠƒAP1#
+monbt1_p1.rsw#‘æ1ìíƒGƒŠƒA#
+monbt1_p2.rsw#‘æ2ìíƒGƒŠƒA#
+monbt1_p3.rsw#‘æ3ìíƒGƒŠƒA#
+monbt1_p4.rsw#‘æ4ìíƒGƒŠƒA#
+monbt1_p5.rsw#‘æ5ìíƒGƒŠƒA#
+monbt1_p6.rsw#‘æ6ìíƒGƒŠƒA#
+monbt1_p7.rsw#‘æ7ìíƒGƒŠƒA#
+monbt1_p8.rsw#‘æ8ìíƒGƒŠƒA#
+monbt1_p9.rsw#‘æ9ìíƒGƒŠƒA#
 
-// ¼ö»óÇÑ ³­ÆÄ¼±
-1@tre.rsw#¼ö»óÇÑ ³­ÆÄ¼±#
+monbt2_a0.rsw#“Ë“ü‘Ò‹@’n“_@ƒGƒŠƒAA2#
+monbt2_a1.rsw#‘æ1ìíƒGƒŠƒA#
+monbt2_a2.rsw#‘æ2ìíƒGƒŠƒA#
+monbt2_a3.rsw#‘æ3ìíƒGƒŠƒA#
+monbt2_a4.rsw#‘æ4ìíƒGƒŠƒA#
+monbt2_a5.rsw#‘æ5ìíƒGƒŠƒA#
+monbt2_a6.rsw#‘æ6ìíƒGƒŠƒA#
+monbt2_a7.rsw#‘æ7ìíƒGƒŠƒA#
+monbt2_a8.rsw#‘æ8ìíƒGƒŠƒA#
+monbt2_a9.rsw#‘æ9ìíƒGƒŠƒA#
+monbt2_b0.rsw#“Ë“ü‘Ò‹@’n“_@ƒGƒŠƒAB2#
+monbt2_b1.rsw#‘æ1ìíƒGƒŠƒA#
+monbt2_b2.rsw#‘æ2ìíƒGƒŠƒA#
+monbt2_b3.rsw#‘æ3ìíƒGƒŠƒA#
+monbt2_b4.rsw#‘æ4ìíƒGƒŠƒA#
+monbt2_b5.rsw#‘æ5ìíƒGƒŠƒA#
+monbt2_b6.rsw#‘æ6ìíƒGƒŠƒA#
+monbt2_b7.rsw#‘æ7ìíƒGƒŠƒA#
+monbt2_b8.rsw#‘æ8ìíƒGƒŠƒA#
+monbt2_b9.rsw#‘æ9ìíƒGƒŠƒA#
+monbt2_c0.rsw#“Ë“ü‘Ò‹@’n“_@ƒGƒŠƒAC2#
+monbt2_c1.rsw#‘æ1ìíƒGƒŠƒA#
+monbt2_c2.rsw#‘æ2ìíƒGƒŠƒA#
+monbt2_c3.rsw#‘æ3ìíƒGƒŠƒA#
+monbt2_c4.rsw#‘æ4ìíƒGƒŠƒA#
+monbt2_c5.rsw#‘æ5ìíƒGƒŠƒA#
+monbt2_c6.rsw#‘æ6ìíƒGƒŠƒA#
+monbt2_c7.rsw#‘æ7ìíƒGƒŠƒA#
+monbt2_c8.rsw#‘æ8ìíƒGƒŠƒA#
+monbt2_c9.rsw#‘æ9ìíƒGƒŠƒA#
+monbt2_d0.rsw#“Ë“ü‘Ò‹@’n“_@ƒGƒŠƒAD2#
+monbt2_d1.rsw#‘æ1ìíƒGƒŠƒA#
+monbt2_d2.rsw#‘æ2ìíƒGƒŠƒA#
+monbt2_d3.rsw#‘æ3ìíƒGƒŠƒA#
+monbt2_d4.rsw#‘æ4ìíƒGƒŠƒA#
+monbt2_d5.rsw#‘æ5ìíƒGƒŠƒA#
+monbt2_d6.rsw#‘æ6ìíƒGƒŠƒA#
+monbt2_d7.rsw#‘æ7ìíƒGƒŠƒA#
+monbt2_d8.rsw#‘æ8ìíƒGƒŠƒA#
+monbt2_d9.rsw#‘æ9ìíƒGƒŠƒA#
+monbt2_e0.rsw#“Ë‘Ò‹@’n“_@ƒGƒŠƒAE2#
+monbt2_e1.rsw#‘æ1ìíƒGƒŠƒA#
+monbt2_e2.rsw#‘æ2ìíƒGƒŠƒA#
+monbt2_e3.rsw#‘æ3ìíƒGƒŠƒA#
+monbt2_e4.rsw#‘æ4ìíƒGƒŠƒA#
+monbt2_e5.rsw#‘æ5ìíƒGƒŠƒA#
+monbt2_e6.rsw#‘æ6ìíƒGƒŠƒA#
+monbt2_e7.rsw#‘æ7ìíƒGƒŠƒA#
+monbt2_e8.rsw#‘æ8ìíƒGƒŠƒA#
+monbt2_e9.rsw#‘æ9ìíƒGƒŠƒA#
+monbt2_f0.rsw#“Ë“ü‘Ò‹@’n“_@ƒGƒŠƒAF2#
+monbt2_f1.rsw#‘æ1ìíƒGƒŠƒA#
+monbt2_f2.rsw#‘æ2ìíƒGƒŠƒA#
+monbt2_f3.rsw#‘æ3ìíƒGƒŠƒA#
+monbt2_f4.rsw#‘æ4ìíƒGƒŠƒA#
+monbt2_f5.rsw#‘æ5ìíƒGƒŠƒA#
+monbt2_f6.rsw#‘æ6ìíƒGƒŠƒA#
+monbt2_f7.rsw#‘æ7ìíƒGƒŠƒA#
+monbt2_f8.rsw#‘æ8ìíƒGƒŠƒA#
+monbt2_f9.rsw#‘æ9ìíƒGƒŠƒA#
+monbt2_g0.rsw#“Ë“ü‘Ò‹@’n“_@ƒGƒŠƒAG2#
+monbt2_g1.rsw#‘æ1ìíƒGƒŠƒA#
+monbt2_g2.rsw#‘æ2ìíƒGƒŠƒA#
+monbt2_g3.rsw#‘æ3ìíƒGƒŠƒA#
+monbt2_g4.rsw#‘æ4ìíƒGƒŠƒA#
+monbt2_g5.rsw#‘æ5ìíƒGƒŠƒA#
+monbt2_g6.rsw#‘æ6ìíƒGƒŠƒA#
+monbt2_g7.rsw#‘æ7ìíƒGƒŠƒA#
+monbt2_g8.rsw#‘æ8ìíƒGƒŠƒA#
+monbt2_g9.rsw#‘æ9ìíƒGƒŠƒA#
+monbt2_h0.rsw#“Ë“ü‘Ò‹@’n“_@ƒGƒŠƒAH2#
+monbt2_h1.rsw#‘æ1ìíƒGƒŠƒA#
+monbt2_h2.rsw#‘æ2ìíƒGƒŠƒA#
+monbt2_h3.rsw#‘æ3ìíƒGƒŠƒA#
+monbt2_h4.rsw#‘æ4ìíƒGƒŠƒA#
+monbt2_h5.rsw#‘æ5ìíƒGƒŠƒA#
+monbt2_h6.rsw#‘æ6ìíƒGƒŠƒA#
+monbt2_h7.rsw#‘æ7ìíƒGƒŠƒA#
+monbt2_h8.rsw#‘æ8ìíƒGƒŠƒA#
+monbt2_h9.rsw#‘æ9ìíƒGƒŠƒA#
+monbt2_i0.rsw#“Ë“ü‘Ò‹@’n“_@ƒGƒŠƒAI2#
+monbt2_i1.rsw#‘æ1ìíƒGƒŠƒA#
+monbt2_i2.rsw#‘æ2ìíƒGƒŠƒA#
+monbt2_i3.rsw#‘æ3ìíƒGƒŠƒA#
+monbt2_i4.rsw#‘æ4ìíƒGƒŠƒA#
+monbt2_i5.rsw#‘æ5ìíƒGƒŠƒA#
+monbt2_i6.rsw#‘æ6ìíƒGƒŠƒA#
+monbt2_i7.rsw#‘æ7ìíƒGƒŠƒA#
+monbt2_i8.rsw#‘æ8ìíƒGƒŠƒA#
+monbt2_i9.rsw#‘æ9ìíƒGƒŠƒA#
+monbt2_j0.rsw#“Ë“ü‘Ò‹@’n“_@ƒGƒŠƒAJ2#
+monbt2_j1.rsw#‘æ1ìíƒGƒŠƒA#
+monbt2_j2.rsw#‘æ2ìíƒGƒŠƒA#
+monbt2_j3.rsw#‘æ3ìíƒGƒŠƒA#
+monbt2_j4.rsw#‘æ4ìíƒGƒŠƒA#
+monbt2_j5.rsw#‘æ5ìíƒGƒŠƒA#
+monbt2_j6.rsw#‘æ6ìíƒGƒŠƒA#
+monbt2_j7.rsw#‘æ7ìíƒGƒŠƒA#
+monbt2_j8.rsw#‘æ8ìíƒGƒŠƒA#
+monbt2_j9.rsw#‘æ9ìíƒGƒŠƒA#
+monbt2_k0.rsw#“Ë“ü‘Ò‹@’n“_@ƒGƒŠƒAK2#
+monbt2_k1.rsw#‘æ1ìíƒGƒŠƒA#
+monbt2_k2.rsw#‘æ2ìíƒGƒŠƒA#
+monbt2_k3.rsw#‘æ3ìíƒGƒŠƒA#
+monbt2_k4.rsw#‘æ4ìíƒGƒŠƒA#
+monbt2_k5.rsw#‘æ5ìíƒGƒŠƒA#
+monbt2_k6.rsw#‘æ6ìíƒGƒŠƒA#
+monbt2_k7.rsw#‘æ7ìíƒGƒŠƒA#
+monbt2_k8.rsw#‘æ8ìíƒGƒŠƒA#
+monbt2_k9.rsw#‘æ9ìíƒGƒŠƒA#
+monbt2_l0.rsw#“Ë“ü‘Ò‹@’n“_@ƒGƒŠƒAL2#
+monbt2_l1.rsw#‘æ1ìíƒGƒŠƒA#
+monbt2_l2.rsw#‘æ2ìíƒGƒŠƒA#
+monbt2_l3.rsw#‘æ3ìíƒGƒŠƒA#
+monbt2_l4.rsw#‘æ4ìíƒGƒŠƒA#
+monbt2_l5.rsw#‘æ5ìíƒGƒŠƒA#
+monbt2_l6.rsw#‘æ6ìíƒGƒŠƒA#
+monbt2_l7.rsw#‘æ7ìíƒGƒŠƒA#
+monbt2_l8.rsw#‘æ8ìíƒGƒŠƒA#
+monbt2_l9.rsw#‘æ9ìíƒGƒŠƒA#
+monbt2_m0.rsw#“Ë“ü‘Ò‹@’n“_@ƒGƒŠƒAM2#
+monbt2_m1.rsw#‘æ1ìíƒGƒŠƒA#
+monbt2_m2.rsw#‘æ2ìíƒGƒŠƒA#
+monbt2_m3.rsw#‘æ3ìíƒGƒŠƒA#
+monbt2_m4.rsw#‘æ4ìíƒGƒŠƒA#
+monbt2_m5.rsw#‘æ5ìíƒGƒŠƒA#
+monbt2_m6.rsw#‘æ6ìíƒGƒŠƒA#
+monbt2_m7.rsw#‘æ7ìíƒGƒŠƒA#
+monbt2_m8.rsw#‘æ8ìíƒGƒŠƒA#
+monbt2_m9.rsw#‘æ9ìíƒGƒŠƒA#
+monbt2_n0.rsw#“Ë“ü‘Ò‹@’n“_@ƒGƒŠƒAN2#
+monbt2_n1.rsw#‘æ1ìíƒGƒŠƒA#
+monbt2_n2.rsw#‘æ2ìíƒGƒŠƒA#
+monbt2_n3.rsw#‘æ3ìíƒGƒŠƒA#
+monbt2_n4.rsw#‘æ4ìíƒGƒŠƒA#
+monbt2_n5.rsw#‘æ5ìíƒGƒŠƒA#
+monbt2_n6.rsw#‘æ6ìíƒGƒŠƒA#
+monbt2_n7.rsw#‘æ7ìíƒGƒŠƒA#
+monbt2_n8.rsw#‘æ8ìíƒGƒŠƒA#
+monbt2_n9.rsw#‘æ9ìíƒGƒŠƒA#
+monbt2_o0.rsw#“Ë“ü‘Ò‹@’n“_@ƒGƒŠƒAO2#
+monbt2_o1.rsw#‘æ1ìíƒGƒŠƒA#
+monbt2_o2.rsw#‘æ2ìíƒGƒŠƒA#
+monbt2_o3.rsw#‘æ3ìíƒGƒŠƒA#
+monbt2_o4.rsw#‘æ4ìíƒGƒŠƒA#
+monbt2_o5.rsw#‘æ5ìíƒGƒŠƒA#
+monbt2_o6.rsw#‘æ6ìíƒGƒŠƒA#
+monbt2_o7.rsw#‘æ7ìíƒGƒŠƒA#
+monbt2_o8.rsw#‘æ8ìíƒGƒŠƒA#
+monbt2_o9.rsw#‘æ9ìíƒGƒŠƒA#
+monbt2_p0.rsw#“Ë“ü‘Ò‹@’n“_@ƒGƒŠƒAP2#
+monbt2_p1.rsw#‘æ1ìíƒGƒŠƒA#
+monbt2_p2.rsw#‘æ2ìíƒGƒŠƒA#
+monbt2_p3.rsw#‘æ3ìíƒGƒŠƒA#
+monbt2_p4.rsw#‘æ4ìíƒGƒŠƒA#
+monbt2_p5.rsw#‘æ5ìíƒGƒŠƒA#
+monbt2_p6.rsw#‘æ6ìíƒGƒŠƒA#
+monbt2_p7.rsw#‘æ7ìíƒGƒŠƒA#
+monbt2_p8.rsw#‘æ8ìíƒGƒŠƒA#
+monbt2_p9.rsw#‘æ9ìíƒGƒŠƒA#
+//------------------------------------------------
+job_ko.rsw#‰B‚³‚ê‚½êŠ#
+//------------------------------------------------
+jp_bweek01.rsw#C“¹‰@‚Á‚Û‚¢Š 01#
+jp_bweek02.rsw#C“¹‰@‚Á‚Û‚¢Š 02#
+jp_bweek03.rsw#C“¹‰@‚Á‚Û‚¢Š 03#
+jp_bweek04.rsw#–¢’m‚Ì”à‚Ìæ#
+jp_bweek05.rsw#–¢’m‚Ì”à‚Ìæ#
+jp_bweek06.rsw#—ˆŒõ‚Ì”à‚Ìæ#
+jp_bweek07.rsw#–‚‰¤‚Ì‹C”z‚ª‚µ‚È‚¢ŸŒ³‚Ì‹·ŠÔ 02#
+//------------------------------------------------
+wnb_s_01.rsw#€”õ‰ïê1#
+wnb_s_02.rsw#€”õ‰ïê2#
+wnb_s_03.rsw#€”õ‰ïê3#
+wnb_s_04.rsw#€”õ‰ïê4#
+wnb_s_05.rsw#€”õ‰ïê5#
+wnb_g_01.rsw#ƒMƒ‹ƒh‘Ò‹@º#
+wnb_g_02.rsw#ˆê‘Ò‹@º#
+wnb_b_01.rsw#•“¹‰ïê(ƒvƒƒ“ƒeƒ‰)#
+wnb_b_02.rsw#•“¹‰ïê(ƒtƒFƒCƒˆƒ“)#
+wnb_b_03.rsw#•“¹‰ïê(ƒAƒ‹ƒxƒ‹ƒ^)#
+wnb_b_04.rsw#•“¹‰ïê(ƒAƒ‹ƒfƒoƒ‰ƒ“)#
+wnb_b_05.rsw#•“¹‰ïê(‹¤’Ê)#
+//------------------------------------------------
+jp_ev_rob31.rsw#‹Rm’cW‡’n“_#
+sbat_gra.rsw#–Í‹[‰‰Kê ’nã#
+sbat_in.rsw#–Í‹[‰‰Kê º“à#
+sbat_map_b.rsw#–Í‹[‰‰Kê ’n‰ºB#
+sbat_map_d.rsw#–Í‹[‰‰Kê ’n‰ºD#
+sbat_map_e.rsw#–Í‹[‰‰Kê ’n‰ºE#
+sbat_map_i.rsw#–Í‹[‰‰Kê ’n‰ºI#
+sbat_map_p.rsw#–Í‹[‰‰Kê º“à’n‰ºP#
+sbat_map_s.rsw#–Í‹[‰‰Kê º“à’n‰ºS#
+sbat_map_u.rsw#–Í‹[‰‰Kê º“à’n‰ºU#
+sbat_map_v.rsw#–Í‹[‰‰Kê º“à’n‰ºV#
+sbat_map_w.rsw#–Í‹[‰‰Kê º“à’n‰ºW#
+sbat_goal01.rsw#–Í‹[‰‰Kê [•”#
+sbat_goal02.rsw#–Í‹[‰‰Kê [•”#
+sbat_goal03.rsw#–Í‹[‰‰Kê [•”#
+//------------------------------------------------
+aru_cas0101.rsw#ƒ‚ƒfƒ‹ƒ”ƒ@ƒ‹ƒtƒŒƒCƒ„ Ô1#
+aru_cas0102.rsw#ƒ‚ƒfƒ‹ƒ”ƒ@ƒ‹ƒtƒŒƒCƒ„ Ô1#
+aru_cas0103.rsw#ƒ‚ƒfƒ‹ƒ”ƒ@ƒ‹ƒtƒŒƒCƒ„ Ô1#
+aru_cas0104.rsw#ƒ‚ƒfƒ‹ƒ”ƒ@ƒ‹ƒtƒŒƒCƒ„ Ô1#
+aru_cas0105.rsw#ƒ‚ƒfƒ‹ƒ”ƒ@ƒ‹ƒtƒŒƒCƒ„ Ô1#
+aru_cas0106.rsw#ƒ‚ƒfƒ‹ƒ”ƒ@ƒ‹ƒtƒŒƒCƒ„ Ô1#
+aru_cas0107.rsw#ƒ‚ƒfƒ‹ƒ”ƒ@ƒ‹ƒtƒŒƒCƒ„ Ô1#
+aru_cas0108.rsw#ƒ‚ƒfƒ‹ƒ”ƒ@ƒ‹ƒtƒŒƒCƒ„ Ô1#
+aru_cas0109.rsw#ƒ‚ƒfƒ‹ƒ”ƒ@ƒ‹ƒtƒŒƒCƒ„ Ô1#
+aru_cas0110.rsw#ƒ‚ƒfƒ‹ƒ”ƒ@ƒ‹ƒtƒŒƒCƒ„ Ô1#
+aru_cas0111.rsw#ƒ‚ƒfƒ‹ƒ”ƒ@ƒ‹ƒtƒŒƒCƒ„ Ô1#
+aru_cas0112.rsw#ƒ‚ƒfƒ‹ƒ”ƒ@ƒ‹ƒtƒŒƒCƒ„ Ô1#
+aru_cas0113.rsw#ƒ‚ƒfƒ‹ƒ”ƒ@ƒ‹ƒtƒŒƒCƒ„ Ô1#
+aru_cas0114.rsw#ƒ‚ƒfƒ‹ƒ”ƒ@ƒ‹ƒtƒŒƒCƒ„ Ô1#
+aru_cas0115.rsw#ƒ‚ƒfƒ‹ƒ”ƒ@ƒ‹ƒtƒŒƒCƒ„ Ô1#
+aru_cas0116.rsw#ƒ‚ƒfƒ‹ƒ”ƒ@ƒ‹ƒtƒŒƒCƒ„ Ô1#
+aru_cas0117.rsw#ƒ‚ƒfƒ‹ƒ”ƒ@ƒ‹ƒtƒŒƒCƒ„ Ô1#
+aru_cas0118.rsw#ƒ‚ƒfƒ‹ƒ”ƒ@ƒ‹ƒtƒŒƒCƒ„ Ô1#
+aru_cas0119.rsw#ƒ‚ƒfƒ‹ƒ”ƒ@ƒ‹ƒtƒŒƒCƒ„ Ô1#
+aru_cas0120.rsw#ƒ‚ƒfƒ‹ƒ”ƒ@ƒ‹ƒtƒŒƒCƒ„ Ô1#
+aru_cas0121.rsw#ƒ‚ƒfƒ‹ƒ”ƒ@ƒ‹ƒtƒŒƒCƒ„ Ô1#
+aru_cas0122.rsw#ƒ‚ƒfƒ‹ƒ”ƒ@ƒ‹ƒtƒŒƒCƒ„ Ô1#
+aru_cas0123.rsw#ƒ‚ƒfƒ‹ƒ”ƒ@ƒ‹ƒtƒŒƒCƒ„ Ô1#
+aru_cas0124.rsw#ƒ‚ƒfƒ‹ƒ”ƒ@ƒ‹ƒtƒŒƒCƒ„ Ô1#
+aru_cas0125.rsw#ƒ‚ƒfƒ‹ƒ”ƒ@ƒ‹ƒtƒŒƒCƒ„ Ô1#
+aru_cas0126.rsw#ƒ‚ƒfƒ‹ƒ”ƒ@ƒ‹ƒtƒŒƒCƒ„ Ô1#
+aru_cas0127.rsw#ƒ‚ƒfƒ‹ƒ”ƒ@ƒ‹ƒtƒŒƒCƒ„ Ô1#
 
-// ÀÏ·çÀü ¾ó´ø (ÇÁ·ÎÁğ)
-ice_d03_i.rsw#ÇÁ·ÎÁğ ¸Ş¸ğ¸®#
+aru_cas0501.rsw#ƒ‚ƒfƒ‹ƒ”ƒ@ƒ‹ƒtƒŒƒCƒ„ Ô5#
+aru_cas0502.rsw#ƒ‚ƒfƒ‹ƒ”ƒ@ƒ‹ƒtƒŒƒCƒ„ Ô5#
+aru_cas0503.rsw#ƒ‚ƒfƒ‹ƒ”ƒ@ƒ‹ƒtƒŒƒCƒ„ Ô5#
+aru_cas0504.rsw#ƒ‚ƒfƒ‹ƒ”ƒ@ƒ‹ƒtƒŒƒCƒ„ Ô5#
+aru_cas0505.rsw#ƒ‚ƒfƒ‹ƒ”ƒ@ƒ‹ƒtƒŒƒCƒ„ Ô5#
+aru_cas0506.rsw#ƒ‚ƒfƒ‹ƒ”ƒ@ƒ‹ƒtƒŒƒCƒ„ Ô5#
+aru_cas0507.rsw#ƒ‚ƒfƒ‹ƒ”ƒ@ƒ‹ƒtƒŒƒCƒ„ Ô5#
+aru_cas0508.rsw#ƒ‚ƒfƒ‹ƒ”ƒ@ƒ‹ƒtƒŒƒCƒ„ Ô5#
+aru_cas0509.rsw#ƒ‚ƒfƒ‹ƒ”ƒ@ƒ‹ƒtƒŒƒCƒ„ Ô5#
+aru_cas0510.rsw#ƒ‚ƒfƒ‹ƒ”ƒ@ƒ‹ƒtƒŒƒCƒ„ Ô5#
+aru_cas0511.rsw#ƒ‚ƒfƒ‹ƒ”ƒ@ƒ‹ƒtƒŒƒCƒ„ Ô5#
+aru_cas0512.rsw#ƒ‚ƒfƒ‹ƒ”ƒ@ƒ‹ƒtƒŒƒCƒ„ Ô5#
+aru_cas0513.rsw#ƒ‚ƒfƒ‹ƒ”ƒ@ƒ‹ƒtƒŒƒCƒ„ Ô5#
+aru_cas0514.rsw#ƒ‚ƒfƒ‹ƒ”ƒ@ƒ‹ƒtƒŒƒCƒ„ Ô5#
+aru_cas0515.rsw#ƒ‚ƒfƒ‹ƒ”ƒ@ƒ‹ƒtƒŒƒCƒ„ Ô5#
+aru_cas0516.rsw#ƒ‚ƒfƒ‹ƒ”ƒ@ƒ‹ƒtƒŒƒCƒ„ Ô5#
+aru_cas0517.rsw#ƒ‚ƒfƒ‹ƒ”ƒ@ƒ‹ƒtƒŒƒCƒ„ Ô5#
+aru_cas0518.rsw#ƒ‚ƒfƒ‹ƒ”ƒ@ƒ‹ƒtƒŒƒCƒ„ Ô5#
+aru_cas0519.rsw#ƒ‚ƒfƒ‹ƒ”ƒ@ƒ‹ƒtƒŒƒCƒ„ Ô5#
+aru_cas0520.rsw#ƒ‚ƒfƒ‹ƒ”ƒ@ƒ‹ƒtƒŒƒCƒ„ Ô5#
+aru_cas0521.rsw#ƒ‚ƒfƒ‹ƒ”ƒ@ƒ‹ƒtƒŒƒCƒ„ Ô5#
+aru_cas0522.rsw#ƒ‚ƒfƒ‹ƒ”ƒ@ƒ‹ƒtƒŒƒCƒ„ Ô5#
+aru_cas0523.rsw#ƒ‚ƒfƒ‹ƒ”ƒ@ƒ‹ƒtƒŒƒCƒ„ Ô5#
+aru_cas0524.rsw#ƒ‚ƒfƒ‹ƒ”ƒ@ƒ‹ƒtƒŒƒCƒ„ Ô5#
+aru_cas0525.rsw#ƒ‚ƒfƒ‹ƒ”ƒ@ƒ‹ƒtƒŒƒCƒ„ Ô5#
+aru_cas0526.rsw#ƒ‚ƒfƒ‹ƒ”ƒ@ƒ‹ƒtƒŒƒCƒ„ Ô5#
+aru_cas0527.rsw#ƒ‚ƒfƒ‹ƒ”ƒ@ƒ‹ƒtƒŒƒCƒ„ Ô5#
 
-// ÀÏ·çÀü °ÔÆæ (¹ìÆÄÀÌ¾î)
-gef_d01_i.rsw#250 ÆäÀÌÁö#
+sch_cas0201.rsw#ƒ‚ƒfƒ‹ƒjƒ_ƒ”ƒFƒŠ[ƒ‹ Ô2#
+sch_cas0202.rsw#ƒ‚ƒfƒ‹ƒjƒ_ƒ”ƒFƒŠ[ƒ‹ Ô2#
+sch_cas0203.rsw#ƒ‚ƒfƒ‹ƒjƒ_ƒ”ƒFƒŠ[ƒ‹ Ô2#
+sch_cas0204.rsw#ƒ‚ƒfƒ‹ƒjƒ_ƒ”ƒFƒŠ[ƒ‹ Ô2#
+sch_cas0205.rsw#ƒ‚ƒfƒ‹ƒjƒ_ƒ”ƒFƒŠ[ƒ‹ Ô2#
+sch_cas0206.rsw#ƒ‚ƒfƒ‹ƒjƒ_ƒ”ƒFƒŠ[ƒ‹ Ô2#
+sch_cas0207.rsw#ƒ‚ƒfƒ‹ƒjƒ_ƒ”ƒFƒŠ[ƒ‹ Ô2#
+sch_cas0208.rsw#ƒ‚ƒfƒ‹ƒjƒ_ƒ”ƒFƒŠ[ƒ‹ Ô2#
+sch_cas0209.rsw#ƒ‚ƒfƒ‹ƒjƒ_ƒ”ƒFƒŠ[ƒ‹ Ô2#
+sch_cas0210.rsw#ƒ‚ƒfƒ‹ƒjƒ_ƒ”ƒFƒŠ[ƒ‹ Ô2#
+sch_cas0211.rsw#ƒ‚ƒfƒ‹ƒjƒ_ƒ”ƒFƒŠ[ƒ‹ Ô2#
+sch_cas0212.rsw#ƒ‚ƒfƒ‹ƒjƒ_ƒ”ƒFƒŠ[ƒ‹ Ô2#
+sch_cas0213.rsw#ƒ‚ƒfƒ‹ƒjƒ_ƒ”ƒFƒŠ[ƒ‹ Ô2#
+sch_cas0214.rsw#ƒ‚ƒfƒ‹ƒjƒ_ƒ”ƒFƒŠ[ƒ‹ Ô2#
+sch_cas0215.rsw#ƒ‚ƒfƒ‹ƒjƒ_ƒ”ƒFƒŠ[ƒ‹ Ô2#
+sch_cas0216.rsw#ƒ‚ƒfƒ‹ƒjƒ_ƒ”ƒFƒŠ[ƒ‹ Ô2#
+sch_cas0217.rsw#ƒ‚ƒfƒ‹ƒjƒ_ƒ”ƒFƒŠ[ƒ‹ Ô2#
+sch_cas0218.rsw#ƒ‚ƒfƒ‹ƒjƒ_ƒ”ƒFƒŠ[ƒ‹ Ô2#
+sch_cas0219.rsw#ƒ‚ƒfƒ‹ƒjƒ_ƒ”ƒFƒŠ[ƒ‹ Ô2#
+sch_cas0220.rsw#ƒ‚ƒfƒ‹ƒjƒ_ƒ”ƒFƒŠ[ƒ‹ Ô2#
+sch_cas0221.rsw#ƒ‚ƒfƒ‹ƒjƒ_ƒ”ƒFƒŠ[ƒ‹ Ô2#
+sch_cas0222.rsw#ƒ‚ƒfƒ‹ƒjƒ_ƒ”ƒFƒŠ[ƒ‹ Ô2#
+sch_cas0223.rsw#ƒ‚ƒfƒ‹ƒjƒ_ƒ”ƒFƒŠ[ƒ‹ Ô2#
+sch_cas0224.rsw#ƒ‚ƒfƒ‹ƒjƒ_ƒ”ƒFƒŠ[ƒ‹ Ô2#
+sch_cas0225.rsw#ƒ‚ƒfƒ‹ƒjƒ_ƒ”ƒFƒŠ[ƒ‹ Ô2#
+sch_cas0226.rsw#ƒ‚ƒfƒ‹ƒjƒ_ƒ”ƒFƒŠ[ƒ‹ Ô2#
+sch_cas0227.rsw#ƒ‚ƒfƒ‹ƒjƒ_ƒ”ƒFƒŠ[ƒ‹ Ô2#
 
-// ÀÏ·çÀü ÆäÀÌ¿æ (¹®¶óÀÌÆ®)
-pay_d03_i.rsw#¿ù¾ßÈ­ÀÇ ¾Ç¸ù#
+sch_cas0501.rsw#ƒ‚ƒfƒ‹ƒjƒ_ƒ”ƒFƒŠ[ƒ‹ Ô5#
+sch_cas0502.rsw#ƒ‚ƒfƒ‹ƒjƒ_ƒ”ƒFƒŠ[ƒ‹ Ô5#
+sch_cas0503.rsw#ƒ‚ƒfƒ‹ƒjƒ_ƒ”ƒFƒŠ[ƒ‹ Ô5#
+sch_cas0504.rsw#ƒ‚ƒfƒ‹ƒjƒ_ƒ”ƒFƒŠ[ƒ‹ Ô5#
+sch_cas0505.rsw#ƒ‚ƒfƒ‹ƒjƒ_ƒ”ƒFƒŠ[ƒ‹ Ô5#
+sch_cas0506.rsw#ƒ‚ƒfƒ‹ƒjƒ_ƒ”ƒFƒŠ[ƒ‹ Ô5#
+sch_cas0507.rsw#ƒ‚ƒfƒ‹ƒjƒ_ƒ”ƒFƒŠ[ƒ‹ Ô5#
+sch_cas0508.rsw#ƒ‚ƒfƒ‹ƒjƒ_ƒ”ƒFƒŠ[ƒ‹ Ô5#
+sch_cas0509.rsw#ƒ‚ƒfƒ‹ƒjƒ_ƒ”ƒFƒŠ[ƒ‹ Ô5#
+sch_cas0510.rsw#ƒ‚ƒfƒ‹ƒjƒ_ƒ”ƒFƒŠ[ƒ‹ Ô5#
+sch_cas0511.rsw#ƒ‚ƒfƒ‹ƒjƒ_ƒ”ƒFƒŠ[ƒ‹ Ô5#
+sch_cas0512.rsw#ƒ‚ƒfƒ‹ƒjƒ_ƒ”ƒFƒŠ[ƒ‹ Ô5#
+sch_cas0513.rsw#ƒ‚ƒfƒ‹ƒjƒ_ƒ”ƒFƒŠ[ƒ‹ Ô5#
+sch_cas0514.rsw#ƒ‚ƒfƒ‹ƒjƒ_ƒ”ƒFƒŠ[ƒ‹ Ô5#
+sch_cas0515.rsw#ƒ‚ƒfƒ‹ƒjƒ_ƒ”ƒFƒŠ[ƒ‹ Ô5#
+sch_cas0516.rsw#ƒ‚ƒfƒ‹ƒjƒ_ƒ”ƒFƒŠ[ƒ‹ Ô5#
+sch_cas0517.rsw#ƒ‚ƒfƒ‹ƒjƒ_ƒ”ƒFƒŠ[ƒ‹ Ô5#
+sch_cas0518.rsw#ƒ‚ƒfƒ‹ƒjƒ_ƒ”ƒFƒŠ[ƒ‹ Ô5#
+sch_cas0519.rsw#ƒ‚ƒfƒ‹ƒjƒ_ƒ”ƒFƒŠ[ƒ‹ Ô5#
+sch_cas0520.rsw#ƒ‚ƒfƒ‹ƒjƒ_ƒ”ƒFƒŠ[ƒ‹ Ô5#
+sch_cas0521.rsw#ƒ‚ƒfƒ‹ƒjƒ_ƒ”ƒFƒŠ[ƒ‹ Ô5#
+sch_cas0522.rsw#ƒ‚ƒfƒ‹ƒjƒ_ƒ”ƒFƒŠ[ƒ‹ Ô5#
+sch_cas0523.rsw#ƒ‚ƒfƒ‹ƒjƒ_ƒ”ƒFƒŠ[ƒ‹ Ô5#
+sch_cas0524.rsw#ƒ‚ƒfƒ‹ƒjƒ_ƒ”ƒFƒŠ[ƒ‹ Ô5#
+sch_cas0525.rsw#ƒ‚ƒfƒ‹ƒjƒ_ƒ”ƒFƒŠ[ƒ‹ Ô5#
+sch_cas0526.rsw#ƒ‚ƒfƒ‹ƒjƒ_ƒ”ƒFƒŠ[ƒ‹ Ô5#
+sch_cas0527.rsw#ƒ‚ƒfƒ‹ƒjƒ_ƒ”ƒFƒŠ[ƒ‹ Ô5#
 
-// Ä¡Å²¸ğµå È£·¯ Àå³­°¨ °øÀå
-1@xm_d2.rsw#È£·¯ Àå³­°¨ °øÀå#
+geffen26.rsw#ƒx[ƒXƒLƒƒƒ“ƒv#
+geffen27.rsw#ƒx[ƒXƒLƒƒƒ“ƒv#
 
-// Ä¡Å²¸ğµå °í¼º
-1@gl_k2.rsw#¿¾±â»ç´Ü1Ãş#
-2@gl_k2.rsw#¿¾±â»ç´Ü2Ãş#
+geffen116.rsw#ƒx[ƒXƒLƒƒƒ“ƒv VUéí—p#
+geffen117.rsw#ƒx[ƒXƒLƒƒƒ“ƒv VUéí—p#
+geffen118.rsw#ƒx[ƒXƒLƒƒƒ“ƒv VUéí—p#
+geffen119.rsw#ƒx[ƒXƒLƒƒƒ“ƒv VUéí—p#
+geffen120.rsw#ƒx[ƒXƒLƒƒƒ“ƒv VUéí—p#
+geffen121.rsw#ƒx[ƒXƒLƒƒƒ“ƒv VUéí—p#
+geffen122.rsw#ƒx[ƒXƒLƒƒƒ“ƒv VUéí—p#
+geffen123.rsw#ƒx[ƒXƒLƒƒƒ“ƒv VUéí—p#
+geffen124.rsw#ƒx[ƒXƒLƒƒƒ“ƒv VUéí—p#
+geffen125.rsw#ƒx[ƒXƒLƒƒƒ“ƒv VUéí—p#
+geffen126.rsw#ƒx[ƒXƒLƒƒƒ“ƒv VUéí—p#
+geffen127.rsw#ƒx[ƒXƒLƒƒƒ“ƒv VUéí—p#
 
-// ·ÎÄÃ¶óÀÌÂ¡ ¶ô¸´Áö
-har_in01.rsw#¶ô ¸´Áö#
-harboro1.rsw#¶ô ¸´Áö#
-harboro2.rsw#ÁöÇÏ¼ö·Î#
-rockmi1.rsw#¶ô ¸´Áö ±¤»ê#
-rockmi2.rsw#¶ô ¸´Áö ±¤»ê#
-rockrdg1.rsw#Å°¿Í¿Í »ç¸·#
-rockrdg2.rsw#Å°¿Í¿Í »ç¸·#
+battle26.rsw#í“¬‰Â”\ƒGƒŠƒA#
+battle27.rsw#í“¬‰Â”\ƒGƒŠƒA#
 
-// ¿äÀÏ´øÀü
-1@md_gef.rsw#±İ¿ä¸Ş¸ğ¸®¾ó#
-1@md_pay.rsw#ÁÖ¸»¸Ş¸ğ¸®¾ó#
+battle116.rsw#í“¬‰Â”\ƒGƒŠƒA#
+battle117.rsw#í“¬‰Â”\ƒGƒŠƒA#
+battle118.rsw#í“¬‰Â”\ƒGƒŠƒA#
+battle119.rsw#í“¬‰Â”\ƒGƒŠƒA#
+battle120.rsw#í“¬‰Â”\ƒGƒŠƒA#
+battle121.rsw#í“¬‰Â”\ƒGƒŠƒA#
+battle122.rsw#í“¬‰Â”\ƒGƒŠƒA#
+battle123.rsw#í“¬‰Â”\ƒGƒŠƒA#
+battle124.rsw#í“¬‰Â”\ƒGƒŠƒA#
+battle125.rsw#í“¬‰Â”\ƒGƒŠƒA#
+battle126.rsw#í“¬‰Â”\ƒGƒŠƒA#
+battle127.rsw#í“¬‰Â”\ƒGƒŠƒA#
 
-// ep16.2
-1@slw.rsw#º£¸£³Ê¿¬±¸¼Ò ÁßÃß½Ç#
-1@swat.rsw#ÇÏÆ®ÇåÅÍ ±º¼ö±âÁö#
-que_swat.rsw#ÇÏÆ®ÇåÅÍ ±º¼ö±âÁö#
-slabw01.rsw#º£¸£³Ê ¿¬±¸¼Ò#
-rebel_in.rsw#Å¬¶ó³ª ³×¹Ì¿¡¸®#
+center01.rsw#’†ŠÔƒ}ƒbƒv#
+center02.rsw#’†ŠÔƒ}ƒbƒv#
+center03.rsw#’†ŠÔƒ}ƒbƒv#
+center04.rsw#’†ŠÔƒ}ƒbƒv#
+center05.rsw#’†ŠÔƒ}ƒbƒv#
+center06.rsw#’†ŠÔƒ}ƒbƒv#
+center07.rsw#’†ŠÔƒ}ƒbƒv#
+center08.rsw#’†ŠÔƒ}ƒbƒv#
+center09.rsw#’†ŠÔƒ}ƒbƒv#
+center10.rsw#’†ŠÔƒ}ƒbƒv#
+center11.rsw#’†ŠÔƒ}ƒbƒv#
+center12.rsw#’†ŠÔƒ}ƒbƒv#
+center13.rsw#’†ŠÔƒ}ƒbƒv#
+center14.rsw#’†ŠÔƒ}ƒbƒv#
+center15.rsw#’†ŠÔƒ}ƒbƒv#
+center16.rsw#’†ŠÔƒ}ƒbƒv#
+center17.rsw#’†ŠÔƒ}ƒbƒv#
+center18.rsw#’†ŠÔƒ}ƒbƒv#
+center19.rsw#’†ŠÔƒ}ƒbƒv#
+center20.rsw#’†ŠÔƒ}ƒbƒv#
+center21.rsw#’†ŠÔƒ}ƒbƒv#
+center22.rsw#’†ŠÔƒ}ƒbƒv#
+center23.rsw#’†ŠÔƒ}ƒbƒv#
+center24.rsw#’†ŠÔƒ}ƒbƒv#
+center25.rsw#’†ŠÔƒ}ƒbƒv#
+center26.rsw#’†ŠÔƒ}ƒbƒv#
+center27.rsw#’†ŠÔƒ}ƒbƒv#
 
-// ±³È² ¸Ş¸ğ¸®¾ó ³·¿¡³ª¿Â ¹İ´Ş
-1@pop1.rsw#±³È² Áı¹«½Ç#
-1@pop2.rsw#ÁıÀ¸·Î °¡´Â ±æ#
-1@pop3.rsw#ÇÏ´Ã Á¤¿ø#
+center101.rsw#’†ŠÔƒ}ƒbƒv#
+center102.rsw#’†ŠÔƒ}ƒbƒv#
+center103.rsw#’†ŠÔƒ}ƒbƒv#
+center104.rsw#’†ŠÔƒ}ƒbƒv#
+center105.rsw#’†ŠÔƒ}ƒbƒv#
+center106.rsw#’†ŠÔƒ}ƒbƒv#
+center107.rsw#’†ŠÔƒ}ƒbƒv#
+center108.rsw#’†ŠÔƒ}ƒbƒv#
+center109.rsw#’†ŠÔƒ}ƒbƒv#
+center110.rsw#’†ŠÔƒ}ƒbƒv#
+center111.rsw#’†ŠÔƒ}ƒbƒv#
+center112.rsw#’†ŠÔƒ}ƒbƒv#
+center113.rsw#’†ŠÔƒ}ƒbƒv#
+center114.rsw#’†ŠÔƒ}ƒbƒv#
+center115.rsw#’†ŠÔƒ}ƒbƒv#
+center116.rsw#’†ŠÔƒ}ƒbƒv#
+center117.rsw#’†ŠÔƒ}ƒbƒv#
+center118.rsw#’†ŠÔƒ}ƒbƒv#
+center119.rsw#’†ŠÔƒ}ƒbƒv#
+center120.rsw#’†ŠÔƒ}ƒbƒv#
+center121.rsw#’†ŠÔƒ}ƒbƒv#
+center122.rsw#’†ŠÔƒ}ƒbƒv#
+center123.rsw#’†ŠÔƒ}ƒbƒv#
+center124.rsw#’†ŠÔƒ}ƒbƒv#
+center125.rsw#’†ŠÔƒ}ƒbƒv#
+center126.rsw#’†ŠÔƒ}ƒbƒv#
+center127.rsw#’†ŠÔƒ}ƒbƒv#
+//------------------------------------------------
+ev_city.rsw#ƒgƒƒsƒJƒ‹ƒAƒCƒ‰ƒ“ƒh#
+ev_skill_1.rsw#ƒXƒLƒ‹—ûKƒ‹[ƒ€1#
+ev_skill_2.rsw#ƒXƒLƒ‹—ûKƒ‹[ƒ€2#
+ev_skill_3.rsw#ƒXƒLƒ‹—ûKƒ‹[ƒ€3#
+ev_job_rg.rsw#E‹ÆŒP—ûê#
+ev_job_sr.rsw#E‹ÆŒP—ûê#
+ev_job_sc.rsw#E‹ÆŒP—ûê#
+ev_job_rn.rsw#E‹ÆŒP—ûê#
+ev_job_so.rsw#E‹ÆŒP—ûê#
+ev_job_mn.rsw#E‹ÆŒP—ûê#
+ev_job_gt.rsw#E‹ÆŒP—ûê#
+ev_job_ab.rsw#E‹ÆŒP—ûê#
+ev_start_1.rsw#‚Í‚¶‚Ü‚è‚Ì“‡#
+ev_start_2.rsw#‚Í‚¶‚Ü‚è‚Ì“‡#
+ev_start_3.rsw#‚Í‚¶‚Ü‚è‚Ì“‡#
+ev_start_4.rsw#‚Í‚¶‚Ü‚è‚Ì“‡#
+ev_start_5.rsw#‚Í‚¶‚Ü‚è‚Ì“‡#
+ev_clone.rsw#ƒNƒ[ƒ“EƒŠƒvƒƒfƒ…[ƒXK“¾ƒXƒLƒ‹İ’èƒGƒŠƒA#
+ev_pre_rg.rsw#ƒ_ƒ“ƒWƒ‡ƒ““üê‘Ò‹@ƒGƒŠƒA#
+ev_pre_sr.rsw#ƒ_ƒ“ƒWƒ‡ƒ““üê‘Ò‹@ƒGƒŠƒA#
+ev_pre_sc.rsw#ƒ_ƒ“ƒWƒ‡ƒ““üê‘Ò‹@ƒGƒŠƒA#
+ev_pre_rn.rsw#ƒ_ƒ“ƒWƒ‡ƒ““üê‘Ò‹@ƒGƒŠƒA#
+ev_pre_so.rsw#ƒ_ƒ“ƒWƒ‡ƒ““üê‘Ò‹@ƒGƒŠƒA#
+ev_pre_mn.rsw#ƒ_ƒ“ƒWƒ‡ƒ““üê‘Ò‹@ƒGƒŠƒA#
+ev_pre_gt.rsw#ƒ_ƒ“ƒWƒ‡ƒ““üê‘Ò‹@ƒGƒŠƒA#
+ev_pre_ab.rsw#ƒ_ƒ“ƒWƒ‡ƒ““üê‘Ò‹@ƒGƒŠƒA#
+ev_rg_end.rsw#Å[•”#
+ev_sec_rg.rsw#”é–§‚Ì•”‰®#
+ev_sr_end.rsw#Å[•”#
+ev_sec_sr.rsw#”é–§‚Ì•”‰®#
+ev_so_end.rsw#Å[•”#
+ev_sec_so.rsw#”é–§‚Ì•”‰®#
+ev_rn_end.rsw#Å[•”#
+ev_sec_rn.rsw#”é–§‚Ì•”‰®#
+ev_mn_end.rsw#Å[•”#
+ev_sec_mn.rsw#”é–§‚Ì•”‰®#
+ev_sc_end.rsw#Å[•”#
+ev_sec_sc.rsw#”é–§‚Ì•”‰®#
+ev_gt_end.rsw#Å[•”#
+ev_sec_gt.rsw#”é–§‚Ì•”‰®#
+ev_ab_end.rsw#Å[•”#
+ev_sec_ab.rsw#”é–§‚Ì•”‰®#
+ev_rg2_end.rsw#Å[•”#
+ev_sec_rg2.rsw#”é–§‚Ì•”‰®#
+ev_sr2_end.rsw#Å[•”#
+ev_sec_sr2.rsw#”é–§‚Ì•”‰®#
+ev_so2_end.rsw#Å[•”#
+ev_sec_so2.rsw#”é–§‚Ì•”‰®#
+ev_rn2_end.rsw#Å[•”#
+ev_sec_rn2.rsw#”é–§‚Ì•”‰®#
+ev_mn2_end.rsw#Å[•”#
+ev_sec_mn2.rsw#”é–§‚Ì•”‰®#
+ev_sc2_end.rsw#Å[•”#
+ev_sec_sc2.rsw#”é–§‚Ì•”‰®#
+ev_gt2_end.rsw#Å[•”#
+ev_sec_gt2.rsw#”é–§‚Ì•”‰®#
+ev_ab2_end.rsw#Å[•”#
+ev_sec_ab2.rsw#”é–§‚Ì•”‰®#
+//------------------------------------------------
+da_sp1_in.rsw#ˆÙŠE “ÁˆÙ“_#
+da_sp2_in.rsw#ˆÙŠE “ÁˆÙ“_#
+da_sp3_in.rsw#ˆÙŠE “ÁˆÙ“_#
+da_sp4_in.rsw#ˆÙŠE “ÁˆÙ“_#
+da_sp5_in.rsw#ˆÙŠE “ÁˆÙ“_#
+da_sp6_in.rsw#ˆÙŠE “ÁˆÙ“_#
+da_sp7_in.rsw#ˆÙŠE “ÁˆÙ“_#
+d_area_sp1.rsw#ˆÙŠE –‚‹«#
+d_area_sp2.rsw#ˆÙŠE –‚‹«#
+d_area_sp3.rsw#ˆÙŠE –‚‹«#
+d_area_sp4.rsw#ˆÙŠE –‚‹«#
+d_area_sp5.rsw#ˆÙŠE –‚‹«#
+d_area_sp6.rsw#ˆÙŠE –‚‹«#
+d_area_sp7.rsw#ˆÙŠE –‚‹«#
+//------------------------------------------------
+jp_ev_pro.rsw#ƒTƒ‚ƒ“ƒp[ƒN#
+jp_ev_yun.rsw#ƒTƒ‚ƒ“ƒp[ƒN#
+jp_ev_mor.rsw#ƒTƒ‚ƒ“ƒp[ƒN#
+jp_ev_gef.rsw#ƒTƒ‚ƒ“ƒp[ƒN#
+jp_ev_pay.rsw#ƒTƒ‚ƒ“ƒp[ƒN#
+//------------------------------------------------
+1@sara.rsw#ƒTƒ‰‚Ì‹L‰¯#
+dali.rsw#ŸŒ³‚Ì‹·ŠÔ ‚Ì’Ê˜H01#
+//------------------------------------------------
+8@adt.rsw#ƒAƒhƒxƒ“ƒ`ƒƒ[ƒYƒ^ƒ[’§í‚Ì“ƒ 50F#
+9@adt.rsw#ƒAƒhƒxƒ“ƒ`ƒƒ[ƒYƒ^ƒ[’§í‚Ì“ƒ ÅãŠK#
+1@0adt.rsw#ƒAƒhƒxƒ“ƒ`ƒƒ[ƒYƒ^ƒ[’§í‚Ì“ƒ ’¸ã#
+//------------------------------------------------
+1@face.rsw#ƒtƒFƒCƒXƒ[ƒ€‚Ì‘ƒ#
+//------------------------------------------------
+prtp_cas01.rsw#ƒ‚ƒfƒ‹ƒ”ƒ@ƒ‹ƒLƒŠ[ƒŒƒ‹ƒ€^ƒOƒƒŠƒA Ô1(ƒV[ƒYƒ‚[ƒh)#
+prtp_cas02.rsw#ƒ‚ƒfƒ‹ƒ”ƒ@ƒ‹ƒLƒŠ[ƒŒƒ‹ƒ€^ƒOƒƒŠƒA Ô2(ƒV[ƒYƒ‚[ƒh)#
+prtp_cas03.rsw#ƒ‚ƒfƒ‹ƒ”ƒ@ƒ‹ƒLƒŠ[ƒŒƒ‹ƒ€^ƒOƒƒŠƒA Ô3(ƒV[ƒYƒ‚[ƒh)#
+prtp_cas04.rsw#ƒ‚ƒfƒ‹ƒ”ƒ@ƒ‹ƒLƒŠ[ƒŒƒ‹ƒ€^ƒOƒƒŠƒA Ô4(ƒV[ƒYƒ‚[ƒh)#
+prtp_cas05.rsw#ƒ‚ƒfƒ‹ƒ”ƒ@ƒ‹ƒLƒŠ[ƒŒƒ‹ƒ€^ƒOƒƒŠƒA Ô5(ƒV[ƒYƒ‚[ƒh)#
+gefp_cas01.rsw#ƒ‚ƒfƒ‹ƒuƒŠƒgƒjƒA Ô1(ƒV[ƒYƒ‚[ƒh)#
+gefp_cas02.rsw#ƒ‚ƒfƒ‹ƒuƒŠƒgƒjƒA Ô2(ƒV[ƒYƒ‚[ƒh)#
+gefp_cas03.rsw#ƒ‚ƒfƒ‹ƒuƒŠƒgƒjƒA Ô3(ƒV[ƒYƒ‚[ƒh)#
+gefp_cas04.rsw#ƒ‚ƒfƒ‹ƒuƒŠƒgƒjƒA Ô4(ƒV[ƒYƒ‚[ƒh)#
+gefp_cas05.rsw#ƒ‚ƒfƒ‹ƒuƒŠƒgƒjƒA Ô5(ƒV[ƒYƒ‚[ƒh)#
+payp_cas01.rsw#ƒ‚ƒfƒ‹ƒ`ƒ…ƒ“ƒŠƒ€ŒÎ Ô1(ƒV[ƒYƒ‚[ƒh)#
+payp_cas02.rsw#ƒ‚ƒfƒ‹ƒ`ƒ…ƒ“ƒŠƒ€ŒÎ Ô2(ƒV[ƒYƒ‚[ƒh)#
+payp_cas03.rsw#ƒ‚ƒfƒ‹ƒ`ƒ…ƒ“ƒŠƒ€ŒÎ Ô3(ƒV[ƒYƒ‚[ƒh)#
+payp_cas04.rsw#ƒ‚ƒfƒ‹ƒ`ƒ…ƒ“ƒŠƒ€ŒÎ Ô4(ƒV[ƒYƒ‚[ƒh)#
+payp_cas05.rsw#ƒ‚ƒfƒ‹ƒ`ƒ…ƒ“ƒŠƒ€ŒÎ Ô5(ƒV[ƒYƒ‚[ƒh)#
+aldep_cas01.rsw#ƒ‚ƒfƒ‹ƒ‹ƒC[ƒi^ƒJƒvƒ‰ƒK[ƒfƒ“ Ô1(ƒV[ƒYƒ‚[ƒh)#
+aldep_cas02.rsw#ƒ‚ƒfƒ‹ƒ‹ƒC[ƒi^ƒJƒvƒ‰ƒK[ƒfƒ“ Ô2(ƒV[ƒYƒ‚[ƒh)#
+aldep_cas03.rsw#ƒ‚ƒfƒ‹ƒ‹ƒC[ƒi^ƒJƒvƒ‰ƒK[ƒfƒ“ Ô3(ƒV[ƒYƒ‚[ƒh)#
+aldep_cas04.rsw#ƒ‚ƒfƒ‹ƒ‹ƒC[ƒi^ƒJƒvƒ‰ƒK[ƒfƒ“ Ô4(ƒV[ƒYƒ‚[ƒh)#
+aldep_cas05.rsw#ƒ‚ƒfƒ‹ƒ‹ƒC[ƒi^ƒJƒvƒ‰ƒK[ƒfƒ“ Ô5(ƒV[ƒYƒ‚[ƒh)#
+arup_cas01.rsw#ƒ‚ƒfƒ‹ƒ”ƒ@ƒ‹ƒtƒŒƒCƒ„ Ô1(ƒV[ƒYƒ‚[ƒh)#
+arup_cas02.rsw#ƒ‚ƒfƒ‹ƒ”ƒ@ƒ‹ƒtƒŒƒCƒ„ Ô2(ƒV[ƒYƒ‚[ƒh)#
+arup_cas03.rsw#ƒ‚ƒfƒ‹ƒ”ƒ@ƒ‹ƒtƒŒƒCƒ„ Ô3(ƒV[ƒYƒ‚[ƒh)#
+arup_cas04.rsw#ƒ‚ƒfƒ‹ƒ”ƒ@ƒ‹ƒtƒŒƒCƒ„ Ô4(ƒV[ƒYƒ‚[ƒh)#
+arup_cas05.rsw#ƒ‚ƒfƒ‹ƒ”ƒ@ƒ‹ƒtƒŒƒCƒ„ Ô5(ƒV[ƒYƒ‚[ƒh)#
+schp_cas01.rsw#ƒ‚ƒfƒ‹ƒjƒ_ƒ”ƒFƒŠ[ƒ‹ Ô1(ƒV[ƒYƒ‚[ƒh)#
+schp_cas02.rsw#ƒ‚ƒfƒ‹ƒjƒ_ƒ”ƒFƒŠ[ƒ‹ Ô2(ƒV[ƒYƒ‚[ƒh)#
+schp_cas03.rsw#ƒ‚ƒfƒ‹ƒjƒ_ƒ”ƒFƒŠ[ƒ‹ Ô3(ƒV[ƒYƒ‚[ƒh)#
+schp_cas04.rsw#ƒ‚ƒfƒ‹ƒjƒ_ƒ”ƒFƒŠ[ƒ‹ Ô4(ƒV[ƒYƒ‚[ƒh)#
+schp_cas05.rsw#ƒ‚ƒfƒ‹ƒjƒ_ƒ”ƒFƒŠ[ƒ‹ Ô5(ƒV[ƒYƒ‚[ƒh)#
+//------------------------------------------------
+1@xm_d.rsw#ƒzƒ‰[‚¨‚à‚¿‚áHê#
+//------------------------------------------------
+1@sweet.rsw#¸—ì‚ÌâK#
+//------------------------------------------------
+mbt_a.rsw#ƒGƒŠƒAA@W‡’n“_#
+mbt_b.rsw#ƒGƒŠƒAB@W‡’n“_#
+mbt_c.rsw#ƒGƒŠƒAC@W‡’n“_#
+mbt_d.rsw#ƒGƒŠƒAD@W‡’n“_#
+mbt_e.rsw#ƒGƒŠƒAE@W‡’n“_#
+mbt_f.rsw#ƒGƒŠƒAF@W‡’n“_#
+mbt_g.rsw#ƒGƒŠƒAG@W‡’n“_#
+mbt_h.rsw#ƒGƒŠƒAH@W‡’n“_#
+mbt_i.rsw#ƒGƒŠƒAI@W‡’n“_#
+mbt_j.rsw#ƒGƒŠƒAJ@W‡’n“_#
+mbt_k.rsw#ƒGƒŠƒAK@W‡’n“_#
+mbt_l.rsw#ƒGƒŠƒAL@W‡’n“_#
+mbt_m.rsw#ƒGƒŠƒAM@W‡’n“_#
+mbt_n.rsw#ƒGƒŠƒAN@W‡’n“_#
+mbt_o.rsw#ƒGƒŠƒAO@W‡’n“_#
+mbt_p.rsw#ƒGƒŠƒAP@W‡’n“_#
+//------------------------------------------------
+ma_dun01_q.rsw#ƒrƒ‡ƒ“ƒEƒ“ƒS•a‰@1ŠK#
+//------------------------------------------------
+1@ge_st.rsw#ƒQƒtƒFƒ“–‚–@‘å‰ï#
+1@gef.rsw#ƒQƒtƒFƒ“–‚–@‘å‰ï#
+1@gef_in.rsw#ƒQƒtƒFƒ“–‚–@‘å‰ï#
+//------------------------------------------------
+1@rjc_d.rsw#“ÁêŒP—ûê(ƒXƒe[ƒW1)#
+2@rjc_d.rsw#“ÁêŒP—ûê(ƒXƒe[ƒW3)#
+3@rjc_d.rsw#“ÁêŒP—ûê(ƒXƒe[ƒW4)#
+4@rjc_d.rsw#“ÁêŒP—ûê(ƒXƒe[ƒW2)#
+//------------------------------------------------
+pud_land.rsw#“ä‚Ì“‡#
+1@pda.rsw#ƒwƒ‰‚Ì_“a#
+1@pdb.rsw#‹L”OB‰e‰ïê#
+jp_ev_map67.rsw#‰SÒC—ûê#
+jp_ev_map68.rsw#‰SÒC—ûê#
+jp_ev_map69.rsw#‰SÒC—ûê#
+//------------------------------------------------
+c_tower1_.rsw#”P‚¶‚ê‚½ŠÔ‚ÌŒv“ƒ’nã 1F#
+c_tower2_.rsw#”P‚¶‚ê‚½ŠÔ‚ÌŒv“ƒ’nã 2F#
+c_tower3_.rsw#”P‚¶‚ê‚½ŠÔ‚ÌŒv“ƒ’nã 3F#
+c_tower4_.rsw#”P‚¶‚ê‚½ŠÔ‚ÌŒv“ƒ’nã 4F#
+//------------------------------------------------
+moro_vol.rsw#ƒtƒŒƒCƒ€ƒ”ƒ@ƒŒ[#
+moro_cav.rsw#ƒtƒŒƒCƒ€ƒPƒCƒu#
+1@dth1.rsw#ƒrƒIƒX‚Ì“‡ 01#
+1@dth2.rsw#ƒrƒIƒX‚Ì“‡ 02#
+1@dth3.rsw#ƒrƒIƒX‚Ì“‡ 03#
+1@rev.rsw#ƒ‚ƒ‹ƒX‚Ì“´ŒA#
+1@eom.rsw#–‚_“a#
+//------------------------------------------------
+ev_ex5_rg.rsw#[•£#
+ev_ex5_rk.rsw#[•£#
+ev_ex5_sr.rsw#[•£#
+ev_ex5_sc.rsw#[•£#
+ev_ex5_rn.rsw#[•£#
+ev_ex5_so.rsw#[•£#
+ev_ex5_mn.rsw#[•£#
+ev_ex5_gt.rsw#[•£#
+ev_ex5_ab.rsw#[•£#
+ev_ex5_wl.rsw#[•£#
+ev_ex5_gc.rsw#[•£#
+ev_ex5_wm.rsw#[•£#
+ev_ex5_rg2.rsw#[•£#
+ev_ex5_rk2.rsw#[•£#
+ev_ex5_sr2.rsw#[•£#
+ev_ex5_sc2.rsw#[•£#
+ev_ex5_rn2.rsw#[•£#
+ev_ex5_so2.rsw#[•£#
+ev_ex5_mn2.rsw#[•£#
+ev_ex5_gt2.rsw#[•£#
+ev_ex5_ab2.rsw#[•£#
+ev_ex5_wl2.rsw#[•£#
+ev_ex5_gc2.rsw#[•£#
+ev_ex5_wm2.rsw#[•£#
+//------------------------------------------------
+ev_clone2.rsw#ƒNƒ[ƒ“EƒŠƒvƒƒfƒ…[ƒXK“¾ƒXƒLƒ‹İ’èƒGƒŠƒA#
+//------------------------------------------------
+ev_job_rk.rsw#E‹ÆŒP—ûê#
+ev_job_wl.rsw#E‹ÆŒP—ûê#
+ev_job_gc.rsw#E‹ÆŒP—ûê#
+ev_job_wm.rsw#E‹ÆŒP—ûê#
+ev_pre_rk.rsw#ƒ_ƒ“ƒWƒ‡ƒ““üê‘Ò‹@ƒGƒŠƒA#
+ev_pre_wl.rsw#ƒ_ƒ“ƒWƒ‡ƒ““üê‘Ò‹@ƒGƒŠƒA#
+ev_pre_gc.rsw#ƒ_ƒ“ƒWƒ‡ƒ““üê‘Ò‹@ƒGƒŠƒA#
+ev_pre_wm.rsw#ƒ_ƒ“ƒWƒ‡ƒ““üê‘Ò‹@ƒGƒŠƒA#
+ev_rk_end.rsw#Å[•”#
+ev_sec_rk.rsw#”é–§‚Ì•”‰®#
+ev_wl_end.rsw#Å[•”#
+ev_sec_wl.rsw#”é–§‚Ì•”‰®#
+ev_gc_end.rsw#Å[•”#
+ev_sec_gc.rsw#”é–§‚Ì•”‰®#
+ev_wm_end.rsw#Å[•”#
+ev_sec_wm.rsw#”é–§‚Ì•”‰®#
+ev_rk2_end.rsw#Å[•”#
+ev_sec_rk2.rsw#”é–§‚Ì•”‰®#
+ev_wl2_end.rsw#Å[•”#
+ev_sec_wl2.rsw#”é–§‚Ì•”‰®#
+ev_gc2_end.rsw#Å[•”#
+ev_sec_gc2.rsw#”é–§‚Ì•”‰®#
+ev_wm2_end.rsw#Å[•”#
+ev_sec_wm2.rsw#”é–§‚Ì•”‰®#
+ev_hom.rsw#ƒzƒ€ƒ“ƒNƒ‹ƒXİ’èƒGƒŠƒA#
+//------------------------------------------------
+1@jtb.rsw#ˆ«–²‚ÌƒWƒ^[ƒoƒO#
+jtb_01.rsw#ˆ«–²‚ÌƒWƒ^[ƒoƒO(ŠÔˆÚ“®)#
+//------------------------------------------------
+moc_para01.rsw#Šy‰€’c 01#
+//------------------------------------------------
+1@zodi.rsw#ƒ]ƒfƒBƒAƒbƒNEƒRƒƒbƒZƒEƒ€#
+2@zodi.rsw#ƒ]ƒfƒBƒAƒbƒNEƒRƒƒbƒZƒEƒ€’Ê˜H#
+3@zodi.rsw#ƒ]ƒfƒBƒAƒbƒNEƒRƒƒbƒZƒEƒ€#
+4@zodi.rsw#ƒ]ƒfƒBƒAƒbƒNEƒRƒƒbƒZƒEƒ€#
+//------------------------------------------------
+ama_fild_jp.rsw#‚¨‚à‚¿Ï‚İ‰ïê#
+//------------------------------------------------
+diver_main.rsw#ˆÙŠE ’ë#
+dd_king01.rsw#ˆÙŠE ŠEc‚Ì“¹#
+dd_king02.rsw#ˆÙŠE ŠEc‚ÌŠÔ#
+dd_queen01.rsw#ˆÙŠE c”Ü‚ÌŠÔ#
+dd_queen02.rsw#ˆÙŠE c”Ü‚ÌŠÔ#
+dd_queen03.rsw#ˆÙŠE c”Ü‚ÌŠÔ#
+dd_queen04.rsw#ˆÙŠE c”Ü‚ÌŠÔ#
+dd_queen05.rsw#ˆÙŠE c”Ü‚ÌŠÔ#
+dd_queen06.rsw#ˆÙŠE c”Ü‚ÌŠÔ#
+dd_queen07.rsw#ˆÙŠE c”Ü‚ÌŠÔ#
+dd_queen08.rsw#ˆÙŠE c”Ü‚ÌŠÔ#
+dd_queen09.rsw#ˆÙŠE c”Ü‚ÌŠÔ#
+dd_queen10.rsw#ˆÙŠE c”Ü‚ÌŠÔ#
+dd_raid01.rsw#ˆÙŠE —I‹v‚ÌâK#
+dd_raid02.rsw#ˆÙŠE —I‹v‚ÌâK#
+dd_raid03.rsw#ˆÙŠE —I‹v‚ÌâK#
+dd_raid04.rsw#ˆÙŠE —I‹v‚ÌâK#
+dd_raid05.rsw#ˆÙŠE —I‹v‚ÌâK#
+dd_raid06.rsw#ˆÙŠE —I‹v‚ÌâK#
+dd_raid07.rsw#ˆÙŠE —I‹v‚ÌâK#
+dd_raid08.rsw#ˆÙŠE —I‹v‚ÌâK#
+dd_raid09.rsw#ˆÙŠE —I‹v‚ÌâK#
+//------------------------------------------------
+dali02.rsw#ŸŒ³‚Ì‹·ŠÔ ‚Ì’Ê˜H02#
+1@tnm1.rsw#–‚_‚Ì“ƒã‘w#
+1@tnm2.rsw#–‚_‚Ì“ƒÅãŠK#
+1@tnm3.rsw#ƒ‚ƒƒNé’n‰º#
+//------------------------------------------------
+ref_room01.rsw#ƒŠƒtƒŒƒbƒVƒ…ƒ‹[ƒ€#
+ref_room02.rsw#ƒŠƒtƒŒƒbƒVƒ…ƒ‹[ƒ€#
+tra_hall.rsw#‚¨‚µ“¹ê#
+//------------------------------------------------
+lounge00_jp.rsw#ƒ‰ƒEƒ“ƒW B1F#
+lounge01_jp.rsw#ƒ‰ƒEƒ“ƒW 1F#
+lounge02_jp.rsw#ƒ‰ƒEƒ“ƒW 2F#
+//------------------------------------------------
+ver_eju.rsw#ƒWƒ…ƒsƒƒX“Œ‘¤#
+ver_tunn.rsw#ƒEƒFƒ‹ƒXŠOŠsƒgƒ“ƒlƒ‹#
+verus04.rsw#ƒEƒFƒ‹ƒX”­Œ@’n#
+verus03.rsw#ƒEƒFƒ‹ƒX’†‰›Lê#
+verus01.rsw#ÀŒ±“-OPTATIO#
+verus02.rsw#Œ¤‹†“-WISH#
+un_bk_q.rsw#’n‰ºƒVƒFƒ‹ƒ^[(ƒƒ‚ƒŠ[ƒŒƒR[ƒh)#
+un_bunker.rsw#’n‰ºƒVƒFƒ‹ƒ^[#
+un_myst.rsw#’n‰ºƒgƒ“ƒlƒ‹#
+1@uns.rsw#ÅŒã‚Ì•”‰®#
+1@lab.rsw#’†‰›ÀŒ±º#
+//------------------------------------------------
+1@mcd.rsw#ƒ`ƒƒ[ƒ‹ƒXƒgƒ“Hê#
+//------------------------------------------------
+moc_prydn1.rsw#ƒsƒ‰ƒ~ƒbƒhƒ_ƒ“ƒWƒ‡ƒ“ ”é–§‚Ì’n‰ºº01#
+moc_prydn2.rsw#ƒsƒ‰ƒ~ƒbƒhƒ_ƒ“ƒWƒ‡ƒ“ ”é–§‚Ì’n‰ºº02#
+//------------------------------------------------
+//rjc_vs11.rsw#ƒfƒ…ƒGƒ‹#
+//rjc_vs12.rsw#ƒoƒgƒ‹#
+//rjc_vs13.rsw#ƒK[ƒfƒ“#
+//rjc_vs14.rsw#ƒƒCƒ„ƒ‹#
+//rjc_vs16.rsw#ƒfƒ…ƒGƒ‹#
+//rjc_vs17.rsw#ƒoƒgƒ‹#
+//rjc_vs18.rsw#ƒK[ƒfƒ“#
+//rjc_vs19.rsw#ƒƒCƒ„ƒ‹#
+//rjc_check01.rsw#¶‘¶”Šm”Fº#
+//rjc_vs21.rsw#ƒfƒ…ƒGƒ‹#
+//rjc_vs22.rsw#ƒoƒgƒ‹#
+//rjc_vs23.rsw#ƒK[ƒfƒ“#
+//rjc_vs24.rsw#ƒƒCƒ„ƒ‹#
+//rjc_vs26.rsw#ƒfƒ…ƒGƒ‹#
+//rjc_vs27.rsw#ƒoƒgƒ‹#
+//rjc_vs28.rsw#ƒK[ƒfƒ“#
+//rjc_vs29.rsw#ƒƒCƒ„ƒ‹#
+//rjc_check02.rsw#¶‘¶”Šm”Fº#
+//rjc_vs31.rsw#ƒfƒ…ƒGƒ‹#
+//rjc_vs32.rsw#ƒoƒgƒ‹#
+//rjc_vs33.rsw#ƒK[ƒfƒ“#
+//rjc_vs34.rsw#ƒƒCƒ„ƒ‹#
+//rjc_vs36.rsw#ƒfƒ…ƒGƒ‹#
+//rjc_vs37.rsw#ƒoƒgƒ‹#
+//rjc_vs38.rsw#ƒK[ƒfƒ“#
+//rjc_vs39.rsw#ƒƒCƒ„ƒ‹#
+//rjc_check03.rsw#¶‘¶”Šm”Fº#
+//rjc_vs41.rsw#ƒfƒ…ƒGƒ‹#
+//rjc_vs42.rsw#ƒoƒgƒ‹#
+//rjc_vs43.rsw#ƒK[ƒfƒ“#
+//rjc_vs44.rsw#ƒƒCƒ„ƒ‹#
+//rjc_vs46.rsw#ƒfƒ…ƒGƒ‹#
+//rjc_vs47.rsw#ƒoƒgƒ‹#
+//rjc_vs48.rsw#ƒK[ƒfƒ“#
+//rjc_vs49.rsw#ƒƒCƒ„ƒ‹#
+//rjc_check04.rsw#¶‘¶”Šm”Fº#
+//rjc_a1.rsw#ƒMƒ‹ƒh‘Ò‹@ºuA1`10v#
+//rjc_a11.rsw#ƒMƒ‹ƒh‘Ò‹@ºuA11`16v#
+//rjc_b1.rsw#ƒMƒ‹ƒh‘Ò‹@ºuB1`10v#
+//rjc_b11.rsw#ƒMƒ‹ƒh‘Ò‹@ºuB11`16v#
+//rjc_c1.rsw#ƒMƒ‹ƒh‘Ò‹@ºuC1`10v#
+//rjc_c11.rsw#ƒMƒ‹ƒh‘Ò‹@ºuC11`16v#
+//rjc_d1.rsw#ƒMƒ‹ƒh‘Ò‹@ºuD1`10v#
+//rjc_d11.rsw#ƒMƒ‹ƒh‘Ò‹@ºuD11`16v#
+//rjc_e1.rsw#ƒMƒ‹ƒh‘Ò‹@ºuE1`10v#
+//rjc_e11.rsw#ƒMƒ‹ƒh‘Ò‹@ºuE11`16v#
+//rjc_f1.rsw#ƒMƒ‹ƒh‘Ò‹@ºuF1`10v#
+//rjc_f11.rsw#ƒMƒ‹ƒh‘Ò‹@ºuF11`16v#
+//rjc_g1.rsw#ƒMƒ‹ƒh‘Ò‹@ºuG1`10v#
+//rjc_g11.rsw#ƒMƒ‹ƒh‘Ò‹@ºuG11`16v#
+//rjc_h1.rsw#ƒMƒ‹ƒh‘Ò‹@ºuH1`10v#
+//rjc_h11.rsw#ƒMƒ‹ƒh‘Ò‹@ºuH11`16v#
+//rjc_a1t.rsw#ƒMƒ‹ƒhŒP—ûºuA1`10v#
+//rjc_a11t.rsw#ƒMƒ‹ƒhŒP—ûºuA11`16v#
+//rjc_b1t.rsw#ƒMƒ‹ƒhŒP—ûºuB1`10v#
+//rjc_b11t.rsw#ƒMƒ‹ƒhŒP—ûºuB11`16v#
+//rjc_c1t.rsw#ƒMƒ‹ƒhŒP—ûºuC1`10v#
+//rjc_c11t.rsw#ƒMƒ‹ƒhŒP—ûºuC11`16v#
+//rjc_d1t.rsw#ƒMƒ‹ƒhŒP—ûºuD1`10v#
+//rjc_d11t.rsw#ƒMƒ‹ƒhŒP—ûºuD11`16v#
+//rjc_e1t.rsw#ƒMƒ‹ƒhŒP—ûºuE1`10v#
+//rjc_e11t.rsw#ƒMƒ‹ƒhŒP—ûºuE11`16v#
+//rjc_f1t.rsw#ƒMƒ‹ƒhŒP—ûºuF1`10v#
+//rjc_f11t.rsw#ƒMƒ‹ƒhŒP—ûºuF11`16v#
+//rjc_g1t.rsw#ƒMƒ‹ƒhŒP—ûºuG1`10v#
+//rjc_g11t.rsw#ƒMƒ‹ƒhŒP—ûºuG11`16v#
+//rjc_h1t.rsw#ƒMƒ‹ƒhŒP—ûºuH1`10v#
+//rjc_h11t.rsw#ƒMƒ‹ƒhŒP—ûºuH11`16v#
+//rjc_pra1_01.rsw#ƒfƒ…ƒGƒ‹—ûK01#
+//rjc_pra1_02.rsw#ƒfƒ…ƒGƒ‹—ûK02#
+//rjc_pra1_03.rsw#ƒfƒ…ƒGƒ‹—ûK03#
+//rjc_pra1_04.rsw#ƒfƒ…ƒGƒ‹—ûK04#
+//rjc_pra1_05.rsw#ƒfƒ…ƒGƒ‹—ûK05#
+//rjc_pra1_06.rsw#ƒfƒ…ƒGƒ‹—ûK06#
+//rjc_pra1_07.rsw#ƒfƒ…ƒGƒ‹—ûK07#
+//rjc_pra1_08.rsw#ƒfƒ…ƒGƒ‹—ûK08#
+//rjc_pra1_09.rsw#ƒfƒ…ƒGƒ‹—ûK09#
+//rjc_pra1_10.rsw#ƒfƒ…ƒGƒ‹—ûK10#
+//rjc_pra1_11.rsw#ƒfƒ…ƒGƒ‹—ûK11#
+//rjc_pra1_12.rsw#ƒfƒ…ƒGƒ‹—ûK12#
+//rjc_pra1_13.rsw#ƒfƒ…ƒGƒ‹—ûK13#
+//rjc_pra1_14.rsw#ƒfƒ…ƒGƒ‹—ûK14#
+//rjc_pra1_15.rsw#ƒfƒ…ƒGƒ‹—ûK15#
+//rjc_pra1_16.rsw#ƒfƒ…ƒGƒ‹—ûK16#
+//rjc_pra1_17.rsw#ƒfƒ…ƒGƒ‹—ûK17#
+//rjc_pra1_18.rsw#ƒfƒ…ƒGƒ‹—ûK18#
+//rjc_pra1_19.rsw#ƒfƒ…ƒGƒ‹—ûK19#
+//rjc_pra1_20.rsw#ƒfƒ…ƒGƒ‹—ûK20#
+//rjc_pra1_21.rsw#ƒfƒ…ƒGƒ‹—ûK21#
+//rjc_pra1_22.rsw#ƒfƒ…ƒGƒ‹—ûK22#
+//rjc_pra1_23.rsw#ƒfƒ…ƒGƒ‹—ûK23#
+//rjc_pra1_24.rsw#ƒfƒ…ƒGƒ‹—ûK24#
+//rjc_pra1_25.rsw#ƒfƒ…ƒGƒ‹—ûK25#
+//rjc_pra1_26.rsw#ƒfƒ…ƒGƒ‹—ûK26#
+//rjc_pra1_27.rsw#ƒfƒ…ƒGƒ‹—ûK27#
+//rjc_pra1_28.rsw#ƒfƒ…ƒGƒ‹—ûK28#
+//rjc_pra1_29.rsw#ƒfƒ…ƒGƒ‹—ûK29#
+//rjc_pra1_30.rsw#ƒfƒ…ƒGƒ‹—ûK30#
+//rjc_pra1_31.rsw#ƒfƒ…ƒGƒ‹—ûK31#
+//rjc_pra1_32.rsw#ƒfƒ…ƒGƒ‹—ûK32#
+//rjc_pra1_33.rsw#ƒfƒ…ƒGƒ‹—ûK33#
+//rjc_pra1_34.rsw#ƒfƒ…ƒGƒ‹—ûK34#
+//rjc_pra1_35.rsw#ƒfƒ…ƒGƒ‹—ûK35#
+//rjc_pra1_36.rsw#ƒfƒ…ƒGƒ‹—ûK36#
+//rjc_pra1_37.rsw#ƒfƒ…ƒGƒ‹—ûK37#
+//rjc_pra1_38.rsw#ƒfƒ…ƒGƒ‹—ûK38#
+//rjc_pra1_39.rsw#ƒfƒ…ƒGƒ‹—ûK39#
+//rjc_pra1_40.rsw#ƒfƒ…ƒGƒ‹—ûK40#
+//rjc_pra1_41.rsw#ƒfƒ…ƒGƒ‹—ûK41#
+//rjc_pra1_42.rsw#ƒfƒ…ƒGƒ‹—ûK42#
+//rjc_pra1_43.rsw#ƒfƒ…ƒGƒ‹—ûK43#
+//rjc_pra1_44.rsw#ƒfƒ…ƒGƒ‹—ûK44#
+//rjc_pra1_45.rsw#ƒfƒ…ƒGƒ‹—ûK45#
+//rjc_pra1_46.rsw#ƒfƒ…ƒGƒ‹—ûK46#
+//rjc_pra1_47.rsw#ƒfƒ…ƒGƒ‹—ûK47#
+//rjc_pra1_48.rsw#ƒfƒ…ƒGƒ‹—ûK48#
+//rjc_pra1_49.rsw#ƒfƒ…ƒGƒ‹—ûK49#
+//rjc_pra1_50.rsw#ƒfƒ…ƒGƒ‹—ûK50#
+//rjc_pra1_51.rsw#ƒfƒ…ƒGƒ‹—ûK51#
+//rjc_pra1_52.rsw#ƒfƒ…ƒGƒ‹—ûK52#
+//rjc_pra1_53.rsw#ƒfƒ…ƒGƒ‹—ûK53#
+//rjc_pra1_54.rsw#ƒfƒ…ƒGƒ‹—ûK54#
+//rjc_pra1_55.rsw#ƒfƒ…ƒGƒ‹—ûK55#
+//rjc_pra1_56.rsw#ƒfƒ…ƒGƒ‹—ûK56#
+//rjc_pra1_57.rsw#ƒfƒ…ƒGƒ‹—ûK57#
+//rjc_pra1_58.rsw#ƒfƒ…ƒGƒ‹—ûK58#
+//rjc_pra1_59.rsw#ƒfƒ…ƒGƒ‹—ûK59#
+//rjc_pra1_60.rsw#ƒfƒ…ƒGƒ‹—ûK60#
+//rjc_pra1_61.rsw#ƒfƒ…ƒGƒ‹—ûK61#
+//rjc_pra1_62.rsw#ƒfƒ…ƒGƒ‹—ûK62#
+//rjc_pra1_63.rsw#ƒfƒ…ƒGƒ‹—ûK63#
+//rjc_pra1_64.rsw#ƒfƒ…ƒGƒ‹—ûK64#
+//rjc_pra2_01.rsw#ƒoƒgƒ‹—ûK01#
+//rjc_pra2_02.rsw#ƒoƒgƒ‹—ûK02#
+//rjc_pra2_03.rsw#ƒoƒgƒ‹—ûK03#
+//rjc_pra2_04.rsw#ƒoƒgƒ‹—ûK04#
+//rjc_pra2_05.rsw#ƒoƒgƒ‹—ûK05#
+//rjc_pra2_06.rsw#ƒoƒgƒ‹—ûK06#
+//rjc_pra2_07.rsw#ƒoƒgƒ‹—ûK07#
+//rjc_pra2_08.rsw#ƒoƒgƒ‹—ûK08#
+//rjc_pra2_09.rsw#ƒoƒgƒ‹—ûK09#
+//rjc_pra2_10.rsw#ƒoƒgƒ‹—ûK10#
+//rjc_pra2_11.rsw#ƒoƒgƒ‹—ûK11#
+//rjc_pra2_12.rsw#ƒoƒgƒ‹—ûK12#
+//rjc_pra2_13.rsw#ƒoƒgƒ‹—ûK13#
+//rjc_pra2_14.rsw#ƒoƒgƒ‹—ûK14#
+//rjc_pra2_15.rsw#ƒoƒgƒ‹—ûK15#
+//rjc_pra2_16.rsw#ƒoƒgƒ‹—ûK16#
+//rjc_pra2_17.rsw#ƒoƒgƒ‹—ûK17#
+//rjc_pra2_18.rsw#ƒoƒgƒ‹—ûK18#
+//rjc_pra2_19.rsw#ƒoƒgƒ‹—ûK19#
+//rjc_pra2_20.rsw#ƒoƒgƒ‹—ûK20#
+//rjc_pra2_21.rsw#ƒoƒgƒ‹—ûK21#
+//rjc_pra2_22.rsw#ƒoƒgƒ‹—ûK22#
+//rjc_pra2_23.rsw#ƒoƒgƒ‹—ûK23#
+//rjc_pra2_24.rsw#ƒoƒgƒ‹—ûK24#
+//rjc_pra2_25.rsw#ƒoƒgƒ‹—ûK25#
+//rjc_pra2_26.rsw#ƒoƒgƒ‹—ûK26#
+//rjc_pra2_27.rsw#ƒoƒgƒ‹—ûK27#
+//rjc_pra2_28.rsw#ƒoƒgƒ‹—ûK28#
+//rjc_pra2_29.rsw#ƒoƒgƒ‹—ûK29#
+//rjc_pra2_30.rsw#ƒoƒgƒ‹—ûK30#
+//rjc_pra2_31.rsw#ƒoƒgƒ‹—ûK31#
+//rjc_pra2_32.rsw#ƒoƒgƒ‹—ûK32#
+//rjc_pra2_33.rsw#ƒoƒgƒ‹—ûK33#
+//rjc_pra2_34.rsw#ƒoƒgƒ‹—ûK34#
+//rjc_pra2_35.rsw#ƒoƒgƒ‹—ûK35#
+//rjc_pra2_36.rsw#ƒoƒgƒ‹—ûK36#
+//rjc_pra2_37.rsw#ƒoƒgƒ‹—ûK37#
+//rjc_pra2_38.rsw#ƒoƒgƒ‹—ûK38#
+//rjc_pra2_39.rsw#ƒoƒgƒ‹—ûK39#
+//rjc_pra2_40.rsw#ƒoƒgƒ‹—ûK40#
+//rjc_pra2_41.rsw#ƒoƒgƒ‹—ûK41#
+//rjc_pra2_42.rsw#ƒoƒgƒ‹—ûK42#
+//rjc_pra2_43.rsw#ƒoƒgƒ‹—ûK43#
+//rjc_pra2_44.rsw#ƒoƒgƒ‹—ûK44#
+//rjc_pra2_45.rsw#ƒoƒgƒ‹—ûK45#
+//rjc_pra2_46.rsw#ƒoƒgƒ‹—ûK46#
+//rjc_pra2_47.rsw#ƒoƒgƒ‹—ûK47#
+//rjc_pra2_48.rsw#ƒoƒgƒ‹—ûK48#
+//rjc_pra2_49.rsw#ƒoƒgƒ‹—ûK49#
+//rjc_pra2_50.rsw#ƒoƒgƒ‹—ûK50#
+//rjc_pra2_51.rsw#ƒoƒgƒ‹—ûK51#
+//rjc_pra2_52.rsw#ƒoƒgƒ‹—ûK52#
+//rjc_pra2_53.rsw#ƒoƒgƒ‹—ûK53#
+//rjc_pra2_54.rsw#ƒoƒgƒ‹—ûK54#
+//rjc_pra2_55.rsw#ƒoƒgƒ‹—ûK55#
+//rjc_pra2_56.rsw#ƒoƒgƒ‹—ûK56#
+//rjc_pra2_57.rsw#ƒoƒgƒ‹—ûK57#
+//rjc_pra2_58.rsw#ƒoƒgƒ‹—ûK58#
+//rjc_pra2_59.rsw#ƒoƒgƒ‹—ûK59#
+//rjc_pra2_60.rsw#ƒoƒgƒ‹—ûK60#
+//rjc_pra2_61.rsw#ƒoƒgƒ‹—ûK61#
+//rjc_pra2_62.rsw#ƒoƒgƒ‹—ûK62#
+//rjc_pra2_63.rsw#ƒoƒgƒ‹—ûK63#
+//rjc_pra2_64.rsw#ƒoƒgƒ‹—ûK64#
+//rjc_pra3_01.rsw#ƒK[ƒfƒ“—ûK01#
+//rjc_pra3_02.rsw#ƒK[ƒfƒ“—ûK02#
+//rjc_pra3_03.rsw#ƒK[ƒfƒ“—ûK03#
+//rjc_pra3_04.rsw#ƒK[ƒfƒ“—ûK04#
+//rjc_pra3_05.rsw#ƒK[ƒfƒ“—ûK05#
+//rjc_pra3_06.rsw#ƒK[ƒfƒ“—ûK06#
+//rjc_pra3_07.rsw#ƒK[ƒfƒ“—ûK07#
+//rjc_pra3_08.rsw#ƒK[ƒfƒ“—ûK08#
+//rjc_pra3_09.rsw#ƒK[ƒfƒ“—ûK09#
+//rjc_pra3_10.rsw#ƒK[ƒfƒ“—ûK10#
+//rjc_pra3_11.rsw#ƒK[ƒfƒ“—ûK11#
+//rjc_pra3_12.rsw#ƒK[ƒfƒ“—ûK12#
+//rjc_pra3_13.rsw#ƒK[ƒfƒ“—ûK13#
+//rjc_pra3_14.rsw#ƒK[ƒfƒ“—ûK14#
+//rjc_pra3_15.rsw#ƒK[ƒfƒ“—ûK15#
+//rjc_pra3_16.rsw#ƒK[ƒfƒ“—ûK16#
+//rjc_pra3_17.rsw#ƒK[ƒfƒ“—ûK17#
+//rjc_pra3_18.rsw#ƒK[ƒfƒ“—ûK18#
+//rjc_pra3_19.rsw#ƒK[ƒfƒ“—ûK19#
+//rjc_pra3_20.rsw#ƒK[ƒfƒ“—ûK20#
+//rjc_pra3_21.rsw#ƒK[ƒfƒ“—ûK21#
+//rjc_pra3_22.rsw#ƒK[ƒfƒ“—ûK22#
+//rjc_pra3_23.rsw#ƒK[ƒfƒ“—ûK23#
+//rjc_pra3_24.rsw#ƒK[ƒfƒ“—ûK24#
+//rjc_pra3_25.rsw#ƒK[ƒfƒ“—ûK25#
+//rjc_pra3_26.rsw#ƒK[ƒfƒ“—ûK26#
+//rjc_pra3_27.rsw#ƒK[ƒfƒ“—ûK27#
+//rjc_pra3_28.rsw#ƒK[ƒfƒ“—ûK28#
+//rjc_pra3_29.rsw#ƒK[ƒfƒ“—ûK29#
+//rjc_pra3_30.rsw#ƒK[ƒfƒ“—ûK30#
+//rjc_pra3_31.rsw#ƒK[ƒfƒ“—ûK31#
+//rjc_pra3_32.rsw#ƒK[ƒfƒ“—ûK32#
+//rjc_pra3_33.rsw#ƒK[ƒfƒ“—ûK33#
+//rjc_pra3_34.rsw#ƒK[ƒfƒ“—ûK34#
+//rjc_pra3_35.rsw#ƒK[ƒfƒ“—ûK35#
+//rjc_pra3_36.rsw#ƒK[ƒfƒ“—ûK36#
+//rjc_pra3_37.rsw#ƒK[ƒfƒ“—ûK37#
+//rjc_pra3_38.rsw#ƒK[ƒfƒ“—ûK38#
+//rjc_pra3_39.rsw#ƒK[ƒfƒ“—ûK39#
+//rjc_pra3_40.rsw#ƒK[ƒfƒ“—ûK40#
+//rjc_pra3_41.rsw#ƒK[ƒfƒ“—ûK41#
+//rjc_pra3_42.rsw#ƒK[ƒfƒ“—ûK42#
+//rjc_pra3_43.rsw#ƒK[ƒfƒ“—ûK43#
+//rjc_pra3_44.rsw#ƒK[ƒfƒ“—ûK44#
+//rjc_pra3_45.rsw#ƒK[ƒfƒ“—ûK45#
+//rjc_pra3_46.rsw#ƒK[ƒfƒ“—ûK46#
+//rjc_pra3_47.rsw#ƒK[ƒfƒ“—ûK47#
+//rjc_pra3_48.rsw#ƒK[ƒfƒ“—ûK48#
+//rjc_pra3_49.rsw#ƒK[ƒfƒ“—ûK49#
+//rjc_pra3_50.rsw#ƒK[ƒfƒ“—ûK50#
+//rjc_pra3_51.rsw#ƒK[ƒfƒ“—ûK51#
+//rjc_pra3_52.rsw#ƒK[ƒfƒ“—ûK52#
+//rjc_pra3_53.rsw#ƒK[ƒfƒ“—ûK53#
+//rjc_pra3_54.rsw#ƒK[ƒfƒ“—ûK54#
+//rjc_pra3_55.rsw#ƒK[ƒfƒ“—ûK55#
+//rjc_pra3_56.rsw#ƒK[ƒfƒ“—ûK56#
+//rjc_pra3_57.rsw#ƒK[ƒfƒ“—ûK57#
+//rjc_pra3_58.rsw#ƒK[ƒfƒ“—ûK58#
+//rjc_pra3_59.rsw#ƒK[ƒfƒ“—ûK59#
+//rjc_pra3_60.rsw#ƒK[ƒfƒ“—ûK60#
+//rjc_pra3_61.rsw#ƒK[ƒfƒ“—ûK61#
+//rjc_pra3_62.rsw#ƒK[ƒfƒ“—ûK62#
+//rjc_pra3_63.rsw#ƒK[ƒfƒ“—ûK63#
+//rjc_pra3_64.rsw#ƒK[ƒfƒ“—ûK64#
+//rjc_pra4_01.rsw#ƒƒCƒ„ƒ‹—ûK01#
+//rjc_pra4_02.rsw#ƒƒCƒ„ƒ‹—ûK02#
+//rjc_pra4_03.rsw#ƒƒCƒ„ƒ‹—ûK03#
+//rjc_pra4_04.rsw#ƒƒCƒ„ƒ‹—ûK04#
+//rjc_pra4_05.rsw#ƒƒCƒ„ƒ‹—ûK05#
+//rjc_pra4_06.rsw#ƒƒCƒ„ƒ‹—ûK06#
+//rjc_pra4_07.rsw#ƒƒCƒ„ƒ‹—ûK07#
+//rjc_pra4_08.rsw#ƒƒCƒ„ƒ‹—ûK08#
+//rjc_pra4_09.rsw#ƒƒCƒ„ƒ‹—ûK09#
+//rjc_pra4_10.rsw#ƒƒCƒ„ƒ‹—ûK10#
+//rjc_pra4_11.rsw#ƒƒCƒ„ƒ‹—ûK11#
+//rjc_pra4_12.rsw#ƒƒCƒ„ƒ‹—ûK12#
+//rjc_pra4_13.rsw#ƒƒCƒ„ƒ‹—ûK13#
+//rjc_pra4_14.rsw#ƒƒCƒ„ƒ‹—ûK14#
+//rjc_pra4_15.rsw#ƒƒCƒ„ƒ‹—ûK15#
+//rjc_pra4_16.rsw#ƒƒCƒ„ƒ‹—ûK16#
+//rjc_pra4_17.rsw#ƒƒCƒ„ƒ‹—ûK17#
+//rjc_pra4_18.rsw#ƒƒCƒ„ƒ‹—ûK18#
+//rjc_pra4_19.rsw#ƒƒCƒ„ƒ‹—ûK19#
+//rjc_pra4_20.rsw#ƒƒCƒ„ƒ‹—ûK20#
+//rjc_pra4_21.rsw#ƒƒCƒ„ƒ‹—ûK21#
+//rjc_pra4_22.rsw#ƒƒCƒ„ƒ‹—ûK22#
+//rjc_pra4_23.rsw#ƒƒCƒ„ƒ‹—ûK23#
+//rjc_pra4_24.rsw#ƒƒCƒ„ƒ‹—ûK24#
+//rjc_pra4_25.rsw#ƒƒCƒ„ƒ‹—ûK25#
+//rjc_pra4_26.rsw#ƒƒCƒ„ƒ‹—ûK26#
+//rjc_pra4_27.rsw#ƒƒCƒ„ƒ‹—ûK27#
+//rjc_pra4_28.rsw#ƒƒCƒ„ƒ‹—ûK28#
+//rjc_pra4_29.rsw#ƒƒCƒ„ƒ‹—ûK29#
+//rjc_pra4_30.rsw#ƒƒCƒ„ƒ‹—ûK30#
+//rjc_pra4_31.rsw#ƒƒCƒ„ƒ‹—ûK31#
+//rjc_pra4_32.rsw#ƒƒCƒ„ƒ‹—ûK32#
+//rjc_pra4_33.rsw#ƒƒCƒ„ƒ‹—ûK33#
+//rjc_pra4_34.rsw#ƒƒCƒ„ƒ‹—ûK34#
+//rjc_pra4_35.rsw#ƒƒCƒ„ƒ‹—ûK35#
+//rjc_pra4_36.rsw#ƒƒCƒ„ƒ‹—ûK36#
+//rjc_pra4_37.rsw#ƒƒCƒ„ƒ‹—ûK37#
+//rjc_pra4_38.rsw#ƒƒCƒ„ƒ‹—ûK38#
+//rjc_pra4_39.rsw#ƒƒCƒ„ƒ‹—ûK39#
+//rjc_pra4_40.rsw#ƒƒCƒ„ƒ‹—ûK40#
+//rjc_pra4_41.rsw#ƒƒCƒ„ƒ‹—ûK41#
+//rjc_pra4_42.rsw#ƒƒCƒ„ƒ‹—ûK42#
+//rjc_pra4_43.rsw#ƒƒCƒ„ƒ‹—ûK43#
+//rjc_pra4_44.rsw#ƒƒCƒ„ƒ‹—ûK44#
+//rjc_pra4_45.rsw#ƒƒCƒ„ƒ‹—ûK45#
+//rjc_pra4_46.rsw#ƒƒCƒ„ƒ‹—ûK46#
+//rjc_pra4_47.rsw#ƒƒCƒ„ƒ‹—ûK47#
+//rjc_pra4_48.rsw#ƒƒCƒ„ƒ‹—ûK48#
+//rjc_pra4_49.rsw#ƒƒCƒ„ƒ‹—ûK49#
+//rjc_pra4_50.rsw#ƒƒCƒ„ƒ‹—ûK50#
+//rjc_pra4_51.rsw#ƒƒCƒ„ƒ‹—ûK51#
+//rjc_pra4_52.rsw#ƒƒCƒ„ƒ‹—ûK52#
+//rjc_pra4_53.rsw#ƒƒCƒ„ƒ‹—ûK53#
+//rjc_pra4_54.rsw#ƒƒCƒ„ƒ‹—ûK54#
+//rjc_pra4_55.rsw#ƒƒCƒ„ƒ‹—ûK55#
+//rjc_pra4_56.rsw#ƒƒCƒ„ƒ‹—ûK56#
+//rjc_pra4_57.rsw#ƒƒCƒ„ƒ‹—ûK57#
+//rjc_pra4_58.rsw#ƒƒCƒ„ƒ‹—ûK58#
+//rjc_pra4_59.rsw#ƒƒCƒ„ƒ‹—ûK59#
+//rjc_pra4_60.rsw#ƒƒCƒ„ƒ‹—ûK60#
+//rjc_pra4_61.rsw#ƒƒCƒ„ƒ‹—ûK61#
+//rjc_pra4_62.rsw#ƒƒCƒ„ƒ‹—ûK62#
+//rjc_pra4_63.rsw#ƒƒCƒ„ƒ‹—ûK63#
+//rjc_pra4_64.rsw#ƒƒCƒ„ƒ‹—ûK64#
 
-// ½ÅÁ¾Á· µµ¶÷ ¶óÀÚ³Ä ¸¶À»
-lasagna.rsw#Ç×±¸µµ½Ã ¶óÀÚ³Ä#
-lasa_fild01.rsw#¶óºñ¿Ã Æò¿ø °æ°èÃÊ¼Ò#
-lasa_fild02.rsw#¶óºñ¿Ã ½£#
-lasa_dun01.rsw#¿ëÀÇ µÕÁö#
-lasa_dun02.rsw#¿ëÀÇ µÕÁö#
-lasa_dun03.rsw#¿ëÀÇ µÕÁö#
-conch_in.rsw#ÄÜ-Å³¸®³ª È£ ³»ºÎ#
-lasa_in01.rsw#¶óÀÚ³Ä ³»ºÎ#
-lasa_dun_q.rsw#¿ëÀÇ µÕÁö#
-
-//ÀÎÆ®·Î °³Æí
-iz_int.rsw#ÁÂÃÊµÈ ¿©°´¼±#
-iz_int01.rsw#ÁÂÃÊµÈ ¿©°´¼±#
-iz_int02.rsw#ÁÂÃÊµÈ ¿©°´¼±#
-iz_int03.rsw#ÁÂÃÊµÈ ¿©°´¼±#
-iz_int04.rsw#ÁÂÃÊµÈ ¿©°´¼±#
-
-int_land.rsw#¿Üµı¼¶#
-int_land01.rsw#¿Üµı¼¶#
-int_land02.rsw#¿Üµı¼¶#
-int_land03.rsw#¿Üµı¼¶#
-int_land04.rsw#¿Üµı¼¶#
-
-// ep16.1 ¿µ¿õÀ» À§ÇÑ ¿¬È¸ + ÇÁ·ĞÅ×¶ó ¸®´º¾ó
-1@mir.rsw#ÀÇ½ÄÀÇ ¹æ#
-2@mir.rsw#ÀÇ½ÄÀÇ ¹æ#
-1@sthb.rsw#°øÁß¿ä»õ ³»ºÎ#
-1@sthc.rsw#°øÁß¿ä»õ ºñ¹ĞÀÇ ¹æ#
-1@sthd.rsw#°øÁß¿ä»õ ÃÖ»óÃş#
-
-prt_cas.rsw#ÇÁ·ĞÅ×¶ó Áß¾Ó±Ã#
-prt_cas_q.rsw#ÇÁ·ĞÅ×¶ó º°±Ã#
-prt_prison.rsw#ÇÁ·ĞÅ×¶ó ÁöÇÏ°¨¿Á#
-prt_lib.rsw#¿Õ°¡ÀÇ ±â¾ï#
-prt_lib_q.rsw#°ú°Å ¿Õ°¡ÀÇ ±â¾ï#
-prt_q.rsw#Ä§°ø´çÇÑ ÇÁ·ĞÅ×¶ó#
-prt_pri00.rsw#ÇÁ·ĞÅ×¶ó °¨¿Á#
-
-
-
-//Å¬·£ MD
-1@ffp.rsw#ÀÜ´çµéÀÇ ¾ÆÁöÆ®#
-
-//¹«ÇÑMD
-1@infi.rsw#¹«ÇÑÀÇ °ø°£#
-
-// ÆÄ¶ó¸¶ÄÏ
-paramk.rsw#ÆÄ¶ó¸¶ÄÏ#
-
-// ep15.2 ÆÇÅ¸½º¸¶°í¸®Ä«
-verus01.rsw#½ÇÇèµ¿-OPTATIO#
-verus02.rsw#¿¬±¸µ¿-WISH#
-un_bk_q.rsw#ÁöÇÏ º¡Ä¿#
-un_bunker.rsw#ÁöÇÏ º¡Ä¿#
-un_myst.rsw#ÁöÇÏ ÅÍ³Î#
-1@uns.rsw#¸¶Áö¸· ¹æ#
-1@lab.rsw#Áß¾Ó ½ÇÇè½Ç#
-
-// Àü»çÀÚÀÇ ¹«´ı
-lhz_dun_n.rsw#Àü»çÀÚÀÇ ¹«´ı#
-lhz_d_n2.rsw#»ç³äÀÇ °ø°£#
-
-// ¿µ¿õÀÇ ÈçÀû3
-1@glast.rsw#°ú°ÅÀÇ ±Û·¡½ºÆ®ÇìÀÓ#
-1@air1.rsw#ºñ°øÁ¤#
-1@air2.rsw#ºñ°øÁ¤#
-
-// ¸®º§¸®¿Â ÀüÁ÷¸Ê
-job_gun.rsw#ÇØ¹æÀÇ ½°ÅÍ#
-
-// ep15.1 ÆÇÅ¸½º¸¶°í¸®Ä«
-ver_eju.rsw#À¯Æä·Î½º µ¿ÂÊÆóÇã#
-ver_tunn.rsw#º£·ç½º ¿Ü°û ÅÍ³Î#
-verus04.rsw#º£·ç½º ¹ß±¼Áö#
-verus03.rsw#º£·ç½º Áß¾Ó ±¤Àå#
-
-1@mcd.rsw#¿ÕÀÇ ±¸µÎ±Á¿¡¼­#
-
-//¿î¿µÆÀÀÌº¥Æ®
-e_hugel.rsw#Ä§°ø´çÇÑ ÈÖ°Ö#
-
-//½Ã°èÅ¾³ªÀÌÆ®¸Ş¾î´øÀü
-c_tower2_.rsw#µÚÆ²¸° ½Ã°£ÀÇ ½Ã°èÅ¾ 2Ãş#
-c_tower3_.rsw#µÚÆ²¸° ½Ã°£ÀÇ ½Ã°èÅ¾ 3Ãş#
-
-//ÀÌº¥Æ®
-silk_lair.rsw#ºñ´Ü¹ìÀÇ Àº½ÅÃ³#
-
-//EP.14.3
-moro_vol.rsw#È­¿°ºĞÁö#
-moro_cav.rsw#È­¿°µ¿±¼#
-1@dth1.rsw#ºñ¿À½ºÀÇ ¼¶#
-1@dth2.rsw#ºñ¿À½ºÀÇ ¼¶#
-1@dth3.rsw#ºñ¿À½ºÀÇ ¼¶#
-1@rev.rsw#¸ğ¸£½ºÀÇ µ¿±¼#
-1@xm_d.rsw#È£·¯ Àå³­°¨ °øÀå#
-1@eom.rsw#¸¶½ÅÀü#
-//ÁöÅÍ¹÷ ¼³Á¤ »èÁ¦
-
-//¿µ¿õÀÇÈçÀû
-dali02.rsw#Â÷¿øÀÇ ±Õ¿­#
-1@face.rsw#ÆäÀÌ½º¿úÀÇ µÕÁö#
-1@sara.rsw#»ç¶óÀÇ ±â¾ï#
-dali.rsw#Â÷¿øÀÇ ±Õ¿­#
-1@tnm1.rsw#¸¶½ÅÀÇÅ¾»óÃş#
-1@tnm2.rsw#¸¶½ÅÀÇÅ¾ÃÖ»óÃş#
-1@tnm3.rsw#¸ğ·ÎÅ©¼ºÁöÇÏ#
-1@ge_st.rsw#°ÔÆæ ¸¶¹ı ´ëÈ¸#
-1@gef.rsw#°ÔÆæ ¸¶¹ı ´ëÈ¸#
-1@gef_in.rsw#°ÔÆæ ¸¶¹ı ´ëÈ¸#
-1@spa.rsw#¸Á·ÉÀÇ ¿Õ±Ã#
-
-//¸ó½ºÅÍ¿şÀÌºê
-1@def01.rsw#¿şÀÌºê ´øÀü - ½£#
-1@def02.rsw#¿şÀÌºê ´øÀü - ÇÏ´Ã#
-1@def03.rsw#¿şÀÌºê ´øÀü - ¿ë¾Ï#
-
-//ÆøÅº¹æ
-evt_bomb.rsw#ÀÌº¥Æ® ¹Ì±Ã#
-
-//°í¼º¸Ş¸ğ¸®¾ó´øÀü
-gl_cas02_.rsw#2Ãş È¸¶û#
-gl_chyard_.rsw#¼öµµ¿ø ¹¦Áö#
-2@gl_k.rsw#¿¾±â»ç´Ü2Ãş#
-1@gl_k.rsw#¿¾±â»ç´Ü1Ãş#
-
-//Àú·¹º§ °ø¼ºÀü
-te_prt_gld.rsw#±Û·Î¸®¾Æ#
-te_prtcas01.rsw#°Ô¿Àº¸¸£±×#
-te_prtcas02.rsw#¸®ÇÏ¸£Æ®#
-te_prtcas03.rsw#À§±×³Ê#
-te_prtcas04.rsw#ÇÏÀÌ³×#
-te_prtcas05.rsw#³×¸®¿ì½º#
-teg_dun01.rsw#±æµå ÁöÇÏ ´øÀü#
-te_alde_gld.rsw#Ä«ÇÁ¶ó°¡ÅÙ#
-te_aldecas01.rsw#±Û¶ó¸®½º#
-te_aldecas02.rsw#µğÆ÷¸£Å×#
-te_aldecas03.rsw#¼Ò¸°#
-te_aldecas04.rsw#ºñ´Ö#
-te_aldecas05.rsw#´õºí·ù#
-teg_dun02.rsw#±æµå ÁöÇÏ ´øÀü#
-
-//ÀÌÁî·çµå Æ©Åä¸®¾ó¸Ê
-prt_fild08d.rsw#ÇÁ·ĞÅ×¶ó ÇÊµå#
-prt_fild08c.rsw#ÇÁ·ĞÅ×¶ó ÇÊµå#
-prt_fild08b.rsw#ÇÁ·ĞÅ×¶ó ÇÊµå#
-prt_fild08a.rsw#ÇÁ·ĞÅ×¶ó ÇÊµå#
-
-iz_ac01_d.rsw#¾ÆÄ«µ¥¹Ì1Ãş#
-iz_ac02_d.rsw#¾ÆÄ«µ¥¹Ì2Ãş#
-iz_ac01_c.rsw#¾ÆÄ«µ¥¹Ì1Ãş#
-iz_ac02_c.rsw#¾ÆÄ«µ¥¹Ì2Ãş#
-iz_ac01_b.rsw#¾ÆÄ«µ¥¹Ì1Ãş#
-iz_ac02_b.rsw#¾ÆÄ«µ¥¹Ì2Ãş#
-iz_ac01_a.rsw#¾ÆÄ«µ¥¹Ì1Ãş#
-iz_ac02_a.rsw#¾ÆÄ«µ¥¹Ì2Ãş#
-
-izlude_d.rsw#À§¼ºµµ½Ã ÀÌÁî·çµå#
-izlude_c.rsw#À§¼ºµµ½Ã ÀÌÁî·çµå#
-izlude_b.rsw#À§¼ºµµ½Ã ÀÌÁî·çµå#
-izlude_a.rsw#À§¼ºµµ½Ã ÀÌÁî·çµå#
-
-//ÀÌÁî·çµå¸®´º¾ó
-//iz_int.rsw#ÀÎÆ®·Î#
-//iz_int01.rsw#ÀÎÆ®·Î#
-//iz_int02.rsw#ÀÎÆ®·Î#
-//iz_int03.rsw#ÀÎÆ®·Î#
-//iz_int04.rsw#ÀÎÆ®·Î#
-iz_ac01.rsw#¾ÆÄ«µ¥¹Ì1Ãş#
-iz_ac02.rsw#¾ÆÄ«µ¥¹Ì2Ãş#
-iz_ng01.rsw#´ÑÀÚÆ©Åä¸®¾ó¸Ê#
-treasure_n1.rsw#ÀÌÁî·çµå ³­ÆÄ¼± 1Ãş#
-treasure_n2.rsw#ÀÌÁî·çµå ³­ÆÄ¼± 2Ãş#
-
-moc_prydn1.rsw#¸ğ·ÎÅ© ÇÇ¶ó¹Ìµå ÁöÇÏ 1Ãş - ³ªÀÌÆ®#
-moc_prydn2.rsw#¸ğ·ÎÅ© ÇÇ¶ó¹Ìµå ÁöÇÏ 2Ãş - ³ªÀÌÆ®#
-
-eclage.rsw#¶óÇÇ³× ¼öµµ ¿¡Å¬¶óÁê#
-ecl_fild01.rsw#²ÉÀÌ ÇÇ¾î³­ ´ëÁö#
-ecl_in01.rsw#¿¡Å¬¶óÁê ³»ºÎ#
-ecl_in02.rsw#¿¡Å¬¶óÁê ³»ºÎ#
-ecl_in03.rsw#¿¡Å¬¶óÁê ³»ºÎ#
-ecl_in04.rsw#¿¡Å¬¶óÁê ³»ºÎ#
-1@ecl.rsw#¿¡Å¬¶óÁê ³»ºÎ#
-ecl_tdun01.rsw#ºñÇÁ·Î½ºÆ® Å¾ 1Ãş#
-ecl_tdun02.rsw#ºñÇÁ·Î½ºÆ® Å¾ 2Ãş#
-ecl_tdun03.rsw#ºñÇÁ·Î½ºÆ® Å¾ 3Ãş#
-ecl_tdun04.rsw#ºñÇÁ·Î½ºÆ® Å¾ 4Ãş#
-ecl_hub01.rsw#¿¡Å¬¶óÁê µÑ·¹±æ#
-que_avan01.rsw#¿¡ÀÌ¹İÆ® ¿¬±¸½Ç#
-
-
-malaya.rsw#Æ÷Æ® ¸»¶ó¾ß#
-ma_fild01.rsw#¹Ù¸£¿ä ¸¶È÷°¡¿Í#
-ma_fild02.rsw#Æ÷·¹½ºÆ®#
-ma_scene01.rsw#¹öÄÚ³Ê¿ö È£¼ö#
-ma_in01.rsw#¸»¶ó¾ß ³»ºÎ#
-ma_dun01.rsw#º¡¿õ°÷ º´¿ø 1Ãş#
-1@ma_h.rsw#º¡¿õ°÷ º´¿ø 2Ãş#
-1@ma_c.rsw#ºÎ¿ö¿© µ¿±¼#
-1@ma_b.rsw#¹öÄÚ³Ê¿ö Àº½ÅÃ³#
-ma_zif01.rsw#ÁöÇÁ´Ï ³»ºÎ#
-ma_zif02.rsw#ÁöÇÁ´Ï ³»ºÎ#
-ma_zif03.rsw#ÁöÇÁ´Ï ³»ºÎ#
-ma_zif04.rsw#ÁöÇÁ´Ï ³»ºÎ#
-ma_zif05.rsw#ÁöÇÁ´Ï ³»ºÎ#
-ma_zif06.rsw#ÁöÇÁ´Ï ³»ºÎ#
-ma_zif07.rsw#ÁöÇÁ´Ï ³»ºÎ#
-ma_zif08.rsw#ÁöÇÁ´Ï ³»ºÎ#
-ma_zif09.rsw#ÁöÇÁ´Ï ³»ºÎ#
-job_ko.rsw#¼û°ÜÁø Àå¼Ò#
-
-gld_dun01_2.rsw#±æµå ÁöÇÏ ´øÀü 2Ãş#
-gld_dun02_2.rsw#±æµå ÁöÇÏ ´øÀü 2Ãş#
-gld_dun03_2.rsw#±æµå ÁöÇÏ ´øÀü 2Ãş#
-gld_dun04_2.rsw#±æµå ÁöÇÏ ´øÀü 2Ãş#
-gld2_ald.rsw#½É¿¬ÀÇ È¸¶û : ¿µ¿õÀÇ ´«¹°#
-gld2_gef.rsw#½É¿¬ÀÇ È¸¶û : ¸ÁÀÚÀÇ ¾ğ´ö#
-gld2_pay.rsw#½É¿¬ÀÇ È¸¶û : ÅÂ°íÀÇ ¹Ù¶÷#
-gld2_prt.rsw#½É¿¬ÀÇ È¸¶û : Àü»çÀÇ ±æ#
-
-lhz_dun04.rsw#»ıÃ¼½ÇÇè ¿¬±¸¼Ò ÁöÇÏ 4Ãş#
-que_lhz.rsw#»ıÃ¼½ÇÇè ¿¬±¸¼Ò ÁöÇÏ 4Ãş#
-1@lhz.rsw#º¸¸£¼¼ºêÀÇ ¿¬±¸½Ç#
-iz_dun05.rsw#ÀÌÁî·çµå ÇØÀúµ¿±¼ ´øÀü 6Ãş#
-malangdo.rsw#¸»¶ûµµ#
-mal_in01.rsw#¸»¶ûµµ ³»ºÎ#
-mal_in02.rsw#¹è ³»ºÎ#
-mal_dun01.rsw#º°ºû»êÈ£Áö´ë#
-1@cash.rsw#¹®¾î µ¿±¼#
-1@pump.rsw#¹è¼ö·Î#
-2@pump.rsw#¹è¼ö·Î#
-dic_dun03.rsw#½ºÄ«¶ó¹Ù È¦#
-que_house_s.rsw#ÀÌ»óÇÑ Áı#
-dewata.rsw#µ¥¿ÍÅ¸#
-dew_in01.rsw#ÀÚÆ¼ ºÎÁ· ¸¶À» ³»ºÎ#
-dew_fild01.rsw#µ¥¿ÍÅ¸ ÇÊµå_ÀÚÆ¼ ºÎÁ· ¸¶À»#
-dew_dun01.rsw#Å©¶óÄ«Åä È­»ê¼¶#
-dew_dun02.rsw#ÀÌ½ºÅ¸³ª µ¿±¼#
-bif_fild01.rsw#ºñÇÁ·Î½ºÆ® ³²ºÎ#
-bif_fild02.rsw#ºñÇÁ·Î½ºÆ® ºÏºÎ#
-1@mist.rsw#¾È°³ ½£ÀÇ ¹Ì±Ã#
-mora.rsw#¶óÇÃ·¹Á· ¸¶À» ¸ğ¶ó#
-dicastes01.rsw#»çÆÄ ¼öµµ ¿¤ µğÄ«½ºÅ×½º#
-dicastes02.rsw#ºê·ëº§µå ¿ä¸£È÷ ½£#
-dic_in01.rsw#µğÄ«½ºÅ×½º ³»ºÎ#
-dic_fild01.rsw#Ä«¹Ì´Ş »ê±â½¾#
-dic_fild02.rsw#Ä«¹Ì´Ş »ê±â½¾#
-dic_dun01.rsw#Ä«¹Ì´Ş ÅÍ³Î#
-dic_dun02.rsw#½ºÄ«¶ó¹Ù È¦#
-job3_gen01.rsw#Á¦³×¸¯ ¿¬±¸¼Ò#
-s_atelier.rsw#±×¸²ÀÚ °ø¹æ#
-brasilis.rsw#ºê¶óÁú¸®½º#
-bra_in01.rsw#ºê¶óÁú¸®½º ³»ºÎ#
-bra_fild01.rsw#ºê¶óÁú¸®½º ÇÊµå#
-bra_dun01.rsw#ºê¶óÁú¸®½º ÆøÆ÷ ¾ÈÀÇ µ¿±¼ ÀÔ±¸#
-bra_dun02.rsw#ºê¶óÁú¸®½º ÆøÆ÷ ¾ÈÀÇ µ¿±¼ ³»ºÎ#
-moc_para01.rsw#¸ğ·ÎÅ© ³«¿ø´Ü ³»ºÎ#
-job3_arch01.rsw#¾ÆÅ©ºñ¼ó ÀüÁ÷ ´ë±â½Ç#
-job3_arch02.rsw#ÈÖ°Ö ¿Àµò ½ÅÀü#
-job3_arch03.rsw#¾ÆÅ©ºñ¼ó ÀüÁ÷ ´ë±â½Ç#
-job3_guil01.rsw#ºñ¹Ğ ÁÖÁ¡#
-job3_guil02.rsw#Çã¸§ÇÑ Ã¢°í ³»ºÎ#
-job3_guil03.rsw#¿Üµı ÀúÅÃ#
-job3_rang01.rsw#·¹ÀÎÀú ÀüÁ÷ ´ë±â½Ç#
-job3_rang02.rsw#·¹ÀÎÀú ÀüÁ÷ ½ÃÇèÀå#
-job3_rune01.rsw#·é³ªÀÌÆ® ±â»ç´Ü ³»ºÎ#
-job3_rune02.rsw#·é³ªÀÌÆ® ÀüÁ÷ ½ÃÇèÀå#
-job3_rune03.rsw#·é³ªÀÌÆ® ÀüÁ÷ ½ÃÇèÀå#
-job3_war01.rsw#¿ö·Ï ÀüÁ÷ ½ÃÇèÀå#
-job3_war02.rsw#¿ö·Ï ÀüÁ÷ ½ÃÇèÀå#
-jupe_core2.rsw#À¯Æä·Î½º Áß½ÉºÎ#
-1@nyd.rsw#´ÏµåÈ£±×ÀÇ µÕÁö#
-2@nyd.rsw#´ÏµåÈ£±×ÀÇ µÕÁö#
-nyd_dun01.rsw#½ºÇÃ¶ûµğµå ³­ÆøÀÚÀÇ »óÃ³ 1Ãş#
-nyd_dun02.rsw#½ºÇÃ¶ûµğµå ³­ÆøÀÚÀÇ »óÃ³ 2Ãş#
-manuk.rsw#±¤»ê¸¶À» ¸¶´©Å©#
-man_fild02.rsw#¸¶´©Å© ÇÊµå#
-man_in01.rsw#¸¶´©Å© ³»ºÎ#
-splendide.rsw#¶óÇÇ³× ÀüÁø±âÁö ½ºÇÃ¶ûµğµå#
-spl_fild01.rsw#½ºÇÃ¶ûµğµå ÇÊµå#
-spl_in01.rsw#½ºÇÃ¶ûµğµå ¾ßÀü»ç·ÉºÎ ³»ºÎ#
-spl_in02.rsw#½ºÇÃ¶ûµğµå ³»ºÎ#
-bat_c01.rsw#Å©¸®°Å Æù ¹Ìµå°¡¸£µå#
-bat_c02.rsw#Å©¸®°Å Æù ¹Ìµå°¡¸£µå#
-bat_c03.rsw#Å©¸®°Å Æù ¹Ìµå°¡¸£µå#
-mid_camp.rsw#¹Ìµå°¡¸£µå ¿¬ÇÕ ÁÖµĞÁö#
-mid_campin.rsw#¹Ìµå°¡¸£µå ¿¬ÇÕ ÁÖµĞÁö ³»ºÎ#
-man_fild01.rsw#¸¶´©Å© ÇÊµå#
-man_fild03.rsw#¸¶´©Å© ÇÊµå#
-spl_fild02.rsw#½ºÇÃ¶ûµğµå ÇÊµå#
-spl_fild03.rsw#½ºÇÃ¶ûµğµå ÇÊµå#
-moc_fild22b.rsw#¼Ò±×¶óÆ® »ç¸· Â÷¿øÀÇ ±Õ¿­#
-que_dan01.rsw#ÈÖ°Ö ÇÊµå#
-que_dan02.rsw#À¯³ëÀÇ ¹ö·ÁÁø Áı ³»ºÎ#
-schg_que01.rsw#¸ğ¾î½ºÅæÀÇ Ç®¹ç#
-schg_dun01.rsw#±æµå ÁöÇÏ ´øÀü#
-arug_que01.rsw#¸ğ¾î½ºÅæÀÇ Ç®¹ç#
-arug_dun01.rsw#±æµå ÁöÇÏ ´øÀü#
-1@orcs.rsw#¿ÀÅ© ÁöÇÏ µ¿±¼#
-2@orcs.rsw#¿ÀÅ© ÁöÇÏ µ¿±¼#
-1@cata.rsw#Ä«Å¸ÄŞ#
-2@cata.rsw#ºÀÀÎµÈ ½ÅÀü#
-e_tower.rsw#¹Ì½ºÆ¼ ¾ÆÀÏ·£µå#
-1@tower.rsw#¿£µé·¹½º Å¸¿ö#
-2@tower.rsw#¿£µé·¹½º Å¸¿ö#
-3@tower.rsw#¿£µé·¹½º Å¸¿ö#
-4@tower.rsw#¿£µé·¹½º Å¸¿ö#
-5@tower.rsw#¿£µé·¹½º Å¸¿ö#
-6@tower.rsw#¿£µé·¹½º Å¸¿ö(¾Ë ¼ö ¾ø´Â °÷)#
-bat_room.rsw#ÀüÀå ´ë±â½Ç#
-bat_a01.rsw#Æ¼¿¡¶ó Çù°î#
-bat_a02.rsw#Æ¼¿¡¶ó Çù°î#
-bat_b01.rsw#ÇÃ¶óºñ¿ì½º#
-bat_b02.rsw#ÇÃ¶óºñ¿ì½º#
-que_qsch01.rsw#Çã»óÀÇ ¿ÀÄİ´Ï¸£#
-que_qsch02.rsw#Çã»óÀÇ ¿ÀÄİ´Ï¸£#
-que_qsch03.rsw#Çã»óÀÇ ¿ÀÄİ´Ï¸£#
-que_qsch04.rsw#Çã»óÀÇ ¿ÀÄİ´Ï¸£#
-que_qsch05.rsw#Çã»óÀÇ ¿ÀÄİ´Ï¸£#
-que_qaru01.rsw#Çã»óÀÇ ¿ÀÄİ´Ï¸£#
-que_qaru02.rsw#Çã»óÀÇ ¿ÀÄİ´Ï¸£#
-que_qaru03.rsw#Çã»óÀÇ ¿ÀÄİ´Ï¸£#
-que_qaru04.rsw#Çã»óÀÇ ¿ÀÄİ´Ï¸£#
-que_qaru05.rsw#Çã»óÀÇ ¿ÀÄİ´Ï¸£#
-arug_cas01.rsw#¹ßÇÁ·¹ÀÌ¾ß ±æµå#
-arug_cas02.rsw#¹ßÇÁ·¹ÀÌ¾ß ±æµå#
-arug_cas03.rsw#¹ßÇÁ·¹ÀÌ¾ß ±æµå#
-arug_cas04.rsw#¹ßÇÁ·¹ÀÌ¾ß ±æµå#
-arug_cas05.rsw#¹ßÇÁ·¹ÀÌ¾ß ±æµå#
-aru_gld.rsw#¹ßÇÁ·¹ÀÌ¾ß#
-moscovia.rsw#¸ğ½ºÄÚºñ¾Æ#
-mosk_in.rsw#¸ğ½ºÄÚºñ¾Æ ³»ºÎ#
-mosk_ship.rsw#¹è#
-mosk_fild01.rsw#°í·¡ ¼¶#
-mosk_fild02.rsw#¸ğ½ºÄÚºñ¾Æ ÇÊµå#
-mosk_dun01.rsw#¸ğ½ºÄÚºñ¾Æ ½£#
-mosk_dun02.rsw#¸ğ½ºÄÚºñ¾Æ ±íÀº ½£#
-mosk_dun03.rsw#¸ğ½ºÄÚºñ¾Æ ±í°í ±íÀº ½£#
-schg_cas01.rsw#´Ï´ÙºÉ ±æµå#
-schg_cas02.rsw#´Ï´ÙºÉ ±æµå#
-schg_cas03.rsw#´Ï´ÙºÉ ±æµå#
-schg_cas04.rsw#´Ï´ÙºÉ ±æµå#
-schg_cas05.rsw#´Ï´ÙºÉ ±æµå#
-sch_gld.rsw#´Ï´ÙºÉ#
-cave.rsw#µ¿±¼¸¶À»#
-moc_fild20.rsw#¼Ò±×¶óÆ® »ç¸· Â÷¿øÀÇ ±Õ¿­#
-moc_fild21.rsw#¼Ò±×¶óÆ® »ç¸· Â÷¿øÀÇ ±Õ¿­#
-moc_fild22.rsw#¼Ò±×¶óÆ® »ç¸· Â÷¿øÀÇ ±Õ¿­#
-bossnia_01.rsw#º¸½º´Ï¾Æ#
-bossnia_02.rsw#º¸½º´Ï¾Æ#
-bossnia_03.rsw#º¸½º´Ï¾Æ#
-bossnia_04.rsw#º¸½º´Ï¾Æ#
-itemmall.rsw#¾ÆÀÌÅÛ ¸ô#
-poring_w01.rsw#Æ÷¸µ´ëÀü ´ë±â½Ç#
-poring_w02.rsw#Æ÷¸µ´ëÀüÀå#
-nameless_i.rsw#ÀÌ¸§¾ø´Â ¼¶#
-nameless_n.rsw#ÀÌ¸§¾ø´Â ¼¶#
-nameless_in.rsw#ÀÌ¸§¾ø´Â ¼¶ ³»ºÎ#
-abbey01.rsw#ÀÌ¸§¾ø´Â ¼¶ ¼öµµ¿ø 1Ãş#
-abbey02.rsw#ÀÌ¸§¾ø´Â ¼¶ ¼öµµ¿ø ÁöÇÏ 1Ãş#
-abbey03.rsw#ÀÌ¸§¾ø´Â ¼¶ ¼öµµ¿ø ÁöÇÏ 2Ãş#
-que_temsky.rsw#±³È² Áı¹«½Ç(ÇÏ´ÃÁ¤¿ø)#
-z_agit.rsw#Z´ÜÀÇ ¾ÆÁöÆ®#
-veins.rsw#Çù°î¸¶À» º£ÀÎ½º#
-ve_in.rsw#º£ÀÎ½º ³»ºÎ#
-ve_in02.rsw#º£ÀÎ½º ³»ºÎ#
-ve_fild01.rsw#º£ÀÎ½º ÇÊµå#
-ve_fild02.rsw#º£ÀÎ½º ÇÊµå#
-ve_fild03.rsw#º£ÀÎ½º ÇÊµå#
-ve_fild04.rsw#º£ÀÎ½º ÇÊµå#
-//ve_fild05.rsw#º£ÀÎ½º ÇÊµå#	2008³â ¸®´º¾ó
-ve_fild06.rsw#º£ÀÎ½º ÇÊµå#
-ve_fild07.rsw#º£ÀÎ½º ÇÊµå#
-thor_camp.rsw#º£ÀÎ½º Åä¸£ È­»ê º´Âü±âÁö#
-que_thor.rsw#º£ÀÎ½º Åä¸£ È­»ê ´øÀü#
-thor_v01.rsw#º£ÀÎ½º Åä¸£ È­»ê ´øÀü 1Ãş#
-thor_v02.rsw#º£ÀÎ½º Åä¸£ È­»ê ´øÀü 2Ãş#
-thor_v03.rsw#º£ÀÎ½º Åä¸£ È­»ê ´øÀü 3Ãş#
-rachel.rsw#¾Æ·ç³ªÆçÃ÷ ±³±¹ ¼öµµ ¶óÇï#
-ra_in01.rsw#¶óÇï ³»ºÎ#
-ra_temple.rsw#ÇÁ·¹ÀÌ¾ß ´ë½ÅÀü(¼¼½º·ë´Ï¸£)#
-ra_temin.rsw#½ÅÀü ³»ºÎ#
-que_rachel.rsw#½ÅÀü ³»ºÎ#
-ra_temsky.rsw#±³È² Áı¹«½Ç(ÇÏ´Ã Á¤¿ø)#
-ra_fild01.rsw#¶óÇï ¾Æ¿ìµÒ¶ó ÃÊ¿ø#
-//ra_fild02.rsw#¶óÇï ¿ÀÁî Çù°î#	2008³â ¸®´º¾ó
-ra_fild03.rsw#¶óÇï ÀÌ´Ù Æò¿ø#
-ra_fild04.rsw#¶óÇï ¾Æ¿ìµÒ¶ó ÃÊ¿ø#
-ra_fild05.rsw#¶óÇï ¾Æ¿ìµÒ¶ó ÃÊ¿ø#
-ra_fild06.rsw#Æ÷¸£Åõ ·ç³ª#
-//ra_fild07.rsw#¶óÇï ¿ÀÁî Çù°î#	2008³â ¸®´º¾ó
-ra_fild08.rsw#¶óÇï ÀÌ´Ù Æò¿ø#
-//ra_fild09.rsw#¶óÇï ¾Æ¿ìµÒ¶ó ÃÊ¿ø#	2008³â ¸®´º¾ó
-//ra_fild10.rsw#¶óÇï ¿ÀÁî Çù°î#	2008³â ¸®´º¾ó
-//ra_fild11.rsw#¶óÇï ÀÌ´Ù Æò¿ø#	2008³â ¸®´º¾ó
-ra_fild12.rsw#¶óÇï ÀÌ´Ù Æò¿ø#
-//ra_fild13.rsw#¶óÇï ´«¹°ÀÇ ÇØ¾È#	2008³â ¸®´º¾ó
-ra_san01.rsw#¶óÇï ½ÅÀü ¼º¿ª 1Ãş ºÏÂÊ ±¸¿ª#
-ra_san02.rsw#¶óÇï ½ÅÀü ¼º¿ª 1Ãş ¼­ÂÊ ±¸¿ª#
-ra_san03.rsw#¶óÇï ½ÅÀü ¼º¿ª 1Ãş µ¿ÂÊ ±¸¿ª#
-ra_san04.rsw#¶óÇï ½ÅÀü ¼º¿ª 1Ãş ³²ÂÊ ±¸¿ª#
-ra_san05.rsw#¶óÇï ½ÅÀü ¼º¿ª 2Ãş Áß¾Ó ±¸¿ª#
-ice_dun01.rsw#¶óÇï ¾óÀ½ µ¿±¼ 1Ãş#
-ice_dun02.rsw#¶óÇï ¾óÀ½ µ¿±¼ 2Ãş#
-ice_dun03.rsw#¶óÇï ¾óÀ½ µ¿±¼ 3Ãş#
-ice_dun04.rsw#¶óÇï ¾óÀ½ µ¿±¼ ºÀÀÎÀÇ °ø°£#
-hugel.rsw#Àü¿øµµ½Ã ÈÖ°Ö#
-hu_in01.rsw#ÈÖ°Ö ³»ºÎ#
-que_bingo.rsw#ºù°í °æ±âÀå#
-que_hugel.rsw#¿Àµò ½ÅÀü ÁöÇÏ#
-p_track01.rsw#¸ó½ºÅÍ ·¹ÀÌ½º °æ±âÀå#
-p_track02.rsw#¸ó½ºÅÍ ·¹ÀÌ½º °æ±âÀå#
-odin_tem01.rsw#ÈÖ°Ö ¿Àµò ½ÅÀü ¼­ÂÊ Áö¿ª#
-odin_tem02.rsw#ÈÖ°Ö ¿Àµò ½ÅÀü ³²ÂÊ Áö¿ª#
-odin_tem03.rsw#ÈÖ°Ö ¿Àµò ½ÅÀü ºÏÂÊ Áö¿ª#
-hu_fild02.rsw#ÈÖ°Ö ÇÊµå#
-//hu_fild03.rsw#ÈÖ°Ö ÇÊµå#	2008³â ¸®´º¾ó
-hu_fild06.rsw#ÈÖ°Ö ÇÊµå#
-ein_fild01.rsw#¾ÆÀÎºê·ÎÅ© ÇÊµå#
-//ein_fild02.rsw#¾ÆÀÎºê·ÎÅ© ÇÊµå#	2008³â ¸®´º¾ó
-ein_fild05.rsw#¾ÆÀÎºê·ÎÅ© ÇÊµå#
-//yuno_fild10.rsw#À¯³ë ÇÊµå#	2008³â ¸®´º¾ó
-kh_kiehl02.rsw#Å°¿¤ÀÇ ¸¶Áö¸· ¹æ#
-kh_kiehl01.rsw#Å°¿¤ÀÇ ¹æ#
-kh_dun02.rsw#±â°èÀÎÇü°øÀå 2Ãş#
-kh_dun01.rsw#±â°èÀÎÇü°øÀå 1Ãş#
-kh_mansion.rsw#Å³ ÇÏÀÌ¸£ ÀúÅÃ#
-kh_rossi.rsw#·Î½Ã¹Ì¿¡¸£°¡ ÀúÅÃ#
-kh_school.rsw#Å³ ÇÏÀÌ¸£ ÇĞ¿ø#
-kh_vila.rsw#Å³ ÇÏÀÌ¸£ º°Àå#
-auction_01.rsw#°æ¸ÅÀå#
-auction_02.rsw#°æ¸ÅÀå#
-que_job01.rsw#ºñ¹ĞÁÖÁ¡#
-abyss_01.rsw#ÈÖ°Ö ¾îºñ½º È£¼ö ÁöÇÏ µ¿±¼ 1Ãş#
-abyss_02.rsw#ÈÖ°Ö ¾îºñ½º È£¼ö ÁöÇÏ µ¿±¼ 2Ãş#
-abyss_03.rsw#ÈÖ°Ö ¾îºñ½º È£¼ö ÁöÇÏ µ¿±¼ 3Ãş#
-tha_t01.rsw#Å¸³ªÅä½º Å¸¿ö ÇÏÃşºÎ ¹Ú¹°°ü ÀÔ±¸#
-tha_t02.rsw#Å¸³ªÅä½º Å¸¿ö ÇÏÃşºÎ ¹Ú¹°°ü#
-tha_t03.rsw#Å¸³ªÅä½º Å¸¿ö ÇÏÃşºÎ ¹ö·ÁÁø °ø°£#
-tha_t04.rsw#Å¸³ªÅä½º Å¸¿ö ÇÏÃşºÎ ¹ö·ÁÁø °ø°£#
-tha_t05.rsw#Å¸³ªÅä½º Å¸¿ö »óÃşºÎ#
-tha_t06.rsw#Å¸³ªÅä½º Å¸¿ö »óÃşºÎ#
-tha_t07.rsw#Å¸³ªÅä½º Å¸¿ö »óÃşºÎ Ãµ»çÀÇ ¹æ#
-tha_t08.rsw#Å¸³ªÅä½º Å¸¿ö »óÃşºÎ Ãµ»çÀÇ ¹æ#
-tha_t09.rsw#Å¸³ªÅä½º Å¸¿ö »óÃşºÎ °í³úÀÇ ¹æ#
-tha_t10.rsw#Å¸³ªÅä½º Å¸¿ö »óÃşºÎ ½½ÇÄÀÇ ¹æ#
-tha_t11.rsw#Å¸³ªÅä½º Å¸¿ö »óÃşºÎ Àı¸ÁÀÇ ¹æ#
-tha_t12.rsw#Å¸³ªÅä½º Å¸¿ö »óÃşºÎ Áõ¿ÀÀÇ ¹æ#
-thana_step.rsw#Å¸³ªÅä½º Å¸¿ö »óÃşºÎ °è´Ü#
-thana_boss.rsw#Å¸³ªÅä½º Å¸¿ö(¾Ë ¼ö ¾ø´Â °÷)#
-thana_scene01.rsw#Å¸³ªÅä½º Å¸¿ö ¾Õ#
-job_soul.rsw#´ç½ÅÀÇ ¸¶À½#
-job_star.rsw#ÅÂ¾ç°ú ´Ş°ú º°#
-//hu_fild07.rsw#ÈÖ°Ö ÇÊµå#	2008³â ¸®´º¾ó
-hu_fild05.rsw#ÈÖ°Ö ¾îºñ½º È£¼ö#
-hu_fild04.rsw#ÈÖ°Ö ÇÊµå#
-hu_fild01.rsw#Å¸³ªÅä½º Å¸¿ö ¾Õ#
-yuno_fild06.rsw#¿¤¸Ş½º ÇÃ·¹Åõ#
-quiz_02.rsw#ÄûÁî °æ±âÀå#
-jupe_cave.rsw#À¯Æä·Î½º µ¿±¼ ÀÔ±¸#
-juperos_01.rsw#À¯Æä·Î½º ÆóÇã ¿ÜºÎ#
-juperos_02.rsw#À¯Æä·Î½º ÆóÇã ³»ºÎ#
-jupe_gate.rsw#À¯Æä·Î½º º¸¾È ±¸¿ª#
-jupe_area1.rsw#À¯Æä·Î½º º¸¾È ±¸¿ª#
-jupe_area2.rsw#À¯Æä·Î½º º¸¾È ±¸¿ª#
-jupe_ele.rsw#À¯Æä·Î½º ¿¤¸®º£ÀÌÅÍ#
-jupe_ele_r.rsw#À¯Æä·Î½º ¿¤¸®º£ÀÌÅÍ½Ç#
-jupe_core.rsw#À¯Æä·Î½º Áß½ÉºÎ#
-lighthalzen.rsw#±â¾÷µµ½Ã ¸®È÷Å¸¸£Á¨#
-lhz_in01.rsw#·¹ÄËº£¸£ º»»ç#
-lhz_in02.rsw#¸®È÷Å¸¸£Á¨ ³»ºÎ#
-lhz_in03.rsw#¸®È÷Å¸¸£Á¨ ³»ºÎ#
-lhz_cube.rsw#Å¥ºê ·ë#
-lhz_que01.rsw#¸®È÷Å¸¸£Á¨ ³»ºÎ#
-lhz_airport.rsw#¸®È÷Å¸¸£Á¨ °øÇ×#
-airplane_01.rsw#ºñ°øÁ¤#
-lhz_dun01.rsw#»ıÃ¼½ÇÇè ¿¬±¸¼Ò ÁöÇÏ 1Ãş#
-lhz_dun02.rsw#»ıÃ¼½ÇÇè ¿¬±¸¼Ò ÁöÇÏ 2Ãş#
-lhz_dun03.rsw#»ıÃ¼½ÇÇè ¿¬±¸¼Ò ÁöÇÏ 3Ãş#
-lhz_fild01.rsw#¸®È÷Å¸¸£Á¨ ÇÊµå#
-yuno_pre.rsw#½´¹ßÃ÷¹ßµå Á¤ºÎ Ã»»ç#
-y_airport.rsw#À¯³ë °øÇ×#
-lhz_fild03.rsw#¸®È÷Å¸¸£Á¨ ÇÊµå#
-lhz_fild02.rsw#¸®È÷Å¸¸£Á¨ ÇÊµå(»ç½ÅÀÇ °è°î)#
-ein_fild04.rsw#¾ÆÀÎºê·ÎÅ© ÇÊµå#
-ein_fild03.rsw#¾ÆÀÎºê·ÎÅ© ÇÊµå#
-ein_dun02.rsw#¾ÆÀÎº£Èå ±¤»ê 2Ãş#
-ein_dun01.rsw#¾ÆÀÎº£Èå ±¤»ê 1Ãş#
-//ein_fild10.rsw#¾ÆÀÎºê·ÎÅ© ÇÊµå#	2008³â ¸®´º¾ó
-ein_fild09.rsw#¾ÆÀÎºê·ÎÅ© ÇÊµå#
-ein_fild08.rsw#¾ÆÀÎºê·ÎÅ© ÇÊµå#
-ein_fild07.rsw#¾ÆÀÎºê·ÎÅ© ÇÊµå#
-ein_fild06.rsw#¾ÆÀÎºê·ÎÅ© ÇÊµå#
-airplane.rsw#ºñ°øÁ¤#
-airport.rsw#¾ÆÀÎºê·ÎÅ© °øÇ×#
-ein_in01.rsw#½Ç³»#
-einbech.rsw#Ã¤±¤¸¶À» ¾ÆÀÎº£Èå#
-einbroch.rsw#°­Ã¶µµ½Ã ¾ÆÀÎºê·ÎÅ©#
-turbo_e_16.rsw#ÅÍº¸Æ®·¢ °æ±âÀå#
-turbo_e_8.rsw#ÅÍº¸Æ®·¢ °æ±âÀå#
-turbo_e_4.rsw#ÅÍº¸Æ®·¢ °æ±âÀå#
-turbo_n_16.rsw#ÅÍº¸Æ®·¢ °æ±âÀå#
-turbo_n_8.rsw#ÅÍº¸Æ®·¢ °æ±âÀå#
-turbo_n_4.rsw#ÅÍº¸Æ®·¢ °æ±âÀå#
-turbo_n_1.rsw#ÅÍº¸Æ®·¢ °æ±âÀå#
-turbo_room.rsw#ÅÍº¸Æ®·¢ ´ë±â½Ç#
-yuno_fild12.rsw#½´¹ßÃ÷¹ßµå ±¹°æ °Ë¹®¼Ò#
-yuno_fild11.rsw#À¯³ë ÇÊµå#
-yuno_fild09.rsw#½´¹ßÃ÷¹ßµå °æºñ´ë ¾ß¿µÁö#
-yuno_fild08.rsw#À¯³ë Å³ ÇÏÀÌ¸£ ÇĞ¿ø#
-yuno_fild07.rsw#¿¤¸Ş½º Çù°î(½É¿¬ÀÇ °ñÂ¥±â)#
-//yuno_fild05.rsw#¿¤¸Ş½º ÇÃ·¹Åõ#	2008³â ¸®´º¾ó
-ayo_in02.rsw#¾Æ¿äÅ¸¾ß ³»ºÎ#
-ayo_in01.rsw#¾Æ¿äÅ¸¾ß ³»ºÎ#
-ayo_dun02.rsw#¾Æ¿äÅ¸¾ß °í´ë ½ÅÀü ³»ºÎ#
-ayo_dun01.rsw#¾Æ¿äÅ¸¾ß °í´ë ½ÅÀü ¹Ì±Ã#
-ayo_fild02.rsw#¾Æ¿äÅ¸¾ß ÇÊµå#
-ayo_fild01.rsw#¾Æ¿äÅ¸¾ß ÇÊµå#
-ayothaya.rsw#¾Æ¿äÅ¸¾ß#
-que_god02.rsw#Äù½ºÆ®¸Ê#
-que_god01.rsw#Äù½ºÆ®¸Ê#
-quiz_test.rsw#½ÃÇèÀå#
-gefenia04.rsw#°ÔÆä´Ï¾Æ#
-gefenia03.rsw#°ÔÆä´Ï¾Æ#
-gefenia02.rsw#°ÔÆä´Ï¾Æ#
-gefenia01.rsw#°ÔÆä´Ï¾Æ#
-himinn.rsw#¹ßÅ°¸® ½ÅÀü(È÷¹Î)#
-jawaii_in.rsw#ÀÚ¿ÍÀÌ ³»ºÎ#
-jawaii.rsw#½ÅÈ¥¼¶ ÀÚ¿ÍÀÌ#
-lou_in02.rsw#¿ëÁö¼º ³»ºÎ#
-lou_in01.rsw#¿ëÁö¼º ³»ºÎ#
-lou_dun03.rsw#¿ëÁö¼º ¼¾¾ç±Ã#
-lou_dun02.rsw#¿ëÁö¼º ¿Õ¸ª ³»ºÎ#
-lou_dun01.rsw#¿ëÁö¼º ¿Õ¸ª#
-lou_fild01.rsw#¿ëÁö¼º ÇÊµå#
-louyang.rsw#°íµµ ¿ëÁö¼º#
-valkyrie.rsw#¹ßÅ°¸® ½ÅÀü(À§´ëÇÑ Àü»çÀÇ Àü´ç)#
-nif_in.rsw#´ÏÇÃÇìÀÓ ³»ºÎ#
-yggdrasil01.rsw#Èåº£¸£°Ö¹Ì¸£ÀÇ »ù(ÀÌ±×µå¶ó½ÇÁÙ±â)#
-nif_fild02.rsw#´ÏÇÃÇìÀÓ ±µÀÇ °ñÂ¥±â#
-nif_fild01.rsw#´ÏÇÃÇìÀÓ ¿Üµı¸¶À» ½ºÄÌ¸µÆ°#
-niflheim.rsw#Á×ÀºÀÚÀÇ ³ª¶ó ´ÏÇÃÇìÀÓ#
-um_dun01.rsw#¿ò¹ß¶ó ³ª¹« ¼ÓÀÇ ¸ñ°ø¼Ò#
-um_dun02.rsw#¿ò¹ß¶ó ³ª¹« ¼ÓÀÇ ÀÌ°è Åë·Î#
-um_in.rsw#¿ò¹ß¶ó ³»ºÎ#
-um_fild01.rsw#¿ò¹ß¶ó ·ç·çÄ« ½£#
-um_fild02.rsw#¿ò¹ß¶ó ÈÉ°¡ ½£#
-um_fild03.rsw#¿ò¹ß¶ó Ä«¶ó¶ó ´Ë#
-um_fild04.rsw#¿ò¹ß¶ó ÈÉ°¡ Á¤±Û#
-umbala.rsw#¿ìÅºÁ·¸¶À» ¿ò¹ß¶ó#
-sec_in01.rsw#¹ßÇÒ¶ó±Ã ³»ºÎ#
-sec_in02.rsw#¹ßÇÒ¶ó±Ã ³»ºÎ#
-sec_pri.rsw#¹ßÇÒ¶ó±Ã ¹İ¼ºÀÇ ¹æ(°¨¿Á)#
-gon_test.rsw#Äï·é °İÅõÀå#
-gon_dun01.rsw#Äï·é ¼­¿Õ¸ğ ½ÅÀü#
-gon_dun02.rsw#Äï·é ½Å¼±ÀÇ ¹ÙµÏÆÇ#
-gon_dun03.rsw#Äï·é ¹«¸ªµµ¿ø#
-gon_fild01.rsw#Äï·é ÇÊµå#
-gon_in.rsw#Äï·é ³»ºÎ#
-gonryun.rsw#½Å¼±ÀÇ ¼¶ Äï·é(Íß×Ä)#
-ama_test.rsw#¾Æ¸¶Âê ¸ğ¸ğÅ¸·Î Ã¼Çè¼Ò#
-ama_dun03.rsw#¾Æ¸¶Âê ÁöÇÏ ½Å»ç#
-ama_dun02.rsw#¾Æ¸¶Âê ÁöÇÏ ½£ ÀüÀå#
-ama_dun01.rsw#¾Æ¸¶Âê ´Ù´Ù¹Ì ¹Ì±Ã#
-ama_fild01.rsw#¾Æ¸¶Âê ÇÊµå#
-ama_in02.rsw#Ãµ¼ö°¢ ³»ºÎ#
-ama_in01.rsw#¾Æ¸¶Âê ³»ºÎ#
-amatsu.rsw#Ãµ¼öÀÇ ³ª¶ó ¾Æ¸¶Âê#
-alde_alche.rsw#¾ËÄÉ¹Ì½ºÆ® ÀüÁ÷¼Ò#
-yuno_in05.rsw#ÀÌ¹Ì¸£ÀÇ ½ÉÀå µ¿·Â½Ç#
-yuno_in04.rsw#°øÈ­±¹ µµ¼­°ü#
-job_duncer.rsw#ÄÚ¸ğµµ ¼Ò±ØÀå#
-job_sage.rsw#¼¼ÀÌÁö ÀüÁ÷ ½ÃÇèÀå#
-job_cru.rsw#Å©·ç¼¼ÀÌ´õ ÀüÁ÷ ½ÃÇèÀå#
-job_monk.rsw#¼º Ä«ÇÇÅç¸®³ª ¼öµµ¿ø#
-monk_test.rsw#¼º Ä«ÇÇÅç¸®³ª ¼öµµ¿ø#
-in_rogue.rsw#·Î±× ±æµå ³»ºÎ#
-mag_dun02.rsw#À¯³ë ³ë±×·Îµå 2Ãş#
-mag_dun01.rsw#À¯³ë ³ë±×·Îµå 1Ãş#
-yuno_fild04.rsw#¿¤¸Ş½º ÇÃ·¹Åõ#
-yuno_fild03.rsw#¿¤¸Ş½º ÇÃ·¹Åõ#
-yuno_fild02.rsw#Å³ ÇÏÀÌ¸£ÀÇ º°Àå#
-yuno_fild01.rsw#½´¹ßÃ÷¹ßµå ±¹°æ °Ë¹®¼Ò#
-yuno_in03.rsw#À¯³ë ³»ºÎ#
-yuno_in02.rsw#¼¼ÀÌÁö ÄÉ½½³»ºÎ#
-yuno_in01.rsw#À¯³ë ³»ºÎ#
-yuno.rsw#½´¹ßÃ÷¹ßµå °øÈ­±¹ ¼öµµ À¯³ë#
-job_wiz.rsw#À§Á®µå ÀüÁ÷ ½ÃÇèÀå#
-job_prist.rsw#ÇÁ¸®½ºÆ® ÀüÁ÷ ½ÃÇèÀå#
-job_knt.rsw#³ªÀÌÆ® ÀüÁ÷ ½ÃÇèÀå#
-job_hunte.rsw#ÇåÅÍ ÀüÁ÷ ½ÃÇèÀå#
-gld_dun04.rsw#±æµå ÁöÇÏ ´øÀü#
-gld_dun03.rsw#±æµå ÁöÇÏ ´øÀü#
-gld_dun02.rsw#±æµå ÁöÇÏ ´øÀü#
-gld_dun01.rsw#±æµå ÁöÇÏ ´øÀü#
-payg_cas05.rsw#Ã»¸² È£¼ö ±æµå#
-payg_cas04.rsw#Ã»¸² È£¼ö ±æµå#
-payg_cas03.rsw#Ã»¸² È£¼ö ±æµå#
-payg_cas02.rsw#Ã»¸² È£¼ö ±æµå#
-payg_cas01.rsw#Ã»¸² È£¼ö ±æµå#
-pay_gld.rsw#Ã»¸² È£¼ö#
-aldeg_cas05.rsw#·çÀÌ³ª ±æµå#
-aldeg_cas04.rsw#·çÀÌ³ª ±æµå#
-aldeg_cas03.rsw#·çÀÌ³ª ±æµå#
-aldeg_cas02.rsw#·çÀÌ³ª ±æµå#
-aldeg_cas01.rsw#·çÀÌ³ª ±æµå#
-alde_gld.rsw#¾Ëµ¥¹Ù¶õ À§¼ºµµ½Ã ·çÀÌ³ª#
-gefg_cas05.rsw#ºê¸®Åä¸®¾Æ ±æµå#
-gefg_cas04.rsw#ºê¸®Åä¸®¾Æ ±æµå#
-gefg_cas03.rsw#ºê¸®Åä¸®¾Æ ±æµå#
-gefg_cas02.rsw#ºê¸®Åä¸®¾Æ ±æµå#
-gefg_cas01.rsw#ºê¸®Åä¸®¾Æ ±æµå#
-prtg_cas05.rsw#¹ßÅ°¸® ·¼¸§ ±æµå#
-prtg_cas04.rsw#¹ßÅ°¸® ·¼¸§ ±æµå#
-prtg_cas03.rsw#¹ßÅ°¸® ·¼¸§ ±æµå#
-prtg_cas02.rsw#¹ßÅ°¸® ·¼¸§ ±æµå#
-prtg_cas01.rsw#¹ßÅ°¸® ·¼¸§ ±æµå#
-prt_gld.rsw#¹ßÅ°¸® ·¼¸§#
-tur_dun01.rsw#°ÅºÏÀÌ ¼¶#
-tur_dun02.rsw#°ÅºÏÀÌ ¼¶ ´øÀü#
-tur_dun03.rsw#¾ç°ÅÃÌ#
-tur_dun04.rsw#±¸¾ç±Ã#
-tur_dun05.rsw#ÁöÇÏ ´Ë Áö´ë#
-tur_dun06.rsw#ÁöÇÏ ´Ë Áö´ë#
-guild_vs5.rsw#±æµå ´ëÇ× °æ±âÀå#
-guild_vs4.rsw#±æµå ´ëÇ× °æ±âÀå#
-guild_vs3.rsw#±æµå ´ëÇ× °æ±âÀå#
-guild_vs2.rsw#±æµå ´ëÇ× °æ±âÀå#
-guild_vs1.rsw#±æµå ´ëÇ× °æ±âÀå#
-guild_room.rsw#±æµå ´ëÇ× °æ±âÀå ´ë±â½Ç#
-quiz_00.rsw#ÄûÁî °æ±âÀå#
-quiz_01.rsw#ÄûÁî °æ±âÀå#
-//gef_fild12.rsw#ÄÚÆ® ½£#	2008³â ¸®´º¾ó
-gef_fild13.rsw#ºê¸®Åä¸®¾Æ#
-//gef_fild14.rsw#¼­ÂÊ ¿ÀÅ© ¸¶À»#	2008³â ¸®´º¾ó
-cmd_in02.rsw#ÄÚ¸ğµµ ³»ºÎ#
-cmd_in01.rsw#ÄÚ¸ğµµ ³»ºÎ#
-comodo.rsw#ÇØº¯µµ½Ã ÄÚ¸ğµµ#
-beach_dun.rsw#ÄÚ¸ğµµ ¼­ÂÊ µ¿±¼ Ä«·ç#
-beach_dun2.rsw#ÄÚ¸ğµµ ºÏÂÊ µ¿±¼ ·ç¾È´Ù#
-beach_dun3.rsw#ÄÚ¸ğµµ µ¿ÂÊ µ¿±¼ ¸¶¿À#
-cmd_fild01.rsw#ÄÚ¸ğµµ ÆÄÇªÄ¡Ä« ½£#
-cmd_fild02.rsw#ÄÚ¸ğµµ ÄÚÄÚ¸ğ ÇØº¯#
-cmd_fild03.rsw#ÄÚ¸ğµµ Áö³ªÀÌ ´Ë#
-cmd_fild04.rsw#ÄÚ¸ğµµ ÄÚÄÚ¸ğ ÇØº¯#
-//cmd_fild05.rsw#ÄÚ¸ğµµ ÆÄÇªÄ¡Ä« ½£ °æ°è#	2008³â ¸®´º¾ó
-cmd_fild06.rsw#¿ä»õµµ½Ã »ê´Ù¸£¸¸ ¼­ÂÊ Áö¿ª#
-cmd_fild07.rsw#ÆÄ·Î½º µî´ë¼¶#
-cmd_fild08.rsw#¿ä»õµµ½Ã »ê´Ù¸£¸¸ µ¿ÂÊ Áö¿ª#
-cmd_fild09.rsw#¿ä»õµµ½Ã »ê´Ù¸£¸¸ ³²ÂÊ Áö¿ª#
-xmas_in.rsw#·çÆ¼¿¡ ³»ºÎ#
-xmas_dun02.rsw#·çÆ¼¿¡ Àå³­°¨ ºĞ·ù¼Ò#
-xmas_dun01.rsw#·çÆ¼¿¡ Àå³­°¨ °øÀå Ã¢°í#
-xmas_fild01.rsw#·çÆ¼¿¡ ÇÊµå#
-xmas.rsw#´«ÀÇ ¸¶À» ·çÆ¼¿¡(Lutie)#
-mjolnir_01.rsw#¹¦¸£´Ò »ê¸Æ ºÏÂÊ Áö¿ª#
-mjolnir_02.rsw#¹¦¸£´Ò »ê¸Æ ºÏÂÊ Áö¿ª#
-mjolnir_03.rsw#¹¦¸£´Ò »ê¸Æ ºÏÂÊ Áö¿ª#
-mjolnir_04.rsw#¹¦¸£´Ò »ê¸Æ ºÏÂÊ Áö¿ª#
-mjolnir_05.rsw#¹¦¸£´Ò »ê¸Æ ºÏÂÊ Áö¿ª#
-mjolnir_06.rsw#¹¦¸£´Ò »ê¸Æ ³²ÂÊ Áö¿ª#
-mjolnir_07.rsw#¹¦¸£´Ò »ê¸Æ ³²ÂÊ Áö¿ª#
-mjolnir_08.rsw#¹¦¸£´Ò »ê¸Æ ³²ÂÊ Áö¿ª#
-mjolnir_09.rsw#¹¦¸£´Ò »ê¸Æ ³²ÂÊ »ê±â½¾#
-mjolnir_10.rsw#¹¦¸£´Ò »ê¸Æ ³²ÂÊ Áö¿ª#
-mjolnir_11.rsw#¹¦¸£´Ò »ê¸Æ ³²ÂÊ Áö¿ª#
-mjolnir_12.rsw#¹¦¸£´Ò »ê¸Æ ºÏÂÊ »ê±â½¾#
-prt_fild00.rsw#ÇÁ·ĞÅ×¶ó ÇÊµå#
-prt_fild01.rsw#ÇÁ·ĞÅ×¶ó ÇÊµå#
-prt_fild02.rsw#ÇÁ·ĞÅ×¶ó ÇÊµå#
-prt_fild03.rsw#ÇÁ·ĞÅ×¶ó ÇÊµå#
-prt_fild04.rsw#ÇÁ·ĞÅ×¶ó ÇÊµå#
-prt_fild05.rsw#ÇÁ·ĞÅ×¶ó ÇÊµå#
-prt_fild06.rsw#ÇÁ·ĞÅ×¶ó ÇÊµå#
-prt_fild07.rsw#ÇÁ·ĞÅ×¶ó ÇÊµå#
-prt_fild08.rsw#ÇÁ·ĞÅ×¶ó ÇÊµå#
-prt_fild09.rsw#ÇÁ·ĞÅ×¶ó ÇÊµå#
-prt_fild10.rsw#ÇÁ·ĞÅ×¶ó ÇÊµå#
-prt_fild11.rsw#ÇÁ·ĞÅ×¶ó ÇÊµå#
-prt_monk.rsw#¼º Ä«ÇÇÅç¸®³ª ¼öµµ¿ø#
-gef_fild00.rsw#°ÔÆæ ÇÊµå#
-gef_fild01.rsw#°ÔÆæ ÇÊµå#
-gef_fild02.rsw#°ÔÆæ ÇÊµå#
-gef_fild03.rsw#°ÔÆæ ÇÊµå#
-gef_fild04.rsw#°ÔÆæ ÇÊµå#
-gef_fild05.rsw#Áı½Ã ¸¶À»#
-gef_fild06.rsw#°ÔÆæ ÇÊµå#
-gef_fild07.rsw#°ÔÆæ ÇÊµå#
-gef_fild08.rsw#°ÔÆæ ÇÊµå#
-gef_fild09.rsw#°ÔÆæ ÇÊµå#
-gef_fild10.rsw#¿ÀÅ© ¸¶À»#
-in_orcs01.rsw#¿ÀÅ© ¸¶À» ½Ç³»#
-gef_fild11.rsw#°ÔÆæ ÇÊµå#
-moc_fild01.rsw#¼Ò±×¶óÆ® »ç¸·#
-moc_fild02.rsw#¼Ò±×¶óÆ® »ç¸·#
-moc_fild03.rsw#¼Ò±×¶óÆ® »ç¸·#
-//moc_fild04.rsw#¼Ò±×¶óÆ® »ç¸·#	2008 ¸ğ·ÎÅ©
-//moc_fild05.rsw#¼Ò±×¶óÆ® »ç¸·#	2008 ¸ğ·ÎÅ©
-//moc_fild06.rsw#¼Ò±×¶óÆ® »ç¸·#	2008 ¸ğ·ÎÅ©
-moc_fild07.rsw#¼Ò±×¶óÆ® »ç¸·#
-//moc_fild08.rsw#¼Ò±×¶óÆ® »ç¸·#	2008 ¸ğ·ÎÅ©
-//moc_fild09.rsw#¼Ò±×¶óÆ® »ç¸·#	2008 ¸ğ·ÎÅ©
-//moc_fild10.rsw#¼Ò±×¶óÆ® »ç¸·#	2008 ¸ğ·ÎÅ©
-moc_fild11.rsw#¼Ò±×¶óÆ® »ç¸·#
-moc_fild12.rsw#¼Ò±×¶óÆ® »ç¸·#
-moc_fild13.rsw#¼Ò±×¶óÆ® »ç¸·#
-//moc_fild14.rsw#¼Ò±×¶óÆ® »ç¸·#	2008 ¸ğ·ÎÅ©
-//moc_fild15.rsw#¼Ò±×¶óÆ® »ç¸·#	2008 ¸ğ·ÎÅ©
-moc_fild16.rsw#¼Ò±×¶óÆ® »ç¸·#
-in_moc_16.rsw#¾î»õ½Å ±æµå#
-moc_fild17.rsw#¼Ò±×¶óÆ® »ç¸·#
-moc_fild18.rsw#¼Ò±×¶óÆ® »ç¸·#
-moc_fild19.rsw#¼Ò±×¶óÆ® »ç¸·#
-pay_fild01.rsw#ÆäÀÌ¿æ ½£ ¼Ó#
-pay_fild02.rsw#ÆäÀÌ¿æ ½£ ¼Ó#
-pay_fild03.rsw#ÆäÀÌ¿æ ½£ ¼Ó#
-pay_fild04.rsw#¼Ò±×¶óÆ® »ç¸·#
-//pay_fild05.rsw#ÆäÀÌ¿æ ½£ ¼Ó#	2008³â ¸®´º¾ó
-pay_fild06.rsw#ÆäÀÌ¿æ ½£ ¼Ó#
-pay_fild07.rsw#ÆäÀÌ¿æ ½£ ¼Ó#
-pay_fild08.rsw#ÆäÀÌ¿æ ½£ ¼Ó#
-pay_fild09.rsw#ÆäÀÌ¿æ ½£ ¼Ó#
-pay_fild10.rsw#ÆäÀÌ¿æ ½£ ¼Ó#
-//pay_fild11.rsw#ÆäÀÌ¿æ ½£ ¼Ó#	2008³â ¸®´º¾ó
-new_1-1.rsw#ÃÊº¸ÀÚ ¼ö·ÃÀå#
-new_2-1.rsw#ÃÊº¸ÀÚ ¼ö·ÃÀå#
-new_3-1.rsw#ÃÊº¸ÀÚ ¼ö·ÃÀå#
-new_4-1.rsw#ÃÊº¸ÀÚ ¼ö·ÃÀå#
-new_5-1.rsw#ÃÊº¸ÀÚ ¼ö·ÃÀå#
-new_1-2.rsw#ÃÊº¸ÀÚ ¼ö·ÃÀå#
-new_2-2.rsw#ÃÊº¸ÀÚ ¼ö·ÃÀå#
-new_3-2.rsw#ÃÊº¸ÀÚ ¼ö·ÃÀå#
-new_4-2.rsw#ÃÊº¸ÀÚ ¼ö·ÃÀå#
-new_5-2.rsw#ÃÊº¸ÀÚ ¼ö·ÃÀå#
-new_1-3.rsw#ÃÊº¸ÀÚ ¼ö·ÃÀå#
-new_2-3.rsw#ÃÊº¸ÀÚ ¼ö·ÃÀå#
-new_3-3.rsw#ÃÊº¸ÀÚ ¼ö·ÃÀå#
-new_4-3.rsw#ÃÊº¸ÀÚ ¼ö·ÃÀå#
-new_5-3.rsw#ÃÊº¸ÀÚ ¼ö·ÃÀå#
-new_1-4.rsw#ÃÊº¸ÀÚ ¼ö·ÃÀå#
-new_2-4.rsw#ÃÊº¸ÀÚ ¼ö·ÃÀå#
-new_3-4.rsw#ÃÊº¸ÀÚ ¼ö·ÃÀå#
-new_4-4.rsw#ÃÊº¸ÀÚ ¼ö·ÃÀå#
-//new_5-4.rsw#ÃÊº¸ÀÚ ¼ö·ÃÀå#  ÆøÅº¹æ°ü·Ã »èÁ¦
-anthell01.rsw#¸ğ·ÎÅ© °³¹ÌÁö¿Á ´øÀü 1Ãş#
-anthell02.rsw#¸ğ·ÎÅ© °³¹ÌÁö¿Á ´øÀü 2Ãş#
-gef_dun00.rsw#°ÔÆæ ÁöÇÏ ´øÀü 1Ãş#
-gef_dun01.rsw#°ÔÆæ ÁöÇÏ ´øÀü 2Ãş#
-gef_dun02.rsw#°ÔÆæ ÁöÇÏ ´øÀü 3Ãş#
-gef_dun03.rsw#°ÔÆä´Ï¾Æ ´øÀü#
-iz_dun00.rsw#ÀÌÁî·çµå ÇØÀúµ¿±¼ ´øÀü 1Ãş#
-iz_dun01.rsw#ÀÌÁî·çµå ÇØÀúµ¿±¼ ´øÀü 2Ãş#
-iz_dun02.rsw#ÀÌÁî·çµå ÇØÀúµ¿±¼ ´øÀü 3Ãş#
-iz_dun03.rsw#ÀÌÁî·çµå ÇØÀúµ¿±¼ ´øÀü 4Ãş#
-iz_dun04.rsw#ÀÌÁî·çµå ÇØÀúµ¿±¼ ´øÀü 5Ãş#
-//iz_dun05.rsw#ÀÌÁî·çµå ÇØÀúµ¿±¼ ´øÀü 6Ãş#
-in_sphinx1.rsw#¸ğ·ÎÅ© ½ºÇÎÅ©½º ÁöÇÏ 1Ãş#
-in_sphinx2.rsw#¸ğ·ÎÅ© ½ºÇÎÅ©½º ÁöÇÏ 2Ãş#
-in_sphinx3.rsw#¸ğ·ÎÅ© ½ºÇÎÅ©½º ÁöÇÏ 3Ãş#
-in_sphinx4.rsw#¸ğ·ÎÅ© ½ºÇÎÅ©½º ÁöÇÏ 4Ãş#
-in_sphinx5.rsw#¸ğ·ÎÅ© ½ºÇÎÅ©½º ÁöÇÏ 5Ãş#
-moc_pryd01.rsw#¸ğ·ÎÅ© ÇÇ¶ó¹Ìµå 1Ãş#
-moc_pryd02.rsw#¸ğ·ÎÅ© ÇÇ¶ó¹Ìµå 2Ãş#
-moc_pryd03.rsw#¸ğ·ÎÅ© ÇÇ¶ó¹Ìµå 3Ãş#
-moc_pryd04.rsw#¸ğ·ÎÅ© ÇÇ¶ó¹Ìµå 4Ãş#
-moc_pryd05.rsw#¸ğ·ÎÅ© ÇÇ¶ó¹Ìµå ÁöÇÏ 1Ãş#
-moc_pryd06.rsw#¸ğ·ÎÅ© ÇÇ¶ó¹Ìµå ÁöÇÏ 2Ãş#
-moc_prydb1.rsw#µµµÏ ±æµå#
-mjo_dun01.rsw#¹¦¸£´Ò Æó±¤ 1Ãş#
-mjo_dun02.rsw#¹¦¸£´Ò Æó±¤ 2Ãş#
-mjo_dun03.rsw#¹¦¸£´Ò Æó±¤ 3Ãş#
-orcsdun01.rsw#°ÔÆæ ¿ÀÅ© ÁöÇÏ µ¿±¼ 1Ãş#
-orcsdun02.rsw#°ÔÆæ ¿ÀÅ© ÁöÇÏ µ¿±¼ 2Ãş#
-pay_dun00.rsw#ÆäÀÌ¿æ µ¿±¼ 1Ãş#
-pay_dun01.rsw#ÆäÀÌ¿æ µ¿±¼ 2Ãş#
-pay_dun02.rsw#ÆäÀÌ¿æ µ¿±¼ 3Ãş#
-pay_dun03.rsw#ÆäÀÌ¿æ µ¿±¼ 4Ãş(Æó°¡ÃÌ)#
-pay_dun04.rsw#ÆäÀÌ¿æ µ¿±¼ 5Ãş(Æó°¡ÃÌ)#
-prt_maze01.rsw#ÇÁ·ĞÅ×¶ó ¹Ì±Ã ½£ 1Ãş#
-prt_maze02.rsw#ÇÁ·ĞÅ×¶ó ¹Ì±Ã ½£ 2Ãş#
-prt_maze03.rsw#ÇÁ·ĞÅ×¶ó ¹Ì±Ã ½£ 3Ãş#
-prt_sewb1.rsw#ÇÁ·ĞÅ×¶ó ÁöÇÏ ¼ö·Î 1Ãş#
-prt_sewb2.rsw#ÇÁ·ĞÅ×¶ó ÁöÇÏ ¼ö·Î 2Ãş#
-prt_sewb3.rsw#ÇÁ·ĞÅ×¶ó ÁöÇÏ ¼ö·Î 3Ãş#
-prt_sewb4.rsw#ÇÁ·ĞÅ×¶ó ÁöÇÏ ¼ö·Î 4Ãş#
-treasure01.rsw#¾Ëº£¸£Å¸ Ä§¸ô¼± 1Ãş#
-treasure02.rsw#¾Ëº£¸£Å¸ Ä§¸ô¼± 2Ãş#
-hunter_1-1.rsw#ÇåÅÍ ÀüÁ÷¼Ò#
-hunter_2-1.rsw#ÇåÅÍ ÀüÁ÷¼Ò#
-hunter_3-1.rsw#ÇåÅÍ ÀüÁ÷¼Ò#
-in_hunter.rsw#ÇåÅÍ ÀüÁ÷¼Ò#
-knight_1-1.rsw#³ªÀÌÆ® ÀüÁ÷¼Ò#
-knight_2-1.rsw#³ªÀÌÆ® ÀüÁ÷¼Ò#
-knight_3-1.rsw#³ªÀÌÆ® ÀüÁ÷¼Ò#
-priest_1-1.rsw#ÇÁ¸®½ºÆ® ÀüÁ÷¼Ò#
-priest_2-1.rsw#ÇÁ¸®½ºÆ® ÀüÁ÷¼Ò#
-priest_3-1.rsw#ÇÁ¸®½ºÆ® ÀüÁ÷¼Ò#
-//sword_1-1.rsw#°Ë»ç ÀüÁ÷¼Ò#
-//sword_2-1.rsw#°Ë»ç ÀüÁ÷¼Ò#
-sword_3-1.rsw#°Ë»ç ÀüÁ÷¼Ò#
-job_thief1.rsw#µµµÏ ÀüÁ÷¼Ò#
-wizard_1-1.rsw#À§ÀÚµå ÀüÁ÷¼Ò#
-wizard_2-1.rsw#À§ÀÚµå ÀüÁ÷¼Ò#
-wizard_3-1.rsw#À§ÀÚµå ÀüÁ÷¼Ò#
-force_1-1.rsw#Å¸ÀÓ¾îÅÃ¸ğµå#
-force_2-1.rsw#Å¸ÀÓ¾îÅÃ¸ğµå#
-force_3-1.rsw#Å¸ÀÓ¾îÅÃ¸ğµå#
-force_1-2.rsw#Å¸ÀÓ¾îÅÃ¸ğµå#
-force_2-2.rsw#Å¸ÀÓ¾îÅÃ¸ğµå#
-force_3-2.rsw#Å¸ÀÓ¾îÅÃ¸ğµå#
-force_1-3.rsw#Å¸ÀÓ¾îÅÃ¸ğµå#
-force_2-3.rsw#Å¸ÀÓ¾îÅÃ¸ğµå#
-force_3-3.rsw#Å¸ÀÓ¾îÅÃ¸ğµå#
-ordeal_1-1.rsw#¹èÆ²¿Àµô¸ğµå#
-ordeal_2-1.rsw#¹èÆ²¿Àµô¸ğµå#
-ordeal_3-1.rsw#¹èÆ²¿Àµô¸ğµå#
-ordeal_1-2.rsw#¹èÆ²¿Àµô¸ğµå#
-ordeal_2-2.rsw#¹èÆ²¿Àµô¸ğµå#
-ordeal_3-2.rsw#¹èÆ²¿Àµô¸ğµå#
-ordeal_1-3.rsw#¹èÆ²¿Àµô¸ğµå#
-ordeal_2-3.rsw#¹èÆ²¿Àµô¸ğµå#
-ordeal_3-3.rsw#¹èÆ²¿Àµô¸ğµå#
-ordeal_1-4.rsw#¹èÆ²¿Àµô¸ğµå#
-ordeal_2-4.rsw#¹èÆ²¿Àµô¸ğµå#
-ordeal_3-4.rsw#¹èÆ²¿Àµô¸ğµå#
-alb_ship.rsw#¾Ëº£¸£Å¸ ¼±¹Ú ³»ºÎ#
-alberta.rsw#Ç×±¸µµ½Ã ¾Ëº£¸£Å¸#
-alberta_in.rsw#¾Ëº£¸£Å¸ ³»ºÎ#
-alb2trea.rsw#Ä§¸ô¼± ºÎ±ÙÀÇ ¼¶#
-aldebaran.rsw#±¹°æµµ½Ã ¾Ëµ¥¹Ù¶õ#
-aldeba_in.rsw#¾Ëµ¥¹Ù¶õ ³»ºÎ#
-gef_tower.rsw#°ÔÆæ Áß¾ÓÅ¾#
-geffen.rsw#¸¶¹ıµµ½Ã °ÔÆæ#
-geffen_in.rsw#°ÔÆæ ³»ºÎ#
-//moc_castle.rsw#¸ğ·ÎÅ© ¼º³»#	2008 ¸ğ·ÎÅ©
-moc_ruins.rsw#»ç¸·µµ½Ã ¸ğ·ÎÅ©#
-morocc.rsw#»ç¸·µµ½Ã ¸ğ·ÎÅ©#
-morocc_in.rsw#¸ğ·ÎÅ© ³»ºÎ#
-pay_arche.rsw#ÆäÀÌ¿æ ±Ã¼ö¸¶À»#
-payon.rsw#»ê¾Çµµ½Ã ÆäÀÌ¿æ#
-payon_in01.rsw#ÆäÀÌ¿æ ³»ºÎ#
-payon_in02.rsw#ÆäÀÌ¿æ ³»ºÎ#
-payon_in03.rsw#ÆäÀÌ¿æ ³»ºÎ#
-prontera.rsw#·é¹Ìµå°¡Ã÷ ¿Õ±¹ ¼öµµ ÇÁ·ĞÅ×¶ó#
-prt_in.rsw#ÇÁ·ĞÅ×¶ó ³»ºÎ#
-prt_castle.rsw#ÇÁ·ĞÅ×¶ó ¼º ³»ºÎ#
-prt_church.rsw#ÇÁ·ĞÅ×¶ó ¼º´ç ³»ºÎ#
-izlude.rsw#À§¼ºµµ½Ã ÀÌÁî·çµå#
-izlude_in.rsw#ÀÌÁî·çµå ³»ºÎ#
-izlu2dun.rsw#¹ÙÀÌ¾Æ¶õ ¼¶#
-monk_in.rsw#¼º Ä«ÇÇÅç¸®³ª ¼öµµ¿ø ³»ºÎ#
-prt_are_in.rsw#¾Æ·¹³ª ´ë±â½Ç#
-arena_room.rsw#¾Æ·¹³ª ´ë±â½Ç#
-prt_arena01.rsw#¾Æ·¹³ª#
-prt_are01.rsw#¾Æ·¹³ª#
-glast_01.rsw#±Û·¡½ºÆ®ÇìÀÓ#
-alde_dun01.rsw#¾Ëµ¥¹Ù¶õ ½Ã°èÅ¾ ÁöÇÏ 1Ãş#
-alde_dun02.rsw#¾Ëµ¥¹Ù¶õ ½Ã°èÅ¾ ÁöÇÏ 2Ãş#
-alde_dun03.rsw#¾Ëµ¥¹Ù¶õ ½Ã°èÅ¾ ÁöÇÏ 3Ãş#
-alde_dun04.rsw#¾Ëµ¥¹Ù¶õ ½Ã°èÅ¾ ÁöÇÏ 4Ãş#
-c_tower1.rsw#¾Ëµ¥¹Ù¶õ ½Ã°èÅ¾ Áö»ó 1Ãş#
-c_tower2.rsw#¾Ëµ¥¹Ù¶õ ½Ã°èÅ¾ Áö»ó 2Ãş#
-c_tower3.rsw#¾Ëµ¥¹Ù¶õ ½Ã°èÅ¾ Áö»ó 3Ãş#
-c_tower4.rsw#¾Ëµ¥¹Ù¶õ ½Ã°èÅ¾ Áö»ó 4Ãş#
-gl_cas01.rsw#±Û·¡½ºÆ®ÇìÀÓ ¼º 1Ãş#
-gl_cas02.rsw#±Û·¡½ºÆ®ÇìÀÓ ¼º 2Ãş#
-gl_church.rsw#±Û·¡½ºÆ®ÇìÀÓ ¼öµµ¿ø#
-gl_chyard.rsw#±Û·¡½ºÆ®ÇìÀÓ ÁöÇÏ ¹¦Áö#
-gl_dun01.rsw#±Û·¡½ºÆ®ÇìÀÓ ÁöÇÏ µ¿±¼ 1Ãş#
-gl_dun02.rsw#±Û·¡½ºÆ®ÇìÀÓ ÁöÇÏ µ¿±¼ 2Ãş#
-gl_in01.rsw#±Û·¡½ºÆ®ÇìÀÓ ½Ç³»#
-gl_knt01.rsw#±Û·¡½ºÆ®ÇìÀÓ ±â»ç´Ü 1Ãş#
-gl_knt02.rsw#±Û·¡½ºÆ®ÇìÀÓ ±â»ç´Ü 2Ãş#
-gl_prison.rsw#±Û·¡½ºÆ®ÇìÀÓ ÁöÇÏ °¨¿Á 1Ãş#
-gl_prison1.rsw#±Û·¡½ºÆ®ÇìÀÓ ÁöÇÏ °¨¿Á 2Ãş#
-gl_sew01.rsw#±Û·¡½ºÆ®ÇìÀÓ ÁöÇÏ ¼ö·Î 1Ãş#
-gl_sew02.rsw#±Û·¡½ºÆ®ÇìÀÓ ÁöÇÏ ¼ö·Î 2Ãş#
-gl_sew03.rsw#±Û·¡½ºÆ®ÇìÀÓ ÁöÇÏ ¼ö·Î 3Ãş#
-gl_sew04.rsw#±Û·¡½ºÆ®ÇìÀÓ ÁöÇÏ ¼ö·Î 4Ãş#
-gl_step.rsw#±Û·¡½ºÆ®ÇìÀÓ °è´Ü ´øÀü#
-pvp_y_room.rsw#PvP : ´ë±â½Ç#
-pvp_n_room.rsw#PvP : ´ë±â½Ç#
-pvp_c_room.rsw#PvP : ´ë±â½Ç#
-pvp_n_1-1.rsw#PvP : »÷µåÀ§Ä¡ ·ë#
-pvp_n_2-1.rsw#PvP : »÷µåÀ§Ä¡ ·ë#
-pvp_n_3-1.rsw#PvP : »÷µåÀ§Ä¡ ·ë#
-pvp_n_4-1.rsw#PvP : »÷µåÀ§Ä¡ ·ë#
-pvp_n_5-1.rsw#PvP : »÷µåÀ§Ä¡ ·ë#
-pvp_n_6-1.rsw#PvP : »÷µåÀ§Ä¡ ·ë#
-pvp_n_7-1.rsw#PvP : »÷µåÀ§Ä¡ ·ë#
-pvp_n_8-1.rsw#PvP : »÷µåÀ§Ä¡ ·ë#
-pvp_n_1-2.rsw#PvP : ¶ô ¿Â ·ë#
-pvp_n_2-2.rsw#PvP : ¶ô ¿Â ·ë#
-pvp_n_3-2.rsw#PvP : ¶ô ¿Â ·ë#
-pvp_n_4-2.rsw#PvP : ¶ô ¿Â ·ë#
-pvp_n_5-2.rsw#PvP : ¶ô ¿Â ·ë#
-pvp_n_6-2.rsw#PvP : ¶ô ¿Â ·ë#
-pvp_n_7-2.rsw#PvP : ¶ô ¿Â ·ë#
-pvp_n_8-2.rsw#PvP : ¶ô ¿Â ·ë#
-pvp_n_1-3.rsw#PvP : Æ÷ ·ë#
-pvp_n_2-3.rsw#PvP : Æ÷ ·ë#
-pvp_n_3-3.rsw#PvP : Æ÷ ·ë#
-pvp_n_4-3.rsw#PvP : Æ÷ ·ë#
-pvp_n_5-3.rsw#PvP : Æ÷ ·ë#
-pvp_n_6-3.rsw#PvP : Æ÷ ·ë#
-pvp_n_7-3.rsw#PvP : Æ÷ ·ë#
-pvp_n_8-3.rsw#PvP : Æ÷ ·ë#
-pvp_n_1-4.rsw#PvP : ¾ğ´õ Å©·Î½º ·ë#
-pvp_n_2-4.rsw#PvP : ¾ğ´õ Å©·Î½º ·ë#
-pvp_n_3-4.rsw#PvP : ¾ğ´õ Å©·Î½º ·ë#
-pvp_n_4-4.rsw#PvP : ¾ğ´õ Å©·Î½º ·ë#
-pvp_n_5-4.rsw#PvP : ¾ğ´õ Å©·Î½º ·ë#
-pvp_n_6-4.rsw#PvP : ¾ğ´õ Å©·Î½º ·ë#
-pvp_n_7-4.rsw#PvP : ¾ğ´õ Å©·Î½º ·ë#
-pvp_n_8-4.rsw#PvP : ¾ğ´õ Å©·Î½º ·ë#
-pvp_n_1-5.rsw#PvP : ÄŞÆÄ½º ·ë#
-pvp_n_2-5.rsw#PvP : ÄŞÆÄ½º ·ë#
-pvp_n_3-5.rsw#PvP : ÄŞÆÄ½º ·ë#
-pvp_n_4-5.rsw#PvP : ÄŞÆÄ½º ·ë#
-pvp_n_5-5.rsw#PvP : ÄŞÆÄ½º ·ë#
-pvp_n_6-5.rsw#PvP : ÄŞÆÄ½º ·ë#
-pvp_n_7-5.rsw#PvP : ÄŞÆÄ½º ·ë#
-pvp_n_8-5.rsw#PvP : ÄŞÆÄ½º ·ë#
-pvp_y_1-1.rsw#PvP : ÇÁ·ĞÅ×¶ó#
-pvp_y_2-1.rsw#PvP : ÇÁ·ĞÅ×¶ó#
-pvp_y_3-1.rsw#PvP : ÇÁ·ĞÅ×¶ó#
-pvp_y_4-1.rsw#PvP : ÇÁ·ĞÅ×¶ó#
-pvp_y_5-1.rsw#PvP : ÇÁ·ĞÅ×¶ó#
-pvp_y_6-1.rsw#PvP : ÇÁ·ĞÅ×¶ó#
-pvp_y_7-1.rsw#PvP : ÇÁ·ĞÅ×¶ó#
-pvp_y_8-1.rsw#PvP : ÇÁ·ĞÅ×¶ó#
-pvp_y_1-2.rsw#PvP : ÀÌÁî·çµå#
-pvp_y_2-2.rsw#PvP : ÀÌÁî·çµå#
-pvp_y_3-2.rsw#PvP : ÀÌÁî·çµå#
-pvp_y_4-2.rsw#PvP : ÀÌÁî·çµå#
-pvp_y_5-2.rsw#PvP : ÀÌÁî·çµå#
-pvp_y_6-2.rsw#PvP : ÀÌÁî·çµå#
-pvp_y_7-2.rsw#PvP : ÀÌÁî·çµå#
-pvp_y_8-2.rsw#PvP : ÀÌÁî·çµå#
-pvp_y_1-3.rsw#PvP : ÆäÀÌ¿æ#
-pvp_y_2-3.rsw#PvP : ÆäÀÌ¿æ#
-pvp_y_3-3.rsw#PvP : ÆäÀÌ¿æ#
-pvp_y_4-3.rsw#PvP : ÆäÀÌ¿æ#
-pvp_y_5-3.rsw#PvP : ÆäÀÌ¿æ#
-pvp_y_6-3.rsw#PvP : ÆäÀÌ¿æ#
-pvp_y_7-3.rsw#PvP : ÆäÀÌ¿æ#
-pvp_y_8-3.rsw#PvP : ÆäÀÌ¿æ#
-pvp_y_1-4.rsw#PvP : ¾Ëº£¸£Å¸#
-pvp_y_2-4.rsw#PvP : ¾Ëº£¸£Å¸#
-pvp_y_3-4.rsw#PvP : ¾Ëº£¸£Å¸#
-pvp_y_4-4.rsw#PvP : ¾Ëº£¸£Å¸#
-pvp_y_5-4.rsw#PvP : ¾Ëº£¸£Å¸#
-pvp_y_6-4.rsw#PvP : ¾Ëº£¸£Å¸#
-pvp_y_7-4.rsw#PvP : ¾Ëº£¸£Å¸#
-pvp_y_8-4.rsw#PvP : ¾Ëº£¸£Å¸#
-pvp_y_1-5.rsw#PvP : ¸ğ·ÎÅ©#
-pvp_y_2-5.rsw#PvP : ¸ğ·ÎÅ©#
-pvp_y_3-5.rsw#PvP : ¸ğ·ÎÅ©#
-pvp_y_4-5.rsw#PvP : ¸ğ·ÎÅ©#
-pvp_y_5-5.rsw#PvP : ¸ğ·ÎÅ©#
-pvp_y_6-5.rsw#PvP : ¸ğ·ÎÅ©#
-pvp_y_7-5.rsw#PvP : ¸ğ·ÎÅ©#
-pvp_y_8-5.rsw#PvP : ¸ğ·ÎÅ©#
-pvp_2vs2.rsw#PvP : ÀÌº¥Æ® °æ±âÀå#
+//rjc_pra1a01.rsw#ƒfƒ…ƒGƒ‹—ûK01‘Ò‹@º[¶]#
+//rjc_pra1b01.rsw#ƒfƒ…ƒGƒ‹—ûK01‘Ò‹@º[‰E]#
+//rjc_pra1a02.rsw#ƒfƒ…ƒGƒ‹—ûK02‘Ò‹@º[¶]#
+//rjc_pra1b02.rsw#ƒfƒ…ƒGƒ‹—ûK02‘Ò‹@º[‰E]#
+//rjc_pra1a03.rsw#ƒfƒ…ƒGƒ‹—ûK03‘Ò‹@º[¶]#
+//rjc_pra1b03.rsw#ƒfƒ…ƒGƒ‹—ûK03‘Ò‹@º[‰E]#
+//rjc_pra1a04.rsw#ƒfƒ…ƒGƒ‹—ûK04‘Ò‹@º[¶]#
+//rjc_pra1b04.rsw#ƒfƒ…ƒGƒ‹—ûK04‘Ò‹@º[‰E]#
+//rjc_pra1a05.rsw#ƒfƒ…ƒGƒ‹—ûK05‘Ò‹@º[¶]#
+//rjc_pra1b05.rsw#ƒfƒ…ƒGƒ‹—ûK05‘Ò‹@º[‰E]#
+//rjc_pra1a06.rsw#ƒfƒ…ƒGƒ‹—ûK06‘Ò‹@º[¶]#
+//rjc_pra1b06.rsw#ƒfƒ…ƒGƒ‹—ûK06‘Ò‹@º[‰E]#
+//rjc_pra1a07.rsw#ƒfƒ…ƒGƒ‹—ûK07‘Ò‹@º[¶]#
+//rjc_pra1b07.rsw#ƒfƒ…ƒGƒ‹—ûK07‘Ò‹@º[‰E]#
+//rjc_pra1a08.rsw#ƒfƒ…ƒGƒ‹—ûK08‘Ò‹@º[¶]#
+//rjc_pra1b08.rsw#ƒfƒ…ƒGƒ‹—ûK08‘Ò‹@º[‰E]#
+//rjc_pra2a01.rsw#ƒoƒgƒ‹—ûK01‘Ò‹@º[¶]#
+//rjc_pra2b01.rsw#ƒoƒgƒ‹—ûK01‘Ò‹@º[‰E]#
+//rjc_pra2a02.rsw#ƒoƒgƒ‹—ûK02‘Ò‹@º[¶]#
+//rjc_pra2b02.rsw#ƒoƒgƒ‹—ûK02‘Ò‹@º[‰E]#
+//rjc_pra2a03.rsw#ƒoƒgƒ‹—ûK03‘Ò‹@º[¶]#
+//rjc_pra2b03.rsw#ƒoƒgƒ‹—ûK03‘Ò‹@º[‰E]#
+//rjc_pra2a04.rsw#ƒoƒgƒ‹—ûK04‘Ò‹@º[¶]#
+//rjc_pra2b04.rsw#ƒoƒgƒ‹—ûK04‘Ò‹@º[‰E]#
+//rjc_pra2a05.rsw#ƒoƒgƒ‹—ûK05‘Ò‹@º[¶]#
+//rjc_pra2b05.rsw#ƒoƒgƒ‹—ûK05‘Ò‹@º[‰E]#
+//rjc_pra2a06.rsw#ƒoƒgƒ‹—ûK06‘Ò‹@º[¶]#
+//rjc_pra2b06.rsw#ƒoƒgƒ‹—ûK06‘Ò‹@º[‰E]#
+//rjc_pra2a07.rsw#ƒoƒgƒ‹—ûK07‘Ò‹@º[¶]#
+//rjc_pra2b07.rsw#ƒoƒgƒ‹—ûK07‘Ò‹@º[‰E]#
+//rjc_pra2a08.rsw#ƒoƒgƒ‹—ûK08‘Ò‹@º[¶]#
+//rjc_pra2b08.rsw#ƒoƒgƒ‹—ûK08‘Ò‹@º[‰E]#
+//rjc_pra3a01.rsw#ƒK[ƒfƒ“—ûK01‘Ò‹@º[¶]#
+//rjc_pra3b01.rsw#ƒK[ƒfƒ“—ûK01‘Ò‹@º[‰E]#
+//rjc_pra3a02.rsw#ƒK[ƒfƒ“—ûK02‘Ò‹@º[¶]#
+//rjc_pra3b02.rsw#ƒK[ƒfƒ“—ûK02‘Ò‹@º[‰E]#
+//rjc_pra3a03.rsw#ƒK[ƒfƒ“—ûK03‘Ò‹@º[¶]#
+//rjc_pra3b03.rsw#ƒK[ƒfƒ“—ûK03‘Ò‹@º[‰E]#
+//rjc_pra3a04.rsw#ƒK[ƒfƒ“—ûK04‘Ò‹@º[¶]#
+//rjc_pra3b04.rsw#ƒK[ƒfƒ“—ûK04‘Ò‹@º[‰E]#
+//rjc_pra3a05.rsw#ƒK[ƒfƒ“—ûK05‘Ò‹@º[¶]#
+//rjc_pra3b05.rsw#ƒK[ƒfƒ“—ûK05‘Ò‹@º[‰E]#
+//rjc_pra3a06.rsw#ƒK[ƒfƒ“—ûK06‘Ò‹@º[¶]#
+//rjc_pra3b06.rsw#ƒK[ƒfƒ“—ûK06‘Ò‹@º[‰E]#
+//rjc_pra3a07.rsw#ƒK[ƒfƒ“—ûK07‘Ò‹@º[¶]#
+//rjc_pra3b07.rsw#ƒK[ƒfƒ“—ûK07‘Ò‹@º[‰E]#
+//rjc_pra3a08.rsw#ƒK[ƒfƒ“—ûK08‘Ò‹@º[¶]#
+//rjc_pra3b08.rsw#ƒK[ƒfƒ“—ûK08‘Ò‹@º[‰E]#
+//rjc_pra4a01.rsw#ƒƒCƒ„ƒ‹—ûK01‘Ò‹@º[¶]#
+//rjc_pra4b01.rsw#ƒƒCƒ„ƒ‹—ûK01‘Ò‹@º[‰E]#
+//rjc_pra4a02.rsw#ƒƒCƒ„ƒ‹—ûK02‘Ò‹@º[¶]#
+//rjc_pra4b02.rsw#ƒƒCƒ„ƒ‹—ûK02‘Ò‹@º[‰E]#
+//rjc_pra4a03.rsw#ƒƒCƒ„ƒ‹—ûK03‘Ò‹@º[¶]#
+//rjc_pra4b03.rsw#ƒƒCƒ„ƒ‹—ûK03‘Ò‹@º[‰E]#
+//rjc_pra4a04.rsw#ƒƒCƒ„ƒ‹—ûK04‘Ò‹@º[¶]#
+//rjc_pra4b04.rsw#ƒƒCƒ„ƒ‹—ûK04‘Ò‹@º[‰E]#
+//rjc_pra4a05.rsw#ƒƒCƒ„ƒ‹—ûK05‘Ò‹@º[¶]#
+//rjc_pra4b05.rsw#ƒƒCƒ„ƒ‹—ûK05‘Ò‹@º[‰E]#
+//rjc_pra4a06.rsw#ƒƒCƒ„ƒ‹—ûK06‘Ò‹@º[¶]#
+//rjc_pra4b06.rsw#ƒƒCƒ„ƒ‹—ûK06‘Ò‹@º[‰E]#
+//rjc_pra4a07.rsw#ƒƒCƒ„ƒ‹—ûK07‘Ò‹@º[¶]#
+//rjc_pra4b07.rsw#ƒƒCƒ„ƒ‹—ûK07‘Ò‹@º[‰E]#
+//rjc_pra4a08.rsw#ƒƒCƒ„ƒ‹—ûK08‘Ò‹@º[¶]#
+//rjc_pra4b08.rsw#ƒƒCƒ„ƒ‹—ûK08‘Ò‹@º[‰E]#
+//rjc_p1a01.rsw#‘Ò‹@º01#
+//rjc_p1b01.rsw#‘Ò‹@º02#
+//rjc_p1c01.rsw#‘Ò‹@º03#
+//rjc_p1d01.rsw#‘Ò‹@º04#
+//rjc_p1e01.rsw#‘Ò‹@º05#
+//rjc_p1f01.rsw#‘Ò‹@º06#
+//rjc_p1g01.rsw#‘Ò‹@º07#
+//rjc_p1h01.rsw#‘Ò‹@º08#
+//rjc_p1i01.rsw#‘Ò‹@º09#
+//rjc_p1j01.rsw#‘Ò‹@º10#
+//rjc_p2a01.rsw#‘Ò‹@º11#
+//rjc_p2b01.rsw#‘Ò‹@º12#
+//rjc_p2c01.rsw#‘Ò‹@º13#
+//rjc_p2d01.rsw#‘Ò‹@º14#
+//rjc_p2e01.rsw#‘Ò‹@º15#
+//rjc_p2f01.rsw#‘Ò‹@º16#
+//rjc_p2g01.rsw#‘Ò‹@º17#
+//rjc_p2h01.rsw#‘Ò‹@º18#
+//rjc_p2i01.rsw#‘Ò‹@º19#
+//rjc_p2j01.rsw#‘Ò‹@º20#
+//rjc_p3a01.rsw#‘Ò‹@º21#
+//rjc_p3b01.rsw#‘Ò‹@º22#
+//rjc_p3c01.rsw#‘Ò‹@º23#
+//rjc_p3d01.rsw#‘Ò‹@º24#
+//rjc_p3e01.rsw#‘Ò‹@º25#
+//rjc_p3f01.rsw#‘Ò‹@º26#
+//rjc_p3g01.rsw#‘Ò‹@º27#
+//rjc_p3h01.rsw#‘Ò‹@º28#
+//rjc_p3i01.rsw#‘Ò‹@º29#
+//rjc_p3j01.rsw#‘Ò‹@º30#
+//rjc_p4a01.rsw#‘Ò‹@º31#
+//rjc_p4b01.rsw#‘Ò‹@º32#
+//rjc_p4c01.rsw#‘Ò‹@º33#
+//rjc_p4d01.rsw#‘Ò‹@º34#
+//rjc_p4e01.rsw#‘Ò‹@º35#
+//rjc_p4f01.rsw#‘Ò‹@º36#
+//rjc_p4g01.rsw#‘Ò‹@º37#
+//rjc_p4h01.rsw#‘Ò‹@º38#
+//rjc_p4i01.rsw#‘Ò‹@º39#
+//rjc_p4j01.rsw#‘Ò‹@º40#
+//rjc_p1_01.rsw#ƒfƒ…ƒGƒ‹01#
+//rjc_p1_02.rsw#ƒfƒ…ƒGƒ‹02#
+//rjc_p1_03.rsw#ƒfƒ…ƒGƒ‹03#
+//rjc_p1_04.rsw#ƒfƒ…ƒGƒ‹04#
+//rjc_p1_05.rsw#ƒfƒ…ƒGƒ‹05#
+//rjc_p2_01.rsw#ƒoƒgƒ‹01#
+//rjc_p2_02.rsw#ƒoƒgƒ‹02#
+//rjc_p2_03.rsw#ƒoƒgƒ‹03#
+//rjc_p2_04.rsw#ƒoƒgƒ‹04#
+//rjc_p2_05.rsw#ƒoƒgƒ‹05#
+//rjc_p3_01.rsw#ƒK[ƒfƒ“01#
+//rjc_p3_02.rsw#ƒK[ƒfƒ“02#
+//rjc_p3_03.rsw#ƒK[ƒfƒ“03#
+//rjc_p3_04.rsw#ƒK[ƒfƒ“04#
+//rjc_p3_05.rsw#ƒK[ƒfƒ“05#
+//rjc_p4_01.rsw#ƒƒCƒ„ƒ‹01#
+//rjc_p4_02.rsw#ƒƒCƒ„ƒ‹02#
+//rjc_p4_03.rsw#ƒƒCƒ„ƒ‹03#
+//rjc_p4_04.rsw#ƒƒCƒ„ƒ‹04#
+//rjc_p4_05.rsw#ƒƒCƒ„ƒ‹05#
+//rjc_p1_m.rsw#ƒ‚ƒfƒ‹ƒfƒ…ƒGƒ‹#
+//rjc_p2_m.rsw#ƒ‚ƒfƒ‹ƒoƒgƒ‹#
+//rjc_p3_m.rsw#ƒ‚ƒfƒ‹ƒK[ƒfƒ“#
+//rjc_p4_m.rsw#ƒ‚ƒfƒ‹ƒƒCƒ„ƒ‹#
+//rjc_e1_m.rsw#ƒCƒxƒ“ƒgƒfƒ…ƒGƒ‹#
+//rjc_e2_m.rsw#ƒCƒxƒ“ƒgƒoƒgƒ‹#
+//rjc_e3_m.rsw#ƒCƒxƒ“ƒgƒK[ƒfƒ“#
+//rjc_e4_m.rsw#ƒCƒxƒ“ƒgƒƒCƒ„ƒ‹#
+//rjc_m1_m.rsw#ƒ‚ƒfƒ‹ƒfƒ…ƒGƒ‹(í“¬‰Â”\)#
+//rjc_m2_m.rsw#ƒ‚ƒfƒ‹ƒoƒgƒ‹(í“¬‰Â”\)#
+//rjc_m3_m.rsw#ƒ‚ƒfƒ‹ƒK[ƒfƒ“(í“¬‰Â”\)#
+//rjc_m4_m.rsw#ƒ‚ƒfƒ‹ƒƒCƒ„ƒ‹(í“¬‰Â”\)#
+//rjc_s_a1.rsw#E‹Æ‘I‘ğºuA1`10v#
+//rjc_s_a11.rsw#E‹Æ‘I‘ğºuA11`16v#
+//rjc_s_b1.rsw#E‹Æ‘I‘ğºuB1`10v#
+//rjc_s_b11.rsw#E‹Æ‘I‘ğºuB11`16v#
+//rjc_s_c1.rsw#E‹Æ‘I‘ğºuC1`10v#
+//rjc_s_c11.rsw#E‹Æ‘I‘ğºuC11`16v#
+//rjc_s_d1.rsw#E‹Æ‘I‘ğºuD1`10v#
+//rjc_s_d11.rsw#E‹Æ‘I‘ğºuD11`16v#
+//rjc_s_e1.rsw#E‹Æ‘I‘ğºuE1`10v#
+//rjc_s_e11.rsw#E‹Æ‘I‘ğºuE11`16v#
+//rjc_s_f1.rsw#E‹Æ‘I‘ğºuF1`10v#
+//rjc_s_f11.rsw#E‹Æ‘I‘ğºuF11`16v#
+//rjc_s_g1.rsw#E‹Æ‘I‘ğºuG1`10v#
+//rjc_s_g11.rsw#E‹Æ‘I‘ğºuG11`16v#
+//rjc_s_h1.rsw#E‹Æ‘I‘ğºuH1`10v#
+//rjc_s_h11.rsw#E‹Æ‘I‘ğºuH11`16v#
+//rjc_wait01.rsw#‡oêÒ‘Ò‹@º[01]#
+//rjc_wait02.rsw#‡oêÒ‘Ò‹@º[02]#
+//rjc_wait03.rsw#‡oêÒ‘Ò‹@º[03]#
+//rjc_wait04.rsw#‡oêÒ‘Ò‹@º[04]#
+//rjc_wait05.rsw#‡oêÒ‘Ò‹@º[05]#
+//rjc_wait06.rsw#‡oêÒ‘Ò‹@º[06]#
+//rjc_wait07.rsw#‡oêÒ‘Ò‹@º[07]#
+//rjc_wait08.rsw#‡oêÒ‘Ò‹@º[08]#
+//rjc_wait09.rsw#‡oêÒ‘Ò‹@º[09]#
+//rjc_wait10.rsw#‡oêÒ‘Ò‹@º[10]#
+//rjc_wait11.rsw#‡oêÒ‘Ò‹@º[11]#
+//rjc_wait12.rsw#‡oêÒ‘Ò‹@º[12]#
+//rjc_wait13.rsw#‡oêÒ‘Ò‹@º[13]#
+//rjc_wait14.rsw#‡oêÒ‘Ò‹@º[14]#
+//rjc_wait15.rsw#‡oêÒ‘Ò‹@º[15]#
+//rjc_wait16.rsw#‡oêÒ‘Ò‹@º[16]#
+//rjc_wait17.rsw#‡oêÒ‘Ò‹@º[17]#
+//rjc_wait18.rsw#‡oêÒ‘Ò‹@º[18]#
+//rjc_wait19.rsw#‡oêÒ‘Ò‹@º[19]#
+//rjc_wait20.rsw#‡oêÒ‘Ò‹@º[20]#
+//rjc_wait21.rsw#‡oêÒ‘Ò‹@º[21]#
+//rjc_wait22.rsw#‡oêÒ‘Ò‹@º[22]#
+//rjc_wait23.rsw#‡oêÒ‘Ò‹@º[23]#
+//rjc_wait24.rsw#‡oêÒ‘Ò‹@º[24]#
+//rjc_wait25.rsw#‡oêÒ‘Ò‹@º[25]#
+//rjc_wait26.rsw#‡oêÒ‘Ò‹@º[26]#
+//rjc_wait27.rsw#‡oêÒ‘Ò‹@º[27]#
+//rjc_wait28.rsw#‡oêÒ‘Ò‹@º[28]#
+//rjc_wait29.rsw#‡oêÒ‘Ò‹@º[29]#
+//rjc_wait30.rsw#‡oêÒ‘Ò‹@º[30]#
+//rjc_wait31.rsw#‡oêÒ‘Ò‹@º[31]#
+//rjc_wait32.rsw#‡oêÒ‘Ò‹@º[32]#
+//rjc_wait33.rsw#‡oêÒ‘Ò‹@º[33]#
+//rjc_wait34.rsw#‡oêÒ‘Ò‹@º[34]#
+//rjc_wait35.rsw#‡oêÒ‘Ò‹@º[35]#
+//rjc_wait36.rsw#‡oêÒ‘Ò‹@º[36]#
+//rjc_wait37.rsw#‡oêÒ‘Ò‹@º[37]#
+//rjc_wait38.rsw#‡oêÒ‘Ò‹@º[38]#
+//rjc_wait39.rsw#‡oêÒ‘Ò‹@º[39]#
+//rjc_wait40.rsw#‡oêÒ‘Ò‹@º[40]#
+//rjc_wait41.rsw#‡oêÒ‘Ò‹@º[41]#
+//rjc_wait42.rsw#‡oêÒ‘Ò‹@º[42]#
+//rjc_wait43.rsw#‡oêÒ‘Ò‹@º[43]#
+//rjc_wait44.rsw#‡oêÒ‘Ò‹@º[44]#
+//rjc_wait45.rsw#‡oêÒ‘Ò‹@º[45]#
+//rjc_wait46.rsw#‡oêÒ‘Ò‹@º[46]#
+//rjc_wait47.rsw#‡oêÒ‘Ò‹@º[47]#
+//rjc_wait48.rsw#‡oêÒ‘Ò‹@º[48]#
+//rjc_wait49.rsw#‡oêÒ‘Ò‹@º[49]#
+//rjc_wait50.rsw#‡oêÒ‘Ò‹@º[50]#
+//rjc_wait51.rsw#‡oêÒ‘Ò‹@º[51]#
+//rjc_wait52.rsw#‡oêÒ‘Ò‹@º[52]#
+//rjc_wait53.rsw#‡oêÒ‘Ò‹@º[53]#
+//rjc_wait54.rsw#‡oêÒ‘Ò‹@º[54]#
+//rjc_wait55.rsw#‡oêÒ‘Ò‹@º[55]#
+//rjc_wait56.rsw#‡oêÒ‘Ò‹@º[56]#
+//rjc_wait57.rsw#‡oêÒ‘Ò‹@º[57]#
+//rjc_wait58.rsw#‡oêÒ‘Ò‹@º[58]#
+//rjc_wait59.rsw#‡oêÒ‘Ò‹@º[59]#
+//rjc_wait60.rsw#‡oêÒ‘Ò‹@º[60]#
+//rjc_wait61.rsw#‡oêÒ‘Ò‹@º[61]#
+//rjc_wait62.rsw#‡oêÒ‘Ò‹@º[62]#
+//rjc_wait63.rsw#‡oêÒ‘Ò‹@º[63]#
+//rjc_wait64.rsw#‡oêÒ‘Ò‹@º[64]#
+//rjc_ope01.rsw#isŠÇ—1#
+//rjc_ope02.rsw#isŠÇ—2#
+//rjc_ope03.rsw#isŠÇ—3#
+//rjc_ope04.rsw#isŠÇ—4#
+//rjc_ope05.rsw#isŠÇ—5#
+//rjc_ope06.rsw#isŠÇ—6#
+//rjc_ope07.rsw#isŠÇ—7#
+//rjc_ope08.rsw#isŠÇ—8#
+//rjc_pra_c01.rsw#—ûK—pŒP—ûºu1`10v#
+//rjc_pra_c02.rsw#—ûK—pŒP—ûºu11`20v#
+//rjc_pra_c03.rsw#—ûK—pŒP—ûºu21`30v#
+//rjc_pra_c04.rsw#—ûK—pŒP—ûºu31`40v#
+//rjc_pra_c05.rsw#—ûK—pŒP—ûºu41`50v#
+//rjc_pra_c06.rsw#—ûK—pŒP—ûºu51`60v#
+//rjc_pra_c07.rsw#—ûK—pŒP—ûºu61`70v#
+//rjc_pra_c08.rsw#—ûK—pŒP—ûºu71`80v#
+//rjc_pra_c09.rsw#—ûK—pŒP—ûºu81`90v#
+//rjc_pra_c10.rsw#—ûK—pŒP—ûºu91`100v#
+//rjc_pra_c11.rsw#—ûK—pŒP—ûºu101`110v#
+//rjc_pra_c12.rsw#—ûK—pŒP—ûºu111`120v#
+//rjc_pra_c13.rsw#—ûK—pŒP—ûºu121`130v#
+//rjc_pra_ct1.rsw#“üê”Šm”F1#
+//rjc_pra_ct2.rsw#“üê”Šm”F2#
+//rjc_pra_ct3.rsw#“üê”Šm”F3#
+//rjc_pra_ct4.rsw#“üê”Šm”F4#
+//rjc_pra.rsw#ƒLƒƒƒ‰ƒNƒ^[ƒZƒbƒeƒBƒ“ƒO#
+//rjc_pra_set.rsw#‘Îí‘Šè‘Ò‡#
+//------------------------------------------------
+jp_ev_map51.rsw#”g‘Å‚¿Û‚ÌU–h#
+//------------------------------------------------
+1@pump.rsw#’n‰º”r…˜H#
+2@pump.rsw#’n‰º”r…˜H Å‰œ•”#
+//------------------------------------------------
+1@hrbtl1.rsw#‰p—Y‚Ì“¬‹Zê@‘æˆê“¬‹Zê#
+1@hrbtl2.rsw#‰p—Y‚Ì“¬‹Zê@‘æ“ñ“¬‹Zê#
+1@hrbtl3.rsw#‰p—Y‚Ì“¬‹Zê@‘æO“¬‹Zê#
+1@hrbtl4.rsw#‰p—Y‚Ì“¬‹Zê@‘æl“¬‹Zê#
+1@hrwait.rsw#‰p—Y‚Ì“¬‹Zê@Tº#
+//------------------------------------------------
+1@glast.rsw#‰ß‹‚ÌƒOƒ‰ƒXƒgƒwƒCƒ€#
+//------------------------------------------------
+1@air1.rsw#”òs‘D#
+1@air2.rsw#”òs‘D#
+//------------------------------------------------
+1@spa.rsw#–S—ì‚Ì‰¤‹{#
+//------------------------------------------------
+1@rjcd1.rsw#“ÁêŒP—ûê(ƒXƒe[ƒW1)#
+2@rjcd1.rsw#“ÁêŒP—ûê(ƒXƒe[ƒW3)#
+3@rjcd1.rsw#“ÁêŒP—ûê(ƒXƒe[ƒW4)#
+4@rjcd1.rsw#“ÁêŒP—ûê(ƒXƒe[ƒW2)#
+//rjc_lobi.rsw#Lê#
+1@rjcd2.rsw#ƒXƒyƒVƒƒƒ‹ƒ}ƒbƒ`(PT—p)#
+2@rjcd2.rsw#ƒXƒyƒVƒƒƒ‹ƒ}ƒbƒ`(1l—p)#
+3@rjcd2.rsw#‘Ò‹@º#
+4@rjcd2.rsw#ƒƒCƒ„ƒ‹#
+5@rjcd2.rsw#ƒfƒ…ƒGƒ‹#
+6@rjcd2.rsw#ƒoƒgƒ‹#
+7@rjcd2.rsw#ƒK[ƒfƒ“#
+//------------------------------------------------
+lhz_dun_n.rsw#í€Ò‚Ì•æ#
+lhz_dun_n_c.rsw#í€Ò‚Ì•æ(v”O‚ÌŠÔ)#
+//------------------------------------------------
+jp_niflheim.rsw#ƒjƒuƒ‹ƒwƒCƒ€#
+jp_ev_in03.rsw#ƒRƒ“ƒeƒXƒg‰ïê#
+jp_ev_map39.rsw#ŒÃ‚Ñ‚½‘qŒÉB#
+jp_ev_map70.rsw#ŒÃ‚Ñ‚½‘qŒÉA#
+//------------------------------------------------
+t_crack.rsw#‚Ì‹·ŠÔ#
+1@w_o_c.rsw#‰i…‚Ìí#
+2@w_o_c.rsw#‰i…‚Ìí#
+3@w_o_c.rsw#‰i…‚Ìí#
+//------------------------------------------------
+1@selab.rsw#”é–§‚ÌŒ¤‹†Š#
+//------------------------------------------------
+pvp_y_8-6.rsw#PvP : ‹ŒƒtƒFƒCƒˆƒ“#
+payon_01_q.rsw#‹ŒƒtƒFƒCƒˆƒ“ º“à01#
+jp_ev_pay2.rsw#ƒTƒ‚ƒ“ƒp[ƒN#
+payon_p.rsw#‹ŒƒtƒFƒCƒˆƒ“#
+//------------------------------------------------
+jp_ev_map47.rsw#_—l‚Ì•”‰®#
+//------------------------------------------------
+jp_ev_map06.rsw#‚í‚©‚ç‚È‚¢Š#
+//------------------------------------------------
+1@pop1.rsw#^’‹‚ÌŒ·Œ 01#
+1@pop2.rsw#^’‹‚ÌŒ·Œ 02#
+1@pop3.rsw#^’‹‚ÌŒ·Œ 03#
+//------------------------------------------------
+gate_1.rsw#‚í‚©‚ç‚È‚¢Š#
+gate_2.rsw#‚í‚©‚ç‚È‚¢Š#
+jp_ev_map14.rsw#‚í‚©‚ç‚È‚¢Š#
+gate_3.rsw#‚í‚©‚ç‚È‚¢Š#
+jp_ev_map15.rsw#‚í‚©‚ç‚È‚¢Š#
+gate_4.rsw#‚í‚©‚ç‚È‚¢Š#
+jp_ev_map24.rsw#‚í‚©‚ç‚È‚¢Š#
+jp_ev_map25.rsw#‚í‚©‚ç‚È‚¢Š#
+jp_ev_map26.rsw#‚í‚©‚ç‚È‚¢Š#
+jp_ev_map27.rsw#‚í‚©‚ç‚È‚¢Š#
+jp_ev_map29.rsw#‚í‚©‚ç‚È‚¢Š#
+jp_ev_map31.rsw#‚í‚©‚ç‚È‚¢Š#
+jp_ev_map32.rsw#‚í‚©‚ç‚È‚¢Š#
+jp_ev_map33.rsw#‚í‚©‚ç‚È‚¢Š#
+//------------------------------------------------
+reb_base.rsw#”½‹t‚Ìƒx[ƒXƒLƒƒƒ“ƒv#
+reb_camp1.rsw#”½‹t‚Ì‰‹‰ŒP—ûê01#
+reb_camp2.rsw#”½‹t‚Ì“Á•ÊŒP—ûê01#
+reb_camp3.rsw#”½‹t‚Ì‰‹‰ŒP—ûê02#
+reb_camp4.rsw#”½‹t‚Ì“Á•ÊŒP—ûê02#
+//------------------------------------------------
+job_gun.rsw#ƒŠƒxƒŠƒIƒ““]EŠ#
+//------------------------------------------------
+ra_fild11.rsw#ƒ‰ƒwƒ‹ƒtƒB[ƒ‹ƒh 11iƒCƒ_•½Œ´j#
+//------------------------------------------------
+pab_church.rsw#ƒvƒƒ“ƒeƒ‰¹“°’n‰º#
+pab_camp.rsw#ƒvƒƒ“ƒeƒ‰[•£#
+1@pab.rsw#[•£‚Ì‰¤•æ#
+1@pab2.rsw#[•£‚Ì‰¤•æ([•”)#
+1@pag.rsw#‰ß‹‚Ìƒvƒƒ“ƒeƒ‰[•£(’ë‰€)#
+1@par.rsw#‰ß‹‚Ìƒvƒƒ“ƒeƒ‰[•£(ÕâJê)#
+1@pau.rsw#‰ß‹‚Ìƒvƒƒ“ƒeƒ‰[•£(‹ŒsŠX’n)#
+1@pac.rsw#‰ß‹‚Ìƒvƒƒ“ƒeƒ‰[•£(‰ñ˜L)#
+pab_dun01.rsw#ƒvƒƒ“ƒeƒ‰[•£(’ë‰€[1])#
+pab_dun02.rsw#ƒvƒƒ“ƒeƒ‰[•£(ÕâJê[1])#
+pab_dun03.rsw#ƒvƒƒ“ƒeƒ‰[•£(‰ñ˜L[1])#
+pab_dun04.rsw#ƒvƒƒ“ƒeƒ‰[•£(‹ŒsŠX’n[1])#
+pab_dun01c.rsw#ƒvƒƒ“ƒeƒ‰[•£(’ë‰€[2])#
+pab_dun02c.rsw#ƒvƒƒ“ƒeƒ‰[•£(ÕâJê[2])#
+pab_dun03c.rsw#ƒvƒƒ“ƒeƒ‰[•£(‰ñ˜L[2])#
+pab_dun04c.rsw#ƒvƒƒ“ƒeƒ‰[•£(‹ŒsŠX’n[2])#
+pab_dun05.rsw#ƒvƒƒ“ƒeƒ‰[•£•\‘w(’ë‰€[1])#
+pab_dun07.rsw#ƒvƒƒ“ƒeƒ‰[•£•\‘w(‰ñ˜L[1])#
+pab_dun05c.rsw#ƒvƒƒ“ƒeƒ‰[•£•\‘w(’ë‰€[2])#
+pab_dun07c.rsw#ƒvƒƒ“ƒeƒ‰[•£•\‘w(‰ñ˜L[2])#
+//------------------------------------------------
+1@gl_kh.rsw#ŒÃ‚Ì‹Rm’c01(ƒn[ƒh)#
+2@gl_kh.rsw#ŒÃ‚Ì‹Rm’c02(ƒn[ƒh)#
+//------------------------------------------------
+jp_ev_map62.rsw#ƒtƒ“ƒM‘°‚Ì‘º(ƒGƒ“ƒgƒ‰ƒ“ƒX)#
+jp_ev_map63.rsw#ƒtƒ“ƒM‘°‚Ì‘º#
+jp_ev_map66.rsw#“ƒ‚Ì“ü‚èŒû#
+//------------------------------------------------
+jp_nifin01.rsw#–‚—‚ÌŠÙ(º“à)#
+hallow_02.rsw#‘åŠ˜‚Ì’ê#
+//------------------------------------------------
+1@mir.rsw#‰ß‹‚Ì‹V®‚ÌŠÔ#
+2@mir.rsw#‹V®‚ÌŠÔ#
+1@sthb.rsw#‹ó’†—vÇ“à•”#
+1@sthc.rsw#‹ó’†—vÇ”é–§‚Ì•”‰®#
+1@sthd.rsw#‹ó’†—vÇÅãŠK#
+prt_cas.rsw#ƒvƒƒ“ƒeƒ‰’†‰›‹{#
+prt_cas_q.rsw#ƒvƒƒ“ƒeƒ‰—£‹{#
+prt_prison.rsw#ƒvƒƒ“ƒeƒ‰’n‰ºŠÄ–#
+prt_lib.rsw#‰¤‰Æ‚Ì‹L‰¯‚ÌŠÔ#
+prt_lib_q.rsw#‰ß‹‚Ì‰¤‰Æ‚Ì‹L‰¯‚ÌŠÔ#
+prt_q.rsw#NU‚³‚ê‚½ƒvƒƒ“ƒeƒ‰(”ğ“ï’n)#
+prt_pri00.rsw#ƒvƒƒ“ƒeƒ‰ŠÄ–#
+prt_q_jp.rsw#NU‚³‚ê‚½ƒvƒƒ“ƒeƒ‰#
+mir_q.rsw#‰ß‹‚Ì‹V®‚ÌŠÔ(ƒNƒGƒXƒg)#
+//------------------------------------------------
+lby_in.rsw#–À‹{’²¸’cƒLƒƒƒ“ƒv#
+1@la_00.rsw#—û‚Ì–À‹{ —û‚Ì–å#
+2@la_00.rsw#—û‚Ì–À‹{ ‘å÷‚ÌŠ²#
+2@la_01.rsw#—û‚Ì–À‹{ V—Î‚Ì‘å÷#
+2@la_02.rsw#—û‚Ì–À‹{ V—Î‚Ì‘å÷#
+2@la_03.rsw#—û‚Ì–À‹{ V—Î‚Ì‘å÷#
+2@la_04.rsw#—û‚Ì–À‹{ –‚‚ÌŒÎ#
+2@la_05.rsw#—û‚Ì–À‹{ –‚‚ÌŒÎ#
+2@la_06.rsw#—û‚Ì–À‹{ –‚‚ÌŒÎ#
+2@la_07.rsw#—û‚Ì–À‹{ »‚Ì“´ŒŠ#
+2@la_08.rsw#—û‚Ì–À‹{ »‚Ì“´ŒŠ#
+2@la_09.rsw#—û‚Ì–À‹{ ŒÃ‘ãˆâÕ#
+2@la_10.rsw#—û‚Ì–À‹{ ŒÃ‘ãˆâÕ#
+2@la_11.rsw#—û‚Ì–À‹{ ŒÃ‘ãˆâÕ#
+2@la_12.rsw#—û‚Ì–À‹{ ŒÃ‘ãˆâÕ#
+2@la_13.rsw#—û‚Ì–À‹{ °‚Ì˜S–#
+2@la_14.rsw#—û‚Ì–À‹{ °‚Ì˜S–#
+2@la_15.rsw#—û‚Ì–À‹{ °‚Ì˜S–#
+2@la_16.rsw#—û‚Ì–À‹{ °‚Ì˜S–#
+2@la_17.rsw#—û‚Ì–À‹{ ŸŒ³‚Ì—ô‚¯–Ú#
+2@la_18.rsw#—û‚Ì–À‹{ ŸŒ³‚Ì—ô‚¯–Ú#
+2@la_19.rsw#—û‚Ì–À‹{ ’Q‚«‚Ì”pé#
+2@la_20.rsw#—û‚Ì–À‹{ ’Q‚«‚Ì”pé#
+2@la_21.rsw#—û‚Ì–À‹{ ’Q‚«‚Ì”pé#
+2@la_22.rsw#—û‚Ì–À‹{ ’Q‚«‚Ì”pé#
+2@la_23.rsw#—û‚Ì–À‹{ ”pé‚Ì’n‰º’Ê˜H#
+2@la_24.rsw#—û‚Ì–À‹{ ”pé‚Ì’n‰º’Ê˜H#
+2@la_25.rsw#—û‚Ì–À‹{ âq‚ê‚ÌŠÄ–#
+2@la_26.rsw#—û‚Ì–À‹{ âq‚ê‚ÌŠÄ–#
+2@la_27.rsw#—û‚Ì–À‹{ –²Œ¶‚Ì“¹#
+2@la_28.rsw#—û‚Ì–À‹{ –²Œ¶‚Ì“¹#
+2@la_29.rsw#—û‚Ì–À‹{ –²Œ¶‚Ì“¹#
+2@la_30.rsw#—û‚Ì–À‹{ ‹ÖŠõ‚ÌÀŒ±ê#
+2@la_31.rsw#—û‚Ì–À‹{ ‹ÖŠõ‚ÌÀŒ±ê#
+2@la_99.rsw#—û‚Ì–À‹{ ‰B‚³‚ê‚½¹ˆæ#
+3@la_00.rsw#—û‚Ì–À‹{ ‰i‰“‚Ìˆ«–²#
+4@la_00.rsw#—û‚Ì–À‹{ –²‚ÌI“_#
+5@la_00.rsw#—û‚Ì–À‹{ –²‚ÌI‚í‚è#
+1@lb_00.rsw#••ˆó‚Ì–À‹{ ••ˆó‚Ì–å#
+2@lb_00.rsw#••ˆó‚Ì–À‹{ ‘å÷‚ÌŠ²#
+2@lb_01.rsw#••ˆó‚Ì–À‹{ V—Î‚Ì‘å÷#
+2@lb_02.rsw#••ˆó‚Ì–À‹{ V—Î‚Ì‘å÷#
+2@lb_03.rsw#••ˆó‚Ì–À‹{ V—Î‚Ì‘å÷#
+2@lb_04.rsw#••ˆó‚Ì–À‹{ –‚‚ÌŒÎ#
+2@lb_05.rsw#••ˆó‚Ì–À‹{ –‚‚ÌŒÎ#
+2@lb_06.rsw#••ˆó‚Ì–À‹{ –‚‚ÌŒÎ#
+2@lb_07.rsw#••ˆó‚Ì–À‹{ »‚Ì“´ŒŠ#
+2@lb_08.rsw#••ˆó‚Ì–À‹{ »‚Ì“´ŒŠ#
+2@lb_09.rsw#••ˆó‚Ì–À‹{ ŒÃ‘ãˆâÕ#
+2@lb_10.rsw#••ˆó‚Ì–À‹{ ŒÃ‘ãˆâÕ#
+2@lb_11.rsw#••ˆó‚Ì–À‹{ ŒÃ‘ãˆâÕ#
+2@lb_12.rsw#••ˆó‚Ì–À‹{ ŒÃ‘ãˆâÕ#
+2@lb_13.rsw#••ˆó‚Ì–À‹{ °‚Ì˜S–#
+2@lb_14.rsw#••ˆó‚Ì–À‹{ °‚Ì˜S–#
+2@lb_15.rsw#••ˆó‚Ì–À‹{ °‚Ì˜S–#
+2@lb_16.rsw#••ˆó‚Ì–À‹{ °‚Ì˜S–#
+2@lb_17.rsw#••ˆó‚Ì–À‹{ ŸŒ³‚Ì—ô‚¯–Ú#
+2@lb_18.rsw#••ˆó‚Ì–À‹{ ŸŒ³‚Ì—ô‚¯–Ú#
+2@lb_19.rsw#••ˆó‚Ì–À‹{ ’Q‚«‚Ì”pé#
+2@lb_20.rsw#••ˆó‚Ì–À‹{ ’Q‚«‚Ì”pé#
+2@lb_21.rsw#••ˆó‚Ì–À‹{ ’Q‚«‚Ì”pé#
+2@lb_22.rsw#••ˆó‚Ì–À‹{ ’Q‚«‚Ì”pé#
+2@lb_23.rsw#••ˆó‚Ì–À‹{ ”pé‚Ì’n‰º’Ê˜H#
+2@lb_24.rsw#••ˆó‚Ì–À‹{ ”pé‚Ì’n‰º’Ê˜H#
+2@lb_25.rsw#••ˆó‚Ì–À‹{ âq‚ê‚ÌŠÄ–#
+2@lb_26.rsw#••ˆó‚Ì–À‹{ âq‚ê‚ÌŠÄ–#
+2@lb_27.rsw#••ˆó‚Ì–À‹{ –²Œ¶‚Ì“¹#
+2@lb_28.rsw#••ˆó‚Ì–À‹{ –²Œ¶‚Ì“¹#
+2@lb_29.rsw#••ˆó‚Ì–À‹{ –²Œ¶‚Ì“¹#
+2@lb_30.rsw#••ˆó‚Ì–À‹{ ‹ÖŠõ‚ÌÀŒ±ê#
+2@lb_31.rsw#••ˆó‚Ì–À‹{ ‹ÖŠõ‚ÌÀŒ±ê#
+2@lb_99.rsw#••ˆó‚Ì–À‹{ ‰B‚³‚ê‚½¹ˆæ#
+3@lb_00.rsw#••ˆó‚Ì–À‹{ ‰i‰“‚Ìˆ«–²#
+4@lb_00.rsw#••ˆó‚Ì–À‹{ –²‚ÌI“_#
+5@lb_00.rsw#••ˆó‚Ì–À‹{ –²‚ÌI‚í‚è#
+//------------------------------------------------
+jp_ev_map71.rsw#ƒQƒtƒFƒ“’n‰ºŠu—£‹óŠÔ#
+//------------------------------------------------
+1@stg.rsw#ˆê‹R‘Å‚¿#
+//------------------------------------------------
+jp_ev_map05.rsw#“ÁêÀŒ±{İDaNu#
+jp_ev_map08.rsw#“Áê••½’n‹æDaNu#
+jp_ev_map61.rsw#“Áê••½’n‹æDaNu#
+jp_ev_map64.rsw#“Áê••½’n‹æDaNu#
+jp_ev_map65.rsw#“Áê••½’n‹æDaNu#
+jp_ev_map35.rsw#‚í‚©‚ç‚È‚¢Š#
+jp_ev_map36.rsw#‚í‚©‚ç‚È‚¢Š#
+jp_ev_map37.rsw#‚í‚©‚ç‚È‚¢Š#
+jp_ev_map41.rsw#‚í‚©‚ç‚È‚¢Š#
+jp_ev_map42.rsw#‚í‚©‚ç‚È‚¢Š#
+jp_ev_map43.rsw#‚í‚©‚ç‚È‚¢Š#
+jp_ev_map44.rsw#‚í‚©‚ç‚È‚¢Š#
+jp_ev_map45.rsw#‚í‚©‚ç‚È‚¢Š#
+jp_ev_map46.rsw#‚í‚©‚ç‚È‚¢Š#
+jp_ev_map48.rsw#‚í‚©‚ç‚È‚¢Š#
+jp_ev_map52.rsw#‚í‚©‚ç‚È‚¢Š#
+//------------------------------------------------
+tower_a0.rsw#‚í‚©‚ç‚È‚¢Š#
+tower_a1.rsw#‚í‚©‚ç‚È‚¢Š#
+tower_a2.rsw#‚í‚©‚ç‚È‚¢Š#
+tower_a3.rsw#‚í‚©‚ç‚È‚¢Š#
+tower_a4.rsw#‚í‚©‚ç‚È‚¢Š#
+tower_a5.rsw#‚í‚©‚ç‚È‚¢Š#
+tower_a6.rsw#‚í‚©‚ç‚È‚¢Š#
+tower_a7.rsw#‚í‚©‚ç‚È‚¢Š#
+tower_a8.rsw#‚í‚©‚ç‚È‚¢Š#
+tower_a9.rsw#‚í‚©‚ç‚È‚¢Š#
+tower_a10.rsw#‚í‚©‚ç‚È‚¢Š#
+tower_a11.rsw#‚í‚©‚ç‚È‚¢Š#
+//tower_a12.rsw#‚í‚©‚ç‚È‚¢Š#
+tower_b0.rsw#‚í‚©‚ç‚È‚¢Š#
+tower_b1.rsw#‚í‚©‚ç‚È‚¢Š#
+tower_b2.rsw#‚í‚©‚ç‚È‚¢Š#
+tower_b3.rsw#‚í‚©‚ç‚È‚¢Š#
+tower_b3.rsw#‚í‚©‚ç‚È‚¢Š#
+tower_b4.rsw#‚í‚©‚ç‚È‚¢Š#
+tower_b5.rsw#‚í‚©‚ç‚È‚¢Š#
+tower_b6.rsw#‚í‚©‚ç‚È‚¢Š#
+tower_b7.rsw#‚í‚©‚ç‚È‚¢Š#
+tower_b8.rsw#‚í‚©‚ç‚È‚¢Š#
+tower_b9.rsw#‚í‚©‚ç‚È‚¢Š#
+tower_b10.rsw#‚í‚©‚ç‚È‚¢Š#
+tower_b11.rsw#‚í‚©‚ç‚È‚¢Š#
+//tower_b12.rsw#‚í‚©‚ç‚È‚¢Š#
+tower_c0.rsw#‚í‚©‚ç‚È‚¢Š#
+tower_c1.rsw#‚í‚©‚ç‚È‚¢Š#
+tower_c2.rsw#‚í‚©‚ç‚È‚¢Š#
+tower_c3.rsw#‚í‚©‚ç‚È‚¢Š#
+tower_c4.rsw#‚í‚©‚ç‚È‚¢Š#
+tower_c5.rsw#‚í‚©‚ç‚È‚¢Š#
+tower_c6.rsw#‚í‚©‚ç‚È‚¢Š#
+tower_c7.rsw#‚í‚©‚ç‚È‚¢Š#
+tower_c8.rsw#‚í‚©‚ç‚È‚¢Š#
+tower_c9.rsw#‚í‚©‚ç‚È‚¢Š#
+tower_c10.rsw#‚í‚©‚ç‚È‚¢Š#
+tower_c11.rsw#‚í‚©‚ç‚È‚¢Š#
+//tower_c12.rsw#‚í‚©‚ç‚È‚¢Š#
+tower_d0.rsw#‚í‚©‚ç‚È‚¢Š#
+tower_d1.rsw#‚í‚©‚ç‚È‚¢Š#
+tower_d2.rsw#‚í‚©‚ç‚È‚¢Š#
+tower_d3.rsw#‚í‚©‚ç‚È‚¢Š#
+tower_d4.rsw#‚í‚©‚ç‚È‚¢Š#
+tower_d5.rsw#‚í‚©‚ç‚È‚¢Š#
+tower_d6.rsw#‚í‚©‚ç‚È‚¢Š#
+tower_d7.rsw#‚í‚©‚ç‚È‚¢Š#
+tower_d8.rsw#‚í‚©‚ç‚È‚¢Š#
+tower_d9.rsw#‚í‚©‚ç‚È‚¢Š#
+tower_d10.rsw#‚í‚©‚ç‚È‚¢Š#
+tower_d11.rsw#‚í‚©‚ç‚È‚¢Š#
+//tower_d12.rsw#‚í‚©‚ç‚È‚¢Š#
+jp_ev_map50.rsw#ƒtƒ‹[ƒ^ƒvƒƒCƒr[ƒ_W‰ïŠ#
+jp_ev_map01.rsw#‚í‚©‚ç‚È‚¢Š#
+jp_ev_map02.rsw#‚í‚©‚ç‚È‚¢Š#
+jp_ev_map04.rsw#‚í‚©‚ç‚È‚¢Š#
+//------------------------------------------------
+pab_castle.rsw#ƒvƒƒ“ƒeƒ‰[•£(—I‹v‚Ì‹u)#
+pab_dun09.rsw#ƒvƒƒ“ƒeƒ‰[•£ŠO‰(X—Ñ[1])#
+pab_dun10.rsw#ƒvƒƒ“ƒeƒ‰[•£ŠO‰(Œk’J[1])#
+pab_dun09c.rsw#ƒvƒƒ“ƒeƒ‰[•£ŠO‰(X—Ñ[2])#
+pab_dun10c.rsw#ƒvƒƒ“ƒeƒ‰[•£ŠO‰(Œk’J[2])#
+1@ct_00.rsw#‰¤éƒeƒBƒAƒ}ƒg(‰¤é“üŒû)#
+1@ct_01.rsw#‰¤éƒeƒBƒAƒ}ƒg#
+1@ct_02.rsw#‰¤éƒeƒBƒAƒ}ƒg#
+1@ct_03.rsw#‰¤éƒeƒBƒAƒ}ƒg#
+1@ct_04.rsw#‰¤éƒeƒBƒAƒ}ƒg#
+1@ct_05.rsw#‰¤éƒeƒBƒAƒ}ƒg#
+1@ct_06.rsw#‰¤éƒeƒBƒAƒ}ƒg#
+1@ct_07.rsw#‰¤éƒeƒBƒAƒ}ƒg#
+1@ct_08.rsw#‰¤éƒeƒBƒAƒ}ƒg#
+1@ct_09.rsw#‰¤éƒeƒBƒAƒ}ƒg#
+1@ct_10.rsw#‰¤éƒeƒBƒAƒ}ƒg#
+1@ct_11.rsw#‰¤éƒeƒBƒAƒ}ƒg#
+1@ct_12.rsw#‰¤éƒeƒBƒAƒ}ƒg#
+1@ct_13.rsw#‰¤éƒeƒBƒAƒ}ƒg#
+1@ct_14.rsw#‰¤éƒeƒBƒAƒ}ƒg#
+1@ct_15.rsw#‰¤éƒeƒBƒAƒ}ƒg#
+1@ct_16.rsw#‰¤éƒeƒBƒAƒ}ƒg#
+1@ct_17.rsw#‰¤éƒeƒBƒAƒ}ƒg#
+1@ct_18.rsw#‰¤éƒeƒBƒAƒ}ƒg#
+1@ct_19.rsw#‰¤éƒeƒBƒAƒ}ƒg#
+1@ct_20.rsw#‰¤éƒeƒBƒAƒ}ƒg#
+1@ct_22.rsw#‰¤éƒeƒBƒAƒ}ƒg#
+1@ct_23.rsw#‰¤éƒeƒBƒAƒ}ƒg#
+1@ct_25.rsw#‰¤éƒeƒBƒAƒ}ƒg#
+1@ct_26.rsw#‰¤éƒeƒBƒAƒ}ƒg#
+1@ct_29.rsw#‰¤éƒeƒBƒAƒ}ƒg#
+1@ct_30.rsw#‰¤éƒeƒBƒAƒ}ƒg#
+1@ct_31.rsw#‰¤éƒeƒBƒAƒ}ƒg#
+1@ct_32.rsw#‰¤éƒeƒBƒAƒ}ƒg#
+1@ct_33.rsw#‰¤éƒeƒBƒAƒ}ƒg#
+1@ct_34.rsw#‰¤éƒeƒBƒAƒ}ƒg#
+1@ct_35.rsw#‰¤éƒeƒBƒAƒ}ƒg#
+1@ct_36.rsw#‰¤éƒeƒBƒAƒ}ƒg#
+1@ct_37.rsw#‰¤éƒeƒBƒAƒ}ƒg#
+1@ct_38.rsw#‰¤éƒeƒBƒAƒ}ƒg#
+1@ct_39.rsw#‰¤éƒeƒBƒAƒ}ƒg#
+1@ct_40.rsw#‰¤éƒeƒBƒAƒ}ƒg#
+1@ct_41.rsw#‰¤éƒeƒBƒAƒ}ƒg#
+1@ct_42.rsw#‰¤éƒeƒBƒAƒ}ƒg#
+1@ct_43.rsw#‰¤éƒeƒBƒAƒ}ƒg#
+1@ct_44.rsw#‰¤éƒeƒBƒAƒ}ƒg#
+1@ct_45.rsw#‰¤éƒeƒBƒAƒ}ƒg#
+1@ct_46.rsw#‰¤éƒeƒBƒAƒ}ƒg#
+1@ct_47.rsw#‰¤éƒeƒBƒAƒ}ƒg#
+1@ct_48.rsw#‰¤éƒeƒBƒAƒ}ƒg#
+1@ct_49.rsw#‰¤éƒeƒBƒAƒ}ƒg#
+1@ct_50.rsw#‰¤éƒeƒBƒAƒ}ƒg#
+1@ct_51.rsw#‰¤éƒeƒBƒAƒ}ƒg#
+1@ct_52.rsw#‰¤éƒeƒBƒAƒ}ƒg#
+1@ct_53.rsw#‰¤éƒeƒBƒAƒ}ƒg#
+1@ct_54.rsw#‰¤éƒeƒBƒAƒ}ƒg#
+1@ct_55.rsw#‰¤éƒeƒBƒAƒ}ƒg#
+1@ct_56.rsw#‰¤éƒeƒBƒAƒ}ƒg#
+1@ct_57.rsw#‰¤éƒeƒBƒAƒ}ƒg#
+1@ct_58.rsw#‰¤éƒeƒBƒAƒ}ƒg#
+1@ct_59.rsw#‰¤éƒeƒBƒAƒ}ƒg#
+1@ct_60.rsw#‰¤éƒeƒBƒAƒ}ƒg#
+1@ct_61.rsw#‰¤éƒeƒBƒAƒ}ƒg#
+1@ct_62.rsw#‰¤éƒeƒBƒAƒ}ƒg#
+1@ct_63.rsw#‰¤éƒeƒBƒAƒ}ƒg#
+2@ct_00.rsw#‰¤éƒeƒBƒAƒ}ƒg(’n‰ºÕ’d)#
+2@ct_01.rsw#‰¤éƒeƒBƒAƒ}ƒg(’n‰ºÕ‹Vê)#
+2@ct_02.rsw#‰¤éƒeƒBƒAƒ}ƒg([•£‚Ì‹ÊÀ)#
+3@ct_00.rsw#‰¤éƒeƒBƒAƒ}ƒg(”é–§‚Ì•”‰®)#
+//------------------------------------------------
+rebel_in.rsw#ƒNƒ‰ƒiƒlƒ~ƒGƒŠ[#
+1@swat.rsw#ƒn[ƒgƒnƒ“ƒ^[ŒR–Šî’n(ŠOŠs)#
+2@swat.rsw#ƒn[ƒgƒnƒ“ƒ^[ŒR–Šî’n(ŒP—ûê)#
+que_swat.rsw#ƒn[ƒgƒnƒ“ƒ^[ŒR–Šî’n#
+slabw01.rsw#ƒ”ƒFƒ‹ƒi[Œ¤‹†Š A“#
+slabw01_jp2.rsw#ƒ”ƒFƒ‹ƒi[Œ¤‹†Š B“#
+slabw01_jp.rsw#ƒ”ƒFƒ‹ƒi[Œ¤‹†Š C“#
+slabw01_jp3.rsw#ƒ”ƒFƒ‹ƒi[Œ¤‹†Š D“#
+slabw01_qjp.rsw#ƒ”ƒFƒ‹ƒi[Œ¤‹†Š#
+1@slw.rsw#ƒ”ƒFƒ‹ƒi[Œ¤‹†Š’†‰›º#
+2@slw.rsw#ƒ”ƒFƒ‹ƒi[Œ¤‹†Š’†‰›º#
+//------------------------------------------------
+jp_ev_map40.rsw#¹“°éÇ#
+jp_ev_map53.rsw#¹“°éÇ#
+jp_ev_map54.rsw#›‰@“üŒû#
+jp_ev_map55.rsw#ÎŒA›‰@(’n‰º•æ’n)#
+jp_ev_map56.rsw#ÎŒA›‰@(••ˆó‚ÌÕ’d)#
+jp_ev_map57.rsw#¹“°éÇ(‹Œ‰~‘ì‚ÌŠÔ)#
+1@maq1.rsw#ÎŒA›‰@’n‰º1ŠK(”÷Œõ)#
+2@maq1.rsw#ÎŒA›‰@’n‰º2ŠK(”÷Œõ)#
+3@maq1.rsw#ÎŒA›‰@’n‰º3ŠK(”÷Œõ)#
+4@maq1.rsw#ÎŒA›‰@’n‰º(¯—‚Ì’n)#
+1@maq2.rsw#ÎŒA›‰@’n‰º1ŠK(”–ˆÅ)#
+2@maq2.rsw#ÎŒA›‰@’n‰º2ŠK(”–ˆÅ)#
+3@maq2.rsw#ÎŒA›‰@’n‰º3ŠK(”–ˆÅ)#
+4@maq2.rsw#ÎŒA›‰@’n‰º(¯—‚Ì’n)#
+1@maq3.rsw#ÎŒA›‰@’n‰º1ŠK(–³–¾)#
+2@maq3.rsw#ÎŒA›‰@’n‰º2ŠK(–³–¾)#
+3@maq3.rsw#ÎŒA›‰@’n‰º3ŠK(–³–¾)#
+4@maq3.rsw#ÎŒA›‰@’n‰º(¯—‚Ì’n)#
+//------------------------------------------------
+jp_ev_map07.rsw#‚í‚©‚ç‚È‚¢Š#
+//------------------------------------------------
+jp_ev_map09.rsw#ƒLƒbƒREƒ‚ƒXƒgƒ#
+jp_ev_map10.rsw#ƒLƒbƒREƒ‚ƒXƒgƒi“X’·‚Ì•”‰®j#
+jp_ev_map11.rsw#ƒLƒbƒREƒ‚ƒXƒgƒi“X’·‚Ì•”‰®j#
+jp_ev_map12.rsw#ŒÃ‚Ñ‚½‘qŒÉ#
+jp_ev_map13.rsw#ŒÃ‚Ñ‚½‘qŒÉ#
+//------------------------------------------------
+har_in01.rsw#ƒƒbƒNƒŠƒbƒWº“à#
+harboro1.rsw#ƒƒbƒNƒŠƒbƒW#
+harboro2.rsw#ƒƒbƒNƒŠƒbƒW’n‰ºŠX#
+harboro3.rsw#ƒƒbƒNƒŠƒbƒW’n‰ºŠX ‰œ’n#
+rockmi1.rsw#ƒƒbƒNƒŠƒbƒWzR 01#
+rockmi2.rsw#ƒƒbƒNƒŠƒbƒWzR 02#
+rockmi3.rsw#ƒƒbƒNƒŠƒbƒWzR 01 ‰œ’n#
+rockrdg1.rsw#ƒLƒƒ»”™ 01#
+rockrdg2.rsw#ƒLƒƒ»”™ 02#
+rockrdg1_q.rsw#ƒLƒƒ»”™ 01#
+rockrdg2_q.rsw#ƒLƒƒ»”™ 02#
+//------------------------------------------------
+jp_ev_map38.rsw#‹‰Ø‹q‘DƒS[ƒ‹ƒfƒ“EƒOƒ[ƒŠ[†iƒS[ƒ‹ƒfƒ“ƒ‰ƒEƒ“ƒWj#
+jp_ev_map23.rsw#‘D’…‚«ê#
+//------------------------------------------------
+gate_in.rsw#–İ‚Â‚«‰ïê#
+jp_ev_map03.rsw#‘ú—g‚°‰ïê#
+//------------------------------------------------
+jp_ev_map16.rsw#“Vã‚ÌƒK[ƒfƒ“#
+jp_ev_map17.rsw#B‰e‰ïê(”é–§‚ÌêŠ)#
+jp_ev_map18.rsw#B‰e‰ïê(ƒTƒ“ƒSÊ)#
+jp_ev_map19.rsw#B‰e‰ïê(ˆÙ¢ŠE‚ÌX)#
+jp_ev_map20.rsw#B‰e‰ïê(í‰Ä‚Ì“‡)#
+jp_ev_map21.rsw#B‰e‰ïê(”e‰¤‚ÌŠÔ)#
+jp_ev_map22.rsw#B‰e‰ïê(€Ò‚ÌŠX)#
+//------------------------------------------------
+//[file end]

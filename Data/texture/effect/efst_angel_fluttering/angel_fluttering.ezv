@@ -2,7 +2,7 @@ EVFF0.95
 
 fps=60
 
-maxkey=160
+maxkey=225
 
 layernum=15
 
@@ -54,7 +54,7 @@ layer:dandan3-1
         uvsbias2=0.0000
     }
     {
-        frame=115
+        frame=130
         aniframe=0
         anitype=0
         delay=0.0000
@@ -80,11 +80,11 @@ layer:dandan3-1
         uvsbias2=0.0000
     }
     {
-        frame=40
+        frame=50
         aniframe=0
         anitype=0
         delay=0.0000
-        pos=313.6500,207.8250
+        pos=296.6500,208.8250
         uv=0.0000,0.0000
         uvs=1.0000,1.0000
         uv2=0.0000,0.0000
@@ -106,7 +106,7 @@ layer:dandan3-1
         uvsbias2=0.0000
     }
     {
-        frame=150
+        frame=190
         aniframe=0
         anitype=0
         delay=0.0000
@@ -141,7 +141,7 @@ layer:dandan3
     texcnt=1
     texname=tenfe.bmp
 
-    anikeynum=3
+    anikeynum=4
 
     {
         frame=25
@@ -170,7 +170,7 @@ layer:dandan3
         uvsbias2=0.0000
     }
     {
-        frame=145
+        frame=180
         aniframe=0
         anitype=0
         delay=0.0000
@@ -196,7 +196,7 @@ layer:dandan3
         uvsbias2=0.0000
     }
     {
-        frame=90
+        frame=120
         aniframe=0
         anitype=0
         delay=0.0000
@@ -221,6 +221,32 @@ layer:dandan3
         uvbias2=0.0000
         uvsbias2=0.0000
     }
+    {
+        frame=75
+        aniframe=0
+        anitype=0
+        delay=0.0000
+        pos=328.1538,177.8462
+        uv=0.0000,0.0000
+        uvs=1.0000,1.0000
+        uv2=0.0000,0.0000
+        uvs2=1.0000,1.0000
+        scale=16.0000,9.0769
+        angle=0.0000,0.0000,55.1385
+        color=255.0,255.0,255.0,78.5, 5,7
+        mtpreset=0
+        points=-8.0000,-4.5385  8.0000,-4.5385  8.0000,4.5385  -8.0000,4.5385
+        rpoints=-6.0472,-6.9303  9.0512,-1.6352  6.0472,6.9303  -9.0512,1.6352
+        bezier=0.0000,0.0000  0.0000,0.0000
+        afbias=0.0000
+        posbias=0.0000
+        ptbias=0.0000
+        angbias=0.0000
+        uvbias=0.0000
+        uvsbias=0.0000
+        uvbias2=0.0000
+        uvsbias2=0.0000
+    }
 }
 
 layer:dandan3
@@ -231,7 +257,7 @@ layer:dandan3
     texcnt=1
     texname=tenfe.bmp
 
-    anikeynum=2
+    anikeynum=4
 
     {
         frame=10
@@ -260,11 +286,11 @@ layer:dandan3
         uvsbias2=0.0000
     }
     {
-        frame=135
+        frame=180
         aniframe=0
         anitype=0
         delay=0.0000
-        pos=300.0000,235.0000
+        pos=320.0000,235.0000
         uv=0.0000,0.0000
         uvs=1.0000,1.0000
         uv2=0.0000,0.0000
@@ -275,6 +301,58 @@ layer:dandan3
         mtpreset=0
         points=-3.5000,-3.5000  3.5000,-3.5000  3.5000,3.5000  -3.5000,3.5000
         rpoints=3.5056,3.4944  -3.4944,3.5056  -3.5056,-3.4944  3.4944,-3.5056
+        bezier=0.0000,0.0000  0.0000,0.0000
+        afbias=0.0000
+        posbias=0.0000
+        ptbias=0.0000
+        angbias=0.0000
+        uvbias=0.0000
+        uvsbias=0.0000
+        uvbias2=0.0000
+        uvsbias2=0.0000
+    }
+    {
+        frame=55
+        aniframe=0
+        anitype=0
+        delay=0.0000
+        pos=337.2400,182.5600
+        uv=0.0000,0.0000
+        uvs=1.0000,1.0000
+        uv2=0.0000,0.0000
+        uvs2=1.0000,1.0000
+        scale=10.8000,10.8000
+        angle=0.0000,0.0000,122.8800
+        color=255.0,255.0,255.0,5.0, 5,7
+        mtpreset=0
+        points=-5.4000,-5.4000  5.4000,-5.4000  5.4000,5.4000  -5.4000,5.4000
+        rpoints=-0.2840,-7.6315  7.6315,-0.2840  0.2840,7.6315  -7.6315,0.2840
+        bezier=0.0000,0.0000  0.0000,0.0000
+        afbias=0.0000
+        posbias=0.0000
+        ptbias=0.0000
+        angbias=0.0000
+        uvbias=0.0000
+        uvsbias=0.0000
+        uvbias2=0.0000
+        uvsbias2=0.0000
+    }
+    {
+        frame=110
+        aniframe=0
+        anitype=0
+        delay=0.0000
+        pos=367.4800,213.1200
+        uv=0.0000,0.0000
+        uvs=1.0000,1.0000
+        uv2=0.0000,0.0000
+        uvs2=1.0000,1.0000
+        scale=9.6000,9.6000
+        angle=0.0000,0.0000,245.7600
+        color=255.0,255.0,255.0,5.0, 5,7
+        mtpreset=0
+        points=-4.8000,-4.8000  4.8000,-4.8000  4.8000,4.8000  -4.8000,4.8000
+        rpoints=4.4614,-5.1162  5.1162,4.4614  -4.4614,5.1162  -5.1162,-4.4614
         bezier=0.0000,0.0000  0.0000,0.0000
         afbias=0.0000
         posbias=0.0000
@@ -324,7 +402,7 @@ layer:dandan2
         uvsbias2=0.0000
     }
     {
-        frame=145
+        frame=180
         aniframe=0
         anitype=0
         delay=0.0000
@@ -350,7 +428,7 @@ layer:dandan2
         uvsbias2=0.0000
     }
     {
-        frame=80
+        frame=100
         aniframe=0
         anitype=0
         delay=0.0000
@@ -414,11 +492,11 @@ layer:dandan2
         uvsbias2=0.0000
     }
     {
-        frame=110
+        frame=130
         aniframe=0
         anitype=0
         delay=0.0000
-        pos=296.0000,252.0000
+        pos=354.0000,252.0000
         uv=0.0000,0.0000
         uvs=1.0000,1.0000
         uv2=0.0000,0.0000
@@ -440,7 +518,7 @@ layer:dandan2
         uvsbias2=0.0000
     }
     {
-        frame=50
+        frame=65
         aniframe=0
         anitype=0
         delay=0.0000
@@ -453,8 +531,8 @@ layer:dandan2
         angle=0.0000,0.0000,315.0769
         color=255.0,255.0,255.0,165.0, 5,7
         mtpreset=0
-        points=-7.6343,-8.0000  8.3657,-8.0000  8.3657,8.0000  -7.6343,8.0000
-        rpoints=10.1810,-4.3162  4.5291,10.6523  -10.4394,5.0004  -4.7874,-9.9681
+        points=7.6343,-8.0000  -8.3657,-8.0000  -8.3657,8.0000  7.6343,8.0000
+        rpoints=4.7874,9.9681  10.4394,-5.0004  -4.5291,-10.6523  -10.1810,4.3161
         bezier=0.0000,0.0000  0.0000,0.0000
         afbias=0.0000
         posbias=0.0000
@@ -466,11 +544,11 @@ layer:dandan2
         uvsbias2=0.0000
     }
     {
-        frame=160
+        frame=190
         aniframe=0
         anitype=0
         delay=0.0000
-        pos=281.0000,265.0000
+        pos=334.0000,270.0000
         uv=0.0000,0.0000
         uvs=1.0000,1.0000
         uv2=0.0000,0.0000
@@ -501,7 +579,7 @@ layer:dandan2
     texcnt=1
     texname=tenfe.bmp
 
-    anikeynum=3
+    anikeynum=5
 
     {
         frame=15
@@ -517,8 +595,8 @@ layer:dandan2
         angle=0.0000,0.0000,0.0000
         color=255.0,255.0,255.0,0.0, 5,7
         mtpreset=0
-        points=-8.0000,-8.0000  8.0000,-8.0000  8.0000,8.0000  -8.0000,8.0000
-        rpoints=-8.0000,-8.0000  8.0000,-8.0000  8.0000,8.0000  -8.0000,8.0000
+        points=8.0000,-8.0000  -8.0000,-8.0000  -8.0000,8.0000  8.0000,8.0000
+        rpoints=8.0000,-8.0000  -8.0000,-8.0000  -8.0000,8.0000  8.0000,8.0000
         bezier=0.0000,0.0000  0.0000,0.0000
         afbias=0.0000
         posbias=0.0000
@@ -530,7 +608,7 @@ layer:dandan2
         uvsbias2=0.0000
     }
     {
-        frame=150
+        frame=210
         aniframe=0
         anitype=0
         delay=0.0000
@@ -556,7 +634,7 @@ layer:dandan2
         uvsbias2=0.0000
     }
     {
-        frame=70
+        frame=105
         aniframe=0
         anitype=0
         delay=0.0000
@@ -581,6 +659,58 @@ layer:dandan2
         uvbias2=0.0000
         uvsbias2=0.0000
     }
+    {
+        frame=60
+        aniframe=0
+        anitype=0
+        delay=0.0000
+        pos=358.0000,186.0909
+        uv=0.0000,0.0000
+        uvs=1.0000,1.0000
+        uv2=0.0000,0.0000
+        uvs2=1.0000,1.0000
+        scale=16.0000,15.0910
+        angle=0.0000,0.0000,84.6281
+        color=255.0,255.0,255.0,57.7, 5,7
+        mtpreset=0
+        points=8.0000,7.5455  -8.0000,7.5455  -8.0000,-7.5455  8.0000,-7.5455
+        rpoints=3.2443,10.5076  -10.6792,2.6248  -3.2443,-10.5076  10.6792,-2.6248
+        bezier=0.0000,0.0000  0.0000,0.0000
+        afbias=0.0000
+        posbias=0.0000
+        ptbias=0.0000
+        angbias=0.0000
+        uvbias=0.0000
+        uvsbias=0.0000
+        uvbias2=0.0000
+        uvsbias2=0.0000
+    }
+    {
+        frame=160
+        aniframe=0
+        anitype=0
+        delay=0.0000
+        pos=370.0000,222.0000
+        uv=0.0000,0.0000
+        uvs=1.0000,1.0000
+        uv2=0.0000,0.0000
+        uvs2=1.0000,1.0000
+        scale=15.0000,0.0000
+        angle=0.0000,0.0000,349.0909
+        color=255.0,255.0,255.0,89.5, 5,7
+        mtpreset=0
+        points=-7.5000,0.0000  7.5000,0.0000  7.5000,0.0000  -7.5000,0.0000
+        rpoints=4.0444,-6.3161  -4.0444,6.3161  -4.0444,6.3161  4.0444,-6.3161
+        bezier=0.0000,0.0000  0.0000,0.0000
+        afbias=0.0000
+        posbias=0.0000
+        ptbias=0.0000
+        angbias=0.0000
+        uvbias=0.0000
+        uvsbias=0.0000
+        uvbias2=0.0000
+        uvsbias2=0.0000
+    }
 }
 
 layer:dandan2-2
@@ -591,10 +721,10 @@ layer:dandan2-2
     texcnt=1
     texname=tenfe.bmp
 
-    anikeynum=3
+    anikeynum=4
 
     {
-        frame=35
+        frame=25
         aniframe=0
         anitype=0
         delay=0.0000
@@ -620,11 +750,11 @@ layer:dandan2-2
         uvsbias2=0.0000
     }
     {
-        frame=155
+        frame=180
         aniframe=0
         anitype=0
         delay=0.0000
-        pos=300.0000,270.0000
+        pos=330.0000,270.0000
         uv=0.0000,0.0000
         uvs=1.0000,1.0000
         uv2=0.0000,0.0000
@@ -646,7 +776,7 @@ layer:dandan2-2
         uvsbias2=0.0000
     }
     {
-        frame=90
+        frame=85
         aniframe=0
         anitype=0
         delay=0.0000
@@ -661,6 +791,32 @@ layer:dandan2-2
         mtpreset=0
         points=-8.0000,-7.0000  8.0000,-7.0000  8.0000,7.0000  -8.0000,7.0000
         rpoints=1.1763,-10.5649  10.3152,2.5683  -1.1763,10.5649  -10.3152,-2.5683
+        bezier=0.0000,0.0000  0.0000,0.0000
+        afbias=0.0000
+        posbias=0.0000
+        ptbias=0.0000
+        angbias=0.0000
+        uvbias=0.0000
+        uvsbias=0.0000
+        uvbias2=0.0000
+        uvsbias2=0.0000
+    }
+    {
+        frame=135
+        aniframe=0
+        anitype=0
+        delay=0.0000
+        pos=370.0000,252.0000
+        uv=0.0000,0.0000
+        uvs=1.0000,1.0000
+        uv2=0.0000,0.0000
+        uvs2=1.0000,1.0000
+        scale=14.9231,0.0000
+        angle=0.0000,0.0000,348.4024
+        color=255.0,255.0,255.0,70.1, 5,7
+        mtpreset=0
+        points=-7.4615,0.0000  7.4615,0.0000  7.4615,0.0000  -7.4615,0.0000
+        rpoints=3.9851,-6.3082  -3.9851,6.3082  -3.9851,6.3082  3.9851,-6.3082
         bezier=0.0000,0.0000  0.0000,0.0000
         afbias=0.0000
         posbias=0.0000
@@ -710,7 +866,7 @@ layer:dandan1-3
         uvsbias2=0.0000
     }
     {
-        frame=95
+        frame=140
         aniframe=0
         anitype=0
         delay=0.0000
@@ -736,7 +892,7 @@ layer:dandan1-3
         uvsbias2=0.0000
     }
     {
-        frame=50
+        frame=70
         aniframe=0
         anitype=0
         delay=0.0000
@@ -771,10 +927,10 @@ layer:dandan1-33
     texcnt=1
     texname=tenfe.bmp
 
-    anikeynum=3
+    anikeynum=4
 
     {
-        frame=90
+        frame=155
         aniframe=0
         anitype=0
         delay=0.0000
@@ -826,7 +982,7 @@ layer:dandan1-33
         uvsbias2=0.0000
     }
     {
-        frame=45
+        frame=95
         aniframe=0
         anitype=0
         delay=0.0000
@@ -841,6 +997,32 @@ layer:dandan1-33
         mtpreset=0
         points=4.5000,-6.0000  -4.5000,-6.0000  -4.5000,6.0000  4.5000,6.0000
         rpoints=4.5000,-6.0000  -4.5000,-6.0000  -4.5000,6.0000  4.5000,6.0000
+        bezier=0.0000,0.0000  0.0000,0.0000
+        afbias=0.0000
+        posbias=0.0000
+        ptbias=0.0000
+        angbias=0.0000
+        uvbias=0.0000
+        uvsbias=0.0000
+        uvbias2=0.0000
+        uvsbias2=0.0000
+    }
+    {
+        frame=50
+        aniframe=0
+        anitype=0
+        delay=0.0000
+        pos=360.0000,244.0000
+        uv=0.0000,0.0000
+        uvs=1.0000,1.0000
+        uv2=0.0000,0.0000
+        uvs2=1.0000,1.0000
+        scale=0.0000,12.0000
+        angle=0.0000,0.0000,0.0000
+        color=93.0,71.5,37.5,83.0, 5,7
+        mtpreset=0
+        points=0.0000,-6.0000  0.0000,-6.0000  0.0000,6.0000  0.0000,6.0000
+        rpoints=0.0000,-6.0000  0.0000,-6.0000  0.0000,6.0000  0.0000,6.0000
         bezier=0.0000,0.0000  0.0000,0.0000
         afbias=0.0000
         posbias=0.0000
@@ -890,7 +1072,7 @@ layer:dandan1-33
         uvsbias2=0.0000
     }
     {
-        frame=85
+        frame=115
         aniframe=0
         anitype=0
         delay=0.0000
@@ -916,11 +1098,11 @@ layer:dandan1-33
         uvsbias2=0.0000
     }
     {
-        frame=40
+        frame=55
         aniframe=0
         anitype=0
         delay=0.0000
-        pos=313.0000,247.0000
+        pos=290.0000,247.0000
         uv=0.0000,0.0000
         uvs=1.0000,1.0000
         uv2=0.0000,0.0000
@@ -954,7 +1136,7 @@ layer:dandan1-3
     anikeynum=4
 
     {
-        frame=35
+        frame=30
         aniframe=0
         anitype=0
         delay=0.0000
@@ -980,11 +1162,11 @@ layer:dandan1-3
         uvsbias2=0.0000
     }
     {
-        frame=115
+        frame=160
         aniframe=0
         anitype=0
         delay=0.0000
-        pos=315.0000,190.0000
+        pos=315.0000,202.0000
         uv=0.0000,0.0000
         uvs=1.0000,1.0000
         uv2=0.0000,0.0000
@@ -1006,11 +1188,11 @@ layer:dandan1-3
         uvsbias2=0.0000
     }
     {
-        frame=150
+        frame=210
         aniframe=0
         anitype=0
         delay=0.0000
-        pos=326.0000,210.0000
+        pos=341.0000,235.0000
         uv=0.0000,0.0000
         uvs=1.0000,1.0000
         uv2=0.0000,0.0000
@@ -1032,11 +1214,11 @@ layer:dandan1-3
         uvsbias2=0.0000
     }
     {
-        frame=65
+        frame=95
         aniframe=0
         anitype=0
         delay=0.0000
-        pos=305.0000,169.0000
+        pos=332.0000,181.0000
         uv=0.0000,0.0000
         uvs=1.0000,1.0000
         uv2=0.0000,0.0000
@@ -1070,7 +1252,7 @@ layer:dandan1-2
     anikeynum=3
 
     {
-        frame=50
+        frame=40
         aniframe=0
         anitype=0
         delay=0.0000
@@ -1096,7 +1278,7 @@ layer:dandan1-2
         uvsbias2=0.0000
     }
     {
-        frame=155
+        frame=185
         aniframe=0
         anitype=0
         delay=0.0000
@@ -1122,7 +1304,7 @@ layer:dandan1-2
         uvsbias2=0.0000
     }
     {
-        frame=105
+        frame=115
         aniframe=0
         anitype=0
         delay=0.0000
@@ -1157,7 +1339,7 @@ layer:dandan1
     texcnt=1
     texname=tenfe.bmp
 
-    anikeynum=4
+    anikeynum=6
 
     {
         frame=0
@@ -1186,7 +1368,7 @@ layer:dandan1
         uvsbias2=0.0000
     }
     {
-        frame=70
+        frame=100
         aniframe=0
         anitype=0
         delay=0.0000
@@ -1212,7 +1394,7 @@ layer:dandan1
         uvsbias2=0.0000
     }
     {
-        frame=130
+        frame=190
         aniframe=0
         anitype=0
         delay=0.0000
@@ -1238,7 +1420,7 @@ layer:dandan1
         uvsbias2=0.0000
     }
     {
-        frame=155
+        frame=225
         aniframe=0
         anitype=0
         delay=0.0000
@@ -1253,6 +1435,58 @@ layer:dandan1
         mtpreset=0
         points=-7.5000,-7.5000  7.5000,-7.5000  7.5000,7.5000  -7.5000,7.5000
         rpoints=-7.5000,-7.5000  7.5000,-7.5000  7.5000,7.5000  -7.5000,7.5000
+        bezier=0.0000,0.0000  0.0000,0.0000
+        afbias=0.0000
+        posbias=0.0000
+        ptbias=0.0000
+        angbias=0.0000
+        uvbias=0.0000
+        uvsbias=0.0000
+        uvbias2=0.0000
+        uvsbias2=0.0000
+    }
+    {
+        frame=50
+        aniframe=0
+        anitype=0
+        delay=0.0000
+        pos=320.0000,193.0000
+        uv=0.0000,0.0000
+        uvs=1.0000,1.0000
+        uv2=0.0000,0.0000
+        uvs2=1.0000,1.0000
+        scale=16.0000,2.2857
+        angle=0.0000,0.0000,0.0000
+        color=255.0,255.0,255.0,91.6, 5,7
+        mtpreset=0
+        points=-8.0000,-1.1429  8.0000,-1.1429  8.0000,1.1429  -8.0000,1.1429
+        rpoints=-8.0000,-1.1429  8.0000,-1.1429  8.0000,1.1429  -8.0000,1.1429
+        bezier=0.0000,0.0000  0.0000,0.0000
+        afbias=0.0000
+        posbias=0.0000
+        ptbias=0.0000
+        angbias=0.0000
+        uvbias=0.0000
+        uvsbias=0.0000
+        uvbias2=0.0000
+        uvsbias2=0.0000
+    }
+    {
+        frame=150
+        aniframe=0
+        anitype=0
+        delay=0.0000
+        pos=320.0000,246.0000
+        uv=0.0000,0.0000
+        uvs=1.0000,1.0000
+        uv2=0.0000,0.0000
+        uvs2=1.0000,1.0000
+        scale=15.5000,0.5000
+        angle=0.0000,0.0000,0.0000
+        color=255.0,255.0,255.0,99.0, 5,7
+        mtpreset=0
+        points=-7.7500,0.2500  7.7500,0.2500  7.7500,-0.2500  -7.7500,-0.2500
+        rpoints=-7.7500,0.2500  7.7500,0.2500  7.7500,-0.2500  -7.7500,-0.2500
         bezier=0.0000,0.0000  0.0000,0.0000
         afbias=0.0000
         posbias=0.0000

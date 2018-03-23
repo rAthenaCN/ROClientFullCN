@@ -1,4 +1,5 @@
-weather#
-comodo.rsw#
-pokjuk#
+loadingscreen#
+3#
+weather#amatsu.rsw#sakura#
+weather#pay_arche.rsw#sakura#
 //file end

@@ -19,7 +19,7 @@ layer:Back
 
 layer:bback_2
 {
-    display=1
+    display=0
     group=0
     type=0
     texcnt=1
