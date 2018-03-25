@@ -1,46 +1,7 @@
+-- Decompiled using luadec 2.1 r80 from http://code.google.com/p/luadec
+-- Command line: l_begintutorial_list.lub 
+
 BeginTutorialQuest_List = {
-		[7472] = { 
-				NPCFromName = [[急厘 墨废]],
-				NPCFromMap = [[izlude]],
-				NPCFromSpr = [[4_M_REINDEER]],
-				NPCFromX = 198,
-				NPCFromY = 213,
-				NPCToName = [[绕]],
-				NPCToMap = [[izlude]],
-				NPCToSpr = [[4_M_KHKYEL]],
-				NPCToX = 122,
-				NPCToY = 207,
-				Item = [[]],
-				PrizeItem = [[]],
-				Title = [[技惑阑 困茄 霉吧澜]],
-				Info = [[农府捧扼 酒墨单固狼 流盔 '绕'揪甫 父唱扼.]],
-				QuickInfo  = [[]],
-				Hunt1= [[]],
-				Hunt2= [[]],
-				Hunt3= [[]],
-				Time = [[0]],
-				LV = [[0]],
-			},
-		[11339] = { 
-				NPCFromName = [[傈捧 背包 胶厚畴]],
-				NPCFromMap = [[iz_ac01]],
-				NPCFromSpr = [[4_M_NOV_HUNT]],
-				NPCFromX = 59,
-				NPCFromY = 83,
-				NPCToName = [[傈捧 背包 胶厚畴]],
-				NPCToMap = [[iz_ac01]],
-				NPCToSpr = [[4_M_NOV_HUNT]],
-				NPCToX = 59,
-				NPCToY = 83,
-				Item = [[< image = "909">俩肺乔<\end> (5)]],
-				PrizeItem = [[]],
-				Title = [[檬焊磊_技惑俊辑 俩肺 咐乐绰]],
-				Info = [[农府捧扼 切盔俊辑 吝夸茄 侥犁丰肺 荤侩 登绊乐绰 器傅阑 10付府 棱绊 俩肺乔 5俺甫 备秦辑 胶厚畴俊霸 倒酒坷磊. 器傅篮 捞令风靛 辑率 鞘靛俊辑 奖霸 惯斑且 荐乐促.]],
-				QuickInfo  = [[]],
-				Hunt1 = [[< link = "PORING">器傅<\end> x 10 ]],
-				Hunt2= [[]],
-				Hunt3= [[]],
-				Time = [[0]],
-				LV = [[0]],
-			},
-}
+[7472] = {NPCFromName = "船长卡鲁", NPCFromMap = "izlude", NPCFromSpr = "4_M_REINDEER", NPCFromX = 198, NPCFromY = 213, NPCToName = "勋", NPCToMap = "izlude", NPCToSpr = "4_M_KHKYEL", NPCToX = 122, NPCToY = 207, Item = "", PrizeItem = "", Title = "世界的地一步", Info = "去见克里图拉学院的职员'勋'", QuickInfo = "", Hunt1 = "", Hunt2 = "", Hunt3 = "", Time = "0", LV = "0"}, 
+[11339] = {NPCFromName = "战斗教官 史必奴", NPCFromMap = "iz_ac01", NPCFromSpr = "4_M_NOV_HUNT", NPCFromX = 59, NPCFromY = 83, NPCToName = "战斗教官 史必奴", NPCToMap = "iz_ac01", NPCToSpr = "4_M_NOV_HUNT", NPCToX = 59, NPCToY = 83, Item = "< image = \"909\">杰勒比结晶<\\end> (5)", PrizeItem = "", Title = "在新手世界最美味的是", Info = "去抓在克里图拉学院做为重要食材的波利10只候带来杰勒比结晶 5个给史必奴，在/伊斯鲁得岛西边很容易发现波利。", QuickInfo = "", Hunt1 = "< link = \"PORING\">波利<\\end> x 10 ", Hunt2 = "", Hunt3 = "", Time = "0", LV = "0"}}
+

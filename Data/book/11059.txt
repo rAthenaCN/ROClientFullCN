@@ -1,387 +1,44 @@
-^4d4dff 峌忛愴TE愱梡儗儞僞儖傾僀僥儉儕僗僩 ^000000
+攻城战TE
 
-^46BEFF------------------------------------------------------------------------------------^000000
-    峌忛愴TE愱梡儗儞僞儖傾僀僥儉偼懠偺傾僇僂儞僩偲庢堷偑晄壜擻側傾僀僥儉偱偡丅
-    巊梡婜尷傪夁偓傞偲帺摦揑偵僀儞儀儞僩儕偐傜嶍彍偝傟傑偡丅
-^46BEFF------------------------------------------------------------------------------------^000000
+在卢恩-米德加兹王室和卡普拉公司的合作下，新的攻城区域登场了.虽然看上去和巴基力雷恩、
+露依那地区一模一样，但是，这是一片真真正正为攻城战初学者而准备的乐土。
+回归原点的攻城战，名为攻城战TE（GVG Training Edition）！
 
+O1攻城战TE是什么？
+攻城战TE是独立于既存GVG和GVG SE之外的第三种GVG模式，将在每周日的8点-9点进行。与既存的GVG不同，TE模式的GVG只允许等级上限为99的一转职业、二转职业、进阶二转职业、扩展一转职业参加，三转职业和扩展二转职业皆无法参加。与既存的GVG相比，TE模式的战斗方式更为简单，门槛也相对较低，即使刚刚参加GVG的新兵也能体验到攻城战的乐趣。
 
-[峌忛愴TE僶僢僋儔乕]
-仸峌忛愴TE偺嵲撪偱埲壓偺岠壥偑捛壛偝傟傞
-MaxHP + 100 , MaxSP + 100
-僾儗僀儎乕偐傜庴偗傞僟儊乕僕 - 15%
-宯楍 :  弬  杊屼 :  15  Mdef + 15
-廳検 :  0  梫媮儗儀儖 :  40
-憰旛 :  慡偰偺怑嬈
 
+O2和普通攻城战的区别
+尽管同样是GVG，但是TE还是和既存GVG存在一定的差异！
+3转职业群和扩展二转职业群除无法参加之外，其增益技能效果在TE区域也会无效。
+黄金虫卡片和狂暴蚁后卡片在TE区域无效。荣光系列装备在TE区域无效。雷神之锤、女神项链、雷神腰带、史雷普尼尔之靴、阿斯普利卡、布伦希尔德在TE区域无效。在使用紧急召唤时，不会召唤无法参加GVG TE的角色。
 
+O3新的城战区域
+卢恩米德加兹王室和卡普拉公司强强联合，精心打造的攻城乐土！
 
+葛洛丽雅
+为皇家的荣耀而战！
+葛洛丽雅是以卢恩米德加兹王室命名的攻城战区域，其城池和设施均参照巴基力雷恩设置。
+在巴基力雷恩地区（首都GVG地图）的中央偏左处可以进入葛洛丽雅地区。
+卡普拉贾登
+不仅仅是服务公司！
+卡普拉贾登是以卡普拉公司的人气职员命名的攻城战区域，其城池和设施均参照露依那设置。
+在露依那地区（艾尔帕兰GVG地图）的中央偏右处可以进入卡普拉贾登地区。
 
-[峌忛愴TE僔乕儖僪]
-仸峌忛愴TE偺嵲撪偱埲壓偺岠壥偑捛壛偝傟傞
-MaxHP + 200
-僾儗僀儎乕偐傜庴偗傞僟儊乕僕 - 20%
-宯楍 :  弬  杊屼 :  25  Mdef + 5
-廳検 :  0  梫媮儗儀儖 :  40
-憰旛 :  僜乕僪儅儞宯丄儅乕僠儍儞僩宯 
+O4无门槛参战
+想参加GVG却为没有装备而烦恼？不用担心！TE提供免费的租赁装备！
+在“装备租赁管理员”处可以免费租借各职业使用的TE攻城战专用装备，不要以为免费没好货，
+强大的租赁道具完全可以满足你踏入战场的需要！请注意！TE租赁装备的追加能力只限GVG TE区域使用，并且一律无法精炼，在租赁时间到期后
+将会自动消失。
 
-[峌忛愴TE儅僕僢僋僈乕僪]
-仸峌忛愴TE偺嵲撪偱埲壓偺岠壥偑捛壛偝傟傞
-MaxSP + 200
-僾儗僀儎乕偐傜庴偗傞僟儊乕僕 - 10%
-宯楍 :  弬  杊屼 :  5  Mdef + 25
-廳検 :  0  梫媮儗儀儖 :  40
-憰旛 :  僲乕價僗宯丄儅僕僔儍儞宯丄傾僐儔僀僩宯丄僜僂儖儕儞僇乕
+O5赢取攻城战特殊奖品
+占领城池之后，通过艾克禄斯和贝克禄斯可以领取工会每日挑战任务，完成任务后将会取得“攻城工会纪念硬币”。 使用硬币可以在攻城战地区设置的专用交换机处兑换特殊奖品。
 
+O6取得新的神器
+占领TE城池后，打开工会宝箱将会发现惊喜！
+葛洛丽雅和卡普拉贾登地区散落着诸神黄昏的遗迹和瓦伦德的遗物，通过这些物品似乎可以制造新的神器！在某些特定的工会城池投资度达到一定数值后，躲藏在城池内的铁匠兄弟就会答应为工会首领制造准神器。然则，似乎万事都不会那么称心如意。突然袭来的，是立志成为女武神的少女们！？夺回城池，制造名为
+“赫尔薇尔”或“耶梦加得”的准神器吧！
 
 
 
-[峌忛愴TE儘儞僌僐乕僩]
-仸峌忛愴TE偺嵲撪偱埲壓偺岠壥偑捛壛偝傟傞
-MaxHP + 250 , MaxSP + 250
-僾儗僀儎乕偐傜庴偗傞僟儊乕僕 - 10%
-搥寢偵懳偡傞懴惈 + 25%
-宯楍 :  奪  杊屼 :  15 Mdef + 15
-廳検 :  0  梫媮儗儀儖 :  40
-憰旛 :  慡偰偺怑嬈
 
-[峌忛愴TE儊僀儖]
-仸峌忛愴TE偺嵲撪偱埲壓偺岠壥偑捛壛偝傟傞
-MaxHP + 450 , MaxSP + 50
-僾儗僀儎乕偐傜庴偗傞僟儊乕僕 - 15%
-搥寢偵懳偡傞懴惈 + 25%
-宯楍 :  奪  杊屼 :  25  Mdef + 5
-廳検 :  0  梫媮儗儀儖 :  40
-憰旛 :  僜乕僪儅儞宯丄儅乕僠儍儞僩宯
-
-
-[峌忛愴TE儅僕僢僋僐乕僩]
-仸峌忛愴TE偺嵲撪偱埲壓偺岠壥偑捛壛偝傟傞
-MaxHP + 200 , MaxSP + 300
-僾儗僀儎乕偐傜庴偗傞僟儊乕僕 - 5%
-搥寢偵懳偡傞懴惈 + 25%
-宯楍 :  奪  杊屼 :  5  Mdef + 25
-廳検 :  0  梫媮儗儀儖 :  40
-憰旛 :  僲乕價僗宯丄儅僕僔儍儞宯丄傾僐儔僀僩宯丄僜僂儖儕儞僇乕
-
-[峌忛愴TE儅僼儔乕]
-仸峌忛愴TE偺嵲撪偱埲壓偺岠壥偑捛壛偝傟傞
-暔棟丄杺朄峌寕帪丄僾儗僀儎乕偵梌偊傞僟儊乕僕 + 5%
-搥寢偵懳偡傞懴惈 + 25%
-宯楍 :  尐偵偐偗傞暔  杊屼 :  5  Mdef + 5
-廳検 :  0  梫媮儗儀儖 :  40
-憰旛 :  慡偰偺怑嬈
-
-
-
-[峌忛愴TE儅儞僩]
-仸峌忛愴TE偺嵲撪偱埲壓偺岠壥偑捛壛偝傟傞
-暔棟峌寕帪丄僾儗僀儎乕偵梌偊傞僟儊乕僕 + 10%
-搥寢偵懳偡傞懴惈 + 25%
-宯楍 :  尐偵偐偗傞暔  杊屼 :  10
-廳検 :  0  梫媮儗儀儖 :  40
-憰旛 :  僜乕僪儅儞宯丄儅乕僠儍儞僩宯
-
-[峌忛愴TE儅僕僢僋儅儞僩]
-仸峌忛愴TE偺嵲撪偱埲壓偺岠壥偑捛壛偝傟傞
-杺朄峌寕帪丄僾儗僀儎乕偵梌偊傞僟儊乕僕 + 10%
-搥寢偵懳偡傞懴惈 + 25%
-宯楍 :  尐偵偐偗傞暔  杊屼 :  5  Mdef + 5
-廳検 :  0  梫媮儗儀儖 :  40
-憰旛 :  僲乕價僗宯丄儅僕僔儍儞宯丄傾僐儔僀僩宯丄僜僂儖儕儞僇乕
-
-
-
-
-[峌忛愴TE僉儍僢僾]
-仸峌忛愴TE偺嵲撪偱埲壓偺岠壥偑捛壛偝傟傞
-Atk + 5 , Matk + 5
-暔棟丄杺朄峌寕帪丄僾儗僀儎乕偵梌偊傞僟儊乕僕 + 10%
-搥寢偵懳偡傞懴惈 + 25%
-宯楍 :  姇  杊屼 :  5  Mdef + 5
-埵抲 :  忋抜  廳検 :  0  梫媮儗儀儖 :  40
-憰旛 :  慡偰偺怑嬈
-
-[峌忛愴TE儃乕儞僿儖儉]
-仸峌忛愴TE偺嵲撪偱埲壓偺岠壥偑捛壛偝傟傞
-Atk + 10
-暔棟峌寕帪丄僾儗僀儎乕偵梌偊傞僟儊乕僕 + 20%
-搥寢偵懳偡傞懴惈 + 25%
-宯楍 :  姇  杊屼 :  10
-埵抲 :  忋抜  廳検 :  0  梫媮儗儀儖 :  40
-憰旛 :  僜乕僪儅儞宯丄儅乕僠儍儞僩宯
-
-
-[峌忛愴TE儅僕僢僋傾僀僘]
-仸峌忛愴TE偺嵲撪偱埲壓偺岠壥偑捛壛偝傟傞
-Matk + 10
-杺朄峌寕帪丄僾儗僀儎乕偵梌偊傞僟儊乕僕 + 20%
-搥寢偵懳偡傞懴惈 + 25%
-宯楍 :  姇  杊屼 :  5  Mdef + 5
-埵抲 :  忋抜  廳検 :  0  梫媮儗儀儖 :  40
-憰旛 :  僲乕價僗宯丄儅僕僔儍儞宯丄傾僐儔僀僩宯丄僜僂儖儕儞僇乕
-
-[峌忛愴TE庣岇偺巜椫]
-仸峌忛愴TE偺嵲撪偱埲壓偺岠壥偑捛壛偝傟傞
-MaxHP + 100
-僾儗僀儎乕偐傜庴偗傞僟儊乕僕 - 5%
-宯楍 :  傾僋僙僒儕乕  杊屼 :  0
-廳検 :  0  梫媮儗儀儖 :  40
-憰旛 :  慡偰偺怑嬈
-
-
-
-[峌忛愴TE搟傝偺巜椫]
-仸峌忛愴TE偺嵲撪偱埲壓偺岠壥偑捛壛偝傟傞
-暔棟丄杺朄峌寕帪丄僾儗僀儎乕偵梌偊傞僟儊乕僕 + 5%
-宯楍 :  傾僋僙僒儕乕  杊屼 :  0
-廳検 :  0  梫媮儗儀儖 :  40
-憰旛 :  慡偰偺怑嬈
-
-[峌忛愴TE斀峈偺巜椫]
-仸峌忛愴TE偺嵲撪偱埲壓偺岠壥偑捛壛偝傟傞
-僾儗僀儎乕偐傜庴偗傞僟儊乕僕 - 5%
-宯楍 :  傾僋僙僒儕乕  杊屼 :  0  Mdef + 5
-廳検 :  0  梫媮儗儀儖 :  40
-憰旛 :  慡偰偺怑嬈
-
-
-
-
-
-
-[峌忛愴TE僔儏乕僘]
-仸峌忛愴TE偺嵲撪偱埲壓偺岠壥偑捛壛偝傟傞
-MaxHP + 150 , MaxSP + 150
-暔棟丄杺朄峌寕帪丄僾儗僀儎乕偵梌偊傞僟儊乕僕 + 5%
-搥寢偵懳偡傞懴惈 + 25%
-宯楍 :  孋  杊屼 :  5  Mdef + 5
-廳検 :  0  梫媮儗儀儖 :  40
-憰旛 :  慡偰偺怑嬈
-
-[峌忛愴TE僽乕僣]
-仸峌忛愴TE偺嵲撪偱埲壓偺岠壥偑捛壛偝傟傞
-MaxHP + 200 , MaxSP + 100
-暔棟峌寕帪丄僾儗僀儎乕偵梌偊傞僟儊乕僕 + 10%
-搥寢偵懳偡傞懴惈 + 25%
-宯楍 :  孋  杊屼 :  10
-廳検 :  0  梫媮儗儀儖 :  40
-憰旛 :  僜乕僪儅儞宯丄儅乕僠儍儞僩宯
-
-
-[峌忛愴TE儅僕僢僋僒儞僟儖]
-仸峌忛愴TE偺嵲撪偱埲壓偺岠壥偑捛壛偝傟傞
-MaxHP + 100 , MaxSP + 200
-杺朄峌寕帪丄僾儗僀儎乕偵梌偊傞僟儊乕僕 + 5%
-搥寢偵懳偡傞懴惈 + 25%
-宯楍 :  孋  杊屼 :  5  Mdef + 5
-廳検 :  0  梫媮儗儀儖 :  40
-憰旛 :  僲乕價僗宯丄儅僕僔儍儞宯丄傾僐儔僀僩宯丄僜僂儖儕儞僇乕
-
-[峌忛愴TE僫僀僼]
-仸峌忛愴TE偺嵲撪偱埲壓偺岠壥偑捛壛偝傟傞
-暔棟峌寕帪丄僾儗僀儎乕偵梌偊傞僟儊乕僕 + 40%
-嬤愙暔棟峌寕柦拞帪丄堦掕妋棪偱揋傪捑栙忬懺偵偡傞
-宯楍 :  抁寱  峌寕 :  100  Matk + 100
-廳検 :  0  晲婍儗儀儖 :  3  梫媮儗儀儖 :  40
-憰旛 :  傾僐儔僀僩宯 僥僐儞僉僢僪 対惞 僈儞僗儕儞僈乕傪彍偔慡偰偺怑嬈
-
-
-
-[峌忛愴TE僜乕僪]
-仸峌忛愴TE偺嵲撪偱埲壓偺岠壥偑捛壛偝傟傞
-暔棟峌寕帪丄僾儗僀儎乕偵梌偊傞僟儊乕僕 + 40%
-嬤愙暔棟峌寕柦拞帪丄堦掕妋棪偱揋傪撆忬懺偵偡傞
-宯楍 :  曅庤寱  峌寕 :  120  Matk + 100
-廳検 :  0  晲婍儗儀儖 :  3  梫媮儗儀儖 :  40
-憰旛 :  僲乕價僗宯丄僜乕僪儅儞宯丄儅乕僠儍儞僩宯丄僔乕僼宯
-
-[峌忛愴TE僣乕僴儞僪僜乕僪]
-仸峌忛愴TE偺嵲撪偱埲壓偺岠壥偑捛壛偝傟傞
-暔棟峌寕帪丄僾儗僀儎乕偵梌偊傞僟儊乕僕 + 40%
-嬤愙暔棟峌寕柦拞帪丄堦掕妋棪偱揋傪弌寣忬懺偵偡傞
-宯楍 :  椉庤寱  峌寕 :  150 
-廳検 :  0  晲婍儗儀儖 :  3  梫媮儗儀儖 :  40
-憰旛 :  僜乕僪儅儞宯
-
-
-
-
-[峌忛愴TE僷僀僋]
-仸峌忛愴TE偺嵲撪偱埲壓偺岠壥偑捛壛偝傟傞
-暔棟峌寕帪丄僾儗僀儎乕偵梌偊傞僟儊乕僕 + 40%
-嬤愙暔棟峌寕柦拞帪丄堦掕妋棪偱揋傪庺偄忬懺偵偡傞
-宯楍 :  曅庤憚  峌寕 :  100
-廳検 :  0  晲婍儗儀儖 :  3  梫媮儗儀儖 :  40
-憰旛 :  僜乕僪儅儞宯
-
-[峌忛愴TE儔儞僗]
-仸峌忛愴TE偺嵲撪偱埲壓偺岠壥偑捛壛偝傟傞
-暔棟峌寕帪丄僾儗僀儎乕偵梌偊傞僟儊乕僕 + 40%
-嬤愙暔棟峌寕柦拞帪丄堦掕妋棪偱揋傪埫崟忬懺偵偡傞
-宯楍 :  椉庤憚  峌寕 :  150
-廳検 :  0  晲婍儗儀儖 :  3  梫媮儗儀儖 :  40
-憰旛 :  僜乕僪儅儞宯
-
-
-
-
-[峌忛愴TE傾僢僋僗]
-仸峌忛愴TE偺嵲撪偱埲壓偺岠壥偑捛壛偝傟傞
-暔棟峌寕帪丄僾儗僀儎乕偵梌偊傞僟儊乕僕 + 40%
-嬤愙暔棟峌寕柦拞帪丄堦掕妋棪偱揋傪搥寢忬懺偵偡傞
-宯楍 :  曅庤晙  峌寕 :  100
-廳検 :  0  晲婍儗儀儖 :  3  梫媮儗儀儖 :  40
-憰旛 :  僲乕價僗宯丄僜乕僪儅儞宯丄儅乕僠儍儞僩宯丄僔乕僼宯
-
-[峌忛愴TE僣乕僴儞僪傾僢僋僗]
-仸峌忛愴TE偺嵲撪偱埲壓偺岠壥偑捛壛偝傟傞
-暔棟峌寕帪丄僾儗僀儎乕偵梌偊傞僟儊乕僕 + 40%
-嬤愙暔棟峌寕柦拞帪丄堦掕妋棪偱揋傪僗僞儞忬懺偵偡傞
-宯楍 :  椉庤晙  峌寕 :  150
-廳検 :  0  晲婍儗儀儖 :  3  梫媮儗儀儖 :  40
-憰旛 :  僜乕僪儅儞宯丄儅乕僠儍儞僩宯
-
-
-
-
-[峌忛愴TE僇僞乕儖]
-仸峌忛愴TE偺嵲撪偱埲壓偺岠壥偑捛壛偝傟傞
-暔棟峌寕帪丄僾儗僀儎乕偵梌偊傞僟儊乕僕 + 40%
-嬤愙暔棟峌寕柦拞帪丄堦掕妋棪偱揋傪弌寣忬懺偵偡傞
-宯楍 :  僇僞乕儖  峌寕 :  120
-廳検 :  0  晲婍儗儀儖 :  3  梫媮儗儀儖 :  40
-憰旛 :  傾僒僔儞宯
-
-[峌忛愴TE晽杺庤棤寱]
-仸峌忛愴TE偺嵲撪偱埲壓偺岠壥偑捛壛偝傟傞
-暔棟峌寕帪丄僾儗僀儎乕偵梌偊傞僟儊乕僕 + 40%
-嬤愙暔棟峌寕柦拞帪丄堦掕妋棪偱揋傪弌寣忬懺偵偡傞
-宯楍 :  晽杺庤棤寱  峌寕 :  80  Matk + 100
-廳検 :  0  晲婍儗儀儖 :  3  梫媮儗儀儖 :  40
-憰旛 :  擡幰 
-
-
-
-
-[峌忛愴TE儊僀僗]
-仸峌忛愴TE偺嵲撪偱埲壓偺岠壥偑捛壛偝傟傞
-暔棟峌寕帪丄僾儗僀儎乕偵梌偊傞僟儊乕僕 + 40%
-嬤愙暔棟峌寕柦拞帪丄堦掕妋棪偱揋傪搥寢忬懺偵偡傞
-[僸乕儖][僒儞僋僠儏傾儕][億乕僔儑儞僺僢僠儍乕][僴僀僱僗僸乕儖][僐儖僙僆僸乕儖]
-巊梡帪丄HP夞暅検 + 5%
-宯楍 :  撦婍  峌寕 :  120 
-廳検 :  0  晲婍儗儀儖 :  3  梫媮儗儀儖 :  40
-憰旛 :  僲乕價僗宯丄僜乕僪儅儞宯丄傾僐儔僀僩宯丄儅乕僠儍儞僩宯
-
-[峌忛愴TE僗僞僢僼]
-仸峌忛愴TE偺嵲撪偱埲壓偺岠壥偑捛壛偝傟傞
-杺朄峌寕帪丄僾儗僀儎乕偵梌偊傞僟儊乕僕 + 10%
-杺朄峌寕柦拞帪丄堦掕妋棪偱揋傪埫崟忬懺偵偡傞
-[僸乕儖][僒儞僋僠儏傾儕][億乕僔儑儞僺僢僠儍乕][僴僀僱僗僸乕儖][僐儖僙僆僸乕儖]
-巊梡帪丄HP夞暅検 + 5%
-宯楍 :  曅庤忨  峌寕 :  50  Matk + 100
-廳検 :  0  晲婍儗儀儖 :  3  梫媮儗儀儖 :  40
-憰旛 :  僲乕價僗宯丄儅僕僔儍儞宯丄傾僐儔僀僩宯丄僜僂儖儕儞僇乕
-[峌忛愴TE僣乕僴儞僪僗僞僢僼]
-仸峌忛愴TE偺嵲撪偱埲壓偺岠壥偑捛壛偝傟傞
-杺朄峌寕帪丄僾儗僀儎乕偵梌偊傞僟儊乕僕 + 20%
-杺朄峌寕柦拞帪丄堦掕妋棪偱揋傪僗僞儞忬懺偵偡傞
-[僸乕儖][僒儞僋僠儏傾儕][億乕僔儑儞僺僢僠儍乕][僴僀僱僗僸乕儖][僐儖僙僆僸乕儖]
-巊梡帪丄HP夞暅検 + 5%
-宯楍 :  椉庤忨  峌寕 :  50  Matk + 130
-廳検 :  0  晲婍儗儀儖 :  3  梫媮儗儀儖 :  40
-憰旛 :  僲乕價僗宯丄儅僕僔儍儞宯丄傾僐儔僀僩宯丄僜僂儖儕儞僇乕
-
-[峌忛愴TE僼傿僗僩]
-仸峌忛愴TE偺嵲撪偱埲壓偺岠壥偑捛壛偝傟傞
-暔棟峌寕帪丄僾儗僀儎乕偵梌偊傞僟儊乕僕 + 40%
-嬤愙暔棟峌寕柦拞帪丄堦掕妋棪偱揋傪搥寢忬懺偵偡傞
-宯楍 :  捾  峌寕 :  150
-廳検 :  0  晲婍儗儀儖 :  3  梫媮儗儀儖 :  40
-憰旛 :  僾儕乕僗僩宯丄儌儞僋宯
-
-
-[峌忛愴TE杮]
-仸峌忛愴TE偺嵲撪偱埲壓偺岠壥偑捛壛偝傟傞
-暔棟峌寕帪丄僾儗僀儎乕偵梌偊傞僟儊乕僕 + 40%
-杺朄峌寕帪丄僾儗僀儎乕偵梌偊傞僟儊乕僕 + 5%
-嬤愙暔棟峌寕柦拞帪丄堦掕妋棪偱揋傪埫崟忬懺偵偡傞
-[僸乕儖][僒儞僋僠儏傾儕][億乕僔儑儞僺僢僠儍乕][僴僀僱僗僸乕儖][僐儖僙僆僸乕儖]
-巊梡帪丄HP夞暅検 + 5%
-宯楍 :  杮  峌寕 :  120
-廳検 :  0  晲婍儗儀儖 :  3  梫媮儗儀儖 :  40
-憰旛 :  僾儕乕僗僩宯丄僙乕僕宯丄対惞
-
-[峌忛愴TE媩]
-仸峌忛愴TE偺嵲撪偱埲壓偺岠壥偑捛壛偝傟傞
-暔棟峌寕帪丄僾儗僀儎乕偵梌偊傞僟儊乕僕 + 40%
-墦嫍棧暔棟峌寕柦拞帪丄堦掕妋棪偱揋傪庺偄忬懺偵偡傞
-宯楍 :  媩  峌寕 :  120
-廳検 :  0  晲婍儗儀儖 :  3  梫媮儗儀儖 :  40
-憰旛 :  傾乕僠儍乕宯丄僔乕僼丄儘乕僌宯
-
-[峌忛愴TE対廵]
-仸峌忛愴TE偺嵲撪偱埲壓偺岠壥偑捛壛偝傟傞
-暔棟峌寕帪丄僾儗僀儎乕偵梌偊傞僟儊乕僕 + 40%
-墦嫍棧暔棟峌寕柦拞帪丄堦掕妋棪偱揋傪庺偄忬懺偵偡傞
-宯楍 :  僴儞僪僈儞  峌寕 :  60
-廳検 :  0  晲婍儗儀儖 :  3  梫媮儗儀儖 :  40
-憰旛 :  僈儞僗儕儞僈乕
-
-[峌忛愴TE儔僀僼儖]
-仸峌忛愴TE偺嵲撪偱埲壓偺岠壥偑捛壛偝傟傞
-暔棟峌寕帪丄僾儗僀儎乕偵梌偊傞僟儊乕僕 + 40%
-墦嫍棧暔棟峌寕柦拞帪丄堦掕妋棪偱揋傪捑栙忬懺偵偡傞
-宯楍 :  儔僀僼儖  峌寕 :  80
-廳検 :  0  晲婍儗儀儖 :  3  梫媮儗儀儖 :  40
-憰旛 :  僈儞僗儕儞僈乕
-
-
-
-
-[峌忛愴TE僈僩儕儞僌僈儞]
-仸峌忛愴TE偺嵲撪偱埲壓偺岠壥偑捛壛偝傟傞
-暔棟峌寕帪丄僾儗僀儎乕偵梌偊傞僟儊乕僕 + 40%
-墦嫍棧暔棟峌寕柦拞帪丄堦掕妋棪偱揋傪僗僞儞忬懺偵偡傞
-宯楍 :  僈僩儕儞僌僈儞  峌寕 :  100
-廳検 :  0  晲婍儗儀儖 :  3  梫媮儗儀儖 :  40
-憰旛 :  僈儞僗儕儞僈乕
-
-[峌忛愴TE僔儑僢僩僈儞]
-仸峌忛愴TE偺嵲撪偱埲壓偺岠壥偑捛壛偝傟傞
-暔棟峌寕帪丄僾儗僀儎乕偵梌偊傞僟儊乕僕 + 40%
-墦嫍棧暔棟峌寕柦拞帪丄堦掕妋棪偱揋傪撆忬懺偵偡傞
-宯楍 :  僔儑僢僩僈儞  峌寕 :  100
-廳検 :  0  晲婍儗儀儖 :  3  梫媮儗儀儖 :  40
-憰旛 :  僈儞僗儕儞僈乕
-
-
-
-
-[峌忛愴TE僌儗僱乕僪僈儞]
-仸峌忛愴TE偺嵲撪偱埲壓偺岠壥偑捛壛偝傟傞
-暔棟峌寕帪丄僾儗僀儎乕偵梌偊傞僟儊乕僕 + 40%
-墦嫍棧暔棟峌寕柦拞帪丄堦掕妋棪偱揋傪埫崟忬懺偵偡傞
-宯楍 :  僌儗僱乕僪僈儞  峌寕 :  100
-廳検 :  0  晲婍儗儀儖 :  3  梫媮儗儀儖 :  40
-憰旛 :  僈儞僗儕儞僈乕
-
-[峌忛愴TE僊僞乕]
-仸峌忛愴TE偺嵲撪偱埲壓偺岠壥偑捛壛偝傟傞
-暔棟峌寕帪丄僾儗僀儎乕偵梌偊傞僟儊乕僕 + 40%
-嬤愙暔棟峌寕柦拞帪丄堦掕妋棪偱揋傪撆忬懺偵偡傞
-宯楍 :  妝婍  峌寕 :  100
-廳検 :  0  晲婍儗儀儖 :  3  梫媮儗儀儖 :  40
-憰旛 :  僶乕僪宯
-
-
-
-
-[峌忛愴TE儘乕僾]
-仸峌忛愴TE偺嵲撪偱埲壓偺岠壥偑捛壛偝傟傞
-暔棟峌寕帪丄僾儗僀儎乕偵梌偊傞僟儊乕僕 + 40%
-嬤愙暔棟峌寕柦拞帪丄堦掕妋棪偱揋傪埫崟忬懺偵偡傞
-宯楍 :  曏  峌寕 :  100
-廳検 :  0  晲婍儗儀儖 :  3  梫媮儗儀儖 :  40
-憰旛 :  僟儞僒乕宯

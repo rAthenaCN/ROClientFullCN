@@ -6,7 +6,7 @@ ChatSubWnd_1 = {
 	Width = 0,
 	Height = 0,
 	TabState = "On",
-	TabName = [[老馆 皋矫瘤]],
+	TabName = [[一般讯息]],
 	option1 = 1,
 	option2 = 1,
 	option3 = 1,
@@ -27,6 +27,7 @@ ChatSubWnd_1 = {
 	option18 = 0,
 	option19 = 0,
 	option20 = 0,
+	option21 = 0,
 }
 
 ChatSubWnd_2 = {
@@ -35,7 +36,7 @@ ChatSubWnd_2 = {
 	Width = 0,
 	Height = 0,
 	TabState = "On",
-	TabName = [[硅撇 皋矫瘤]],
+	TabName = [[战斗讯息]],
 	option1 = 0,
 	option2 = 0,
 	option3 = 0,
@@ -56,5 +57,6 @@ ChatSubWnd_2 = {
 	option18 = 1,
 	option19 = 1,
 	option20 = 1,
+	option21 = 0,
 }
 

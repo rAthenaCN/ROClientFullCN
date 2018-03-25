@@ -1,77 +1,61 @@
 #
-[ 僊儖僪偲偼 ]
-僾儗僀儎乕偑慻怐偱偒傞摿暿側僌儖乕僾偱偡丅
-堦帪揑側嫤椡娭學偲偟偰偺堄枴崌偄偑嫮偄
-僷乕僥傿乕偵懳偟偰丄僊儖僪偼傛傝帩懕揑偐偮崅搙側
-楢懷娭學傪寢傋傞僌儖乕僾偺扨埵偲側傝傑偡丅
-僊儖僪偵強懏偡傞偵偼丄帺暘偱僊儖僪傪寢惉偡傞
-曽朄偲丄偡偱偵寢惉偝傟偰偄傞僊儖僪偵壛擖偡傞
-曽朄偑偁傝傑偡丅
+[公会建立]
+ 1. 公会建立必须拥有华丽金属.  
+ (必须从任务/怪兽这里获得一个华丽金属.)
+ 
+ 2. 建立公会的方法: 
+ /guild (guild) 
+ '建立公会按钮[ALT+G].
+ 
+ 3. ALT+G: 公会信息调用. 
 #
-
-[ 僊儖僪偱偱偒傞偙偲 ]
-1.僊儖僪僠儍僢僩偺棙梡
-丂僊儖僪儊儞僶乕偩偗偵儊僢僙乕僕傪憲傟傞
-丂僊儖僪僠儍僢僩偑巊偊傞傛偆偵側傝傑偡丅
-
-2.僊儖僪僗僉儖偺庢摼
-丂僊儖僪儊儞僶乕偑宱尡抣傪忋擺偡傞偙偲偱
-丂僊儖僪偺儗儀儖傪忋偘傞偙偲偑偱偒傑偡丅
-丂僊儖僪儗儀儖偑忋徃偡傞偲丄僊儖僪僗僉儖偺庢摼偑
-丂壜擻偲側傝傑偡丅
-
-3.峌忛愴傊偺嶲壛
-丂峌忛愴偵嶲壛偱偒傞傛偆偵側傝傑偡丅
-丂仸嵲偺僄儞儁儕僂儉偵僟儊乕僕傪梌偊傞偨傔偵偼丄
-丂丂僊儖僪僗僉儖乽惓婯僊儖僪彸擣乿傪庢摼偟偰偄傞
-丂丂昁梫偑偁傝傑偡丅
+ 
+[公会信息窗口]
 #
-
-[ 僊儖僪壛擖曽朄 ]
-偡偱偵寢惉偝傟偰偄傞僊儖僪偵壛擖偟偨偄応崌丄
-擖傝偨偄僊儖僪偺丄壛擖尃尷傪帩偮儊儞僶乕偐傜
-姪桿偟偰傕傜偆乮壛擖梫惪偟偰傕傜偆乯昁梫偑
-偁傝傑偡丅
-
-1.僊儖僪壛擖梫惪傪偟偰傕傜偆
-丂僊儖僪儊儞僶乕傪曞廤偟偰偄傞恖傪扵偟偰丄
-丂壛擖梫惪傪弌偟偰傕傜偄傑偟傚偆丅
-
-2.僊儖僪壛擖梫惪傪彸戻偡傞
-丂僊儖僪壛擖梫惪偑撏偄偨傜丄彸戻偡傞偙偲偱丄
-丂僊儖僪偺壛擖偑姰椆偟傑偡丅
+ 1. 公会信息:
+ 公会经验, 公会等级, 公会徽章, 会长姓名, 敌对,
+ 积分, 平均等级, 联盟/敌对公会都可以查到. 
 #
-
-[ 僊儖僪寢惉曽朄 ]
-怴偟偔帺暘偺僊儖僪傪嶌傝偨偄応崌丄
-埲壓偺庤弴偱僊儖僪傪寢惉偡傞偙偲偑偱偒傑偡丅
-
-1.僊儖僪偺寢惉偵偼乽僄儞儁儕僂儉乿偲偄偆傾僀僥儉
-丂傪強帩偟偰偄傞昁梫偑偁傝傑偡丅
-丂乽僄儞儁儕僂儉乿偼埲壓偺儌儞僗僞乕側偳傪
-丂搢偟偨帪丄僪儘僢僾偡傞偙偲偑偁傝傑偡丅
-
-丂丂婸偔憪丄僆乕僋僝儞價丄儗僋僀僄儉丄儈僱儔儖丄
-丂丂僄儞僕僃儕儞僌丄僑乕僗僩儕儞僌丄墿嬥宄丄
-丂丂僶僼僅儊僢僩
-
-2.乽僄儞儁儕僂儉乿傪強帩偟偨忬懺偱
-丂僊儖僪寢惉儃僞儞傪僋儕僢僋偟偰
-丂僊儖僪傪寢惉偱偒傑偡丅
-丂仸僠儍僢僩僂傿儞僪僂偵
-丂丂/guild "僊儖僪柤"
-丂丂偲擖椡偡傞偙偲偱傕僊儖僪寢惉壜擻偱偡丅
-
-3.Alt+G僉乕偱僊儖僪忣曬僂傿儞僪僂傪屇傃弌偣傑偡丅
-
-4.壛擖尃尷傪帩偮僊儖僪儊儞僶乕偑丄姪桿偟偨偄
-丂僉儍儔僋僞乕傪塃僋儕僢僋偟丄
-丂昞帵偝傟偨儊僯儏乕偺乽仜仜偝傫偵僊儖僪壛擖
-丂梫惪乿傪慖戰偡傞偙偲偱丄傎偐偺僉儍儔僋僞乕傪
-丂僊儖僪偵彽懸偱偒傑偡丅
-
-僊儖僪偵壛擖偡傞偲偙偺僿儖僾偼尒傟側偔側傝傑偡丅
-徻偟偔偼岞幃僒僀僩傪偛棗偔偩偝偄丅
-
-偦傟偱偼丄妝偟偄僊儖僪儔僀僼傪両
+ 
+ 2. 会员信息: 
+ 公会成员的个人信息
+ 如果会员退出公会. 则会删除
+ 会长可以解散公会的所有成员. 
 #
+ 
+ 3. 职位设置: 
+ 最大缴税比例50%
+#
+ 
+ 4. 公会技能:
+ 公会会长操作.
+ 如果您的公会升级后拥有了新的技能点.
+ 可以立即升级公会技能来提高公会实力.
+#
+ 
+ 5. 驱逐: 
+ 公会的驱逐者名单
+ 还包括被驱逐的原因...
+#
+ 
+ 6. 会长公告:
+ 会员登录时可以收到通知. 
+#
+ 
+[注册和标志]
+#
+ 1) 24x24像素的256色位图(BMP)
+ 创建徽章.
+#
+ 
+ 2) 在仙境传说Online的安装目录中
+ 'Emblem'文件夹中导入徽章. 
+#
+ 
+ 3) 信息窗口徽章
+ 点击'编辑'以改变公会徽章. 
+#
+ 
+ 4) 徽章改变
+ 公会随时更换徽章, 必须会长操作. 
+#		

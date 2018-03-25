@@ -1,14 +1,14 @@
-
-
-
--- 파일의 상대경로와 파일명으로 구성됩니다.
--- 파일의 확장자 명은 무시됩니다.
+-- Consists of file name with path (without extension)
 -- \data\LuaFiles514\Lua Files\quest\
-QuestLuaFileList = {};
+-- Guide: http://herc.ws/board/topic/11668-guide-add-custom-quest-in-any-tab/
 
+QuestLuaFileList = {}
 
 function Add( luafilename )
-	QuestLuaFileList[ #QuestLuaFileList + 1 ] =  luafilename;
+	QuestLuaFileList[ #QuestLuaFileList + 1 ] =  luafilename
 end
 
--- Add([[sample\sample.lua]]);
+-- Examples:
+-- Uncomment below to check how it works
+-- Add[[localquest\local_dastgirquest_list]]
+-- Add[[localquest\questinfo\l_dastgir_list]]

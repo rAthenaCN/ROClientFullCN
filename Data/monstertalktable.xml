@@ -1,0 +1,836 @@
+<?xml version="1.0" encoding="gb2312" ?>
+<enemy_monster_talk_table>
+	<alarm>
+		<discovery>	滴答...滴答...滴答...滴答...滴答...滴答...	</discovery>
+		<discovery>	警报!警报!发现敌人!发现敌人!!!	</discovery>
+		<attack>	尝尝偶的厉害!!	</attack>
+		<attack>	就你这样土不啦机的也想来钟塔混啊!!	</attack>
+		<hp50>	滴答...扑通..滴答...扑通...	</hp50>
+		<hp25>	呀...当当...扑通...通通...	</hp25>
+		<kill>	噼啪...叮咚...叮咚...	</kill>
+		<dead>	扑通...噼啪...噼噼啪!!	</dead>
+		<dead>	啊呀!....妈呀!....	</dead>
+	</alarm>
+	<alice>
+		<attack>	你不是主人, 你只不过是个可怜的人类……	</attack>
+		<attack>	什么呀, 你不是主人!!!	</attack>
+		<attack>	你太卑鄙了哟, 为什么假装成我们的主人?	</attack>
+		<attack>	喂...你怎么不动了啦?你不是毛拽的吗?!!	</attack>
+		<hp50>	不... 我不能现在就死!我还没有见到我的主人呢!...	</hp50>
+		<hp25>	主... 主人..快点回来救救我吧...我快挺不住了哟...	</hp25>
+		<kill>	为我骄傲吧, 主人.我将永远追随着你!	</kill>
+		<dead>	主..主人, 你到最后还是没有回来啊, 主人...我...永别了...	</dead>
+		<dead>	这...这...已经....太迟了, 不过... 我在死后也愿意是您的奴仆, 我会等着你的, 主人..	</dead>
+		<dead>	哦不...太迟了...即使你回来, 你也救不了我了...	</dead>
+	</alice>
+	<alligator>
+		<discovery>	哗哗...	</discovery>
+		<attack>	啊呜!抽你!抽你!	</attack>
+		<hp50>	哦哦...	</hp50>
+		<hp25>	啊哟...噜噜...噜...	</hp25>
+		<kill>	哈哈哈....	</kill>
+		<dead>	卡.....	</dead>
+	</alligator>
+	<angeling>
+		<discovery>人类!人类!	</discovery>
+		<discovery>	我发现人类了哟!弟兄们, 冲啊!!	</discovery>
+		<attack>	去死吧, 你们这些劣等人!!	</attack>
+		<attack>	你还想还击啊!!安耽吧你!!	</attack>
+		<hp50>	你..你有种....	</hp50>
+		<hp25>	啊呀...你把偶弄疼了!!...我要投诉你...	</hp25>
+		<kill>	你个笨蛋...别忘了你的身份,跟我打!	</kill>
+		<dead>	啊啊!砰砰!!!	</dead>
+	</angeling>
+	<anolian>
+		<discovery>	咕噜...人类!!	</discovery>
+		<attack>	去死吧, 人类!	</attack>
+		<hp50>	◎＃￥※...	</hp50>
+		<hp25>	@##$%*#$%...	</hp25>
+		<kill>	咕噜噜!!哈哈, 偶杀了他啦!唷嚯~~	</kill>
+		<dead>	哦..人类...人类杀了我呀...啊呀!!	</dead>
+	</anolian>
+	<archer_skeleton>
+		<discovery>	有生物靠近...把他们全部消灭!!	</discovery>
+		<discovery>	我能听见附近有生物的呼吸声!</discovery>
+		<attack>	杀了你这个不明生物!!	</attack>
+		<hp50>	呃...	</hp50>
+		<hp25>	咳咳...咳...	</hp25>
+		<kill>	快杀了他, 快点...另外...另外再过来几个!大家都来爽爽...	</kill>
+		<dead>	太夸...夸张了!他们居然攻破了偶的防线!!	</dead>
+	</archer_skeleton>
+	<bathory>
+		<discovery>嘿嘿嘿, 小家伙~ 你要去哪里啊?过来过来, 婆婆有好吃的给你哦!	</discovery>
+		<attack>	这儿,拿着, 拿着!!快来接受婆婆给你的爱吧~!!!!	</attack>
+		<hp50>	啊嘿嘿嘿嘿~	</hp50>
+		<hp25>	噢~噢哦...	</hp25>
+		<kill>	难道婆婆对你的爱还不够吗?婆婆好伤心啊~~~	</kill>
+		<dead>	哦..啊.. 难道你就是这样尊敬长辈的吗?..	</dead>
+	</bathory>
+	<bon_gun>
+		<discovery>	你来了啊, 你难道不知道自己是来送死的吗?	</discovery>
+		<attack>	哦, 不要怕怕, 这个不疼的.	</attack>
+		<hp50>	不..不错嘛你, 没想到你还有两把刷子的嘛!	</hp50>
+		<hp50>	你够狠... 老子低估你了!</hp50>
+		<hp25>	咳...咳...我...我还能坚持, 我能!	</hp25>
+		<hp25>	你的呼吸...开始急促了..呵...呵...咳...	</hp25>
+		<kill>	我只希望你没有感到更痛苦, 人类!	</kill>
+		<kill>	求求你不要再到这里来了哟!偶不想再跟你打架了啦!你太菜的类!	</kill>
+		<kill>	回去练个20级再来跟老子打吧!</kill>
+		<dead>	咳咳...我 ..我输了...	</dead>
+		<dead>	我..我想我还需要磨练...	</dead>
+	</bon_gun>
+	<deviruchi>
+		<discovery>	这里有人类!人类!!呀噼呀噼!	</discovery>
+		<attack>	呀噼呀噼!!来送死啊, 人类!	</attack>
+		<attack>	戳你戳你, 看你死不死?戳你戳你, 看你死不死?</attack>
+		<hp50>	噢丘, 噢丘!人类..人类攻进来啦!	</hp50>
+		<hp25>	这...这就是人类的力量?	</hp25>
+		<kill>	死了啊...一点都不好玩...喂!爬起来啊, 偶们再打过啊!!	</kill>
+		<kill>	死啦, 死了啊!人类死了唷...喔!喔!~	</kill>
+		<dead>	啊~~~你...你好意思杀了我的呀!!!</dead>
+		<dead>	你...你...我会再回来的!!!</dead>
+	</deviruchi>
+	<evil_druid>
+		<discovery>	是谁来到这个又黑又潮的地方?!</discovery>
+		<discovery>	欢迎你, 朋友!你来对地方寻死了!!</discovery>
+		<attack>	死去吧, 朋友!我将让你化为灰烬!!!	</attack>
+		<attack>	完全的毁灭和摧毁就是我的工作!去死吧, 我的朋友!</attack>
+		<hp50>	不错, 朋友!但是我还没完呢!!	</hp50>
+		<hp25>	哦...不 ..你太贪婪了...可是你又能坚持多久呢?	</hp25>
+		<kill>	你终于可以安息了.活着是件很艰难的事情, 但是现在你可以轻松了, 你现在感觉如何啊?</kill>
+		<kill>	我希望你的死不会让你太悲伤~~</kill>
+		<dead>	咳咳..咳咳咳咳咳!!!	</dead>
+		<dead>	噢..啊!!!...	</dead>
+	</evil_druid>
+	<executioner>
+		<discovery>	你是选择放血来的吗?让我来帮你吧!!	</discovery>
+		<discovery>	你终于来了, 看你的样子很有激情嘛!!	</discovery>
+		<attack>	过来, 尝尝我的厉害!!	</attack>
+		<attack>	来打我啊!!你认为你会打得到我吗?笨!</attack>
+		<hp50>	啊哟喂!!你再打啊!!你以为你血很多啊?!!	</hp50>
+		<hp25>	非常好!但是我仍然可以打到你!	</hp25>
+		<kill>	啊?嗯?这个...这个不是我得幻觉吧?...	</kill>
+		<kill>	你也只不过是个普通人嘛...对不起哦, 偶不小心把你打死的类!!	</kill>
+		<dead>	当..当然..我想你还真是个热血青年, 但是这事还没完呢!</dead>
+		<dead>	你...你应该知道这才开始呢, 哼!	</dead>
+	</executioner>
+	<ghostring>
+		<discovery>	你在哪里?...喂!喂!你在哪里?...	</discovery>
+		<discovery>	偶看见你啦!别以为你装蒜偶就看不到你了?等着偶过来, 偶看到你了, 哈哈, 等着啊~~	</discovery>
+		<attack>	来呀...来鞭打偶呀...你怎么了?怎么不还手呀?呵呵...	</attack>
+		<attack>	你不喜欢偶了吗?难道你再也不喜欢偶了吗?...打是亲骂是爱啊~~	</attack>
+		<hp50>	为什么...为什么你打得我那么痛啦?难道……你真的喜欢我?...	</hp50>
+		<hp25>	哎哟...哎哟...	</hp25>
+		<kill>	你的身体...开始冰冷了...现在偶们..可以真正的在一起了耶!...	</kill>
+		<kill>	现在...我们能够在一起...飞来飞去了啊~~	</kill>
+		<dead>	为什么...为什么你....	</dead>
+		<dead>	你...你为什么不让偶爱你多一点啦?...哦, 我的心碎了...	</dead>
+	</ghostring>
+	<goblin_1>
+		<discovery>我侦察到有人来了!	</discovery>
+		<attack>	我打你!我打你!</attack>
+		<hp50>	啊嚏!	</hp50>
+		<hp25>	呼呼!!	</hp25>
+		<kill>	唧咕..唧咕唧咕...	</kill>
+		<dead>	啊!呀!	</dead>
+	</goblin_1>
+	<goblin_2>
+		<discovery>	这里有人, 这里有人!</discovery>
+		<attack>	让我给你一记重拳!接着!</attack>
+		<hp50>	嘿唷!!!</hp50>
+		<hp25>	哗!!	</hp25>
+		<kill>	嘿嘿嘿!!!</kill>
+		<dead>	哟!	</dead>
+	</goblin_2>
+	<goblin_3>
+		<discovery>打呀!来打人啊!</discovery>
+		<attack>	杀了!杀了!</attack>
+		<hp50>	噢~危险!</hp50>
+		<hp25>	不可能这样的吧!</hp25>
+		<kill>	嘿嘿!	</kill>
+		<dead>	哟哟!</dead>
+	</goblin_3>
+	<goblin_4>
+		<discovery>	有人!</discovery>
+		<attack>	杀了你!	</attack>
+		<hp50>	咳!	</hp50>
+		<hp25>	啊嚏!</hp25>
+		<kill>	呵呵...	</kill>
+		<dead>	啊呸!</dead>
+	</goblin_4>
+	<goblin_5>
+		<discovery>	有人啊...	</discovery>
+		<attack>	杀!...	</attack>
+		<hp50>	...	</hp50>
+		<hp25>	......	</hp25>
+		<kill>	你死了耶...	</kill>
+		<dead>	我死了耶...	</dead>
+	</goblin_5>
+	<goblin_archer>
+		<discovery>	我能很远的射中你!瞄准你的屁屁!放箭!</discovery>
+		<attack>	射你!射你!	</attack>
+		<hp50>	哦, 不!	</hp50>
+		<hp25>	啊呀呀!!</hp25>
+		<kill>	啊~哩哦哩哦~哩!!	</kill>
+		<dead>	他母亲的...	</dead>
+	</goblin_archer>
+	<golem>
+		<attack>	毁灭一切!毁灭一切!</attack>
+		<hp50>	啊哟哟..原来是牙细菌在捣乱...	</hp50>
+		<hp25>	痛痛...痛痛!!</hp25>
+		<kill>	嘘...安静...不要吵哦...你这样就很乖...	</kill>
+		<dead>	我...还...还会再回来...扁你的!	</dead>
+	</golem>
+	<greatest_general>
+		<discovery>	嗨!就是你!过来!!</discovery>
+		<attack>	来, 让我给你一个热情的拥抱!!</attack>
+		<hp50>	嗨!你怎么这么下流!居然攻我的下盘!!</hp50>
+		<hp25>	不要脸...</hp25>
+		<kill>	我的拥抱热情吧?温暖吧?我都看见你的血热情地喷出来了耶!</kill>
+		<dead>	哦!我..我不想就这么被你肢解啊!	</dead>
+	</greatest_general>
+	<high_orc>
+		<discovery>	有情况!有人入侵!	</discovery>
+		<attack>	你来送死的吧!!	</attack>
+		<hp50>	啊呀!我受伤了啊!</hp50>
+		<hp25>	坚持!我能坚持住...我能坚持住啊!</hp25>
+		<kill>	哈哈..哈哈哈!!!	</kill>
+		<dead>	死了!...你居然杀死我了呀!!...你有种!	</dead>
+	</high_orc>
+	<injustice>
+		<discovery>	取你的人头不是很困难的事....	</discovery>
+		<attack>	好, 我让你来个狗啃屎!	</attack>
+		<hp50>	呜呜!</hp50>
+		<hp25>	不错嘛!	</hp25>
+		<kill>	你的身体是不是很冷啊?要不要我给你盖床被子呀?啊哈哈哈哈!</kill>
+		<dead>	呜呜...我...我怎么可能败在你的手上啊?...想不通啊!我自杀了!</dead>
+	</injustice>
+	<isis>
+		<discovery>	你!你在干什么呀?!这个地方不是你可以来的!!这里是君王圣地!	</discovery>
+		<attack>	安静点儿!如果你想死的话, 就给我安静点行不行?!!	</attack>
+		<hp50>	你..你居然敢动手打我这个貌若天仙的美女!...	</hp50>
+		<hp25>	现在..你能不能停下手来不打我呀?	</hp25>
+		<kill>	陛下是不喜欢有人来打扰他的..所以请你保持安静!!</kill>
+		<dead>	哦~~哦不... 只怪我红颜多薄命啊...	</dead>
+	</isis>
+	<joker>
+		<discovery>	你在那里吗?我找了你好久了耶!</discovery>
+		<attack>	我要在你的身上踩呀踩!踩呀踩!哦哦!踩呀踩!!	</attack>
+		<hp50>	啊呀!你还会还手的呀?!!	</hp50>
+		<hp25>	你是好人!你真漂亮!你真帅!...我们一起去死吧, 亲爱的!	</hp25>
+		<kill>	哦?这就算结束了呀?我才开始亢奋呢...	</kill>
+		<dead>	你..呃....你个. ..猪头三...	</dead>
+	</joker>
+	<khalitzburg>
+		<discovery>	有东西...是人...是活人啊!...	</discovery>
+		<attack>	杀...杀...杀...杀...杀...杀...杀...	</attack>
+		<hp50>	我们一起来玩...我们一起来玩...我们一起来玩...来玩...	</hp50>
+		<hp25>	我想死...我想死...我想死...我想死...	</hp25>
+		<kill>	爬起来再玩...爬起来再玩...爬起来再玩...爬起来再玩...	</kill>
+		<dead>	我死了.....我死了...我死了...	</dead>
+	</khalitzburg>
+	<knight_of_abyss>
+		<discovery>	你是想来跟我比武的吧?	</discovery>
+		<attack>	来呀, 来打我呀!!	</attack>
+		<hp50>	你够牛的...你还真是个对手啊!</hp50>
+		<hp25>	我承认你的确是个劲敌!!</hp25>
+		<kill>	呀?...你死了呀?!!...我收回刚才说你是劲敌的那句话, 你当我放屁好了!</kill>
+		<dead>	你打败我了...猛人!我希望你别是个四肢发达头脑的家伙才好!!	</dead>
+	</knight_of_abyss>
+	<kobold_1>
+		<discovery>	人类...啊呜!!</discovery>
+		<attack>	啊呜!</attack>
+		<hp50>	呜~~啊呜!</hp50>
+		<hp25>	呜呜~~	</hp25>
+		<kill>	：）	</kill>
+		<dead>	：（	</dead>
+	</kobold_1>
+	<kobold_2>
+		<discovery>	哈罗!!	</discovery>
+		<attack>	扁!扁!扁!	</attack>
+		<hp50>	呜~	</hp50>
+		<hp25>	哇哇...	</hp25>
+		<kill>	哈哈!	</kill>
+		<dead>	55555~	</dead>
+	</kobold_2>
+	<kobold_3>
+		<discovery>	呜噜噜!!!	</discovery>
+		<attack>	啊呜!!咬死你!!	</attack>
+		<hp50>	噜噜...	</hp50>
+		<hp25>	呜呜...	</hp25>
+		<kill>	啊呜!啊呜!!	</kill>
+		<dead>	55555~~</dead>
+	</kobold_3>
+	<kobold_archer>
+		<discovery>快来呀~~我找到他啦!他在这儿!</discovery>
+		<attack>	射!射!	</attack>
+		<hp50>	$%##$^#??...	</hp50>
+		<hp25>	我的心在流血~~	</hp25>
+		<kill>	咿呀咿呀哟!~</kill>
+		<dead>	咳咳!!	</dead>
+	</kobold_archer>
+	<marduk>
+		<discovery>	你在找什么东西啦?	</discovery>
+		<attack>	来呀, 让我愤怒起来吧!	</attack>
+		<hp50>	我让让你的, 我还没有使出劲来呢!	</hp50>
+		<hp25>	如果你现在要走的话, 我可以放了你!</hp25>
+		<kill>	你太不专心了...老是东张西望的!	</kill>
+		<dead>	...哈里路耶...上帝啊,让我的灵魂...追随你去吧...阿门...	</dead>
+	</marduk>
+	<marionette>
+		<discovery>	噢!我们一起来玩过家家吧!	</discovery>
+		<attack>	你好有趣哦!你的屁屁着火了就更可爱了!!呵呵~	</attack>
+		<hp50>	你干吗打我啦?!</hp50>
+		<hp25>	你怎么嘎暴躁的啦...</hp25>
+		<kill>	哦哟!你脸怎么这么紫呀?你的小心脏怎么扑通扑通不会跳了呀?呵呵~	</kill>
+		<dead>	oh yes!...太刺激了!...	</dead>
+	</marionette>
+	<merman>
+		<discovery>	泡泡...有人来了...泡泡泡泡...	</discovery>
+		<attack>	你是不是脑子有问题啊?累死累活地跑到偶们这里来...泡泡泡泡...泡泡...	</attack>
+		<hp50>	这个..这个人好强壮哦!!	</hp50>
+		<hp25>	我...我低估你了...	</hp25>
+		<kill>	为什么...你累死累活地跑到偶们这里...就是来翘辫子的吗?你脑子真的有问题...泡泡...泡泡泡泡...</kill>
+		<dead>	哦不...我不要变成海里面的一个泡泡!不...泡泡泡泡...泡泡...泡...</dead>
+	</merman>
+	<metaller>
+		<attack>	反击啊?你干嘛不反击我呢?你不是被虐狂吧?	</attack>
+		<hp50>	喂!你怎么可以这样的呀?你犯规了知不知道??	</hp50>
+		<hp25>	有趣啊, 你!有趣死了啊, 你!你毛有趣啊, 你!	</hp25>
+		<kill>	啊?你这么弱的啊?你应该感到很羞愧哎!是不是啦, 你? </kill>
+		<dead>	哇...偶的小提琴很贵的耶!你给偶弄坏了类~~你赔给偶啦!!</dead>
+	</metaller>
+	<minorous>
+		<discovery>	很久了哟, 都没有看到一个像样的对手...呣~!</discovery>
+		<attack>	我要用我的锤子砸得你扁扁平平!!!	</attack>
+		<hp50>	啊呀!你...你居然接得了我的这一招?	</hp50>
+		<hp25>	你完了!这是我让你的最后一次了!!</hp25>
+		<kill>	漂亮!你扁扁平平的样子看上去太完美了!哦呵呵呵呵~~</kill>
+		<dead>	哇呀呀呀呀!!</dead>
+	</minorous>
+	<mummy>
+		<discovery>	也许活着不如死了的好!痛苦也不如死了的好啊!</discovery>
+		<attack>	我以死神的名义赐你去死!	</attack>
+		<hp50>	我忘了一件事了...我的名字在生死簿上是找不到的...	</hp50>
+		<hp25>	你...你最后还是得跟着我的...	</hp25>
+		<kill>	死亡...能够给这个世界带来和平与宁静.</kill>
+		<dead>	现在...终于...我可以休息一下了...原谅我, 伟大的真神...哦呵呵呵呵...	</dead>
+	</mummy>
+	<munak>
+		<discovery>	我发现你了...不要走...	</discovery>
+		<attack>	独处对你来说未必是件好事情哦...	</attack>
+		<hp50>	为啥...为啥你会...	</hp50>
+		<hp25>	我...我真的很想跟你在一起哎...所以你好不好去死啦?!</hp25>
+		<kill>	耶!...现在我们终于可以在一起了耶!...除非你重新活过来...	</kill>
+		<dead>	啊呀!!我...我不想就这样死啊!	</dead>
+	</munak>
+	<mutant_dragon>
+		<discovery>	呼呼呼呼...你的屁屁让偶烧烧吧!...喂!等一下, 不要跑哎你!!	</discovery>
+		<attack>	用偶的地狱之火把你烧成一只烤乳猪...哦不是!烧成一堆灰烬吧!!!	</attack>
+		<hp50>	咳..咳...你还蛮有忍耐力的嘛!但是偶看你是坚持不了多久地!!	</hp50>
+		<hp25>	烧啊!发怒啊!!烧光你的头发啊!!</hp25>
+		<kill>	你对你自己变成一堆煤灰了有何感想啊?嗯?哈哈哈哈哈~</kill>
+		<kill>	哈哈哈哈哈哈~!!!终于偶的面前有了一堆煤灰, 8错8错!!</kill>
+		<dead>	哇哇哇哇~不..不可能会这样啊!!	</dead>
+	</mutant_dragon>
+	<mysteltainn>
+		<discovery>	 你!等一下!是不是很饥渴的想跟我打架?	</discovery>
+		<attack>	啊哦!这就是你的战斗力啊!让我来给你比划比划怎么用剑的吧!</attack>
+		<attack>	剑是杀人的工具!只有谋杀者才能感受到剑术的精髓!你了解了这些之后再来攻击我吧!	</attack>
+		<hp50>	你做得不错!但是不要骄傲哦!继续努力!</hp50>
+		<hp25>	不错不错!你学得很快, 好!接我这一招!!	</hp25>
+		<kill>	唉~这家伙也是个学艺不精的人...难道这周围就没有一个人战斗力强一点的吗?</kill>
+		<dead>	好..不错..你的确是个非常好的战士, 死在你的手上, 值!...	</dead>
+	</mysteltainn>
+	<obeaune>
+		<discovery>	我看见你了, 亲爱的...	</discovery>
+		<attack>	现在, 请接受我送给你的五指山!</attack>
+		<hp50>	你...你怎么这么强壮的呀?</hp50>
+		<hp25>	你..你不可能变得这么强的吧?!!	</hp25>
+		<kill>	嗯~这还差不多!如果你不想再被我K的话, 你就不要回来了!	</kill>
+		<dead>	啊...好..好极了...现..现在你打败我了...战斗..结束...	</dead>
+	</obeaune>
+	<orc_archer>
+		<discovery>切!杀了入侵者!</discovery>
+		<attack>	我射你!我打你!我要打得你满地找牙!切!</attack>
+		<hp50>	切!强啊..人类太强了...重新装备!!</hp50>
+		<hp25>	切!弓箭继续补充...战斗必须进行下去...切!!</hp25>
+		<kill>	切切切切切切切!!!!战斗胜利!我们永远是最强的!!切!!</kill>
+		<dead>	咳切切咳...为荣誉而战...去死吧人类!!切...</dead>
+	</orc_archer>
+	<orc_lady>
+		<discovery>	我将赐予你接近我欣赏我美丽容颜的权利!!</discovery>
+		<attack>	什么!你的眼睛怎么长的!!你不喜欢我吗?!来呀!快过来仔细瞧瞧我的美貌!</attack>
+		<hp50>	你...你怎么可以这样对待一位美女?讨厌啦!	</hp50>
+		<hp25>	哈...噗哧...瞧你满头大汗的样子...要不要我给你擦擦汗啊?</hp25>
+		<kill>	 噢哈哈哈!你现在知道了吧, 每个看到我漂亮脸蛋的人都必须死!</kill>
+		<dead>	嗨!!小心你的背后, 宝贝儿!嗤嗤!!</dead>
+	</orc_lady>
+	<orc_skeleton>
+		<discovery>有生物...有生物...有生物在接近...	</discovery>
+		<attack>	去死...去死...每个活着东西在我手上都要去死...	</attack>
+		<hp50>	不痛哎..你死的时候也不会痛的...	</hp50>
+		<hp25>	休息...咱们休息一会儿...	</hp25>
+		<kill>	Yes!搞定!</kill>
+		<dead>	我...我还能爬起来...别走哎你!	</dead>
+	</orc_skeleton>
+	<orc_zombie>
+		<discovery>	生...死...无常!!活着...就要..战斗...	</discovery>
+		<attack>	杀...杀..死吧...死吧...	</attack>
+		<hp50>	身体..有点..破损了...	</hp50>
+		<hp25>	我的身体...哦...不要...	</hp25>
+		<kill>	下一个...下一个...生命...战斗...杀了...	</kill>
+		<dead>	尘土...我变成尘土了...不!!~~</dead>
+	</orc_zombie>
+	<orc_warrior>
+		<discovery>	谁敢打扰兽人?!	</discovery>
+		<attack>	你敢攻击兽人?!	</attack>
+		<hp50>	哦~ 你认为你很坚强吗?!	</hp50>
+		<hp25>	我不会轻易失去我所拥有的~!!	</hp25>
+		<kill>	兽人一定会胜利的!!	</kill>
+		<dead>	我被打败了!啊!	</dead>
+	</orc_warrior>
+	<ork_warrior>
+		<discovery>嗨!这里是我们的地盘, 你踩过界了!说你呢!抓住这家伙!</discovery>
+		<attack>  扣下这个入侵者!杀了!!</attack>
+		<hp50>	对方很强!准备战斗了!!</hp50>
+		<hp25>	投降吧你!放下你的武器!</hp25>
+		<kill>	击败对方!我们是胜利者!!</kill>
+		<dead>	我们打输了!!赶快撤退...撤退...	</dead>
+	</ork_warrior>
+	<pirate_skel>
+		<discovery>没有什么能够比掠夺更刺激的了...嘿嘿~	</discovery>
+		<attack>	攻击!!我要抢光你身上的每件东西...嘿嘿嘿~	</attack>
+		<hp50>	你们一齐都上来吧!看我怎么收拾你~</hp50>
+		<hp25>	我们休息会喝杯酒吧~好吧?</hp25>
+		<kill>	哦, 我瞧瞧...你身上的东西还挺多的嘛..呵呵, 这次发了!</kill>
+		<dead>	即使我们死了, 我们仍然还是海盗..嘿嘿嘿...	</dead>
+	</pirate_skel>
+	<raggler>
+		<discovery>察觉敌情!!请求支援!请求支援!</discovery>
+		<attack>	赶快集合!消灭敌人!!	</attack>
+		<hp50>	检查武器!准备给他们致命一击!!	</hp50>
+		<hp25>	他们比外表看着更强壮!重新换武器!换个重型的!!</hp25>
+		<kill>	敌人被消灭!现在回到各自岗位上去!</kill>
+		<dead>	我们被攻击了...请求支援...请求支援...请求...支援...	</dead>
+	</raggler>
+	<raydric>
+		<discovery>你才来啊!!</discovery>
+		<attack>	我的外号叫“玉树临风打遍天下无敌手”... 信不信由你.	</attack>
+		<attack>	如果你承认你输了, 我就让你活着离开.	</attack>
+		<attack>	你还要死赖在这儿啊!!!</attack>
+		<hp25>	在我的字典里从来没有“后退”这两个字!	</hp25>
+		<hp25>	我是从来不会受伤的, 你就不要白费力气了.</hp25>
+		<hp25>	胜利终归是属于我的, 我看你还是看清楚形势吧!!	</hp25>
+		<kill>	胜利!...跟你说了叫你不要白费力气了...现在死心了吧!</kill>
+		<dead>	我今天是因为腰部扭伤了, 不然你才没那么容易赢我呢!</dead>
+		<dead>	我给我自己唱首哀怨的歌曲...“他一定很爱你, 把我给比下去...”	</dead>
+	</raydric>
+	<raydric_archer>
+		<discovery>	敌人靠近!弓箭手准备!	</discovery>
+		<attack>	我一箭射死你啊!我一刀捅死你啊!	</attack>
+		<hp50>	他们反击过来了!赶快换装备啊!</hp50>
+		<hp25>	我们遭到了强烈攻击!改用B计划!!</hp25>
+		<kill>	咦?你怎么突然安静下来了?喂!说话哎!哎!...死了啊?~~</kill>
+		<dead>	战争...没有结束...我...还会...	</dead>
+	</raydric_archer>
+	<requiem>
+		<discovery>	嘿唷嘿唷~扛棺材!嘘~有人来了~	</discovery>
+		<attack>	我只能打你了哟!!	</attack>
+		<hp50>	你能不能不要这么吵啊!拜托!</hp50>
+		<hp25>	哦...你不能...	</hp25>
+		<kill>	安静...安静...安息吧你!...</kill>
+		<dead>	死亡...就是这个样子的...	</dead>
+	</requiem>
+	<rocker>
+		<attack>	啦啦!!啦啦罗啦!!!</attack>
+		<hp50>	有人在打我哎~</hp50>
+		<hp25>	我要保持我的出拳频率!!</hp25>
+		<kill>	哈哈...我超越了自我...	</kill>
+		<dead>	音乐...还没有结束...	</dead>
+	</rocker>
+	<skel_prisoner>
+		<discovery>	我累死了...怎么又有人来了...戳!</discovery>
+		<attack>	我要你...我要你的身体...	</attack>
+		<hp50>	如果你不给我, 我就让你变成我这个样子...	</hp50>
+		<hp25>	破了哟..要碎了...轻点啊你!...	</hp25>
+		<kill>	...支离破碎了...所有的都撕成碎片了...	</kill>
+		<dead>	我又回归大地了...接受我吧, 大地啊母亲!...</dead>
+	</skel_prisoner>
+	<skel_worker>
+		<discovery>	宝石!多漂亮的一块宝石啊!快拿给我看看!!</discovery>
+		<attack>	你干嘛偷我的矿藏, 你这个小偷!!	</attack>
+		<hp50>	你...该死!!快给我出去!!	</hp50>
+		<hp25>	救...救命啊!!他们太凶了, 我一个人对付不了啊!!	</hp25>
+		<kill>	你就不要做偷东西的白日梦了!!</kill>
+		<dead>	呜...宝石...我的...宝石...还给我啦...</dead>
+	</skel_worker>
+	<soldier_skeleton>
+		<discovery>	站住, 不许动!!</discovery>
+		<attack>	嗨哟!!看我不劈死你!	</attack>
+		<hp50>	哦!我的...骨头...关节炎发作的类~</hp50>
+		<hp25>	啊哟...我的骨头, 明天肯定要下雨了...!	</hp25>
+		<kill>	呣...没有人能够从我的刀下逃生!	</kill>
+		<dead>	不要那么自信啦!后面还有更厉害的等着你呢!</dead>
+	</soldier_skeleton>
+	<stalactic_golem>
+		<attack>	...敌人...有敌人...敌人...敌人...	</attack>
+		<hp50>	扁你...扁你...扁你...	</hp50>
+		<hp25>	摇死你...摇死你...摇死你...</hp25>
+		<kill>	你好扁哦!跟个烧饼一样...呵呵...</kill>
+		<dead>	我...还会重生的...	</dead>
+	</stalactic_golem>
+	<steam_goblin>
+		<discovery>	蒸发是我的生活...和蒸汽一起飞翔...咯咯咯~	</discovery>
+		<attack>	双倍蒸汽攻击!!</attack>
+		<hp50>	咯咯!!蒸汽机热了!蒸汽机热了!	</hp50>
+		<hp25>	咯咯!蒸汽机...蒸汽机...	</hp25>
+		<kill>	没有人能跟我的蒸汽抗衡!!咯咯咯咯~</kill>
+		<dead>	我...不行了...赶快撤离...</dead>
+	</steam_goblin>
+	<strouf>
+		<discovery>	你到海底来干嘛?!!</discovery>
+		<attack>	你能肯定你能打败我嘛?	</attack>
+		<hp50>	你这个白痴!尝尝我的厉害!</hp50>
+		<hp25>	让你看看什么是真正的攻击!</hp25>
+		<kill>	你难道就没有想过像你这样能力的人能够打败我吗?	</kill>
+		<dead>	呼...你虽然打败我了, 但是你还是不能活着出去!	</dead>
+	</strouf>
+	<tirfing>
+		<discovery>	去找个人来玩玩...偶今天闲得很啊~</discovery>
+		<attack>	让我看看...我该咬你身上那块肉呢?~</attack>
+		<hp50>	带血的新鲜肉有一种难以言语的美妙感觉...啦啦啦啦~	</hp50>
+		<hp25>	来回地撕咬肉是我最喜欢的事情~~	</hp25>
+		<kill>	哦, 已经切成很多片了哟...今天可以吃猪排了!^_^	</kill>
+		<dead>	我...我是不可毁灭的...啊哈哈哈哈哈!!</dead>
+	</tirfing>
+	<tyrfing>
+		<discovery>	我必须找到我的敌人并消灭他~	</discovery>
+		<attack>	今天我可能会再伤一个人头~	</attack>
+		<hp50>	新鲜的美味总是好的~	</hp50>
+		<hp25>	我会把你切成许多碎片~	</hp25>
+		<kill>	我将你的肉一块一块撕掉~	</kill>
+		<dead>	我没有理由被打败的啊!	</dead>
+	</tyrfing>
+	<vocal>
+		<discovery>	 我是个流浪的歌手~我是摇滚歌王!!	</discovery>
+		<attack>	摇滚!摇滚!摇滚!摇滚!摇滚!摇滚!</attack>
+		<hp50>	摇晃吧, 你的脑袋!扭动吧, 你的屁股!!我们一起来摇滚!!</hp50>
+		<hp25>	歌...歌唱是我的生命~我的生活充满了玫瑰的色彩~</hp25>
+		<kill>	死亡时的尖叫是生活的调味品~懂吗?亲爱的~啦啦啦啦~</kill>
+		<dead>	我...我的尖叫声听起来还蛮有磁性的吧?对...对吗?...</dead>
+	</vocal>
+	<wander_man>
+		<discovery>	别在那里躲躲藏藏的, 出来!!</discovery>
+		<discovery>	有人是在等着我吧!	</discovery>
+		<attack>	看我妖刀的威力!!	</attack>
+		<hp50>	我好害怕哟... 你不要打太久哦!</hp50>
+		<hp50>	嗯...你的确不是个初学者了!	</hp50>
+		<hp25>	让我休息会儿... 	</hp25>
+		<hp25>	你是个很好的对手, 你很棒...	</hp25>
+		<kill>	没有任何事能够比得上让鲜血溅洒在刀尖上更让人快活的了!</kill>
+		<kill>	我是胜利的王者!!	</kill>
+		<dead>	现在...我终于可以休息了.</dead>
+		<dead>	比赛...结束...但是下次你就没有这么走运了.	</dead>
+	</wander_man>
+	<wind_ghost>
+		<discovery>	幽灵可以漂浮在空气中~但是为什么不能穿过墙壁呢?</discovery>
+		<attack>	看招!打你...打你...呃...打你个落花流水!</attack>
+		<hp50>	我的衣服...你打归打, 干嘛撕破偶的衣服啦!不要脸~...	</hp50>
+		<hp25>	几点?...现在几点了?我要去买菜烧饭了~</hp25>
+		<kill>	看你还敢不敢嚣张了!!	</kill>
+		<dead>	我看见...从天空发出的亮光...偶该走了...偶妈妈催偶回家去洗澡澡了...8~</dead>
+	</wind_ghost>
+	<wraith>
+		<discovery>	让我慢慢地靠近你~嘿嘿...</discovery>
+		<attack>  看你细皮嫩肉的, 一定很好吃!</attack>
+		<hp50>	噢噢哦...	</hp50>
+		<hp25>	你...我会抓住你的...	</hp25>
+		<kill>	真是美味...你的肉真是香啊...我要多吃点!	</kill>
+		<dead>	........	</dead>
+	</wraith>
+	<zerom>
+		<discovery>哦啊哟~今天的事情明天做, 明天的事情后天做...</discovery>
+		<attack>	看看偶带的行李就像你喝醉酒时死猪样的重!!</attack>
+		<hp50>	嘿唷...	</hp50>
+		<hp25>	为什么是我...只有我...	</hp25>
+		<kill>	如果你明白生命的真谛, 你就应该重新开始!</kill>
+		<dead>	妈...妈咪...ば_ば	</dead>
+	</zerom>
+	<zherlthsh>
+		<discovery>哦~嗯~好热啊!!!</discovery>
+		<attack>	现在, 叫我女王, 马上!!!	</attack>
+		<hp50>	oh..yes!快!快点!我要!!</hp50>
+		<hp25>	不!不是这样...求求你给我!!!	</hp25>
+		<kill>	这才是序幕的开始, 你准备好让我好好地折磨你了吗?嗯?我的小奴隶?</kill>
+		<dead>	啊哈...啊哈...太棒了!!来...再来...	</dead>
+	</zherlthsh>
+	<zombie_prisoner>
+		<discovery>咕嚅嚅嚅...	</discovery>
+		<attack>	咔哇咔!!!</attack>
+		<hp50>	我...我的皮肤...	</hp50>
+		<hp25>	呼...呼...不要杀我...我不想死啊...	</hp25>
+		<kill>	咕嚅嚅嚅...杀杀杀杀....	</kill>
+		<dead>	把...把我从地狱中解救出来...光明...我能够看到了...	</dead>
+	</zombie_prisoner>
+	<am_mut>
+		<discovery>	今天, 啦啦啦啦~我找到你, 啦啦啦啦~</discovery>
+		<attack>	我这根狼牙棒槌扁起人来可比你想像得要痛的多哦!</attack>
+		<hp50>	啊嗨!</hp50>
+		<hp25>	啊嗨嗨!!</hp25>
+		<kill>	你头上有好多窟窿哦...还有什么东西从里面汩汩地冒出来哟!</kill>
+		<dead>	我的...你不能拿走我的棒槌...	</dead>
+	</am_mut>
+	<ancient_mummy>
+		<discovery>	荣誉属于伟大的法老王...</discovery>
+		<attack>	痛苦来自于死亡...地狱来自于人间...	</attack>
+		<hp50>	哦, 伟大的法老王!赐予我力量去摧毁这些入侵者!!!</hp50>
+		<hp25>	哦, 伟大的法老王!赐予我力量!让入侵者痛苦地死去吧!!</hp25>
+		<kill>	我地荣誉是属于您的, 哦, 伟大的法老王!</kill>
+		<dead>	现在...回到太阳神...	</dead>
+	</ancient_mummy>
+	<assulter>
+		<discovery>	发现目标, 进攻!</discovery>
+		<attack>	接招吧!小子!!!	</attack>
+		<hp50>	准备接受敌人的进攻!</hp50>
+		<hp25>	敏捷的, 偷偷的, 迅速的...这就是刺客的作风!</hp25>
+		<kill>	你这些三角猫的功夫是对付不了我天下无敌的绝技的!</kill>
+		<dead>	我的...我的天下无敌的绝技哟...	</dead>
+	</assulter>
+	<cat_o_nine_tail>
+		<discovery>	叮当~ 叮叮当~每天叮叮当~	</discovery>
+		<attack>	嗨!你敲什么呀?你干嘛碰我啊?说你呢!这种眼神看我干嘛?</attack>
+		<hp50>	啊哈...哈...我不幸受伤了...	</hp50>
+		<hp25>	现在...你能不能马上就去死啊?能不能啊?</hp25>
+		<kill>	哦, 好热啊~打得全身都是汗了~你感觉怎样啊?你这个狗啃屎的姿势蛮帅的嘛!</kill>
+		<dead>	啊哈...我...我可不是道具商人!!没有东西给你啦!走啦你!</dead>
+	</cat_o_nine_tail>
+	<dark_illusion>
+		<discovery>	跟随着我去寻找神秘的力量...	</discovery>
+		<attack>	你是打不到我的!朋友!</attack>
+		<hp50>	从地狱来的力量支持着我...	</hp50>
+		<hp25>	在魔王的面前, 你还不赶快跪下给我磕头!!还动手动脚的!太没礼貌了你!!</hp25>
+		<kill>	进入永远的黑暗中沉沉地睡去吧!</kill>
+		<dead>	又一次回归于混沌中...但是我还会再回来的!</dead>
+	</dark_illusion>
+	<g_assulter>
+		<attack>	快来拿啊!我有好东西要给你啊!!</attack>
+		<hp50>	准备接受敌人的攻击!</hp50>
+		<hp25>	你这么凶, 我不想把东西给你了!!	</hp25>
+		<kill>	过了这个村, 就没这个店了!88了您类~<kill>
+		<dead>	啊哟喂!给你!给你!不就是一串香蕉嘛, 干嘛这么猴急啊!</dead>
+	</g_assulter>
+	<goblin_leader>
+		<discovery>你将成为我的刀下冤魂!</discovery>
+		<attack>	过来!来啊!</attack>
+		<hp50>	我打不死你?我打不死你?</hp50>
+		<hp25>	这就是你使出的吃奶的力气吗?让你见识见识更厉害的吧!!</hp25>
+		<kill>	我想你现在该清楚你自己的实力了吧...</kill>
+		<dead>	不赖啊...下次...我就不会这么便宜你了...	</dead>
+	</goblin_leader>
+	<kobold_leader>
+		<discovery>	啊呜~~	</discovery>
+		<attack>	你跑不掉的, 在很远的地方我就嗅到你的气味了!</attack>
+		<hp50>	像我这样英俊潇洒的狗狗品种很少吧?</hp50>
+		<hp25>	我看...你有太多的破绽了!!	</hp25>
+		<kill>	啊喔喔喔喔~~我杀死了一个人类!	</kill>
+		<dead>	呜呜~~</dead>
+	</kobold_leader>
+	<majoruros>
+		<discovery>	噗噗...噗哧...咵嚓...噗哧...	</discovery>
+		<attack>	石头...破裂...我...强壮..你..死...噗哧...	</attack>
+		<hp50>	呼呼...呼呼...	</hp50>
+		<hp25>	没有..结束...没有...这么快的..你要死了...	</hp25>
+		<kill>	噗噗...碎了...好..好..哈哈哈...噗哧...	</kill>
+		<dead>	呼哧~</dead>
+	</majoruros>
+	<maya_puple>
+		<discovery>	哦!你看见我们的母亲了吗?</discovery>
+		<attack>	是你!肯定是你诱拐走了我们的妈妈!</attack>
+		<hp50>	还给我!把妈妈还给我!</hp50>
+		<hp25>	为什么...你要诱拐她呢?你是为了钱吗?</hp25>
+		<kill>	真是的...你死了我怎么问你问题啊...我还是去别处问问其他人吧~	</kill>
+		<dead>	妈妈...你在哪里啊...我怎么找不到你啊...	</dead>
+	</maya_puple>
+	<mobster>
+		<discovery>哼~嗨!到这里来!!</discovery>
+		<attack>	我非常认真的要求你...快把你的钱包拿出来!!</attack>
+		<hp50>	嗨!你以为你打架很在行吗?</hp50>
+		<hp25>	哈, 你怎么这么虚弱啊!你想要什么?</hp25>
+		<kill>	他母亲的~你个大白痴, 也不看看你身上有几个钱, 就敢出来混了!今天算我倒霉!</kill>
+		<dead>	啊...你 ...你够狠啊哥们, 没请教阁下混哪个堂口的啊?</dead>
+	</mobster>
+	<owl_baron>
+		<discovery>	你站着别走...你是不是要跟我做什么买卖呀?	</discovery>
+		<attack>	既然你没有什么可做的, 那么我就要对你做点什么了...</attack>
+		<hp50>	你很强壮.你愿意做我的私人保镖吗?</hp50>
+		<hp25>	非常不错!请把你的剑停下来一秒钟.</hp25>
+		<kill>	你真够笨的...居然相信我说的话, 真的停下来了!	</kill>
+		<dead>	你...你已经是一个非常棒的谋略家了...	</dead>
+	</owl_baron>
+	<owl_duke>
+		<discovery>没劲哦...一天过了一天, 只有训练.</discovery>
+		<attack>	嗨!你快过来跟我玩玩闹!</attack>
+		<hp50>	贵族的生活就是奢靡和研究某些无聊的玩意儿...</hp50>
+		<hp25>	我不喜欢都是那样...每天一大堆的开销...</hp25>
+		<kill>	你觉得我身上这件昂贵的皮衣如何?	</kill>
+		<dead>	啊哦...	</dead>
+	</owl_duke>
+	<panzer_goblin>
+		<discovery>你知道在工业革命时代, 是谁发明了蒸汽机吗?	</discovery>
+		<attack>	看我的致命一击!!</attack>
+		<hp50>	发动机已经很热了...地面上却积满了冰冷的水!!</hp50>
+		<hp25>	噗哧...发动机过热...冷...咯咯~	</hp25>
+		<kill>	敌人已被击败!向另一个目标前进...</kill>
+		<dead>咯咯...咯咯咯...</dead>
+	</panzer_goblin>
+	<skeleton_general>
+		<discovery>	抓住你了!你杀了我们许多人对吗?	</discovery>
+		<attack>	转过身来!双手举过头顶!</attack>
+		<hp50>	让我这记重拳打得你满地找牙!</hp50>
+		<hp25>	别让我得刀锋碰到你, 它可锋利着呢!</hp25>
+		<kill>	下次你想保住你的脑袋的话, 就把它乖乖地在我面前低下!</kill>
+		<dead>	你...你不是...男人!~不好意思!!</dead>
+	</skeleton_general>
+	<wraith_dead>
+		<discovery>	张开我的大嘴...狠狠地咬上你一口!</discovery>
+		<attack>	你是想要我一口把你吞下肚子呢, 还是把你细嚼慢咽呢?</attack>
+		<hp50>	慢慢地你就会在我的胃里腐烂融化...</hp50>
+		<hp25>	就是这样, 你必定要死在我的这一重击之下!!</hp25>
+		<kill>	最终你会像我一样...死后不能重生...	</kill>
+		<dead>	咳咳...啊嚏~	</dead>
+	</wraith_dead>
+	<zombie_master>
+		<discovery>	嘿唷..嘿唷..天天找寻我的对手...	</discovery>
+		<attack>	黑暗...当黑暗来临的时候, 我真正感觉到...我的力量正在逐渐的强大r..	</attack>
+		<hp50>	我生命中最快乐的就是身上有腐烂的味道...	</hp50>
+		<hp25>	腐臭的菌类和作呕的污水其实尝起来是非常美味的哟!</hp25>
+		<kill>	现在我们可以一起腐烂了!嘿嘿嘿~</kill>
+		<dead>	你...就算现在活着, 最后也是要以死亡结束的!嘿嘿嘿~</dead>
+	</zombie_master>
+	<baphomet>
+		<discovery>什么, 你是谁?!</discovery>
+		<attack>	我要用我的弯月镰刀把你劈成两半!	</attack>
+		<hp50>	来吧, 打我呀!我看你还是放弃你可怜的攻击吧!</hp50>
+		<hp25>	你花的时间够长了, 也没有把我杀掉哎!现在该轮到我杀你了吧!</hp25>
+		<kill>	我就打了你几下, 你就死了啊...你真是可怜哦!</kill>
+		<dead>	不...不错嘛, 小家伙!等着我再回来!</dead>
+	</baphomet>
+	<dark_lord>
+		<discovery>	你的愿望将溺死在你的灵魂里...	</discovery>
+		<discovery>	混沌之王, 陆地就在你的眼前!</discovery>
+		<attack>	在我领地里居然有流浪的动物出现!下地狱去吧你!!</attack>
+		<hp50>	哎, 过分了哦你!不要弄得我开始生气噢!</hp50>
+		<hp50>	慢慢地, 别害怕, 我会让你死得很舒服的!</hp50>
+		<hp25>	我低估你的能力了!	</hp25>
+		<hp25>	好, 让你的灵魂离开你的躯壳在我的手中休息吧~~	</hp25>
+		<kill>	你的灵魂进入暗黑世界了!</kill>
+		<kill>	还有别的人也想去地狱吗?要去的赶快来报名啊!</kill>
+		<dead>	不...不是...不是这样的...又要进入暗黑世界了...回不来了...天哪!</dead>
+		<dead>	不要把我一个人丢在黑暗里!!哦~~	</dead>
+	</dark_lord>
+	<doppelganger>
+		<discovery>你在那儿呢...	</discovery>
+		<attack>	来, 让我们用剑来比划比划!</attack>
+		<hp50>	太棒了!刚才那一刻的确是最佳一击!</hp50>
+		<hp25>	躲得好!但是仍然不够完美!</hp25>
+		<kill>	就像我想的一样...你是做不到的, 还是等别人来做吧!</kill>
+		<dead>	你...你是个绝对完美的对手...死在你手上我感到很荣幸...</dead>
+	</doppelganger>
+	<drake>
+		<discovery>准备起航!赶快挪动你的屁股, 别傻坐着, 你这个懒猪!</discovery>
+		<attack>	你怎么还傻愣着!起航啦!!	</attack>
+		<hp50>	你怎么离开驾驶仓了?赶快给我回去!</hp50>
+		<hp25>	让我给你这个入侵者开开窍!!</hp25>
+		<kill>	该死的!你居然在这里睡起觉来了!来人啊!把他扔到海里去!!</kill>
+		<dead>	我的...我的航程还没...没...完成呢!!!</dead>
+	</drake>
+	<eddga>
+		<discovery>	很久很久以前, 有一种老虎让人惊恐万分...我就是那个古老种族的后代!</discovery>
+		<attack>	吼..吼呜!!!	</attack>
+		<hp50>	尽管尽你所能逃跑吧!</hp50>
+		<hp25>	你这个速度是在奔跑吗?你大概没有吃饱饭出来的吧?</hp25>
+		<kill>	你还是逃不过我的手掌心啊!哈哈哈~</kill>
+		<dead>	烟...烟...我需要抽根雪茄...我烟瘾犯了...咳咳...	</dead>
+	</eddga>
+	<knight_of_windstorm>
+		<discovery>我可不是圣诞老人!你肯定以为我是圣诞老人了吧?!你大概是近视眼吧?</discovery>
+		<attack>让你尝尝我充满野性、变换多端的刀法吧!</attack>
+		<hp50>	我是冰冷的固体结晶体, 你根本伤不了我!</hp50>
+		<hp25>	你还蛮凶的哟!那就别怪我划花你漂亮的小脸蛋儿了!</hp25>
+		<kill>	哈哈哈~直到明年的冬天你还是这副冻僵的模样了!我给你摆的造型, 你还喜欢的吧?</kill>
+		<dead>	我...我丢了...圣诞...圣诞老人的驯鹿了...他准要不高兴了!</dead>
+	</knight_of_windstorm>
+	<bloody_knight>
+		<discovery>	发现敌人...准备战斗...	</discovery>
+		<attack> 只有你们毁灭的时刻, 才对我们是重要的!	</attack>
+		<hp50>	在把你们全部消灭前, 我都不能休息一下哦!真是让人生气!</hp50>
+		<hp25>	你...你好恶心哦...自己流血不算还要把血飙到我身上来...	</hp25>
+		<kill>	再来...你再飙血啊...你要明白在别人面前吐啊吐的是不礼貌的~	</kill>
+		<dead>	谢谢了...现在我可以平静地回到主人的身边去了...	</dead>
+	</bloody_knight>
+	<maya>
+		<discovery>谁...你是谁?!你想对我的孩子们干什么?!	</discovery>
+		<attack>	你别想来拐骗我的小孩!!你这么猪, 我的小孩是不会上当的!</attack>
+		<hp50>	哈...你的...攻击很强啊...	</hp50>
+		<hp25>	我..我不能输!为了我的小孩我不能输给你!!</hp25>
+		<kill>	你再来威吓我的小孩, 我就不会放过你了!!</kill>
+		<dead>	咳..我..我很抱歉..妈妈不能照顾你们了...	</dead>
+	</maya>
+	<mistress>
+		<discovery>有东西在靠近我们的房子!进攻!</discovery>
+		<attack>	摧毁入侵者!!</attack>
+		<hp50> 不错的战士!但是我们有一个军队!	</hp50>
+		<hp25>	千万不要退缩孩子们!战斗还没有结束!	</hp25>
+		<kill>	我们已经把他们消灭了, 但是附近可能还有更多他们的人, 小心监视着!	</kill>
+		<dead>	我...我无谓的勇士们...战斗...要战斗到最后一刻!!</dead>
+	</mistress>
+	<moonlight>
+		<discovery>在黑夜中奔跑跳跃, 是多么亢奋的事情啊!!</discovery>
+		<attack> 叮当~叮当~我脖子上的铃铛叮叮当当!	</attack>
+		<hp50>	啊...你把我弄疼了哎!</hp50>
+		<hp25>	你...你好卑鄙!</hp25>
+		<kill>	想抓我?!你还嫩点儿呢!</kill>
+		<dead>	不..不!我要死了...我还有...很多事要做...	</dead>
+	</moonlight>
+	<orc_lord>
+		<discovery>	嗨!你是来卖唱的, 还是来耍把戏的?怎么你的衣服这么难看?</discovery>
+		<attack>	我一脚把你踢出地球去!	</attack>
+		<hp50>	打啊, 踢啊!乐队赶快给我奏乐!!	</hp50>
+		<hp25>	我觉得我的血液开始沸腾了!!</hp25>
+		<kill>	可怜的人类不敢再来了!	</kill>
+		<dead>	人类...人类抓了我了...但是...这并不算什么...	</dead>
+	</orc_lord>
+	<ork_hero>
+		<discovery>	有人类!士兵们, 都快起来集合!</discovery>
+		<attack> 不要小看我们, 因为我们是亡命之徒!我们会让你见识到我们的力量!</attack>
+		<hp50>	不能!...我们不能被人类打败!</hp50>
+		<hp25>	在战斗没有完全结束前, 我们不能放弃!	</hp25>
+		<kill>	这...并..没有结束..很快...另外一个英雄会来收拾你们的!!</kill>
+		<dead>		</dead>
+	</ork_hero>
+	<osiris>
+		<discovery>	是谁吵我睡觉!?叽叽歪歪地弄那么大声音!</discovery>
+		<attack>	我要让你长眠不起!	</attack>
+		<hp50>	你坚持不了多久了!	</hp50>
+		<hp25>	你抵抗的很凶嘛!让我看看你能撑多久?!</hp25>
+		<kill>	小崽子, 你终于消停了吧?!我终于可以好好休息一下了~</kill>
+		<dead>	得了, 饶了你吧...不过我警告你别再吵醒我了, 听到没?!</dead>
+	</osiris>
+	<phreeoni>
+		<discovery>	哼哼!舔舔舔!我要舔到你全身都湿掉~	</discovery>
+		<attack>	嚯嚯~你身上有股怪味, 好几天没有洗澡了吧你~</attack>
+		<hp50>	嚯嚯...嚯嚯嚯...不要再抵抗了...你马上就要完蛋了~	</hp50>
+		<hp25>	你的肉还挺难啃的嘛~你不是硬骨头六连出来的吧?</hp25>
+		<kill>	太妙了!非常的美味哦...欢迎你下次再来...记得要把你自己再养胖点哦~呵呵~</kill>
+		<dead>	肉太硬了...太硬了...不, 我不喜欢...这种肉质...太难吃了~</dead>
+	</phreeoni>
+	<turtle_general>
+		<discovery>	你在海龟的圣地里面干什么!!</discovery>
+		<attack>	如果你杀我们是为了证明你的实力, 那我现在就结果了你!</attack>
+		<hp50>	你...你好强啊, 你!</hp50>
+		<hp25>	不要退缩!越是怕死你就越要死掉!	</hp25>
+		<kill>	呼呼呼...	</kill>
+		<dead>	不...不要把我的死讯告诉别的海龟, 我怕他们伤心!!</dead>
+	</turtle_general>
+</enemy_monster_talk_table>

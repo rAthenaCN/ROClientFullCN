@@ -1,138 +1,36 @@
+-- Decompiled using luadec 2.1 r80 from http://code.google.com/p/luadec
+-- Command line: local_dewataquest_list.lub 
+
 LOCAL_DewataQuest_List = {
-					{
-						name = [[单客鸥]],
-						imagefile = [[ep_test_sample.bmp]],
-						list = {
-									{
-										name  =	[[傈烹澜丰!!]],
-										list = {
-												{
-													name =[[畴牢阑 档客扼 !!]],
-													scrfilename = [[DewataQuest]],
-													questID = 5035,
-												},
-												{
-													name =[[畴牢阑 档客扼 !!]],
-													scrfilename = [[DewataQuest]],
-													questID = 5036,
-												},
-												{
-													name =[[畴牢阑 档客扼 !!]],
-													scrfilename = [[DewataQuest]],
-													questID = 5037,
-												},
-												{
-													name =[[畴牢阑 档客扼 !!]],
-													scrfilename = [[DewataQuest]],
-													questID = 5038,
-												},
-												{
-													name =[[畴牢阑 档客扼 !!]],
-													scrfilename = [[DewataQuest]],
-													questID = 5039,
-												},
-												{
-													name =[[畴牢阑 档客扼 !!]],
-													scrfilename = [[DewataQuest]],
-													questID = 5040,
-												},
-												{
-													name =[[畴牢阑 档客扼 !!]],
-													scrfilename = [[DewataQuest]],
-													questID = 5041,
-												},
-												{
-													name =[[畴牢阑 档客扼 !!]],
-													scrfilename = [[DewataQuest]],
-													questID = 5042,
-												},
-												{
-													name =[[畴牢阑 档客扼 !!]],
-													scrfilename = [[DewataQuest]],
-													questID = 5043,
-												},
-											}
-									},
-									{
-										name  =	[[傈烹公扁!!]],
-										list = {
-												{
-													name =[[傈烹公扁]],
-													scrfilename = [[DewataQuest]],
-													questID = 5052,
-												},
-												{
-													name =[[傈烹公扁]],
-													scrfilename = [[DewataQuest]],
-													questID = 5053,
-												},
-												{
-													name =[[傈烹公扁]],
-													scrfilename = [[DewataQuest]],
-													questID = 5054,
-												},
-											}
-									},
-									{
-										name  =	[[傈汲]],
-										list = {
-												{
-													name =[[磊萍 空包 力累 犁丰 备窍扁]],
-													scrfilename = [[DewataQuest]],
-													questID = 9155,
-												},
-												{
-													name =[[磊萍 空包 力累]],
-													scrfilename = [[DewataQuest]],
-													questID = 9156,
-												},
-												{
-													name =[[泅磊 墨矫酒颇狼 焊翠]],
-													scrfilename = [[DewataQuest]],
-													questID = 9157,
-												},
-												{
-													name =[[版荤胶矾款 家侥 傈窍扁(1)]],
-													scrfilename = [[DewataQuest]],
-													questID = 9158,
-												},
-												{
-													name =[[颇捞内俊霸 倒酒啊扁]],
-													scrfilename = [[DewataQuest]],
-													questID = 9159,
-												},
-												{
-													name =[[版荤胶矾款 家侥 傈窍扁(2)]],
-													scrfilename = [[DewataQuest]],
-													questID = 9160,
-												},
-												{
-													name =[[颇捞内俊霸 倒酒啊扁]],
-													scrfilename = [[DewataQuest]],
-													questID = 9161,
-												},
-												{
-													name =[[版荤胶矾款 家侥 傈窍扁(3)]],
-													scrfilename = [[DewataQuest]],
-													questID = 9162,
-												},
-												{
-													name =[[颇捞内俊霸 倒酒啊扁]],
-													scrfilename = [[DewataQuest]],
-													questID = 9163,
-												},
-												{
-													name =[[版荤胶矾款 家侥 傈窍扁(4)]],
-													scrfilename = [[DewataQuest]],
-													questID = 9164,
-												},
-												{
-													name =[[磊萍空包狼 力累 己傍苞 颇捞内狼 焊翠]],
-													scrfilename = [[DewataQuest]],
-													questID = 9165,
-												},
-											}
-									},
-							},
-					},
-		}
+{name = "德瓦他任务", imagefile = "ep_test_sample.bmp", 
+list = {
+{name = "传统饮料", 
+list = {
+{name = "帮助老人", scrfilename = "DewataQuest", questID = 5035}, 
+{name = "帮助老人", scrfilename = "DewataQuest", questID = 5036}, 
+{name = "帮助老人", scrfilename = "DewataQuest", questID = 5037}, 
+{name = "帮助老人", scrfilename = "DewataQuest", questID = 5038}, 
+{name = "帮助老人", scrfilename = "DewataQuest", questID = 5039}, 
+{name = "帮助老人", scrfilename = "DewataQuest", questID = 5040}, 
+{name = "帮助老人", scrfilename = "DewataQuest", questID = 5041}, 
+{name = "帮助老人", scrfilename = "DewataQuest", questID = 5042}, 
+{name = "帮助老人", scrfilename = "DewataQuest", questID = 5043}}}, 
+{name = "传统武器", 
+list = {
+{name = "传统武器", scrfilename = "DewataQuest", questID = 5052}, 
+{name = "传统武器", scrfilename = "DewataQuest", questID = 5053}, 
+{name = "传统武器", scrfilename = "DewataQuest", questID = 5054}}}, 
+{name = "传说", 
+list = {
+{name = "收集贾提王冠材料", scrfilename = "DewataQuest", questID = 9155}, 
+{name = "制作贾提王冠", scrfilename = "DewataQuest", questID = 9156}, 
+{name = "贤者 卡锡亚帕的回报", scrfilename = "DewataQuest", questID = 9157}, 
+{name = "传递好消息(1)", scrfilename = "DewataQuest", questID = 9158}, 
+{name = "回去找帕伊库", scrfilename = "DewataQuest", questID = 9159}, 
+{name = "传递好消息(2)", scrfilename = "DewataQuest", questID = 9160}, 
+{name = "回去找帕伊库", scrfilename = "DewataQuest", questID = 9161}, 
+{name = "传递好消息(3)", scrfilename = "DewataQuest", questID = 9162}, 
+{name = "回去找帕伊库", scrfilename = "DewataQuest", questID = 9163}, 
+{name = "传递好消息(4)", scrfilename = "DewataQuest", questID = 9164}, 
+{name = "贾提王冠制作成功\与帕伊库的回报", scrfilename = "DewataQuest", questID = 9165}}}}}}
+

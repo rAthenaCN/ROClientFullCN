@@ -1,214 +1,71 @@
-<?xml version="1.0" encoding="Shift_JIS" ?>
+<?xml version="1.0" encoding="gbk3212" ?>
 <clientinfo>
-	<servicetype>japan</servicetype>
-	<servertype>primary</servertype>
-	<extendedslot></extendedslot>
 
-	<connection>
-		<display>Breidablik [弶怱幰偵僆僗僗儊]</display>
-		<desc>None</desc>
-		<balloon>偼偠傔偰偺曽偵僆僗僗儊側丄堦斣怴偟偄儚乕儖僪偱偡両</balloon>
-		<address>211.13.241.4</address>
-		<port>6900</port>
-		<version>10</version>
-		<langtype>2</langtype>
-		<registrationweb>http://www.ragnarokonline.jp</registrationweb>
-		<aid>
-			<admin>4209224</admin><admin>4209225</admin><admin>4209240</admin><admin>4209243</admin><admin>4209248</admin>
-
-			<admin>3342883</admin><admin>3984461</admin><admin>3984531</admin><admin>3984527</admin><admin>3984528</admin>
-			<admin>2268794</admin><admin>2268782</admin>
-
-			<admin>2515599</admin><admin>2515603</admin><admin>2515611</admin><admin>2515614</admin><admin>2515618</admin>
-			<admin>2515623</admin><admin>2515635</admin><admin>2515638</admin><admin>2515641</admin><admin>2515650</admin>
-			<admin>3580154</admin><admin>3580156</admin><admin>3580158</admin><admin>3580159</admin><admin>3580161</admin>
-			<admin>3751485</admin><admin>3751486</admin><admin>3751487</admin><admin>3751488</admin><admin>3751489</admin>
-			<admin>3751490</admin><admin>3751491</admin><admin>3751492</admin><admin>3751493</admin><admin>3751494</admin>
-			<admin>3751495</admin><admin>3751496</admin><admin>3751497</admin><admin>3751498</admin><admin>3751499</admin>
-
-			<admin>704558</admin><admin>704563</admin><admin>704564</admin><admin>704565</admin><admin>955899</admin>
-			<admin>1230387</admin><admin>1230389</admin><admin>3749092</admin><admin>3749093</admin>
-
-			<admin>4721655</admin><admin>4721657</admin><admin>4721658</admin><admin>4721660</admin>
-			<admin>4605246</admin><admin>4605247</admin><admin>4605248</admin>
-
-			<admin>4732590</admin><admin>4732594</admin><admin>4732596</admin><admin>4732597</admin><admin>4732601</admin><admin>4732603</admin>
-
-			<admin>4761731</admin><admin>4761736</admin><admin>4761740</admin>
-			<admin>4761746</admin><admin>4761748</admin><admin>4761751</admin>
-			<admin>4761886</admin><admin>4761899</admin><admin>4761901</admin><admin>4761902</admin>
-
-			<admin>2782097</admin><admin>2782101</admin><admin>2782104</admin><admin>2782107</admin>
-			<admin>2782111</admin><admin>2782115</admin><admin>2782119</admin><admin>2782121</admin>
-			<admin>2782126</admin><admin>2782133</admin>
-
-		</aid>
-		<green>
-			<greenaid>4178151</greenaid><greenaid>4178153</greenaid>
-			<greenaid>4413814</greenaid><greenaid>4413815</greenaid>
-			<greenaid>4771174</greenaid><greenaid>4742668</greenaid>
-			<greenaid>4742684</greenaid><greenaid>4742679</greenaid>
-			<greenaid>4742683</greenaid><greenaid>4742672</greenaid>
-			<greenaid>4742676</greenaid><greenaid>4742682</greenaid>
-			<greenaid>4742670</greenaid>
-			<greenaid>4832310</greenaid><greenaid>4833226</greenaid>
-			<greenaid>4832311</greenaid><greenaid>4833227</greenaid>
-		</green>
-	</connection>
-
-	<connection>
-		<display>World group 1</display>
-		<desc>None</desc>
-		<balloon>Lif, Mimir, Olrun, Sigrun</balloon>
-		<address>211.13.241.1</address>
-		<port>6900</port>
-		<version>10</version>
-		<langtype>2</langtype>
-		<registrationweb>http://www.ragnarokonline.jp</registrationweb>
-		<aid>
-			<admin>4209224</admin><admin>4209225</admin><admin>4209240</admin><admin>4209243</admin><admin>4209248</admin>
-
-			<admin>3342883</admin><admin>3984461</admin><admin>3984531</admin><admin>3984527</admin><admin>3984528</admin>
-			<admin>2268794</admin><admin>2268782</admin>
-
-			<admin>2515599</admin><admin>2515603</admin><admin>2515611</admin><admin>2515614</admin><admin>2515618</admin>
-			<admin>2515623</admin><admin>2515635</admin><admin>2515638</admin><admin>2515641</admin><admin>2515650</admin>
-			<admin>3580154</admin><admin>3580156</admin><admin>3580158</admin><admin>3580159</admin><admin>3580161</admin>
-			<admin>3751485</admin><admin>3751486</admin><admin>3751487</admin><admin>3751488</admin><admin>3751489</admin>
-			<admin>3751490</admin><admin>3751491</admin><admin>3751492</admin><admin>3751493</admin><admin>3751494</admin>
-			<admin>3751495</admin><admin>3751496</admin><admin>3751497</admin><admin>3751498</admin><admin>3751499</admin>
-
-			<admin>704558</admin><admin>704563</admin><admin>704564</admin><admin>704565</admin><admin>955899</admin>
-			<admin>1230387</admin><admin>1230389</admin><admin>3749092</admin><admin>3749093</admin>
-
-			<admin>4721655</admin><admin>4721657</admin><admin>4721658</admin><admin>4721660</admin>
-			<admin>4605246</admin><admin>4605247</admin><admin>4605248</admin>
-
-			<admin>4732590</admin><admin>4732594</admin><admin>4732596</admin><admin>4732597</admin><admin>4732601</admin><admin>4732603</admin>
-
-			<admin>4761731</admin><admin>4761736</admin><admin>4761740</admin>
-			<admin>4761746</admin><admin>4761748</admin><admin>4761751</admin>
-			<admin>4761886</admin><admin>4761899</admin><admin>4761901</admin><admin>4761902</admin>
-
-			<admin>2782097</admin><admin>2782101</admin><admin>2782104</admin><admin>2782107</admin>
-			<admin>2782111</admin><admin>2782115</admin><admin>2782119</admin><admin>2782121</admin>
-			<admin>2782126</admin><admin>2782133</admin>
-
-		</aid>
-		<green>
-			<greenaid>4178151</greenaid><greenaid>4178153</greenaid>
-			<greenaid>4413814</greenaid><greenaid>4413815</greenaid>
-			<greenaid>4771174</greenaid><greenaid>4742668</greenaid>
-			<greenaid>4742684</greenaid><greenaid>4742679</greenaid>
-			<greenaid>4742683</greenaid><greenaid>4742672</greenaid>
-			<greenaid>4742676</greenaid><greenaid>4742682</greenaid>
-			<greenaid>4742670</greenaid>
-			<greenaid>4832310</greenaid><greenaid>4833226</greenaid>
-			<greenaid>4832311</greenaid><greenaid>4833227</greenaid>
-		</green>
-	</connection>
-
-	<connection>
-		<display>World group 2</display>
-		<desc>None</desc>
-		<balloon>Alvitr, Hervor, Idavoll, Trudr</balloon>
-		<address>211.13.241.2</address>
-		<port>6900</port>
-		<version>10</version>
-		<langtype>2</langtype>
-		<registrationweb>http://www.ragnarokonline.jp</registrationweb>
-		<aid>
-			<admin>4209224</admin><admin>4209225</admin><admin>4209240</admin><admin>4209243</admin><admin>4209248</admin>
-
-			<admin>3342883</admin><admin>3984461</admin><admin>3984531</admin><admin>3984527</admin><admin>3984528</admin>
-			<admin>2268794</admin><admin>2268782</admin>
-
-			<admin>2515599</admin><admin>2515603</admin><admin>2515611</admin><admin>2515614</admin><admin>2515618</admin>
-			<admin>2515623</admin><admin>2515635</admin><admin>2515638</admin><admin>2515641</admin><admin>2515650</admin>
-			<admin>3580154</admin><admin>3580156</admin><admin>3580158</admin><admin>3580159</admin><admin>3580161</admin>
-			<admin>3751485</admin><admin>3751486</admin><admin>3751487</admin><admin>3751488</admin><admin>3751489</admin>
-			<admin>3751490</admin><admin>3751491</admin><admin>3751492</admin><admin>3751493</admin><admin>3751494</admin>
-			<admin>3751495</admin><admin>3751496</admin><admin>3751497</admin><admin>3751498</admin><admin>3751499</admin>
-
-			<admin>704558</admin><admin>704563</admin><admin>704564</admin><admin>704565</admin><admin>955899</admin>
-			<admin>1230387</admin><admin>1230389</admin><admin>3749092</admin><admin>3749093</admin>
-
-			<admin>4721655</admin><admin>4721657</admin><admin>4721658</admin><admin>4721660</admin>
-			<admin>4605246</admin><admin>4605247</admin><admin>4605248</admin>
-
-			<admin>4732590</admin><admin>4732594</admin><admin>4732596</admin><admin>4732597</admin><admin>4732601</admin><admin>4732603</admin>
-
-			<admin>4761731</admin><admin>4761736</admin><admin>4761740</admin>
-			<admin>4761746</admin><admin>4761748</admin><admin>4761751</admin>
-			<admin>4761886</admin><admin>4761899</admin><admin>4761901</admin><admin>4761902</admin>
-
-			<admin>2782097</admin><admin>2782101</admin><admin>2782104</admin><admin>2782107</admin>
-			<admin>2782111</admin><admin>2782115</admin><admin>2782119</admin><admin>2782121</admin>
-			<admin>2782126</admin><admin>2782133</admin>
-
-		</aid>
-		<green>
-			<greenaid>4178151</greenaid><greenaid>4178153</greenaid>
-			<greenaid>4413814</greenaid><greenaid>4413815</greenaid>
-			<greenaid>4771174</greenaid><greenaid>4742668</greenaid>
-			<greenaid>4742684</greenaid><greenaid>4742679</greenaid>
-			<greenaid>4742683</greenaid><greenaid>4742672</greenaid>
-			<greenaid>4742676</greenaid><greenaid>4742682</greenaid>
-			<greenaid>4742670</greenaid>
-			<greenaid>4832310</greenaid><greenaid>4833226</greenaid>
-			<greenaid>4832311</greenaid><greenaid>4833227</greenaid>
-		</green>
-	</connection>
-
-	<connection>
-		<display>World group 3</display>
-		<desc>None</desc>
-		<balloon>Frigg, Gimle, Radgrid, Vali</balloon>
-		<address>211.13.241.3</address>
-		<port>6900</port>
-		<version>10</version>
-		<langtype>2</langtype>
-		<registrationweb>http://www.ragnarokonline.jp</registrationweb>
-		<aid>
-			<admin>4209224</admin><admin>4209225</admin><admin>4209240</admin><admin>4209243</admin><admin>4209248</admin>
-
-			<admin>3342883</admin><admin>3984461</admin><admin>3984531</admin><admin>3984527</admin><admin>3984528</admin>
-			<admin>2268794</admin><admin>2268782</admin>
-
-			<admin>2515599</admin><admin>2515603</admin><admin>2515611</admin><admin>2515614</admin><admin>2515618</admin>
-			<admin>2515623</admin><admin>2515635</admin><admin>2515638</admin><admin>2515641</admin><admin>2515650</admin>
-			<admin>3580154</admin><admin>3580156</admin><admin>3580158</admin><admin>3580159</admin><admin>3580161</admin>
-			<admin>3751485</admin><admin>3751486</admin><admin>3751487</admin><admin>3751488</admin><admin>3751489</admin>
-			<admin>3751490</admin><admin>3751491</admin><admin>3751492</admin><admin>3751493</admin><admin>3751494</admin>
-			<admin>3751495</admin><admin>3751496</admin><admin>3751497</admin><admin>3751498</admin><admin>3751499</admin>
-
-			<admin>704558</admin><admin>704563</admin><admin>704564</admin><admin>704565</admin><admin>955899</admin>
-			<admin>1230387</admin><admin>1230389</admin><admin>3749092</admin><admin>3749093</admin>
-
-			<admin>4721655</admin><admin>4721657</admin><admin>4721658</admin><admin>4721660</admin>
-			<admin>4605246</admin><admin>4605247</admin><admin>4605248</admin>
-
-			<admin>4732590</admin><admin>4732594</admin><admin>4732596</admin><admin>4732597</admin><admin>4732601</admin><admin>4732603</admin>
-
-			<admin>4761731</admin><admin>4761736</admin><admin>4761740</admin>
-			<admin>4761746</admin><admin>4761748</admin><admin>4761751</admin>
-			<admin>4761886</admin><admin>4761899</admin><admin>4761901</admin><admin>4761902</admin>
-
-			<admin>2782097</admin><admin>2782101</admin><admin>2782104</admin><admin>2782107</admin>
-			<admin>2782111</admin><admin>2782115</admin><admin>2782119</admin><admin>2782121</admin>
-			<admin>2782126</admin><admin>2782133</admin>
-
-		</aid>
-		<green>
-			<greenaid>4178151</greenaid><greenaid>4178153</greenaid>
-			<greenaid>4413814</greenaid><greenaid>4413815</greenaid>
-			<greenaid>4771174</greenaid><greenaid>4742668</greenaid>
-			<greenaid>4742684</greenaid><greenaid>4742679</greenaid>
-			<greenaid>4742683</greenaid><greenaid>4742672</greenaid>
-			<greenaid>4742676</greenaid><greenaid>4742682</greenaid>
-			<greenaid>4742670</greenaid>
-			<greenaid>4832310</greenaid><greenaid>4833226</greenaid>
-			<greenaid>4832311</greenaid><greenaid>4833227</greenaid>
-		</green>
-	</connection>
+        <servicetype>china</servicetype>
+        <servertype>primary</servertype>
+        <extendedslot>2</extendedslot>
+		
+		<connection>
+                <display>^ff0000欢迎进入^000000 [ rAthenaCN ] 简体中文 [单机]</display>
+                <desc></desc>
+                <balloon></balloon>
+                <address>127.0.0.1</address>
+                <port>6900</port>
+                <version>55</version>
+                <langtype>3</langtype>
+                <registrationweb>http://127.0.0.1/</registrationweb>
+                <yellow>
+                        <admin>2000000</admin>
+                </yellow>
+                <loading>
+                        <image>loading00.jpg</image>
+                        <image>loading01.jpg</image>
+                        <image>loading02.jpg</image>
+                        <image>loading03.jpg</image>
+                        <image>loading04.jpg</image>
+                        <image>loading05.jpg</image>
+                        <image>loading06.jpg</image>
+                        <image>loading07.jpg</image>
+                        <image>loading08.jpg</image>
+                </loading>
+        </connection>
+		
+		<connection>
+               
+        </connection>
+		
+		<connection>
+                <display>^0000ff账号注册方式: [下拉到底] ↓^000000</display>
+        </connection>
+		<connection>
+                <display>   </display>
+        </connection>
+		<connection>
+                <display>账号输入画面时, 账号后面加 _M 或 _F</display>
+        </connection>
+		<connection>
+                <display>_M 表示男性, _F 表示女性</display>
+        </connection>
+		<connection>
+                <display>比如账号为 12345, 密码为 54321</display>
+        </connection>
+		<connection>
+                <display>那么第一次在登入框输入 12345_M</display>
+        </connection>
+		<connection>
+                <display>密码输入 54321, 就可以直接进游戏了</display>
+        </connection>
+		<connection>
+                <display>   </display>
+        </connection>
+		<connection>
+                <display>第二次进入时, 我们要取消后面的 _M 或 _F</display>
+        </connection>
+		<connection>
+                <display>不然会提示你此账号不存在喔~</display>
+        </connection>
+		<connection>
+                <display>   </display>
+        </connection>
+		
 </clientinfo>

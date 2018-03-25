@@ -1,25 +1,11 @@
+-- Decompiled using luadec 2.1 r80 from http://code.google.com/p/luadec
+-- Command line: local_begintutorialquest_list.lub 
+
 LOCAL_BeginTuTorialQuest_list = {
-					{
-						name = [[檬焊磊譬配府倔]],
-						imagefile = [[ep_test_sample.bmp]],
-						list = {
-									{
-										name  =	[[扼弊唱肺农 矫累狼 辨]],
-										list = {
-												{
-													name =[[技惑阑 困茄 霉吧澜]],
-													scrfilename = [[BeginTutorialQuest]],
-													questID = 7472,
-												},
-												{
-													name =[[技惑俊辑 力老咐乐绰..]],
-													scrfilename = [[BeginTutorialQuest]],
-													questID = 11339,
-												},
+{name = "新手教学任务", imagefile = "ep_test_sample.bmp", 
+list = {
+{name = "仙境传说的起步", 
+list = {
+{name = "世界的第一步", scrfilename = "BeginTutorialQuest", questID = 7472}, 
+{name = "这世界最美味的...", scrfilename = "BeginTutorialQuest", questID = 11339}}}}}}
 
-											}
-									},
-
-							},
-					},
-		}

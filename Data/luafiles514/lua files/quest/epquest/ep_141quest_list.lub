@@ -1,473 +1,109 @@
+-- Decompiled using luadec 2.1 r80 from http://code.google.com/p/luadec
+-- Command line: ep_141quest_list.lub 
+
 EP_141Quest_List = {
-					{
-						name = [[EP 14.1 葛扼 付阑]],
-						imagefile = [[ep_test_sample.bmp]],
-						list = {
-									{
-										name  =	[[肺其客 蜡府叼]],
-										list = {
-												{
-													name =[[肺其客 蜡府叼 - 救俺剑狼 积粮磊.]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 1109,
-												},
-												{
-													name =[[肺其客 蜡府叼 - 葛滴啊 乔秦磊.]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 1110,
-												},
-												{
-													name =[[肺其客 蜡府叼 - 救俺剑栏肺.]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 1111,
-												},
-												{
-													name =[[肺其客 蜡府叼 - 绢叼电 固泵.]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 1112,
-												},
-												{
-													name =[[肺其客 蜡府叼 - 炼阿抄 距加.]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 1113,
-												},
-												{
-													name =[[肺其客 蜡府叼 - 锐积狼 措啊.]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 1114,
-												},
-												{
-													name =[[肺其客 蜡府叼 - 缴楷狼 畴贰.]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 1115,
-												},
-												{
-													name =[[肺其客 蜡府叼 - 噶磊狼 畴贰.]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 1116,
-												},
-												{
-													name =[[肺其客 蜡府叼 - 康盔狼 距加, 搬喊狼 馆瘤.]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 1117,
-												},
-												{
-													name =[[悼匙扁荤窜 - 窜辑啊 泵陛秦.]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 1118,
-												},
-											}
-									},
-									{
-										name  =	[[葛扼付阑 格垮帕 楷备]],
-										list = {
-												{
-													name =[[楷备档备甫 啊廉促 拎]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 5016,
-												},
-												{
-													name =[[固犬牢 积疙眉]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 5029,
-												},
-												{
-													name =[[楷备盔狼 汗荐]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 5017,
-												},
-												{
-													name =[[楷备盔狼 汗荐]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 5018,
-												},
-												{
-													name =[[格垮帕 楷备 钎夯 盲秒]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 5019,
-												},
-												{
-													name =[[钎夯 八荤吝]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 5020,
-												},
-												{
-													name =[[钎夯 荐笼]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 5021,
-												},
-												{
-													name =[[钎夯 荐笼]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 5022,
-												},
-												{
-													name =[[钎夯 八荤 吝]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 5023,
-												},
-												{
-													name =[[悼率 旷耽捞 炼荤]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 5024,
-												},
-												{
-													name =[[辑率 旷耽捞 炼荤]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 5025,
-												},
-												{
-													name =[[巢率 旷耽捞 炼荤]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 5026,
-												},
-												{
-													name =[[合率 旷耽捞 炼荤]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 5027,
-												},
-												{
-													name =[[钎夯 八荤 吝]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 5028,
-												},
-											}
-									},
-									{
-										name  =	[[抛坷饭狼 焊绊辑]],
-										list = {
-												{
-													name =[[抛坷饭狼 焊绊辑]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 11182,
-												},
-												{
-													name =[[抛坷饭狼 何殴]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 11183,
-												},
-												{
-													name =[[档噶埃 扼乔匙]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 11184,
-												},
-												{
-													name =[[累篮 林赣聪]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 11185,
-												},
-												{
-													name =[[累篮 林赣聪]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 11186,
-												},
-												{
-													name =[[累篮 林赣聪]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 11187,
-												},
-												{
-													name =[[累篮 林赣聪]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 11188,
-												},
-												{
-													name =[[厚橇肺胶飘]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 11189,
-												},
-												{
-													name =[[厚橇肺胶飘]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 11190,
-												},
-												{
-													name =[[累篮 林赣聪]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 11194,
-												},
-												{
-													name =[[厚橇肺胶飘]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 11195,
-												},
-												{
-													name =[[厚橇肺胶飘]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 11196,
-												},
-												{
-													name =[[累篮 林赣聪]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 11200,
-												},
-												{
-													name =[[厚橇肺胶飘]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 11201,
-												},
-												{
-													name =[[厚橇肺胶飘]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 11202,
-												},
-												{
-													name =[[厚橇肺胶飘狼 闭凯]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 11191,
-												},
-												{
-													name =[[厚橇肺胶飘狼 闭凯]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 11197,
-												},
-												{
-													name =[[厚橇肺胶飘狼 闭凯]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 11203,
-												},
-												{
-													name =[[葛扼 付阑肺...]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 11192,
-												},
-												{
-													name =[[葛扼 付阑肺...]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 11198,
-												},
-												{
-													name =[[葛扼 付阑肺...]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 11204,
-												},
-												{
-													name =[[脚加硅崔 夸匙胶]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 11206,
-												},
-												{
-													name =[[捻胶固狼 模备]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 11193,
-												},
-												{
-													name =[[抛坷档狼 模备]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 11199,
-												},
-												{
-													name =[[器减狼 模备]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 11205,
-												},
-												{
-													name =[[酒林 公芭款 咙]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 11207,
-												},
-												{
-													name =[[促橇匙福]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 11208,
-												},
-											}
-									},
-									{
-										name  =	[[规炔窍绰 荐龋磊]],
-										list = {
-												{
-													name =[[救俺剑 沤氰]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 7211,
-												},
-												{
-													name =[[肺虐啊 茫绰 巴]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 7212,
-												},
-												{
-													name =[[规炔窍绰 荐龋磊]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 7213,
-												},
-											}
-									},
-									{
-										name  =	[[眉寂狼 货肺款 老]],
-										list = {
-												{
-													name =[[货肺款 眉寂狼 老]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 7206,
-												},
-												{
-													name =[[眉寂啊 富茄 弊 惑磊]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 7207,
-												},
-												{
-													name =[[郴老档 客临贰?]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 7208,
-												},
-												{
-													name =[[概老 概老 硅崔]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 7210,
-												},
-												{
-													name =[[绢捞啊 绝绢, 沥富.]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 7209,
-												},
-											}
-									},
-									{
-										name  =	[[荤成 老老涅 5辆]],
-										list = {
-												{
-													name =[[苞老阑 聋绢柳 国饭]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 12225,
-												},
-												{
-													name =[[采阑 脆篮 荤成槽]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 12226,
-												},
-												{
-													name =[[累瘤父 荤唱款..]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 12227,
-												},
-												{
-													name =[[舅 荐 绝绰 盔茄]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 12228,
-												},
-												{
-													name =[[陛惯赣府 矩]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 12229,
-												},
-											}
-									},
-									{
-										name  =	[[荐笼 老老涅 5辆]],
-										list = {
-												{
-													name =[[规何力狼 犁丰]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 12231,
-												},
-												{
-													name =[[历亲狼 惑隆]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 12232,
-												},
-												{
-													name =[[览鞭技飘狼 犁丰]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 12233,
-												},
-												{
-													name =[[侩竿狼 惑隆]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 12234,
-												},
-												{
-													name =[[扁仿俊 曼 亮篮...]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 12235,
-												},
-											}
-									},
-									{
-										name  =	[[荐笼 老老涅 5辆 2]],
-										list = {
-												{
-													name =[[何利狼 弥脚蜡青]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 12236,
-												},
-												{
-													name =[[蓖茄巴篮 救傈窍霸]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 12237,
-												},
-												{
-													name =[[公腑 焊龋措狼 犁丰]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 12238,
-												},
-												{
-													name =[[刀篮 刀栏肺...]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 12239,
-												},
-												{
-													name =[[固掺矾瘤搁 救蹬]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 12240,
-												},
-											}
-									},
-									{
-										name  =	[[蜡秦荐嚼 10辆]],
-										list = {
-												{
-													name =[[角辆磊 鸥磊福俊 包茄 沥焊]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 12243,
-												},
-												{
-													name =[[角辆磊 唱捞磊俊 包茄 沥焊]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 12244,
-												},
-												{
-													name =[[角辆磊 皋角俊 包茄 沥焊]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 12245,
-												},
-												{
-													name =[[角辆磊 蠢客福勒俊 包茄 沥焊]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 12246,
-												},
-												{
-													name =[[角辆磊 颇磊付 脚俊 包茄 沥焊]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 12247,
-												},
-												{
-													name =[[角辆磊 膏胆俊 包茄 沥焊]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 12248,
-												},
-												{
-													name =[[角辆磊 付老厚飘俊 包茄 沥焊]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 12249,
-												},
-												{
-													name =[[角辆磊 娘巩俊 包茄 沥焊]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 12250,
-												},
-												{
-													name =[[角辆磊 瞒捞龋挪俊 包茄 沥焊]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 12251,
-												},
-												{
-													name =[[角辆磊 捧舅俊 包茄 沥焊]],
-													scrfilename = [[epsoid141Quest]],
-													questID = 12252,
-												},
-											}
-									},
-							},
-					},
-		}
+{name = "EP 14.1 穆拉村任务", imagefile = "ep_test_sample.bmp", 
+list = {
+{name = "恺恺与娟娟", 
+list = {
+{name = "恺恺与娟娟 - 雾林中的生存者", scrfilename = "epsoid141Quest", questID = 1109}, 
+{name = "恺恺与娟娟 - 大家都是受害者", scrfilename = "epsoid141Quest", questID = 1110}, 
+{name = "恺恺与娟娟 - 前往雾林", scrfilename = "epsoid141Quest", questID = 1111}, 
+{name = "恺恺与娟娟 – 到处都是迷宫", scrfilename = "epsoid141Quest", questID = 1112}, 
+{name = "恺恺与娟娟 – 毁约", scrfilename = "epsoid141Quest", questID = 1113}, 
+{name = "恺恺与娟娟 – 牺牲的代价", scrfilename = "epsoid141Quest", questID = 1114}, 
+{name = "恺恺与娟娟 – 深渊之歌", scrfilename = "epsoid141Quest", questID = 1115}, 
+{name = "恺恺与娟娟 – 亡者之歌", scrfilename = "epsoid141Quest", questID = 1116}, 
+{name = "恺恺与娟娟 – 永续之约定，诀别之戒", scrfilename = "epsoid141Quest", questID = 1117}, 
+{name = "村落骑士团 – 线索是啥", scrfilename = "epsoid141Quest", questID = 1118}}}, 
+{name = "穆拉村三温暖研究", 
+list = {
+{name = "拿给我研究工具", scrfilename = "epsoid141Quest", questID = 5016}, 
+{name = "不明生物", scrfilename = "epsoid141Quest", questID = 5029}, 
+{name = "研究员的复仇", scrfilename = "epsoid141Quest", questID = 5017}, 
+{name = "研究员的复仇", scrfilename = "epsoid141Quest", questID = 5018}, 
+{name = "采集三温暖研究标本", scrfilename = "epsoid141Quest", questID = 5019}, 
+{name = "标本检验中", scrfilename = "epsoid141Quest", questID = 5020}, 
+{name = "采集标本", scrfilename = "epsoid141Quest", questID = 5021}, 
+{name = "采集标本", scrfilename = "epsoid141Quest", questID = 5022}, 
+{name = "标本检验中", scrfilename = "epsoid141Quest", questID = 5023}, 
+{name = "调查东边水坑", scrfilename = "epsoid141Quest", questID = 5024}, 
+{name = "调查西边水坑", scrfilename = "epsoid141Quest", questID = 5025}, 
+{name = "调查南边水坑", scrfilename = "epsoid141Quest", questID = 5026}, 
+{name = "调查北边水坑", scrfilename = "epsoid141Quest", questID = 5027}, 
+{name = "标本检验中", scrfilename = "epsoid141Quest", questID = 5028}}}, 
+{name = "德欧雷的报告", 
+list = {
+{name = "德欧雷的报告", scrfilename = "epsoid141Quest", questID = 11182}, 
+{name = "德欧雷的委托", scrfilename = "epsoid141Quest", questID = 11183}, 
+{name = "落跑的守护精灵", scrfilename = "epsoid141Quest", questID = 11184}, 
+{name = "小口袋", scrfilename = "epsoid141Quest", questID = 11185}, 
+{name = "小口袋", scrfilename = "epsoid141Quest", questID = 11186}, 
+{name = "小口袋", scrfilename = "epsoid141Quest", questID = 11187}, 
+{name = "小口袋", scrfilename = "epsoid141Quest", questID = 11188}, 
+{name = "彩虹桥", scrfilename = "epsoid141Quest", questID = 11189}, 
+{name = "彩虹桥", scrfilename = "epsoid141Quest", questID = 11190}, 
+{name = "小口袋", scrfilename = "epsoid141Quest", questID = 11194}, 
+{name = "彩虹桥", scrfilename = "epsoid141Quest", questID = 11195}, 
+{name = "彩虹桥", scrfilename = "epsoid141Quest", questID = 11196}, 
+{name = "小口袋", scrfilename = "epsoid141Quest", questID = 11200}, 
+{name = "彩虹桥", scrfilename = "epsoid141Quest", questID = 11201}, 
+{name = "彩虹桥", scrfilename = "epsoid141Quest", questID = 11202}, 
+{name = "彩虹桥的龟裂", scrfilename = "epsoid141Quest", questID = 11191}, 
+{name = "彩虹桥的龟裂", scrfilename = "epsoid141Quest", questID = 11197}, 
+{name = "彩虹桥的龟裂", scrfilename = "epsoid141Quest", questID = 11203}, 
+{name = "前往穆拉村...", scrfilename = "epsoid141Quest", questID = 11192}, 
+{name = "前往穆拉村...", scrfilename = "epsoid141Quest", questID = 11198}, 
+{name = "前往穆拉村...", scrfilename = "epsoid141Quest", questID = 11204}, 
+{name = "快递尤耐斯", scrfilename = "epsoid141Quest", questID = 11206}, 
+{name = "库斯米的好友", scrfilename = "epsoid141Quest", questID = 11193}, 
+{name = "德欧特的好友", scrfilename = "epsoid141Quest", questID = 11199}, 
+{name = "宝熊的好友", scrfilename = "epsoid141Quest", questID = 11205}, 
+{name = "超重的行李", scrfilename = "epsoid141Quest", questID = 11207}, 
+{name = "达佛雷洛", scrfilename = "epsoid141Quest", questID = 11208}}}, 
+{name = "彷徨中的守护者", 
+list = {
+{name = "雾林探险", scrfilename = "epsoid141Quest", questID = 7211}, 
+{name = "洛奇找的东西", scrfilename = "epsoid141Quest", questID = 7212}, 
+{name = "彷徨中的守护者", scrfilename = "epsoid141Quest", questID = 7213}}}, 
+{name = "契休的崭新之路", 
+list = {
+{name = "契休的新工作", scrfilename = "epsoid141Quest", questID = 7206}, 
+{name = "契休所指的箱子", scrfilename = "epsoid141Quest", questID = 7207}, 
+{name = "明天也来帮我好吗?", scrfilename = "epsoid141Quest", questID = 7208}, 
+{name = "每日配送", scrfilename = "epsoid141Quest", questID = 7210}, 
+{name = "真是无可奈何", scrfilename = "epsoid141Quest", questID = 7209}}}, 
+{name = "打怪每日任务5种", 
+list = {
+{name = "扛着水果的虫子", scrfilename = "epsoid141Quest", questID = 12225}, 
+{name = "长得像花的猎人", scrfilename = "epsoid141Quest", questID = 12226}, 
+{name = "小辣椒..", scrfilename = "epsoid141Quest", questID = 12227}, 
+{name = "未知的怨恨", scrfilename = "epsoid141Quest", questID = 12228}, 
+{name = "金发安娜", scrfilename = "epsoid141Quest", questID = 12229}}}, 
+{name = "收集每日任务5种", 
+list = {
+{name = "防腐剂的原料", scrfilename = "epsoid141Quest", questID = 12231}, 
+{name = "抵抗的象征", scrfilename = "epsoid141Quest", questID = 12232}, 
+{name = "急救箱的材料", scrfilename = "epsoid141Quest", questID = 12233}, 
+{name = "勇猛的象征", scrfilename = "epsoid141Quest", questID = 12234}, 
+{name = "对元气很好的...", scrfilename = "epsoid141Quest", questID = 12235}}}, 
+{name = "收集每日任务5种 2", 
+list = {
+{name = "最新流行的符咒", scrfilename = "epsoid141Quest", questID = 12236}, 
+{name = "安全第一", scrfilename = "epsoid141Quest", questID = 12237}, 
+{name = "护膝的材料", scrfilename = "epsoid141Quest", questID = 12238}, 
+{name = "以毒攻毒...", scrfilename = "epsoid141Quest", questID = 12239}, 
+{name = "小心滑倒", scrfilename = "epsoid141Quest", questID = 12240}}}, 
+{name = "收拾遗骸 10种", 
+list = {
+{name = "关于失踪者达查勒的资讯", scrfilename = "epsoid141Quest", questID = 12243}, 
+{name = "关于失踪者纳伊查的资讯", scrfilename = "epsoid141Quest", questID = 12244}, 
+{name = "关于失踪者梅斯的资讯", scrfilename = "epsoid141Quest", questID = 12245}, 
+{name = "关于失踪者诺瓦纳伊的资讯", scrfilename = "epsoid141Quest", questID = 12246}, 
+{name = "关于失踪者绒绒的资讯", scrfilename = "epsoid141Quest", questID = 12247}, 
+{name = "关于失踪者梦特的资讯", scrfilename = "epsoid141Quest", questID = 12248}, 
+{name = "关于失踪者马伊比德的资讯", scrfilename = "epsoid141Quest", questID = 12249}, 
+{name = "关于失踪者昆蒙的资讯", scrfilename = "epsoid141Quest", questID = 12250}, 
+{name = "关于失踪者查伊豪金的资讯", scrfilename = "epsoid141Quest", questID = 12251}, 
+{name = "关于失踪者德尔的资讯", scrfilename = "epsoid141Quest", questID = 12252}}}}}}
+
