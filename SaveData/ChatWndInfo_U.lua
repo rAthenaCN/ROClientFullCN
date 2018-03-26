@@ -28,6 +28,7 @@ ChatSubWnd_1 = {
 	option19 = 0,
 	option20 = 0,
 	option21 = 0,
+	option22 = 0,
 }
 
 ChatSubWnd_2 = {
@@ -58,5 +59,6 @@ ChatSubWnd_2 = {
 	option19 = 1,
 	option20 = 1,
 	option21 = 0,
+	option22 = 0,
 }
 
