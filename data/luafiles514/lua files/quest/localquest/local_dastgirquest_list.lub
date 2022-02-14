@@ -1,0 +1,40 @@
+LOCAL_DastgirQuest_List = {
+	{
+		name = [[Dastgir Custom  Quests]],
+		imagefile = [[ep_test_sample.bmp]],
+		list = {
+			{
+				name  =	[[Novice]],
+				list = {
+					{
+						name =[[Test1]],
+						scrfilename = [[DastgirQuest]],
+						questID = 1019,
+					},
+					{
+						name =[[Test2]],
+						scrfilename = [[DastgirQuest]],
+						questID = 1017,
+					}
+				}
+			},
+			{
+				name  =	[[Quests 11~25]],
+				list = {
+					{
+						name =[[11-15]],
+						scrfilename = [[DastgirQuest]],
+						questID = 1017,
+					},
+					{
+						name =[[16-20]],
+						scrfilename = [[DastgirQuest]],
+						questID = 1019,
+					},
+				}
+			}
+		}
+	}
+}
+
+_G.QuestTable.add(LOCAL_DastgirQuest_List, "EVENT")

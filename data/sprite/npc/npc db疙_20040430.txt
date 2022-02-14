@@ -1,0 +1,9 @@
+//-----------------------------------------------------------------
+//파일명		DB 명(스크립트에서 부를때 사용하는 이름)
+//-----------------------------------------------------------------
+4_f_domino.spr		4_F_DOMINO
+4_f_zondagirl.spr	4_F_ZONDAGIRL
+4_m_domino.spr		4_M_DOMINO  // 4_M_DOMINO 의 경우 클라이언트에서 스프라이트만 변경하면 됩니다.(20040427 패치 참조)
+4_m_reidin_kurs.spr	4_M_REIDIN_KURS
+4_m_zondaoyaji.spr	4_M_ZONDAOYAJI
+

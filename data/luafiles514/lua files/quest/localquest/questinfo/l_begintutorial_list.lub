@@ -1,0 +1,6 @@
+-- Decompiled using luadec 2.1 r80 from http://code.google.com/p/luadec
+-- Command line: l_begintutorial_list.lub 
+
+BeginTutorialQuest_List = {
+}
+
