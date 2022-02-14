@@ -1,7 +1,0 @@
--- Decompiled using luadec 2.1 r80 from http://code.google.com/p/luadec
--- Command line: l_begintutorial_list.lub 
-
-BeginTutorialQuest_List = {
-[7472] = {NPCFromName = "船长卡鲁", NPCFromMap = "izlude", NPCFromSpr = "4_M_REINDEER", NPCFromX = 198, NPCFromY = 213, NPCToName = "勋", NPCToMap = "izlude", NPCToSpr = "4_M_KHKYEL", NPCToX = 122, NPCToY = 207, Item = "", PrizeItem = "", Title = "世界的地一步", Info = "去见克里图拉学院的职员'勋'", QuickInfo = "", Hunt1 = "", Hunt2 = "", Hunt3 = "", Time = "0", LV = "0"}, 
-[11339] = {NPCFromName = "战斗教官 史必奴", NPCFromMap = "iz_ac01", NPCFromSpr = "4_M_NOV_HUNT", NPCFromX = 59, NPCFromY = 83, NPCToName = "战斗教官 史必奴", NPCToMap = "iz_ac01", NPCToSpr = "4_M_NOV_HUNT", NPCToX = 59, NPCToY = 83, Item = "< image = \"909\">杰勒比结晶<\\end> (5)", PrizeItem = "", Title = "在新手世界最美味的是", Info = "去抓在克里图拉学院做为重要食材的波利10只候带来杰勒比结晶 5个给史必奴，在/伊斯鲁得岛西边很容易发现波利。", QuickInfo = "", Hunt1 = "< link = \"PORING\">波利<\\end> x 10 ", Hunt2 = "", Hunt3 = "", Time = "0", LV = "0"}}
-
