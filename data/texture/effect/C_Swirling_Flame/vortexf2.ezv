@@ -1,0 +1,183 @@
+EVFF0.95
+
+fps=60
+
+maxkey=84
+
+layernum=3
+
+layer:Back
+{
+    display=1
+    group=0
+    type=1
+    texcnt=0
+
+    anikeynum=0
+
+}
+
+layer:bflame1
+{
+    display=1
+    group=0
+    type=0
+    texcnt=6
+    texname=fga1.TGA
+    texname=fga2.TGA
+    texname=fga3.TGA
+    texname=fga4.TGA
+    texname=fga5.TGA
+    texname=fga6.TGA
+
+    anikeynum=2
+
+    {
+        frame=0
+        aniframe=0
+        anitype=3
+        delay=7.0000
+        pos=321.0000,220.0000
+        uv=0.0000,0.0000
+        uvs=1.0000,1.0000
+        uv2=0.0000,0.0000
+        uvs2=1.0000,1.0000
+        scale=140.0000,140.0000
+        angle=0.0000,0.0000,0.0000
+        color=255.0,255.0,255.0,153.0, 5,6
+        mtpreset=0
+        points=-70.0000,-70.0000  70.0000,-70.0000  70.0000,70.0000  -70.0000,70.0000
+        rpoints=-70.0000,-70.0000  70.0000,-70.0000  70.0000,70.0000  -70.0000,70.0000
+        bezier=0.0000,0.0000  0.0000,0.0000
+        afbias=0.0000
+        posbias=0.0000
+        ptbias=0.0000
+        angbias=0.0000
+        uvbias=0.0000
+        uvsbias=0.0000
+        uvbias2=0.0000
+        uvsbias2=0.0000
+    }
+    {
+        frame=84
+        aniframe=0
+        anitype=3
+        delay=0.0000
+        pos=321.0000,220.0000
+        uv=0.0000,0.0000
+        uvs=1.0000,1.0000
+        uv2=0.0000,0.0000
+        uvs2=1.0000,1.0000
+        scale=140.0000,140.0000
+        angle=0.0000,0.0000,0.0000
+        color=255.0,255.0,255.0,153.0, 5,6
+        mtpreset=0
+        points=-70.0000,-70.0000  70.0000,-70.0000  70.0000,70.0000  -70.0000,70.0000
+        rpoints=-70.0000,-70.0000  70.0000,-70.0000  70.0000,70.0000  -70.0000,70.0000
+        bezier=0.0000,0.0000  0.0000,0.0000
+        afbias=0.0000
+        posbias=0.0000
+        ptbias=0.0000
+        angbias=0.0000
+        uvbias=0.0000
+        uvsbias=0.0000
+        uvbias2=0.0000
+        uvsbias2=0.0000
+    }
+}
+
+layer:bflame1
+{
+    display=1
+    group=0
+    type=0
+    texcnt=6
+    texname=fga1.TGA
+    texname=fga2.TGA
+    texname=fga3.TGA
+    texname=fga4.TGA
+    texname=fga5.TGA
+    texname=fga6.TGA
+
+    anikeynum=3
+
+    {
+        frame=0
+        aniframe=0
+        anitype=3
+        delay=7.0000
+        pos=321.0000,220.0000
+        uv=0.0000,0.0000
+        uvs=1.0000,1.0000
+        uv2=0.0000,0.0000
+        uvs2=1.0000,1.0000
+        scale=140.0000,140.0000
+        angle=0.0000,0.0000,0.0000
+        color=255.0,255.0,255.0,0.0, 5,6
+        mtpreset=0
+        points=-70.0000,-70.0000  70.0000,-70.0000  70.0000,70.0000  -70.0000,70.0000
+        rpoints=-70.0000,-70.0000  70.0000,-70.0000  70.0000,70.0000  -70.0000,70.0000
+        bezier=0.0000,0.0000  0.0000,0.0000
+        afbias=0.0000
+        posbias=0.0000
+        ptbias=0.0000
+        angbias=0.0000
+        uvbias=0.0000
+        uvsbias=0.0000
+        uvbias2=0.0000
+        uvsbias2=0.0000
+    }
+    {
+        frame=42
+        aniframe=0
+        anitype=3
+        delay=7.0000
+        pos=321.0000,220.0000
+        uv=0.0000,0.0000
+        uvs=1.0000,1.0000
+        uv2=0.0000,0.0000
+        uvs2=1.0000,1.0000
+        scale=140.0000,140.0000
+        angle=0.0000,0.0000,0.0000
+        color=255.0,255.0,255.0,103.0, 5,6
+        mtpreset=0
+        points=-70.0000,-70.0000  70.0000,-70.0000  70.0000,70.0000  -70.0000,70.0000
+        rpoints=-70.0000,-70.0000  70.0000,-70.0000  70.0000,70.0000  -70.0000,70.0000
+        bezier=0.0000,0.0000  0.0000,0.0000
+        afbias=0.0000
+        posbias=0.0000
+        ptbias=0.0000
+        angbias=0.0000
+        uvbias=0.0000
+        uvsbias=0.0000
+        uvbias2=0.0000
+        uvsbias2=0.0000
+    }
+    {
+        frame=84
+        aniframe=0
+        anitype=3
+        delay=0.0000
+        pos=321.0000,220.0000
+        uv=0.0000,0.0000
+        uvs=1.0000,1.0000
+        uv2=0.0000,0.0000
+        uvs2=1.0000,1.0000
+        scale=140.0000,140.0000
+        angle=0.0000,0.0000,0.0000
+        color=255.0,255.0,255.0,0.0, 5,6
+        mtpreset=0
+        points=-70.0000,-70.0000  70.0000,-70.0000  70.0000,70.0000  -70.0000,70.0000
+        rpoints=-70.0000,-70.0000  70.0000,-70.0000  70.0000,70.0000  -70.0000,70.0000
+        bezier=0.0000,0.0000  0.0000,0.0000
+        afbias=0.0000
+        posbias=0.0000
+        ptbias=0.0000
+        angbias=0.0000
+        uvbias=0.0000
+        uvsbias=0.0000
+        uvbias2=0.0000
+        uvsbias2=0.0000
+    }
+}
+

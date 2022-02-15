@@ -1,0 +1,183 @@
+EVFF0.95
+
+fps=60
+
+maxkey=29
+
+layernum=3
+
+layer:Back
+{
+    display=1
+    group=0
+    type=1
+    texcnt=0
+
+    anikeynum=0
+
+}
+
+layer:blade
+{
+    display=1
+    group=0
+    type=0
+    texcnt=11
+    texname=cut_blade_00.tga
+    texname=cut_blade_01.tga
+    texname=cut_blade_02.tga
+    texname=cut_blade_03.tga
+    texname=cut_blade_04.tga
+    texname=cut_blade_05.tga
+    texname=cut_blade_06.tga
+    texname=cut_blade_07.tga
+    texname=cut_blade_08.tga
+    texname=cut_blade_09.tga
+    texname=cut_blade_10.tga
+
+    anikeynum=3
+
+    {
+        frame=0
+        aniframe=0
+        anitype=3
+        delay=2.0000
+        pos=320.0000,270.0000
+        uv=0.0000,0.0000
+        uvs=1.0000,1.0000
+        uv2=0.0000,0.0000
+        uvs2=1.0000,1.0000
+        scale=204.0000,163.0000
+        angle=0.0000,0.0000,0.0000
+        color=255.0,255.0,255.0,128.0, 5,7
+        mtpreset=0
+        points=-102.0000,-81.5000  102.0000,-81.5000  102.0000,81.5000  -102.0000,81.5000
+        rpoints=-102.0000,-81.5000  102.0000,-81.5000  102.0000,81.5000  -102.0000,81.5000
+        bezier=0.0000,0.0000  0.0000,0.0000
+        afbias=0.0000
+        posbias=0.0000
+        ptbias=0.0000
+        angbias=0.0000
+        uvbias=0.0000
+        uvsbias=0.0000
+        uvbias2=0.0000
+        uvsbias2=0.0000
+    }
+    {
+        frame=21
+        aniframe=8
+        anitype=0
+        delay=0.0000
+        pos=320.0000,270.0000
+        uv=0.0000,0.0000
+        uvs=1.0000,1.0000
+        uv2=0.0000,0.0000
+        uvs2=1.0000,1.0000
+        scale=204.0000,163.0000
+        angle=0.0000,0.0000,0.0000
+        color=255.0,255.0,255.0,128.0, 5,7
+        mtpreset=0
+        points=-102.0000,-81.5000  102.0000,-81.5000  102.0000,81.5000  -102.0000,81.5000
+        rpoints=-102.0000,-81.5000  102.0000,-81.5000  102.0000,81.5000  -102.0000,81.5000
+        bezier=0.0000,0.0000  0.0000,0.0000
+        afbias=0.0000
+        posbias=0.0000
+        ptbias=0.0000
+        angbias=0.0000
+        uvbias=0.0000
+        uvsbias=0.0000
+        uvbias2=0.0000
+        uvsbias2=0.0000
+    }
+    {
+        frame=29
+        aniframe=8
+        anitype=0
+        delay=0.0000
+        pos=320.0000,270.0000
+        uv=0.0000,0.0000
+        uvs=1.0000,1.0000
+        uv2=0.0000,0.0000
+        uvs2=1.0000,1.0000
+        scale=272.0000,217.0000
+        angle=0.0000,0.0000,0.0000
+        color=255.0,255.0,255.0,0.0, 5,7
+        mtpreset=0
+        points=-136.0000,-108.5000  136.0000,-108.5000  136.0000,108.5000  -136.0000,108.5000
+        rpoints=-136.0000,-108.5000  136.0000,-108.5000  136.0000,108.5000  -136.0000,108.5000
+        bezier=0.0000,0.0000  0.0000,0.0000
+        afbias=0.0000
+        posbias=0.0000
+        ptbias=0.0000
+        angbias=0.0000
+        uvbias=0.0000
+        uvsbias=0.0000
+        uvbias2=0.0000
+        uvsbias2=0.0000
+    }
+}
+
+layer:cut_ex_01
+{
+    display=1
+    group=0
+    type=0
+    texcnt=1
+    texname=cut_ex_01.tga
+
+    anikeynum=2
+
+    {
+        frame=0
+        aniframe=0
+        anitype=0
+        delay=0.0000
+        pos=320.0000,306.0000
+        uv=0.0000,0.0000
+        uvs=1.0000,1.0000
+        uv2=0.0000,0.0000
+        uvs2=1.0000,1.0000
+        scale=156.0000,128.0000
+        angle=0.0000,0.0000,0.0000
+        color=255.0,255.0,255.0,128.0, 5,7
+        mtpreset=0
+        points=-78.0000,-92.0000  78.0000,-92.0000  78.0000,36.0000  -78.0000,36.0000
+        rpoints=-78.0000,-92.0000  78.0000,-92.0000  78.0000,36.0000  -78.0000,36.0000
+        bezier=0.0000,0.0000  0.0000,0.0000
+        afbias=0.0000
+        posbias=0.0000
+        ptbias=0.0000
+        angbias=0.0000
+        uvbias=0.0000
+        uvsbias=0.0000
+        uvbias2=0.0000
+        uvsbias2=0.0000
+    }
+    {
+        frame=15
+        aniframe=0
+        anitype=0
+        delay=0.0000
+        pos=319.0000,270.0000
+        uv=0.0000,0.0000
+        uvs=1.0000,1.0000
+        uv2=0.0000,0.0000
+        uvs2=1.0000,1.0000
+        scale=452.0000,332.0000
+        angle=0.0000,0.0000,0.0000
+        color=255.0,255.0,255.0,0.0, 5,7
+        mtpreset=0
+        points=-226.0000,-238.6250  226.0000,-238.6250  226.0000,93.3750  -226.0000,93.3750
+        rpoints=-226.0000,-238.6250  226.0000,-238.6250  226.0000,93.3750  -226.0000,93.3750
+        bezier=0.0000,0.0000  0.0000,0.0000
+        afbias=0.0000
+        posbias=0.0000
+        ptbias=0.0000
+        angbias=0.0000
+        uvbias=0.0000
+        uvsbias=0.0000
+        uvbias2=0.0000
+        uvsbias2=0.0000
+    }
+}
+

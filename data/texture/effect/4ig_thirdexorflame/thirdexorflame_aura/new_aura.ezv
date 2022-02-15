@@ -1,0 +1,97 @@
+EVFF0.95
+
+fps=60
+
+maxkey=120
+
+layernum=2
+
+layer:Back
+{
+    display=1
+    group=0
+    type=1
+    texcnt=0
+
+    anikeynum=0
+
+}
+
+layer:jud_aura_00
+{
+    display=1
+    group=0
+    type=0
+    texcnt=15
+    texname=jud_aura_00.tga
+    texname=jud_aura_01.tga
+    texname=jud_aura_02.tga
+    texname=jud_aura_03.tga
+    texname=jud_aura_04.tga
+    texname=jud_aura_05.tga
+    texname=jud_aura_06.tga
+    texname=jud_aura_07.tga
+    texname=jud_aura_08.tga
+    texname=jud_aura_09.tga
+    texname=jud_aura_10.tga
+    texname=jud_aura_11.tga
+    texname=jud_aura_12.tga
+    texname=jud_aura_13.tga
+    texname=jud_aura_14.tga
+
+    anikeynum=2
+
+    {
+        frame=0
+        aniframe=0
+        anitype=3
+        delay=3.0000
+        pos=320.0000,250.0000
+        uv=0.0000,0.0000
+        uvs=1.0000,1.0000
+        uv2=0.0000,0.0000
+        uvs2=1.0000,1.0000
+        scale=80.0000,160.0000
+        angle=0.0000,0.0000,0.0000
+        color=255.0,255.0,255.0,100.0, 5,7
+        mtpreset=0
+        points=-40.0000,-80.0000  40.0000,-80.0000  40.0000,80.0000  -40.0000,80.0000
+        rpoints=-40.0000,-80.0000  40.0000,-80.0000  40.0000,80.0000  -40.0000,80.0000
+        bezier=0.0000,0.0000  0.0000,0.0000
+        afbias=0.0000
+        posbias=0.0000
+        ptbias=0.0000
+        angbias=0.0000
+        uvbias=0.0000
+        uvsbias=0.0000
+        uvbias2=0.0000
+        uvsbias2=0.0000
+    }
+    {
+        frame=120
+        aniframe=10
+        anitype=3
+        delay=3.0000
+        pos=320.0000,250.0000
+        uv=0.0000,0.0000
+        uvs=1.0000,1.0000
+        uv2=0.0000,0.0000
+        uvs2=1.0000,1.0000
+        scale=80.0000,160.0000
+        angle=0.0000,0.0000,0.0000
+        color=255.0,255.0,255.0,100.0, 5,7
+        mtpreset=0
+        points=-40.0000,-80.0000  40.0000,-80.0000  40.0000,80.0000  -40.0000,80.0000
+        rpoints=-40.0000,-80.0000  40.0000,-80.0000  40.0000,80.0000  -40.0000,80.0000
+        bezier=0.0000,0.0000  0.0000,0.0000
+        afbias=0.0000
+        posbias=0.0000
+        ptbias=0.0000
+        angbias=0.0000
+        uvbias=0.0000
+        uvsbias=0.0000
+        uvbias2=0.0000
+        uvsbias2=0.0000
+    }
+}
+
